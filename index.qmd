@@ -4,7 +4,7 @@ title: "IS428 Project"
 
 This is a Quarto website for our IS428 Visual Analytics project.
 
-## Project: 
+## Project 
 
 We are investigating the COOTEFOO commission in Oceanus, where two advocacy groups (FILAH and TROUT) have made conflicting accusations of bias.
 
