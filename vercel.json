@@ -1,6 +1,0 @@
-{
-  "buildCommand": "npx @quarto/cli@latest render",
-  "outputDirectory": "_site",
-  "framework": null,
-  "cleanUrls": true
-}
