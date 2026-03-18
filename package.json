@@ -1,0 +1,7 @@
+{
+  "name": "is428-project",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npx @quarto/cli@latest render"
+  }
+}

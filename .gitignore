@@ -7,3 +7,6 @@
 
 /.quarto/
 **/*.quarto_ipynb
+/_site
+.DS_Store
+node_modules
