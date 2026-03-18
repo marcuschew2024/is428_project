@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>IS428 Project</title>
+<title>Project Proposal: The COOTEFOO Conflict – IS428 Project</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -93,11 +93,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./proposal.html"> 
+    <a class="nav-link active" href="./proposal.html" aria-current="page"> 
 <span class="menu-text">Proposal</span></a>
   </li>  
 </ul>
@@ -113,10 +113,21 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
+    <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#project" id="toc-project" class="nav-link active" data-scroll-target="#project">Project:</a></li>
+  <li><a href="#project-motivation" id="toc-project-motivation" class="nav-link active" data-scroll-target="#project-motivation">Project Motivation</a></li>
+  <li><a href="#project-objectives" id="toc-project-objectives" class="nav-link" data-scroll-target="#project-objectives">Project Objectives</a></li>
+  <li><a href="#scope-of-work" id="toc-scope-of-work" class="nav-link" data-scroll-target="#scope-of-work">Scope of Work</a>
+  <ul class="collapse">
+  <li><a href="#multi-source-data-wrangling" id="toc-multi-source-data-wrangling" class="nav-link" data-scroll-target="#multi-source-data-wrangling">Multi-Source Data Wrangling</a></li>
+  <li><a href="#comparative-link-analysis" id="toc-comparative-link-analysis" class="nav-link" data-scroll-target="#comparative-link-analysis">Comparative Link Analysis</a></li>
+  <li><a href="#spatiotemporal-behavioral-mapping" id="toc-spatiotemporal-behavioral-mapping" class="nav-link" data-scroll-target="#spatiotemporal-behavioral-mapping">Spatiotemporal Behavioral Mapping</a></li>
+  <li><a href="#reporting-and-visualization-summary" id="toc-reporting-and-visualization-summary" class="nav-link" data-scroll-target="#reporting-and-visualization-summary">Reporting and Visualization Summary</a></li>
+  </ul></li>
+  <li><a href="#expected-outcomes" id="toc-expected-outcomes" class="nav-link" data-scroll-target="#expected-outcomes">Expected Outcomes</a></li>
+  <li><a href="#significance-of-the-project" id="toc-significance-of-the-project" class="nav-link" data-scroll-target="#significance-of-the-project">Significance of the Project</a></li>
+  <li><a href="#project-schedule" id="toc-project-schedule" class="nav-link" data-scroll-target="#project-schedule">Project Schedule</a></li>
   </ul>
 </nav>
     </div>
@@ -125,7 +136,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">IS428 Project</h1>
+<h1 class="title">Project Proposal: The COOTEFOO Conflict</h1>
 </div>
 
 
@@ -142,11 +153,84 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This is a Quarto website for our IS428 Visual Analytics project.</p>
-<section id="project" class="level2">
-<h2 class="anchored" data-anchor-id="project">Project:</h2>
-<p>We are investigating the COOTEFOO commission in Oceanus, where two advocacy groups (FILAH and TROUT) have made conflicting accusations of bias.</p>
-<p><strong><a href="./proposal.html">View our full project proposal →</a></strong></p>
+<section id="project-motivation" class="level2">
+<h2 class="anchored" data-anchor-id="project-motivation">Project Motivation</h2>
+<p>The island nation of Oceanus is undergoing a major economic transition from a traditional fishing economy to a rapidly expanding tourism sector. While tourism growth presents new economic opportunities, it has also created tensions among stakeholders who fear unequal policy treatment.</p>
+<p>To guide the country’s economic future, the government established the Commission on Overseeing the Economic Future of Oceanus (COOTEFOO). Although the commission does not directly set policy, its recommendations carry substantial influence over economic planning and public spending.</p>
+<p>Recently, two influential advocacy groups have released conflicting datasets alleging bias in COOTEFOO’s decision-making:</p>
+<blockquote class="blockquote">
+<p><strong>FILAH</strong> claims that tourism interests are dominating government attention.</p>
+</blockquote>
+<blockquote class="blockquote">
+<p><strong>TROUT</strong> argues that traditional fishing interests are being protected unfairly.</p>
+</blockquote>
+<p>Both groups have published selective datasets to support their claims. However, a journalist has obtained a more complete dataset containing the full set of meetings, travel records, and relationships among stakeholders.</p>
+<p>The existence of three competing datasets has created public confusion and reduced trust in government oversight. Citizens cannot easily determine which narrative is accurate.</p>
+<p>This project therefore seeks to apply visual analytics and knowledge graph analysis to audit these datasets and determine whether bias exists in the narratives presented by each advocacy group.</p>
+<hr>
+</section>
+<section id="project-objectives" class="level2">
+<h2 class="anchored" data-anchor-id="project-objectives">Project Objectives</h2>
+<p><strong>Identifying Data Gaps</strong><br>
+To what extent do the datasets released by FILAH and TROUT differ from the comprehensive records obtained by the journalist? Which specific meetings, discussions, or travel records were omitted, and how might these omissions influence the narratives presented by each advocacy group?</p>
+<p><strong>Evaluating Individual Behavioral Bias</strong><br>
+By profiling individual COOTEFOO members, can visual analysis reveal significant differences in perceived behavior when comparing the advocacy datasets to the complete knowledge graph?</p>
+<p><strong>Understanding Institutional Patterns</strong><br>
+When examining the full dataset, does COOTEFOO as a committee exhibit systematic bias toward either the fishing or tourism sectors?</p>
+<p><strong>How Does Data Framing Influence Public Perception?</strong><br>
+When users switch between datasets from different advocacy groups, how does the visual narrative change?</p>
+<hr>
+</section>
+<section id="scope-of-work" class="level2">
+<h2 class="anchored" data-anchor-id="scope-of-work">Scope of Work</h2>
+<p>The project will involve four main stages of visual analytics development.</p>
+<section id="multi-source-data-wrangling" class="level3">
+<h3 class="anchored" data-anchor-id="multi-source-data-wrangling">Multi-Source Data Wrangling</h3>
+<p>Data processing will be conducted using Gephi and Tableau for visualisation. This stage ensures consistency in node identifiers, link relationships, timestamps, and geographic information, enabling reliable comparison across datasets.</p>
+<p>Key tasks include: - Cleaning and standardizing node attributes - Aligning node IDs and link IDs across datasets - Identifying duplicate or missing entities - Creating a unified schema for comparative analysis</p>
+</section>
+<section id="comparative-link-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="comparative-link-analysis">Comparative Link Analysis</h3>
+<p>Once the data is standardized, network visualizations will be created to identify missing or manipulated connections. Key techniques include: - Network graphs showing relationships between COOTEFOO members and stakeholders - Highlighting links that appear in the journalist dataset but are absent in FILAH or TROUT datasets - Filtering tools to isolate specific relationship types (meetings, travel, collaborations)</p>
+</section>
+<section id="spatiotemporal-behavioral-mapping" class="level3">
+<h3 class="anchored" data-anchor-id="spatiotemporal-behavioral-mapping">Spatiotemporal Behavioral Mapping</h3>
+<p>Using geographic coordinates and timestamps, the movements and activities of COOTEFOO members will be mapped across time and location. This analysis will highlight clusters of activity associated with fishing or tourism zones, providing insight into real-world behavioral patterns.</p>
+<p>Visual techniques will include: - Geographic maps showing travel locations - Timeline charts displaying meeting frequency over time - Cluster analysis identifying concentrated visits to fishing or tourism regions</p>
+</section>
+<section id="reporting-and-visualization-summary" class="level3">
+<h3 class="anchored" data-anchor-id="reporting-and-visualization-summary">Reporting and Visualization Summary</h3>
+<p>Key findings regarding sampling bias, omitted records, and institutional behavior will be summarized through visual dashboards and a final analytical report.</p>
+<p><strong>Dataset Perspective Toggle</strong><br>
+Users can switch between: - FILAH dataset - TROUT dataset - Journalist ground truth dataset</p>
+<p><strong>Bias Indicators</strong><br>
+Metrics such as missing link counts, stakeholder interaction frequency, and sector engagement ratios will provide quantifiable evidence of sampling bias.</p>
+<p><strong>Member Profiles</strong><br>
+Interactive panels will allow users to select individual COOTEFOO members and view meeting networks, travel patterns, and sector engagement.</p>
+<hr>
+</section>
+</section>
+<section id="expected-outcomes" class="level2">
+<h2 class="anchored" data-anchor-id="expected-outcomes">Expected Outcomes</h2>
+<p>The final output will consist of:</p>
+<p><strong>An Interactive Tableau Visual Analytics Application</strong><br>
+Allowing users to explore relationships, travel patterns, and dataset differences.</p>
+<p><strong>Bias Detection Analysis</strong><br>
+Identification of missing records or selective data presentation by advocacy groups.</p>
+<p><strong>Evidence-Based Findings</strong><br>
+A clear assessment of whether the accusations made by FILAH or TROUT are supported by the full dataset.</p>
+<p><strong>Final Poster and Analytical Report</strong><br>
+Summarizing the methodology, visual findings, and implications for government transparency.</p>
+<hr>
+</section>
+<section id="significance-of-the-project" class="level2">
+<h2 class="anchored" data-anchor-id="significance-of-the-project">Significance of the Project</h2>
+<p>This project demonstrates how visual analytics can support transparency, accountability, and evidence-based decision making. By revealing how data can be selectively presented to support competing narratives, the project highlights the importance of complete datasets and transparent analysis in public policy debates.</p>
+<p>For the citizens of Oceanus, the analysis may help restore confidence in the oversight process and clarify the role of COOTEFOO in guiding the nation’s economic transition.</p>
+</section>
+<section id="project-schedule" class="level2">
+<h2 class="anchored" data-anchor-id="project-schedule">Project Schedule</h2>
+<p><img src="./schedule.png" class="img-fluid"></p>
 
 
 </section>
