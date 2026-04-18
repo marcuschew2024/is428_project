@@ -14,10 +14,9 @@ For a detailed walkthrough of each dashboard and how to use the interactive feat
 ## Interactive Dashboard
 
 ::: {.column-page}
-<iframe src="https://public.tableau.com/views/is428_project/DetectingBiasinCOOTEFOO?:embed=yes&:display_count=yes&:showVizHome=no"
-        width="100%"
-        height="920px"
-        style="min-width: 1200px; border: none;"
+<iframe src="https://public.tableau.com/views/is428_project/DetectingBiasinCOOTEFOOsOversightData?:embed=yes&:showVizHome=no&:display_count=yes" 
+        width="100%" 
+        height="850px" 
         frameborder="0">
 </iframe>
 :::
