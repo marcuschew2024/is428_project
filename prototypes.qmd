@@ -43,8 +43,7 @@ The final website maps to 9 Tableau dashboards:
 
 The first version was a hand-drawn sketch for each MC2 task question. One sketch per task, designed independently before any dashboard structure was decided.
 
-<img src="./images/Initial Wireframe.jpg" style="width: 100
-%; height: auto;" alt="Tableau Schedule">
+<img src="./images/Initial Wireframe.jpg" style="width: 100%; height: auto;" alt="Tableau Schedule">
 
 ## Version 2 — Finding-Based Layout (Final)
 
