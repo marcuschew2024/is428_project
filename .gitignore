@@ -4,6 +4,9 @@
 .httr-oauth
 .DS_Store
 .quarto
+.env.local
+.env
+.vercel
 
 /.quarto/
 **/*.quarto_ipynb
