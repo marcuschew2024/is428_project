@@ -74,28 +74,28 @@
     "href": "finding4.html",
     "title": "Finding 4: Distortion From Omitted Members, Not Fabricated Data",
     "section": "",
-    "text": "The lobbies did not fabricate records. The distortion in their datasets comes entirely from selective omission — choosing which members and which discussions to include. The pivotal case is Tante Titan: the committee’s most active member, a strong tourism voice, and the one member excluded from both lobby datasets entirely.\n\nTante Titan’s record (journalist): 54 total participations — fishing: 3, tourism: 17, neutral: 34 TROUT withheld for Tante Titan: 54 records across 8 topics Effect of her exclusion: removes the committee’s strongest tourism voice — creating an apparent fishing-lean in TROUT’s dataset"
+    "text": "The lobbies did not fabricate records. The distortion in their datasets comes entirely from selective omission — choosing which members and which discussions to include. The pivotal case is Tante Titan: the committee’s most active member, a strong tourism voice, and the one member excluded from both lobby datasets entirely.\n\nTante Titan’s record (journalist): 54 total participations — fishing: 3, tourism: 17, neutral: 34 TROUT excluded: Tante Titan (54 records), Carol Limpet (21), Simone Kat (45) — committee appears fishing-leaning in TROUT’s data (fishing=38.9%, tourism=31.5%) FILAH excluded: Tante Titan (54 records), Ed Helpsford (20), Teddy Goldstein (22) — committee appears tourism-leaning in FILAH’s data (tourism=43.6%, fishing=39.7%)"
   },
   {
     "objectID": "finding4.html#summary",
     "href": "finding4.html#summary",
     "title": "Finding 4: Distortion From Omitted Members, Not Fabricated Data",
     "section": "",
-    "text": "The lobbies did not fabricate records. The distortion in their datasets comes entirely from selective omission — choosing which members and which discussions to include. The pivotal case is Tante Titan: the committee’s most active member, a strong tourism voice, and the one member excluded from both lobby datasets entirely.\n\nTante Titan’s record (journalist): 54 total participations — fishing: 3, tourism: 17, neutral: 34 TROUT withheld for Tante Titan: 54 records across 8 topics Effect of her exclusion: removes the committee’s strongest tourism voice — creating an apparent fishing-lean in TROUT’s dataset"
+    "text": "The lobbies did not fabricate records. The distortion in their datasets comes entirely from selective omission — choosing which members and which discussions to include. The pivotal case is Tante Titan: the committee’s most active member, a strong tourism voice, and the one member excluded from both lobby datasets entirely.\n\nTante Titan’s record (journalist): 54 total participations — fishing: 3, tourism: 17, neutral: 34 TROUT excluded: Tante Titan (54 records), Carol Limpet (21), Simone Kat (45) — committee appears fishing-leaning in TROUT’s data (fishing=38.9%, tourism=31.5%) FILAH excluded: Tante Titan (54 records), Ed Helpsford (20), Teddy Goldstein (22) — committee appears tourism-leaning in FILAH’s data (tourism=43.6%, fishing=39.7%)"
   },
   {
     "objectID": "finding4.html#dashboard-4-member-overview",
     "href": "finding4.html#dashboard-4-member-overview",
     "title": "Finding 4: Distortion From Omitted Members, Not Fabricated Data",
     "section": "Dashboard 4 — Member Overview",
-    "text": "Dashboard 4 — Member Overview\nThis dashboard provides an overview of all six members’ profiles and includes an interactive Person-Picker filter: clicking any member in the influence bubble filters all other charts on this dashboard to that member’s records simultaneously.\n\nMember Influence Bubble\n\nBubble chart — each bubble represents one COOTEFOO member. X-axis: bias score; Y-axis: total participations. Bubble size encodes total records. Colour encodes bias direction.\nThe influence bubble provides an overview of all six members’ profiles at a glance:\n\n\n\n\n\n\n\n\n\nMember\nBias Direction\nTotal Participations\nNote\n\n\n\n\nTante Titan\nTourism-leaning\n54 (highest)\nExcluded from both lobbies\n\n\nSimone Kat\nFishing-leaning\nhigh\nMost polarised fishing voice\n\n\nTeddy Goldstein\nFishing-leaning\nmedium\nRecorded faithfully by TROUT\n\n\nEd Helpsford\nTourism-leaning\nmedium\nExcluded from FILAH\n\n\nCarol Limpet\nBalanced\nmedium\nExcluded from FILAH\n\n\nSeal\nBalanced\nlow\nPresent in both lobby datasets\n\n\n\nClicking a member in this chart filters all other charts on the dashboard to that member’s records.\n\n\nMeeting Attendance Heatmap\n\nAttendance heatmap — member (rows) × meeting (columns). Green cell = attended; empty cell = absent. Switch datasets using the filter to compare lobby coverage against the journalist record.\nThe heatmap shows which members attended which of the 16 committee meetings. Comparing across dataset filters reveals how the lobbies’ selective coverage omits attendance records for their excluded members entirely.\n\n\nMember Activity Over Time\n\nLine chart — member participation count across meetings 1–16. Each line represents one member. Tante Titan’s consistently high participation is annotated.\nTante Titan did not just attend more meetings — she was consistently the most active participant across all 16 sessions. Her exclusion removes the single most impactful member from both lobby records."
+    "text": "Dashboard 4 — Member Overview\nThis dashboard provides an overview of all six members’ profiles and includes an interactive Person-Picker filter: clicking any member in the influence bubble filters all other charts on this dashboard to that member’s records simultaneously.\n\nMember Influence Bubble\n\nBubble chart — each bubble represents one COOTEFOO member. X-axis: bias score; Y-axis: total participations. Bubble size encodes total records. Colour encodes bias direction.\nThe influence bubble provides an overview of all six members’ profiles at a glance:\n\n\n\n\n\n\n\n\n\nMember\nBias Direction\nTotal Participations\nNote\n\n\n\n\nTante Titan\nTourism-leaning\n54 (highest)\nExcluded from both lobbies\n\n\nSimone Kat\nBalanced\n45\nMost active after Tante Titan\n\n\nTeddy Goldstein\nFishing-leaning\n22\nMost polarised fishing voice (−0.32); excluded from FILAH\n\n\nCarol Limpet\nTourism-leaning\n21\nExcluded from TROUT\n\n\nEd Helpsford\nTourism-leaning\n20\nExcluded from FILAH\n\n\nSeal\nFishing-leaning\n12 (lowest)\nPresent in both lobby datasets\n\n\n\nClicking a member in this chart filters all other charts on the dashboard to that member’s records.\n\n\nMeeting Attendance Heatmap\n\nAttendance heatmap — member (rows) × meeting (columns). Green cell = attended; empty cell = absent. Switch datasets using the filter to compare lobby coverage against the journalist record.\nThe heatmap shows which members attended which of the 16 committee meetings. Comparing across dataset filters reveals how the lobbies’ selective coverage omits attendance records for their excluded members entirely.\n\n\nMember Activity Over Time\n\nLine chart — member participation count across meetings 1–16. Each line represents one member. Tante Titan’s consistently high participation is annotated.\nTante Titan did not just attend more meetings — she was consistently the most active participant across all 16 sessions. Her exclusion removes the single most impactful member from both lobby records."
   },
   {
-    "objectID": "finding4.html#dashboard-4.1-the-tante-titan-case",
-    "href": "finding4.html#dashboard-4.1-the-tante-titan-case",
+    "objectID": "finding4.html#dashboard-4.1-the-omission-case-filah-and-trout",
+    "href": "finding4.html#dashboard-4.1-the-omission-case-filah-and-trout",
     "title": "Finding 4: Distortion From Omitted Members, Not Fabricated Data",
-    "section": "Dashboard 4.1 — The Tante Titan Case",
-    "text": "Dashboard 4.1 — The Tante Titan Case\n\nTante Titan Impact Bar\n[image]\nIndustry share comparison — committee-level industry balance with Tante Titan included (journalist record) vs without Tante Titan. Shows how her exclusion changes the apparent balance.\nTROUT accused Tante Titan of being a fishing advocate. Their own dataset excludes all 54 of her records. In the journalist’s full record, she is the committee’s strongest tourism voice (tourism=17, fishing=3). TROUT’s accusation is directly contradicted by the data they chose not to show.\nAdding Tante Titan back to the committee record reverses the apparent fishing-lean that TROUT’s dataset implies. This is the single most consequential data omission in either lobby dataset.\n\n\nRecords TROUT Withheld for Tante Titan\n[image]\nWithheld records bar chart — count of records TROUT withheld for Tante Titan, broken down by topic. Formula: journalist count − TROUT count per topic.\nTROUT withheld 54 records for Tante Titan across 8 topics. The withheld topics span fishing, tourism, and neutral categories — the omission was total, not selectively focused on pro-tourism discussions. This indicates that TROUT excluded Tante Titan wholesale, rather than filtering her records by topic.\nFILAH excluded the three most tourism-leaning members: Tante Titan, Ed Helpsford, and Carol Limpet. Without their records, the remaining three members make the committee appear fishing-dominated — which is exactly FILAH’s desired conclusion. The Tante Titan Impact Bar quantifies exactly how much the apparent balance shifts when they are restored.\n\n\nTante Titan — Topic Profile (Journalist Record)\n[image]\nTreemap — Tante Titan’s topic participation from the journalist’s full record. Tile size encodes participation count per topic; colour encodes industry (fishing = blue, tourism = purple, neutral = green). Journalist dataset only — no records exist for Tante Titan in FILAH or TROUT.\nThe treemap shows what TROUT chose to hide: a member whose activity is dominated by tourism topics. The largest tiles are tourism-related discussions, with only a small fraction dedicated to fishing. This is precisely why her exclusion from TROUT’s dataset creates an apparent fishing-lean — she is the committee’s strongest counterweight to the fishing-leaning members, and she was removed entirely."
+    "section": "Dashboard 4.1 — The Omission Case: FILAH and TROUT",
+    "text": "Dashboard 4.1 — The Omission Case: FILAH and TROUT\nA Member Filter on this dashboard allows switching between any COOTEFOO member. The Records FILAH Withheld chart, Records TROUT Withheld chart, and Member Topic Profile treemap all update to reflect the selected member. The Member Impact Bar is fixed and shows the overall committee-level effect of all exclusions combined.\n\nMember Impact Bar\n\nIndustry share comparison — committee-level industry balance with and without the excluded members. Shows how the lobbies’ omissions shift the apparent committee balance.\nBoth lobbies excluded members whose records would have undermined their narrative. FILAH excluded Tante Titan, Ed Helpsford, and Teddy Goldstein — critically, Goldstein is the committee’s strongest fishing voice (−0.32), so removing him makes the committee appear more tourism-leaning in FILAH’s data (tourism=43.6%, fishing=39.7%), supporting FILAH’s claim that the committee is pro-tourism. TROUT excluded Tante Titan, Carol Limpet, and Simone Kat — removing all strong tourism voices — making the committee appear fishing-leaning in TROUT’s data (fishing=38.9%, tourism=31.5%), supporting TROUT’s claim that the committee is pro-fishing. The impact bar quantifies exactly how much the committee’s apparent balance shifts when these excluded members are restored.\n\n\nRecords FILAH Withheld\n\nWithheld records bar chart — count of records FILAH withheld for the selected member, broken down by topic. Formula: journalist count − FILAH count per topic. Responds to the Member Filter.\nFILAH’s exclusions were wholesale — entire members were removed, not individual topics. The withheld records span all industry categories, confirming that FILAH did not selectively filter by topic type. Switching members reveals which individuals were most impacted by FILAH’s editorial choices.\n\n\nRecords TROUT Withheld\n\nWithheld records bar chart — count of records TROUT withheld for the selected member, broken down by topic. Formula: journalist count − TROUT count per topic. Responds to the Member Filter.\nWith Tante Titan selected, TROUT withheld 54 records across 8 topics spanning fishing, tourism, and neutral categories — a total, wholesale exclusion. TROUT also excluded Carol Limpet (21 records) and Simone Kat (45 records). Switching members shows the full scale of TROUT’s omissions across all three excluded members.\n\n\nMember Topic Profile — Treemap\n\nTreemap — selected member’s topic participation from the journalist’s full record. Tile size encodes participation count per topic; colour encodes industry (fishing = blue, tourism = purple, neutral = green). Always uses the Journalist dataset. Responds to the Member Filter.\nThe treemap updates to show whichever member is selected, revealing each member’s true topic profile from the complete record. With Tante Titan selected, the largest tiles are tourism-related — showing precisely what both lobbies chose to hide. Switching members allows direct comparison of topic profiles across the full committee."
   },
   {
     "objectID": "finding4.html#key-takeaway",
@@ -175,20 +175,6 @@
     "text": "Gephi Network Files\nFor Finding 2, bipartite member–topic network graphs were built in Gephi using:\n\nNodes: 6 COOTEFOO members + 15 topic nodes\nEdges: Weighted by participation count; colour-coded by industry\nLayout: Fruchterman Reingold\n\nThree separate network graphs were produced — one per dataset (FILAH, TROUT, Journalist) — to make the structural differences in what each lobby chose to record visually apparent.\n\n\n\n\n\n\nfilah\n\n\n\n\n\n\n\njournalist\n\n\n\n\n\n\n\ntrout\n\n\n\n\n\nThree Gephi bipartite networks side-by-side: FILAH (left), Journalist (centre), TROUT (right)"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This project was completed as part of IS428 Visual Analytics at Singapore Management University (SMU), AY2025/26 Term 2.\nGroup 10\n\n\n\n\n\n\n\n\nName\nStudent ID\nRole\n\n\n\n\nMarcus Chew\ne0175704\nData pipeline, Tableau dashboards, Quarto website\n\n\n(teammate)\n—\n(role)\n\n\n(teammate)\n—\n(role)"
-  },
-  {
-    "objectID": "about.html#the-team",
-    "href": "about.html#the-team",
-    "title": "About",
-    "section": "",
-    "text": "This project was completed as part of IS428 Visual Analytics at Singapore Management University (SMU), AY2025/26 Term 2.\nGroup 10\n\n\n\n\n\n\n\n\nName\nStudent ID\nRole\n\n\n\n\nMarcus Chew\ne0175704\nData pipeline, Tableau dashboards, Quarto website\n\n\n(teammate)\n—\n(role)\n\n\n(teammate)\n—\n(role)"
-  },
-  {
     "objectID": "about.html#the-project",
     "href": "about.html#the-project",
     "title": "About",
@@ -208,13 +194,6 @@
     "title": "About",
     "section": "Data Sources",
     "text": "Data Sources\nAll data originates from the VAST Challenge 2025 Mini-Challenge 2 dataset:\n\nmc2_FILAH_nodes.csv / mc2_FILAH_links.csv\nmc2_TROUT_nodes.csv / mc2_TROUT_links.csv\nmc2_jounalist_nodes.csv / mc2_journalist_links.csv\nmc2_geo_nodes.csv / mc2_geo_edges.csv\n\nThe data is fictional and created for the purposes of the VAST Challenge educational competition."
-  },
-  {
-    "objectID": "about.html#acknowledgements",
-    "href": "about.html#acknowledgements",
-    "title": "About",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\nWe thank our IS428 instructor for guidance throughout the project, and our booth evaluators from the 13 April 2026 poster session for their constructive feedback."
   },
   {
     "objectID": "conclusion.html",
@@ -259,18 +238,18 @@
     "text": "Revised after incorporating feedback from the poster session evaluation.\n\nRevised A1 poster — improvements based on peer evaluation feedback"
   },
   {
-    "objectID": "poster.html#poster",
-    "href": "poster.html#poster",
+    "objectID": "poster.html#revised-poster",
+    "href": "poster.html#revised-poster",
     "title": "Project Poster",
     "section": "",
-    "text": "Our A1 poster was submitted on 8 April 2026 and presented at the class poster session on 13 April 2026. It summarises the four key findings and the visual evidence supporting each one.\n[image]\nFull A1 poster — 300 dpi JPEG"
+    "text": "Revised after incorporating feedback from the poster session evaluation.\n\nRevised A1 poster — improvements based on peer evaluation feedback"
   },
   {
-    "objectID": "poster.html#poster-sections",
-    "href": "poster.html#poster-sections",
+    "objectID": "poster.html#original-poster",
+    "href": "poster.html#original-poster",
     "title": "Project Poster",
-    "section": "Poster Sections",
-    "text": "Poster Sections\n\nProblem Statement\nCOOTEFOO oversees fishing and tourism policy in Oceanus. Two lobby groups — FILAH and TROUT — submitted conflicting datasets, each claiming the committee is biased against their industry. A journalist obtained the complete record. This project uses visual analytics to determine which narrative, if any, is supported by the data.\n\n\nMethodology\n\nKnowledge graph transformation using Python (mc2_prepare.py)\nBipartite network analysis in Gephi (3 datasets)\nTableau dashboards with interactive dataset filters\nBias score formula: (tourism − fishing) / total participations\n\n\n\nKey Findings\n\nFinding 1: Both lobby datasets are curated products. FILAH captured 45% of all records; TROUT captured 31%. Both systematically over-represent their preferred industry.\nFinding 2: The full committee is balanced. No member’s bias score is statistically extreme when using the journalist’s complete record.\nFinding 3: Sentiment and travel show no systematic tilt. Meeting sentiment oscillates around neutral across 16 sessions.\nFinding 4: Tante Titan — 54 records, most active member, tourism-leaning — was excluded from both lobby datasets. Her exclusion creates the apparent bias discrepancy.\n\n\n\nVisual Evidence\n[image]\nIndustry share per dataset — 100% stacked bar showing FILAH’s fishing skew and TROUT’s tourism skew\n[image]\nMember bias scores across three datasets — the same six members appear differently biased depending only on which dataset is read"
+    "section": "Original Poster",
+    "text": "Original Poster\nSubmitted and presented at the IS428 class poster session on 13 April 2026.\n\nOriginal A1 poster — submitted 8 April 2026"
   },
   {
     "objectID": "poster.html#poster-session-feedback",
@@ -305,21 +284,21 @@
     "href": "index.html#the-four-findings",
     "title": "Detecting Bias in COOTEFOO",
     "section": "The Four Findings",
-    "text": "The Four Findings\n\n\n\n\n\n\nFinding 1 — Both Datasets Were Curated, Not Collected FILAH and TROUT each systematically over-represent their preferred industry and exclude discussions that undermine their case.\n\n\n\n\n\n\n\n\n\nFinding 2 — The Full Committee Is Balanced Using the journalist’s complete record, no member’s bias score is statistically extreme. Three members lean slightly toward fishing, three toward tourism.\n\n\n\n\n\n\n\n\n\nFinding 3 — Sentiment and Travel Show No Systematic Tilt Meeting sentiment oscillates around neutral across all 16 sessions. Member travel destinations span both fishing and tourism zones.\n\n\n\n\n\n\n\n\n\nFinding 4 — The Distortion Comes from Omitted Members, Not Fabricated Data Tante Titan — the committee’s most active member and a strong tourism voice — was excluded from both lobby datasets entirely. Restoring her records reverses TROUT’s apparent fishing-lean finding."
+    "text": "The Four Findings\n\n\n\n\n\n\nFinding 1 — Both Datasets Were Curated, Not Collected FILAH and TROUT each systematically over-represent their preferred industry and exclude discussions that undermine their case.\n\n\n\n\n\n\n\n\n\nFinding 2 — The Full Committee Is Balanced Using the journalist’s complete record, no member’s bias score is statistically extreme. Two members lean toward fishing, three toward tourism, and one is balanced.\n\n\n\n\n\n\n\n\n\nFinding 3 — Sentiment and Travel Show No Systematic Tilt Meeting sentiment oscillates around neutral across all 16 sessions. Member travel destinations span both fishing and tourism zones.\n\n\n\n\n\n\n\n\n\nFinding 4 — The Distortion Comes from Omitted Members, Not Fabricated Data Tante Titan — the committee’s most active member and a strong tourism voice — was excluded from both lobby datasets entirely. Restoring her records reverses TROUT’s apparent fishing-lean finding."
   },
   {
     "objectID": "index.html#key-visualisations",
     "href": "index.html#key-visualisations",
     "title": "Detecting Bias in COOTEFOO",
     "section": "Key Visualisations",
-    "text": "Key Visualisations\n\n\n\nTableau Schedule\n\n\nOverview dashboard — three datasets tell wildly different stories about the same six-member committee."
+    "text": "Key Visualisations\n\nOverview dashboard — three datasets tell wildly different stories about the same six-member committee."
   },
   {
     "objectID": "index.html#navigation",
     "href": "index.html#navigation",
     "title": "Detecting Bias in COOTEFOO",
     "section": "Navigation",
-    "text": "Navigation\n\n\n\nSection\nWhat you’ll find\n\n\n\n\nData Transformation\nHow raw knowledge graph CSVs were cleaned and transformed\n\n\nFinding 1\nDataset coverage bias — selective inclusion by both lobbies\n\n\nFinding 2\nCommittee-level bias analysis using the full journalist record\n\n\nFinding 3\nSentiment over time and member travel patterns\n\n\nFinding 4\nMember deep-dive — Tante Titan exclusion and person-picker\n\n\nConclusion\nAnswers to all 8 MC2 task questions\n\n\nStoryboard\nAnnotated screenshots of all 6 dashboards\n\n\nUser Guide\nHow to navigate the interactive Tableau application\n\n\nAbout\nTeam members and project context\n\n\n\n\n\nView the full project proposal →"
+    "text": "Navigation\n\n\n\nSection\nWhat you’ll find\n\n\n\n\nData Transformation\nHow raw knowledge graph CSVs were cleaned and transformed\n\n\nFinding 1\nDataset coverage bias — selective inclusion by both lobbies\n\n\nFinding 2\nCommittee-level bias analysis using the full journalist record\n\n\nFinding 3\nSentiment over time and member travel patterns\n\n\nFinding 4\nMember deep-dive — Tante Titan exclusion and person-picker\n\n\nConclusion\nAnswers to all MC2 tasks\n\n\nStoryboard\nInteractive Tableau application — all 9 dashboards\n\n\nUser Guide\nHow to navigate the interactive Tableau application\n\n\nAbout\nTeam members and project context\n\n\n\n\n\nView the full project proposal →"
   },
   {
     "objectID": "prototypes.html",
@@ -350,11 +329,18 @@
     "text": "Dashboard Layout Plan\nThe final website maps to 9 Tableau dashboards:\n\n\n\n\n\n\n\n\nDashboard\nFinding\nKey Questions\n\n\n\n\nDashboard 0\nOverview / Entry Point\nOrientation\n\n\nDashboard 1\nFinding 1\nWhat each lobby left out\n\n\nDashboard 1.1\nFinding 1 (continued)\nHow exclusions distort the rankings\n\n\nDashboard 2\nFinding 2\nFull committee balance\n\n\nDashboard 2.1\nBridge\nHow selective reporting creates a false narrative\n\n\nDashboard 3\nFinding 3\nSentiment patterns over time\n\n\nDashboard 3.1\nFinding 3 (continued)\nMember travel behaviour\n\n\nDashboard 4\nFinding 4\nMember overview and influence\n\n\nDashboard 4.1\nFinding 4 (continued)\nThe omission case — FILAH, TROUT, and Tante Titan"
   },
   {
-    "objectID": "prototypes.html#initial-wireframes",
-    "href": "prototypes.html#initial-wireframes",
+    "objectID": "prototypes.html#version-1-per-task-sketches",
+    "href": "prototypes.html#version-1-per-task-sketches",
     "title": "Prototypes & Design Evolution",
-    "section": "Initial Wireframes",
-    "text": "Initial Wireframes\n\nVersion 1 — Single Dashboard Concept\nThe first prototype placed all 29 charts on a single scrollable dashboard. Testing revealed the layout created cognitive overload — viewers could not identify a single clear conclusion.\n[image]\nVersion 1 wireframe — single dashboard attempt, rejected due to conclusion ambiguity\n\n\nVersion 2 — Task-Based Split\nVersion 2 split charts by task (Q1–Q8), resulting in 8 dashboards. This was more manageable but created awkward splits within single findings (e.g., Q5 and Q6 tell one continuous story about Tante Titan and were unnecessarily separated).\n[image]\nVersion 2 wireframe — task-based split, 8 dashboards\n\n\nVersion 3 — Finding-Based Layout (Final)\nThe final layout organises by finding, not by task. Q5 and Q6 are co-located in Dashboard 4 because they form one narrative arc. Dashboard 2.1 was added as a bridge to make the mechanism of bias manipulation explicit before moving to the full-record findings.\n[image]\nVersion 3 wireframe — finding-based layout, 7 dashboards (final)"
+    "section": "Version 1 — Per-Task Sketches",
+    "text": "Version 1 — Per-Task Sketches\nThe first version was a hand-drawn sketch for each MC2 task question. One sketch per task, designed independently before any dashboard structure was decided."
+  },
+  {
+    "objectID": "prototypes.html#version-2-finding-based-layout-final",
+    "href": "prototypes.html#version-2-finding-based-layout-final",
+    "title": "Prototypes & Design Evolution",
+    "section": "Version 2 — Finding-Based Layout (Final)",
+    "text": "Version 2 — Finding-Based Layout (Final)\nAfter reviewing the per-task sketches, charts serving the same narrative arc were grouped into shared dashboards. Tasks were not kept as individual dashboards — instead, the structure was reorganised around four findings plus an overview entry point.\nKey decisions made at this stage:\n\nTasks 4a and 4b were co-located because the member omission evidence and the Tante Titan profile tell one continuous story\nDashboard 2.1 was added as a bridge to make the mechanism of bias manipulation explicit before moving to the full-record findings\nDashboard 3 was split into D3 (sentiment) and D3.1 (travel) to avoid chart density\nDashboard 4 was split into D4 (member overview) and D4.1 (omission case) for the same reason"
   },
   {
     "objectID": "prototypes.html#colour-system",
@@ -455,11 +441,11 @@
     "text": "Dashboard 4 — Finding 4: Member Overview\nThis dashboard provides an overview of all six members’ profiles. Clicking any member in the Influence Bubble activates the Person-Picker filter, updating all other charts on this dashboard to that member’s records.\n\n\nMember Influence Bubble (top left) — Plots each member by bias score (x-axis) and total participations (y-axis). Bubble size encodes total record count.\n\nUsers can click on any bubble to activate the Person-Picker filter — all other charts on this dashboard will update to show only that member’s records.\nUsers can click the same bubble again (or press Esc) to clear the filter and return to the full committee view.\nUsers can hover over any bubble to see the member’s name, bias score, bias direction, and total participations.\n\nMeeting Attendance Heatmap (top right) — Shows which members attended which of the 16 meetings. Green cells = attended; blank cells = absent.\n\nUsers can hover over any cell to see the member name, meeting number, and discussion count for that session.\nWhen the Person-Picker is active, only the selected member’s row is highlighted.\n\nMember Activity Over Time (bottom) — Shows each member’s participation count across all 16 meetings as a line chart.\n\nUsers can hover over any point to see the member, meeting number, and discussion count.\nWhen the Person-Picker is active, the selected member’s line is highlighted."
   },
   {
-    "objectID": "user_guide.html#dashboard-4.1-finding-4-continued-the-tante-titan-case",
-    "href": "user_guide.html#dashboard-4.1-finding-4-continued-the-tante-titan-case",
+    "objectID": "user_guide.html#dashboard-4.1-finding-4-continued-the-omission-case",
+    "href": "user_guide.html#dashboard-4.1-finding-4-continued-the-omission-case",
     "title": "User Guide",
-    "section": "Dashboard 4.1 — Finding 4 (Continued): The Tante Titan Case",
-    "text": "Dashboard 4.1 — Finding 4 (Continued): The Tante Titan Case\nThis dashboard presents the evidence behind the most consequential omission in either lobby dataset — Tante Titan’s complete exclusion from both FILAH and TROUT.\n[image - screenshot of Dashboard 4.1 with chart areas labelled. Callout 1 = Tante Titan impact bar (top left), Callout 2 = withheld records bar (top right), Callout 3 = Tante Titan treemap (bottom)]\n\nTante Titan Impact Bar (top left) — Compares the committee’s apparent industry balance with Tante Titan included versus excluded.\n\nUsers can hover over the bars to see the exact industry share percentages with and without Tante Titan.\n\nRecords TROUT Withheld for Tante Titan (top right) — Shows the per-topic count of records that TROUT omitted for Tante Titan. Formula: Journalist count − TROUT count per topic.\n\nUsers can hover over any bar to see the topic name, industry category, and number of withheld records.\nOnly topics with at least one withheld record are shown — topics with zero omissions are excluded.\nBars are sorted by number of withheld records descending.\n\nTante Titan Topic Profile — Treemap (bottom) — Shows Tante Titan’s full topic participation from the journalist record. Tile size encodes participation count; colour encodes industry.\n\nThis chart is fixed to the Journalist dataset — it will not respond to the Dataset Label filter, as no records exist for Tante Titan in FILAH or TROUT.\nUsers can hover over any tile to see the topic name, industry category, and participation count."
+    "section": "Dashboard 4.1 — Finding 4 (Continued): The Omission Case",
+    "text": "Dashboard 4.1 — Finding 4 (Continued): The Omission Case\nThis dashboard presents the full evidence for the lobbies’ selective member exclusions. A Member Filter lets users switch between members — the two withheld-record charts and the topic profile treemap all update to reflect the selected member. Tante Titan is selected by default as the pivotal case.\n\n\nMember Impact Bar (top left) — Compares the committee’s apparent industry balance with and without the excluded members. Quantifies how far the lobbies’ omissions shift the committee’s apparent balance.\n\nUsers can hover over the bars to see the exact industry share percentages with and without the excluded members.\nThis chart covers all excluded members collectively and does not respond to the Member Filter.\n\nMember Filter — Users can select any COOTEFOO member using the filter to explore that member’s withheld records and topic profile.\n\nChanging the selected member updates the Records FILAH Withheld chart, the Records TROUT Withheld chart, and the Member Topic Profile treemap simultaneously.\nMembers who were not excluded by a lobby will show zero withheld records in that lobby’s chart.\n\nRecords FILAH Withheld (top middle) — Shows the per-topic count of records that FILAH omitted for the selected member. Formula: Journalist count − FILAH count per topic.\n\nUsers can hover over any bar to see the topic name, industry category, and number of withheld records.\nResponds to the Member Filter — switching members updates this chart.\nBars are sorted by number of withheld records descending.\n\nRecords TROUT Withheld (top right) — Shows the per-topic count of records that TROUT omitted for the selected member. Formula: Journalist count − TROUT count per topic.\n\nUsers can hover over any bar to see the topic name, industry category, and number of withheld records.\nResponds to the Member Filter — switching members updates this chart.\nMembers not excluded by TROUT will show zero withheld records.\n\nMember Topic Profile — Treemap (bottom, full width) — Shows the selected member’s full topic participation from the journalist record. Tile size encodes participation count; colour encodes industry (fishing = blue, tourism = purple, neutral = green).\n\nResponds to the Member Filter — switching members updates the treemap to reflect that member’s journalist record.\nThis chart always uses the Journalist dataset — it does not respond to the Dataset Label filter.\nUsers can hover over any tile to see the topic name, industry category, and participation count."
   },
   {
     "objectID": "storyboard.html",
@@ -543,14 +529,14 @@
     "href": "finding2.html",
     "title": "Finding 2: The Full Committee Is Balanced",
     "section": "",
-    "text": "Using the journalist’s complete record, no member’s bias score is statistically extreme. Three members lean slightly toward fishing, three toward tourism — the committee is balanced, not captured. The confidence intervals confirm that individual deviations are within normal variance.\n\nBias score range (journalist): approximately −0.4 to +0.4 across all 6 members Threshold: |bias| &gt; 0.15 = directional; within ±0.15 = balanced Net committee bias: near zero — fishing-leaning and tourism-leaning members cancel out"
+    "text": "Using the journalist’s complete record, no member’s bias score is statistically extreme. Two members lean toward fishing, three toward tourism, and one is balanced — the committee is not captured by either industry. The confidence intervals confirm that individual deviations are within normal variance.\n\nBias score range (journalist): −0.32 (Teddy Goldstein) to +0.29 (Carol Limpet) Threshold: |bias| &gt; 0.15 = directional; within ±0.15 = balanced Net committee bias: near zero — fishing-leaning and tourism-leaning members broadly cancel out"
   },
   {
     "objectID": "finding2.html#summary",
     "href": "finding2.html#summary",
     "title": "Finding 2: The Full Committee Is Balanced",
     "section": "",
-    "text": "Using the journalist’s complete record, no member’s bias score is statistically extreme. Three members lean slightly toward fishing, three toward tourism — the committee is balanced, not captured. The confidence intervals confirm that individual deviations are within normal variance.\n\nBias score range (journalist): approximately −0.4 to +0.4 across all 6 members Threshold: |bias| &gt; 0.15 = directional; within ±0.15 = balanced Net committee bias: near zero — fishing-leaning and tourism-leaning members cancel out"
+    "text": "Using the journalist’s complete record, no member’s bias score is statistically extreme. Two members lean toward fishing, three toward tourism, and one is balanced — the committee is not captured by either industry. The confidence intervals confirm that individual deviations are within normal variance.\n\nBias score range (journalist): −0.32 (Teddy Goldstein) to +0.29 (Carol Limpet) Threshold: |bias| &gt; 0.15 = directional; within ±0.15 = balanced Net committee bias: near zero — fishing-leaning and tourism-leaning members broadly cancel out"
   },
   {
     "objectID": "finding2.html#dashboard-2-committee-balance-full-record",
@@ -564,7 +550,7 @@
     "href": "finding2.html#dashboard-2.1-how-selective-reporting-creates-a-false-narrative",
     "title": "Finding 2: The Full Committee Is Balanced",
     "section": "Dashboard 2.1 — How Selective Reporting Creates a False Narrative",
-    "text": "Dashboard 2.1 — How Selective Reporting Creates a False Narrative\nThis bridge dashboard shows the same six members through three different lenses: FILAH’s version, the journalist’s version, and TROUT’s version. The finding is structural: member behaviour does not change, only the framing does.\n\nSide-by-Side Bias Bars — All Three Datasets\n\nThree bias bar charts side by side — FILAH (left), Journalist (centre), TROUT (right). The same member can look fishing-biased in one and tourism-biased in another.\nThis is the most powerful chart in the project. It shows that FILAH’s version inflates the apparent fishing-lean by 40–60%; TROUT’s version inflates the apparent tourism-lean by the same amount. The journalist’s version shows neither.\n\n\nTopic Breakdown Stacked Bar — Per Member\n\nTopic breakdown stacked bar — how each member spends their time across industry topics (journalist record). Bars are sorted by total participation descending.\n\n\nPro/Against Vote Direction — Per Member\n\nPro/Against stacked bar — vote direction (pro, against, neutral) per member. Individual member behaviour is consistent across datasets; only which discussions are included changes."
+    "text": "Dashboard 2.1 — How Selective Reporting Creates a False Narrative\nThis bridge dashboard shows the same six members through three different lenses: FILAH’s version, the journalist’s version, and TROUT’s version. The finding is structural: member behaviour does not change, only the framing does.\n\nSide-by-Side Bias Bars — All Three Datasets\n\nThree bias bar charts side by side — FILAH (left), Journalist (centre), TROUT (right). The same member can look fishing-biased in one and tourism-biased in another.\nThis is the most powerful chart in the project. It shows that FILAH’s version makes the committee appear tourism-leaning — supporting FILAH’s claim that the committee is biased against fishing. TROUT’s version makes the committee appear fishing-leaning — supporting TROUT’s claim that the committee is biased against tourism. The journalist’s version shows a balanced committee that neither lobby’s accusation describes.\n\n\nTopic Breakdown Stacked Bar — Per Member\n\nTopic breakdown stacked bar — how each member spends their time across industry topics (journalist record). Bars are sorted by total participation descending.\n\n\nPro/Against Vote Direction — Per Member\n\nPro/Against stacked bar — vote direction (pro, against, neutral) per member. Individual member behaviour is consistent across datasets; only which discussions are included changes."
   },
   {
     "objectID": "finding2.html#network-analysis-gephi",
@@ -579,54 +565,5 @@
     "title": "Finding 2: The Full Committee Is Balanced",
     "section": "Key Takeaway",
     "text": "Key Takeaway\nThe full committee is balanced. COOTEFOO’s six members collectively represent both fishing and tourism interests in near-equal measure. The impression of bias only arises when the record is selectively filtered — as both lobbies did."
-  },
-  {
-    "objectID": "finding4.html#dashboard-4.1-the-omission-case-filah-and-trout",
-    "href": "finding4.html#dashboard-4.1-the-omission-case-filah-and-trout",
-    "title": "Finding 4: Distortion From Omitted Members, Not Fabricated Data",
-    "section": "Dashboard 4.1 — The Omission Case: FILAH and TROUT",
-    "text": "Dashboard 4.1 — The Omission Case: FILAH and TROUT\n\nMember Impact Bar\n\nIndustry share comparison — committee-level industry balance with and without the excluded members. Shows how the lobbies’ omissions shift the apparent committee balance.\nBoth lobbies excluded members whose records would have undermined their narrative. TROUT excluded Tante Titan — the committee’s strongest tourism voice (tourism=17, fishing=3) — causing an apparent fishing-lean in TROUT’s dataset. FILAH excluded the three most tourism-leaning members: Tante Titan, Ed Helpsford, and Carol Limpet — causing an apparent fishing-dominated picture. The impact bar quantifies exactly how much the committee’s apparent balance shifts when these members are restored.\n\n\nRecords FILAH Withheld\n\nWithheld records bar chart — count of records FILAH withheld for its excluded members, broken down by topic. Formula: journalist count − FILAH count per topic.\nFILAH’s exclusions were wholesale — entire members were removed, not individual topics. The withheld records span all industry categories, confirming that FILAH did not selectively filter by topic type. The three excluded members collectively account for a large proportion of the journalist’s tourism-side discussions, which is precisely why their removal makes the committee appear fishing-dominated.\n\n\nRecords TROUT Withheld\n\nWithheld records bar chart — count of records TROUT withheld for Tante Titan, broken down by topic. Formula: journalist count − TROUT count per topic.\nTROUT withheld 54 records for Tante Titan across 8 topics. Like FILAH’s omissions, the withheld topics span fishing, tourism, and neutral categories — the omission was total, not selectively focused on pro-tourism discussions. TROUT excluded Tante Titan wholesale.\n\n\nTreemap (Member Profile)\n\nTreemap — Tante Titan’s topic participation from the journalist’s full record. Tile size encodes participation count per topic; colour encodes industry (fishing = blue, tourism = purple, neutral = green). Journalist dataset only — no records exist for Tante Titan in FILAH or TROUT.\nThe treemap shows what both lobbies chose to hide: a member whose activity is dominated by tourism topics. The largest tiles are tourism-related discussions, with only a small fraction dedicated to fishing. This is precisely why her exclusion from both lobby datasets distorts the committee’s apparent balance — she is the strongest counterweight to the fishing-leaning members, and she was removed entirely."
-  },
-  {
-    "objectID": "prototypes.html#version-1-per-task-sketches",
-    "href": "prototypes.html#version-1-per-task-sketches",
-    "title": "Prototypes & Design Evolution",
-    "section": "Version 1 — Per-Task Sketches",
-    "text": "Version 1 — Per-Task Sketches\nThe first version was a hand-drawn sketch for each MC2 task question. One sketch per task, designed independently before any dashboard structure was decided."
-  },
-  {
-    "objectID": "prototypes.html#version-2-finding-based-layout-final",
-    "href": "prototypes.html#version-2-finding-based-layout-final",
-    "title": "Prototypes & Design Evolution",
-    "section": "Version 2 — Finding-Based Layout (Final)",
-    "text": "Version 2 — Finding-Based Layout (Final)\nAfter reviewing the per-task sketches, charts serving the same narrative arc were grouped into shared dashboards. Tasks were not kept as individual dashboards — instead, the structure was reorganised around four findings plus an overview entry point.\nKey decisions made at this stage:\n\nTasks 4a and 4b were co-located because the member omission evidence and the Tante Titan profile tell one continuous story\nDashboard 2.1 was added as a bridge to make the mechanism of bias manipulation explicit before moving to the full-record findings\nDashboard 3 was split into D3 (sentiment) and D3.1 (travel) to avoid chart density\nDashboard 4 was split into D4 (member overview) and D4.1 (omission case) for the same reason"
-  },
-  {
-    "objectID": "user_guide.html#dashboard-4.1-finding-4-continued-the-omission-case",
-    "href": "user_guide.html#dashboard-4.1-finding-4-continued-the-omission-case",
-    "title": "User Guide",
-    "section": "Dashboard 4.1 — Finding 4 (Continued): The Omission Case",
-    "text": "Dashboard 4.1 — Finding 4 (Continued): The Omission Case\nThis dashboard presents the full evidence for the lobbies’ selective member exclusions. A Member Filter lets users switch between members — the two withheld-record charts and the topic profile treemap all update to reflect the selected member. Tante Titan is selected by default as the pivotal case.\n\n\nMember Impact Bar (top left) — Compares the committee’s apparent industry balance with and without the excluded members. Quantifies how far the lobbies’ omissions shift the committee’s apparent balance.\n\nUsers can hover over the bars to see the exact industry share percentages with and without the excluded members.\nThis chart covers all excluded members collectively and does not respond to the Member Filter.\n\nMember Filter — Users can select any COOTEFOO member using the filter to explore that member’s withheld records and topic profile.\n\nChanging the selected member updates the Records FILAH Withheld chart, the Records TROUT Withheld chart, and the Member Topic Profile treemap simultaneously.\nMembers who were not excluded by a lobby will show zero withheld records in that lobby’s chart.\n\nRecords FILAH Withheld (top middle) — Shows the per-topic count of records that FILAH omitted for the selected member. Formula: Journalist count − FILAH count per topic.\n\nUsers can hover over any bar to see the topic name, industry category, and number of withheld records.\nResponds to the Member Filter — switching members updates this chart.\nBars are sorted by number of withheld records descending.\n\nRecords TROUT Withheld (top right) — Shows the per-topic count of records that TROUT omitted for the selected member. Formula: Journalist count − TROUT count per topic.\n\nUsers can hover over any bar to see the topic name, industry category, and number of withheld records.\nResponds to the Member Filter — switching members updates this chart.\nMembers not excluded by TROUT will show zero withheld records.\n\nMember Topic Profile — Treemap (bottom, full width) — Shows the selected member’s full topic participation from the journalist record. Tile size encodes participation count; colour encodes industry (fishing = blue, tourism = purple, neutral = green).\n\nResponds to the Member Filter — switching members updates the treemap to reflect that member’s journalist record.\nThis chart always uses the Journalist dataset — it does not respond to the Dataset Label filter.\nUsers can hover over any tile to see the topic name, industry category, and participation count."
-  },
-  {
-    "objectID": "data_transformation.html#end-to-end-pipeline-raw-csvs-graph-traversal-enriched-flat-tables-tableau-gephi",
-    "href": "data_transformation.html#end-to-end-pipeline-raw-csvs-graph-traversal-enriched-flat-tables-tableau-gephi",
-    "title": "Data Transformation",
-    "section": "End-to-end pipeline: raw CSVs → graph traversal → enriched flat tables → Tableau / Gephi",
-    "text": "End-to-end pipeline: raw CSVs → graph traversal → enriched flat tables → Tableau / Gephi"
-  },
-  {
-    "objectID": "poster.html#original-poster",
-    "href": "poster.html#original-poster",
-    "title": "Project Poster",
-    "section": "Original Poster",
-    "text": "Original Poster\nSubmitted and presented at the IS428 class poster session on 13 April 2026.\n\nOriginal A1 poster — submitted 8 April 2026"
-  },
-  {
-    "objectID": "poster.html#revised-poster",
-    "href": "poster.html#revised-poster",
-    "title": "Project Poster",
-    "section": "",
-    "text": "Revised after incorporating feedback from the poster session evaluation.\n\nRevised A1 poster — improvements based on peer evaluation feedback"
   }
 ]

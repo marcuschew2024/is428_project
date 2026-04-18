@@ -188,7 +188,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#member-impact-bar" id="toc-member-impact-bar" class="nav-link" data-scroll-target="#member-impact-bar">Member Impact Bar</a></li>
   <li><a href="#records-filah-withheld" id="toc-records-filah-withheld" class="nav-link" data-scroll-target="#records-filah-withheld">Records FILAH Withheld</a></li>
   <li><a href="#records-trout-withheld" id="toc-records-trout-withheld" class="nav-link" data-scroll-target="#records-trout-withheld">Records TROUT Withheld</a></li>
-  <li><a href="#treemap-member-profile" id="toc-treemap-member-profile" class="nav-link" data-scroll-target="#treemap-member-profile">Treemap (Member Profile)</a></li>
+  <li><a href="#member-topic-profile-treemap" id="toc-member-topic-profile-treemap" class="nav-link" data-scroll-target="#member-topic-profile-treemap">Member Topic Profile — Treemap</a></li>
   </ul></li>
   <li><a href="#key-takeaway" id="toc-key-takeaway" class="nav-link" data-scroll-target="#key-takeaway">Key Takeaway</a></li>
   </ul>
@@ -221,7 +221,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="summary">Summary</h2>
 <p>The lobbies did not fabricate records. The distortion in their datasets comes entirely from <strong>selective omission</strong> — choosing which members and which discussions to include. The pivotal case is Tante Titan: the committee’s most active member, a strong tourism voice, and the one member excluded from both lobby datasets entirely.</p>
 <div class="key-numbers">
-<p><strong>Tante Titan’s record (journalist):</strong> 54 total participations — fishing: 3, tourism: 17, neutral: 34 <strong>TROUT withheld for Tante Titan:</strong> 54 records across 8 topics <strong>Effect of her exclusion:</strong> removes the committee’s strongest tourism voice — creating an apparent fishing-lean in TROUT’s dataset</p>
+<p><strong>Tante Titan’s record (journalist):</strong> 54 total participations — fishing: 3, tourism: 17, neutral: 34 <strong>TROUT excluded:</strong> Tante Titan (54 records), Carol Limpet (21), Simone Kat (45) — committee appears fishing-leaning in TROUT’s data (fishing=38.9%, tourism=31.5%) <strong>FILAH excluded:</strong> Tante Titan (54 records), Ed Helpsford (20), Teddy Goldstein (22) — committee appears tourism-leaning in FILAH’s data (tourism=43.6%, fishing=39.7%)</p>
 </div>
 <hr class="section-divider">
 </section>
@@ -257,32 +257,32 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="even">
 <td>Simone Kat</td>
-<td>Fishing-leaning</td>
-<td>high</td>
-<td>Most polarised fishing voice</td>
+<td>Balanced</td>
+<td>45</td>
+<td>Most active after Tante Titan</td>
 </tr>
 <tr class="odd">
 <td>Teddy Goldstein</td>
 <td>Fishing-leaning</td>
-<td>medium</td>
-<td>Recorded faithfully by TROUT</td>
+<td>22</td>
+<td>Most polarised fishing voice (−0.32); excluded from FILAH</td>
 </tr>
 <tr class="even">
-<td>Ed Helpsford</td>
+<td>Carol Limpet</td>
 <td>Tourism-leaning</td>
-<td>medium</td>
-<td>Excluded from FILAH</td>
+<td>21</td>
+<td>Excluded from TROUT</td>
 </tr>
 <tr class="odd">
-<td>Carol Limpet</td>
-<td>Balanced</td>
-<td>medium</td>
+<td>Ed Helpsford</td>
+<td>Tourism-leaning</td>
+<td>20</td>
 <td>Excluded from FILAH</td>
 </tr>
 <tr class="even">
 <td>Seal</td>
-<td>Balanced</td>
-<td>low</td>
+<td>Fishing-leaning</td>
+<td>12 (lowest)</td>
 <td>Present in both lobby datasets</td>
 </tr>
 </tbody>
@@ -305,29 +305,30 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="dashboard-4.1-the-omission-case-filah-and-trout" class="level2">
 <h2 class="anchored" data-anchor-id="dashboard-4.1-the-omission-case-filah-and-trout">Dashboard 4.1 — The Omission Case: FILAH and TROUT</h2>
+<p>A <strong>Member Filter</strong> on this dashboard allows switching between any COOTEFOO member. The Records FILAH Withheld chart, Records TROUT Withheld chart, and Member Topic Profile treemap all update to reflect the selected member. The Member Impact Bar is fixed and shows the overall committee-level effect of all exclusions combined.</p>
 <section id="member-impact-bar" class="level3">
 <h3 class="anchored" data-anchor-id="member-impact-bar">Member Impact Bar</h3>
 <p><img src="./images/Member impact bar.png" style="width: 100%; height: auto;" alt="Tableau Schedule"></p>
 <p><em>Industry share comparison — committee-level industry balance with and without the excluded members. Shows how the lobbies’ omissions shift the apparent committee balance.</em></p>
-<p>Both lobbies excluded members whose records would have undermined their narrative. TROUT excluded Tante Titan — the committee’s strongest tourism voice (tourism=17, fishing=3) — causing an apparent fishing-lean in TROUT’s dataset. FILAH excluded the three most tourism-leaning members: <strong>Tante Titan</strong>, <strong>Ed Helpsford</strong>, and <strong>Carol Limpet</strong> — causing an apparent fishing-dominated picture. The impact bar quantifies exactly how much the committee’s apparent balance shifts when these members are restored.</p>
+<p>Both lobbies excluded members whose records would have undermined their narrative. FILAH excluded <strong>Tante Titan</strong>, <strong>Ed Helpsford</strong>, and <strong>Teddy Goldstein</strong> — critically, Goldstein is the committee’s strongest fishing voice (−0.32), so removing him makes the committee appear more tourism-leaning in FILAH’s data (tourism=43.6%, fishing=39.7%), supporting FILAH’s claim that the committee is pro-tourism. TROUT excluded <strong>Tante Titan</strong>, <strong>Carol Limpet</strong>, and <strong>Simone Kat</strong> — removing all strong tourism voices — making the committee appear fishing-leaning in TROUT’s data (fishing=38.9%, tourism=31.5%), supporting TROUT’s claim that the committee is pro-fishing. The impact bar quantifies exactly how much the committee’s apparent balance shifts when these excluded members are restored.</p>
 </section>
 <section id="records-filah-withheld" class="level3">
 <h3 class="anchored" data-anchor-id="records-filah-withheld">Records FILAH Withheld</h3>
 <p><img src="./images/Records FILAH Withheld.png" style="width: 100%; height: auto;" alt="Tableau Schedule"></p>
-<p><em>Withheld records bar chart — count of records FILAH withheld for its excluded members, broken down by topic. Formula: journalist count − FILAH count per topic.</em></p>
-<p>FILAH’s exclusions were wholesale — entire members were removed, not individual topics. The withheld records span all industry categories, confirming that FILAH did not selectively filter by topic type. The three excluded members collectively account for a large proportion of the journalist’s tourism-side discussions, which is precisely why their removal makes the committee appear fishing-dominated.</p>
+<p><em>Withheld records bar chart — count of records FILAH withheld for the selected member, broken down by topic. Formula: journalist count − FILAH count per topic. Responds to the Member Filter.</em></p>
+<p>FILAH’s exclusions were wholesale — entire members were removed, not individual topics. The withheld records span all industry categories, confirming that FILAH did not selectively filter by topic type. Switching members reveals which individuals were most impacted by FILAH’s editorial choices.</p>
 </section>
 <section id="records-trout-withheld" class="level3">
 <h3 class="anchored" data-anchor-id="records-trout-withheld">Records TROUT Withheld</h3>
 <p><img src="./images/Records TROUT Withheld.png" style="width: 100%; height: auto;" alt="Tableau Schedule"></p>
-<p><em>Withheld records bar chart — count of records TROUT withheld for Tante Titan, broken down by topic. Formula: journalist count − TROUT count per topic.</em></p>
-<p>TROUT withheld 54 records for Tante Titan across 8 topics. Like FILAH’s omissions, the withheld topics span fishing, tourism, and neutral categories — the omission was total, not selectively focused on pro-tourism discussions. TROUT excluded Tante Titan wholesale.</p>
+<p><em>Withheld records bar chart — count of records TROUT withheld for the selected member, broken down by topic. Formula: journalist count − TROUT count per topic. Responds to the Member Filter.</em></p>
+<p>With Tante Titan selected, TROUT withheld 54 records across 8 topics spanning fishing, tourism, and neutral categories — a total, wholesale exclusion. TROUT also excluded Carol Limpet (21 records) and Simone Kat (45 records). Switching members shows the full scale of TROUT’s omissions across all three excluded members.</p>
 </section>
-<section id="treemap-member-profile" class="level3">
-<h3 class="anchored" data-anchor-id="treemap-member-profile">Treemap (Member Profile)</h3>
+<section id="member-topic-profile-treemap" class="level3">
+<h3 class="anchored" data-anchor-id="member-topic-profile-treemap">Member Topic Profile — Treemap</h3>
 <p><img src="./images/Treemap.png" style="width: 90%; height: auto;" alt="Tableau Schedule"></p>
-<p><em>Treemap — Tante Titan’s topic participation from the journalist’s full record. Tile size encodes participation count per topic; colour encodes industry (fishing = blue, tourism = purple, neutral = green). Journalist dataset only — no records exist for Tante Titan in FILAH or TROUT.</em></p>
-<p>The treemap shows what both lobbies chose to hide: a member whose activity is dominated by tourism topics. The largest tiles are tourism-related discussions, with only a small fraction dedicated to fishing. This is precisely why her exclusion from both lobby datasets distorts the committee’s apparent balance — she is the strongest counterweight to the fishing-leaning members, and she was removed entirely.</p>
+<p><em>Treemap — selected member’s topic participation from the journalist’s full record. Tile size encodes participation count per topic; colour encodes industry (fishing = blue, tourism = purple, neutral = green). Always uses the Journalist dataset. Responds to the Member Filter.</em></p>
+<p>The treemap updates to show whichever member is selected, revealing each member’s true topic profile from the complete record. With Tante Titan selected, the largest tiles are tourism-related — showing precisely what both lobbies chose to hide. Switching members allows direct comparison of topic profiles across the full committee.</p>
 <hr class="section-divider">
 </section>
 </section>
