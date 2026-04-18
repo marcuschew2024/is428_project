@@ -1,0 +1,61 @@
+---
+title: "Project Poster"
+subtitle: "IS428 AY2025/26 Term 2 — Submitted 8 April 2026"
+---
+
+## Poster
+
+Our A1 poster was submitted on 8 April 2026 and presented at the class poster session on 13 April 2026. It summarises the four key findings and the visual evidence supporting each one.
+
+[image]
+
+*Full A1 poster — 300 dpi JPEG*
+
+---
+
+## Poster Sections
+
+### Problem Statement
+
+COOTEFOO oversees fishing and tourism policy in Oceanus. Two lobby groups — FILAH and TROUT — submitted conflicting datasets, each claiming the committee is biased against their industry. A journalist obtained the complete record. This project uses visual analytics to determine which narrative, if any, is supported by the data.
+
+### Methodology
+
+- Knowledge graph transformation using Python (`mc2_prepare.py`)
+- Bipartite network analysis in Gephi (3 datasets)
+- Tableau dashboards with interactive dataset filters
+- Bias score formula: `(tourism − fishing) / total participations`
+
+### Key Findings
+
+::: {.key-numbers}
+**Finding 1:** Both lobby datasets are curated products. FILAH captured 45% of all records; TROUT captured 31%. Both systematically over-represent their preferred industry.
+
+**Finding 2:** The full committee is balanced. No member's bias score is statistically extreme when using the journalist's complete record.
+
+**Finding 3:** Sentiment and travel show no systematic tilt. Meeting sentiment oscillates around neutral across 16 sessions.
+
+**Finding 4:** Tante Titan — 54 records, most active member, tourism-leaning — was excluded from both lobby datasets. Her exclusion creates the apparent bias discrepancy.
+:::
+
+---
+
+## Poster Session Feedback
+
+The poster was presented at the IS428 class session on 13 April 2026. Four groups provided written evaluations.
+
+**What worked well:**
+
+- The core message — bias comes from selective omission, not fabricated data — was clearly communicated and consistently understood across all evaluators
+- Key insights panels were highlighted as an effective way to draw quick conclusions before engaging with the group
+- The lollipop/bias bar chart was noted for giving a clear picture of each member's sentiment range at a glance
+- Good variety of chart types and effective use of colour and legends
+
+**Areas for improvement:**
+
+- A brief context introduction was missing — several evaluators needed to ask for background before they could interpret the poster
+- The sentiment heatmap was difficult to read due to many null values; a cleaner chart or alternative visual was suggested
+- Some charts were too small to read comfortably at poster size
+- Colour palette was perceived as inconsistent across the project
+- Axis titles on the sentiment chart were not renamed from defaults
+- Future work section could be expanded with more depth

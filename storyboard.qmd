@@ -1,0 +1,39 @@
+---
+title: "Final Storyboard"
+subtitle: "Interactive Tableau dashboard — all findings in one application"
+---
+
+## About the Storyboard
+
+The interactive storyboard below presents all six dashboards in sequence, from the overview entry point through to the final member deep-dive. Use the arrow controls at the bottom of the storyboard to navigate between dashboards, or click any story point caption to jump directly to a dashboard.
+
+For a detailed walkthrough of each dashboard and how to use the interactive features, see the [User Guide](user_guide.qmd).
+
+---
+
+## Interactive Dashboard
+
+::: {.column-page}
+<iframe src="https://public.tableau.com/views/is428_project/DetectingBiasinCOOTEFOO?:embed=yes&:display_count=yes&:showVizHome=no"
+        width="100%"
+        height="920px"
+        style="min-width: 1200px; border: none;"
+        frameborder="0">
+</iframe>
+:::
+
+---
+
+## Dashboard Overview
+
+| Dashboard | Finding |
+|---|---|
+| Dashboard 0 — Overview | Entry point — three datasets, one committee (industry share · coverage bar · bias scores) |
+| Dashboard 1 — Finding 1 | What each lobby left out — missing topics · member participation |
+| Dashboard 1.1 — Finding 1 (cont.) | How exclusions distort the rankings — slope graph · lobby comparison |
+| Dashboard 2 — Finding 2 | The full committee is balanced |
+| Dashboard 2.1 — Bridge | How selective reporting creates a false narrative |
+| Dashboard 3 — Finding 3 | Sentiment — over time · committee comparison · member × topic heatmap |
+| Dashboard 3.1 — Finding 3 (cont.) | Travel — geographic map · activity breakdown by member |
+| Dashboard 4 — Finding 4 | Member overview — influence bubble · attendance heatmap · activity over time |
+| Dashboard 4.1 — Finding 4 (cont.) | The omission case — member impact bar · FILAH withheld · TROUT withheld · Tante Titan topic profile |

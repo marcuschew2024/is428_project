@@ -1,0 +1,379 @@
+role,source,target,key,sentiment,reason,industry,status,time
+plan,marine_life_deck_Meeting_12_Environmental_Impact_Report,marine_life_deck,0,NA,NA,,NA,NA
+participant,marine_life_deck_Meeting_12_Environmental_Impact_Report,Teddy Goldstein,0,-0.5,Prefers resources to be allocated toward the fishing industry.,,NA,NA
+plan,low_volume_crane_Meeting_8_Report,low_volume_crane,0,NA,NA,,NA,NA
+participant,low_volume_crane_Meeting_8_Report,Seal,0,0.1,Recognizes the crane's benefit to small-scale operations.,,NA,NA
+plan,deep_fishing_dock_Meeting_3_Maintenance_Plan,deep_fishing_dock,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_3_Maintenance_Plan,Teddy Goldstein,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_3_Maintenance_Plan,Industrial Shipping,0,NA,NA,,NA,NA
+part_of,Meeting_16,concert_Meeting_16_Road_Closures_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_16,concert_Meeting_16_Road_Closures,0,NA,NA,,NA,NA
+about,concert_Meeting_7_Discussion,concert_Meeting_7_Concert_Issues,0,NA,NA,,completed,NA
+about,concert_Meeting_7_Discussion,concert,0,NA,NA,,NA,NA
+participant,concert_Meeting_7_Discussion,Ed Helpsford,0,0.5,Believes concerts can bring community together but cautious about potential disruptions.,,NA,NA
+about,affordable_housing_Meeting_9_Invite_Developers_Discussion,affordable_housing_Meeting_9_Invite_Developers,0,NA,NA,,planned,NA
+about,affordable_housing_Meeting_9_Invite_Developers_Discussion,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_9_Invite_Developers_Discussion,Builders Association,0,1,"Supports affordable housing for workers, which benefits large vessel operations.",,NA,NA
+participant,affordable_housing_Meeting_9_Invite_Developers_Discussion,Industrial Shipping,0,1,"Supports affordable housing for workers, which benefits large vessel operations.",,NA,NA
+about,low_volume_crane_Meeting_3_Proposal_Discussion,low_volume_crane_Meeting_3_Proposal,0,NA,NA,,completed,NA
+about,low_volume_crane_Meeting_3_Proposal_Discussion,low_volume_crane,0,NA,NA,,NA,NA
+participant,low_volume_crane_Meeting_3_Proposal_Discussion,Ed Helpsford,0,1,"Beneficial for small time fishers, who he feels are often overlooked",,NA,NA
+plan,affordable_housing_Travel_Waveside_Townhomes,affordable_housing,0,NA,NA,,NA,NA
+travel,affordable_housing_Travel_Waveside_Townhomes,48468290,0,NA,NA,,NA,NA
+part_of,Meeting_9,expanding_tourist_wharf_Meeting_9_Start_Report_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,expanding_tourist_wharf_Meeting_9_Report,0,NA,NA,,NA,NA
+part_of,Meeting_9,statue_john_smoth_Travel_The_Bait_Stich_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,statue_john_smoth_Travel_The_Bait_Stich,0,NA,NA,,NA,NA
+part_of,Meeting_9,affordable_housing_Travel_Tidewater_Flats_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,affordable_housing_Meeting_9_Invite_Developers_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,affordable_housing_Travel_Tidewater_Flats,0,NA,NA,,NA,NA
+part_of,Meeting_9,affordable_housing_Meeting_9_Invite_Developers,0,NA,NA,,NA,NA
+part_of,Meeting_9,name_inspection_office_Meeting_9_Community_Vote_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,name_inspection_office_Meeting_9_Community_Vote,0,NA,NA,,NA,NA
+part_of,Meeting_9,waterfront_market_Meeting_9_Report_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,waterfront_market_Meeting_9_Report,0,NA,NA,,NA,NA
+about,affordable_housing_Meeting_10_Travel_Findings_Discussion,affordable_housing_Meeting_10_Housing_Proposal,0,NA,NA,,planned,NA
+about,affordable_housing_Meeting_10_Travel_Findings_Discussion,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_10_Travel_Findings_Discussion,Ed Helpsford,0,1,Feels committee should be doing more for blue-collar workers. Nephew is having trouble finding housing,,NA,NA
+about,waterfront_market_Meeting_9_Report_Discussion,waterfront_market_Meeting_9_Report,0,NA,NA,,planned,NA
+about,waterfront_market_Meeting_9_Report_Discussion,waterfront_market,0,NA,NA,,NA,NA
+participant,waterfront_market_Meeting_9_Report_Discussion,Ed Helpsford,0,1,Strongly supports as it could benefit small vessel,,NA,NA
+about,low_volume_crane_Travel_Harbor_Route_Solutions_Completed_Discussion_Crane,low_volume_crane_Travel_Harbor_Route_Solutions,0,NA,NA,,completed,NA
+about,low_volume_crane_Travel_Harbor_Route_Solutions_Completed_Discussion_Crane,low_volume_crane,0,NA,NA,,NA,NA
+participant,low_volume_crane_Travel_Harbor_Route_Solutions_Completed_Discussion_Crane,Seal,0,0.1,Recognizes the crane's benefit to small-scale operations.,,NA,NA
+refers_to,low_volume_crane_Travel_Harbor_Route_Solutions_Completed_Discussion_Crane,35889363,0,NA,NA,,NA,NA
+about,affordable_housing_Meeting_6_Sites_Proposal_Discussion,affordable_housing_Meeting_6_Sites_Proposal,0,NA,NA,,in_progress,NA
+about,affordable_housing_Meeting_6_Sites_Proposal_Discussion,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_6_Sites_Proposal_Discussion,Builders Association,0,1,"Supports affordable housing for workers, which benefits large vessel operations.",,NA,NA
+participant,affordable_housing_Meeting_6_Sites_Proposal_Discussion,Saltwater Serenades,0,-1,Conflicts with tourism-focused short-term rentals.,,NA,NA
+about,fish_vacuum_Meeting_3_Report_Discussion,fish_vacuum_Meeting_3_Report,0,NA,NA,,completed,NA
+about,fish_vacuum_Meeting_3_Report_Discussion,fish_vacuum,0,NA,NA,,NA,NA
+participant,fish_vacuum_Meeting_3_Report_Discussion,Teddy Goldstein,0,0.5,Useful for fishing operations but may have environmental concerns.,,NA,NA
+about,affordable_housing_Travel_Waveside_Townhomes_Completed_Discussion,affordable_housing_Travel_Waveside_Townhomes,0,NA,NA,,completed,NA
+about,affordable_housing_Travel_Waveside_Townhomes_Completed_Discussion,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Travel_Waveside_Townhomes_Completed_Discussion,Ed Helpsford,0,1,Feels committee should be doing more for blue-collar workers. Nephew is having trouble finding housing,,NA,NA
+refers_to,affordable_housing_Travel_Waveside_Townhomes_Completed_Discussion,48468290,0,NA,NA,,NA,NA
+plan,affordable_housing_Travel_Tidewater_Flats,affordable_housing,0,NA,NA,,NA,NA
+travel,affordable_housing_Travel_Tidewater_Flats,48480127,0,NA,NA,,NA,NA
+participant,affordable_housing_Travel_Tidewater_Flats,Teddy Goldstein,0,1,Strongly supports affordable housing for workers.,,NA,NA
+part_of,Meeting_4,deep_fishing_dock_Meeting_4_Findings_Report_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_4,deep_fishing_dock_Meeting_4_Recommendation_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_4,deep_fishing_dock_Meeting_4_Findings_Report,0,NA,NA,,NA,NA
+part_of,Meeting_4,deep_fishing_dock_Meeting_4_Recommendation,0,NA,NA,,NA,NA
+part_of,Meeting_4,new_crane_lomark_Meeting_4_Cost_Analysis_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_4,new_crane_lomark_Meeting_4_Cost_Analysis,0,NA,NA,,NA,NA
+part_of,Meeting_4,renaming_park_himark_Meeting_4_Name_Ideas_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_4,renaming_park_himark_Meeting_4_Name_Ideas,0,NA,NA,,NA,NA
+about,fish_vacuum_Meeting_2_Cost_Benefit_Analysis_Discussion,fish_vacuum_Meeting_2_Cost_Benefit_Analysis,0,NA,NA,,completed,NA
+about,fish_vacuum_Meeting_2_Cost_Benefit_Analysis_Discussion,fish_vacuum,0,NA,NA,,NA,NA
+participant,fish_vacuum_Meeting_2_Cost_Benefit_Analysis_Discussion,High Seas Fishing Inc.,0,1,"Small vessels are the backbone of the company, and this improves operations.",,NA,NA
+plan,waterfront_market_Meeting_7_Benefits_Feasibility,waterfront_market,0,NA,NA,,NA,NA
+participant,waterfront_market_Meeting_7_Benefits_Feasibility,Ed Helpsford,0,1,Strongly supports as it could benefit small vessel,,NA,NA
+plan,name_inspection_office_Meeting_8_Importance,name_inspection_office,0,NA,NA,,NA,NA
+participant,name_inspection_office_Meeting_8_Importance,High Seas Fishing Inc.,0,0,Symbolic gesture with no direct impact on fishing or vessel operations.,,NA,NA
+part_of,Meeting_3,deep_fishing_dock_Meeting_3_Maintenance_Plan_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_3,deep_fishing_dock_Meeting_3_Maintenance_Plan,0,NA,NA,,NA,NA
+part_of,Meeting_3,fish_vacuum_Meeting_3_Report_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_3,fish_vacuum_Meeting_3_Report,0,NA,NA,,NA,NA
+part_of,Meeting_3,low_volume_crane_Meeting_3_Proposal_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_3,low_volume_crane_Meeting_3_Proposal,0,NA,NA,,NA,NA
+plan,concert_Meeting_16_Road_Closures,concert,0,NA,NA,,NA,NA
+participant,concert_Meeting_16_Road_Closures,Ed Helpsford,0,0.5,Believes concerts can bring community together but cautious about potential disruptions.,,NA,NA
+plan,new_crane_lomark_Meeting_5_Cost_Impact_Report,new_crane_lomark,0,NA,NA,,NA,NA
+participant,new_crane_lomark_Meeting_5_Cost_Impact_Report,Teddy Goldstein,0,1,Essential for improving efficiency in fishing operations.,,NA,NA
+about,expanding_tourist_wharf_Meeting_9_Start_Report_Discussion,expanding_tourist_wharf_Meeting_9_Report,0,NA,NA,,planned,NA
+about,expanding_tourist_wharf_Meeting_9_Start_Report_Discussion,expanding_tourist_wharf,0,NA,NA,,NA,NA
+participant,expanding_tourist_wharf_Meeting_9_Start_Report_Discussion,Teddy Goldstein,0,-0.5,Seen as prioritizing tourism over fishing-related infrastructure.,,NA,NA
+participant,expanding_tourist_wharf_Meeting_9_Start_Report_Discussion,Seal,0,0.1,"Seems like headache, but if other people are willing to do the work.",,NA,NA
+part_of,Meeting_6,affordable_housing_Meeting_6_Sites_Proposal_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_6,affordable_housing_Meeting_6_Sites_Proposal,0,NA,NA,,NA,NA
+plan,new_crane_lomark_Meeting_8_Share_Findings,new_crane_lomark,0,NA,NA,,NA,NA
+participant,new_crane_lomark_Meeting_8_Share_Findings,Teddy Goldstein,0,1,Essential for improving efficiency in fishing operations.,,NA,NA
+plan,expanding_tourist_wharf_Meeting_9_Report,expanding_tourist_wharf,0,NA,NA,,NA,NA
+participant,expanding_tourist_wharf_Meeting_9_Report,Teddy Goldstein,0,-0.5,Seen as prioritizing tourism over fishing-related infrastructure.,,NA,NA
+participant,expanding_tourist_wharf_Meeting_9_Report,Seal,0,0.1,"Seems like headache, but if other people are willing to do the work.",,NA,NA
+plan,affordable_housing_Meeting_9_Invite_Developers,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_9_Invite_Developers,Builders Association,0,1,"Supports affordable housing for workers, which benefits large vessel operations.",,NA,NA
+participant,affordable_housing_Meeting_9_Invite_Developers,Industrial Shipping,0,1,"Supports affordable housing for workers, which benefits large vessel operations.",,NA,NA
+about,name_harbor_area_Meeting_10_Historical_Significance_Discussion,name_harbor_area_Meeting_10_Historical_Significance,0,NA,NA,,completed,NA
+about,name_harbor_area_Meeting_10_Historical_Significance_Discussion,name_harbor_area,0,NA,NA,,NA,NA
+participant,name_harbor_area_Meeting_10_Historical_Significance_Discussion,Daughters of Port Grove,0,0,Symbolic gesture with no direct impact on tourism or vessel operations.,,NA,NA
+about,expanding_tourist_wharf_Meeting_10_Report_Update_Discussion,expanding_tourist_wharf_Meeting_9_Report,0,NA,NA,,in_progress,NA
+about,expanding_tourist_wharf_Meeting_10_Report_Update_Discussion,expanding_tourist_wharf,0,NA,NA,,NA,NA
+participant,expanding_tourist_wharf_Meeting_10_Report_Update_Discussion,Teddy Goldstein,0,-0.5,Seen as prioritizing tourism over fishing-related infrastructure.,,NA,NA
+about,statue_john_smoth_Travel_The_Bait_Stich_Discussion,statue_john_smoth_Travel_The_Bait_Stich,0,NA,NA,,introduced,NA
+about,statue_john_smoth_Travel_The_Bait_Stich_Discussion,statue_john_smoth,0,NA,NA,,NA,NA
+participant,statue_john_smoth_Travel_The_Bait_Stich_Discussion,Seal,0,0.2,Appreciates historical recognition but sees limited practical benefit.,,NA,NA
+refers_to,statue_john_smoth_Travel_The_Bait_Stich_Discussion,2519420987,0,NA,NA,,NA,NA
+part_of,Meeting_10,expanding_tourist_wharf_Meeting_10_Report_Update_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_10,affordable_housing_Travel_Tidewater_Flats_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_10,affordable_housing_Meeting_10_Travel_Findings_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_10,affordable_housing_Meeting_10_Housing_Proposal,0,NA,NA,,NA,NA
+part_of,Meeting_10,name_harbor_area_Meeting_10_Historical_Significance_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_10,name_harbor_area_Meeting_10_Historical_Significance,0,NA,NA,,NA,NA
+about,affordable_housing_Travel_Tidewater_Flats_Discussion,affordable_housing_Travel_Tidewater_Flats,0,NA,NA,,planned,NA
+about,affordable_housing_Travel_Tidewater_Flats_Discussion,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Travel_Tidewater_Flats_Discussion,Teddy Goldstein,0,1,Strongly supports affordable housing for workers.,,NA,NA
+refers_to,affordable_housing_Travel_Tidewater_Flats_Discussion,48480127,0,NA,NA,,NA,NA
+about,renaming_park_himark_Meeting_4_Name_Ideas_Discussion,renaming_park_himark_Meeting_4_Name_Ideas,0,NA,NA,,planned,NA
+about,renaming_park_himark_Meeting_4_Name_Ideas_Discussion,renaming_park_himark,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Meeting_4_Name_Ideas_Discussion,PTA,0,0,Symbolic gesture with no direct impact on children or education.,,NA,NA
+plan,new_crane_lomark_Meeting_4_Cost_Analysis,new_crane_lomark,0,NA,NA,,NA,NA
+participant,new_crane_lomark_Meeting_4_Cost_Analysis,Industrial Shipping,0,1,"Primarily benefits large vessel operations, which are essential for the organization.",,NA,NA
+participant,new_crane_lomark_Meeting_4_Cost_Analysis,Tours Central Ticketing,0,-1,"Primarily benefits fishing operations, not tourism.",,NA,NA
+participant,new_crane_lomark_Meeting_4_Cost_Analysis,Saltwater Serenades,0,-1,"Primarily benefits fishing operations, not tourism.",,NA,NA
+about,new_crane_lomark_Meeting_8_Share_Findings_Discussion,new_crane_lomark_Meeting_8_Share_Findings,0,NA,NA,,planned,NA
+about,new_crane_lomark_Meeting_8_Share_Findings_Discussion,new_crane_lomark,0,NA,NA,,NA,NA
+participant,new_crane_lomark_Meeting_8_Share_Findings_Discussion,Teddy Goldstein,0,1,Essential for improving efficiency in fishing operations.,,NA,NA
+about,affordable_housing_Travel_Tidewater_Flats_Completed_Discussion,affordable_housing_Travel_Tidewater_Flats,0,NA,NA,,completed,NA
+about,affordable_housing_Travel_Tidewater_Flats_Completed_Discussion,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Travel_Tidewater_Flats_Completed_Discussion,Teddy Goldstein,0,1,Strongly supports affordable housing for workers.,,NA,NA
+refers_to,affordable_housing_Travel_Tidewater_Flats_Completed_Discussion,48480127,0,NA,NA,,NA,NA
+about,affordable_housing_Meeting_8_Gather_Feedback_Discussion,affordable_housing_Meeting_8_Feedback,0,NA,NA,,planned,NA
+about,affordable_housing_Meeting_8_Gather_Feedback_Discussion,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_8_Gather_Feedback_Discussion,Industrial Shipping,0,1,"Supports affordable housing for workers, which benefits large vessel operations.",,NA,NA
+participant,affordable_housing_Meeting_8_Gather_Feedback_Discussion,Ed Helpsford,0,1,Feels committee should be doing more for blue-collar workers. Nephew is having trouble finding housing,,NA,NA
+plan,deep_fishing_dock_Meeting_4_Recommendation,deep_fishing_dock,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_4_Recommendation,Teddy Goldstein,0,NA,NA,,NA,NA
+plan,fish_vacuum_Meeting_2_Cost_Benefit_Analysis,fish_vacuum,0,NA,NA,,NA,NA
+participant,fish_vacuum_Meeting_2_Cost_Benefit_Analysis,High Seas Fishing Inc.,0,1,"Small vessels are the backbone of the company, and this improves operations.",,NA,NA
+about,name_inspection_office_Meeting_8_Importance_Discussion,name_inspection_office_Meeting_8_Importance,0,NA,NA,,in_progress,NA
+about,name_inspection_office_Meeting_8_Importance_Discussion,name_inspection_office,0,NA,NA,,NA,NA
+participant,name_inspection_office_Meeting_8_Importance_Discussion,High Seas Fishing Inc.,0,0,Symbolic gesture with no direct impact on fishing or vessel operations.,,NA,NA
+about,name_inspection_office_Meeting_9_Community_Vote_Discussion,name_inspection_office_Meeting_9_Community_Vote,0,NA,NA,,planned,NA
+about,name_inspection_office_Meeting_9_Community_Vote_Discussion,name_inspection_office,0,NA,NA,,NA,NA
+participant,name_inspection_office_Meeting_9_Community_Vote_Discussion,Ed Helpsford,0,0,Supportive but also feels it is a distraction,,NA,NA
+about,new_crane_lomark_Meeting_4_Cost_Analysis_Discussion,new_crane_lomark_Meeting_4_Cost_Analysis,0,NA,NA,,completed,NA
+about,new_crane_lomark_Meeting_4_Cost_Analysis_Discussion,new_crane_lomark,0,NA,NA,,NA,NA
+participant,new_crane_lomark_Meeting_4_Cost_Analysis_Discussion,Industrial Shipping,0,1,"Primarily benefits large vessel operations, which are essential for the organization.",,NA,NA
+participant,new_crane_lomark_Meeting_4_Cost_Analysis_Discussion,Tours Central Ticketing,0,-1,"Primarily benefits fishing operations, not tourism.",,NA,NA
+participant,new_crane_lomark_Meeting_4_Cost_Analysis_Discussion,Saltwater Serenades,0,-1,"Primarily benefits fishing operations, not tourism.",,NA,NA
+about,heritage_walking_tour_Meeting_7_Discussion,heritage_walking_tour_Meeting_7_Outline,0,NA,NA,,completed,NA
+about,heritage_walking_tour_Meeting_7_Discussion,heritage_walking_tour,0,NA,NA,,NA,NA
+participant,heritage_walking_tour_Meeting_7_Discussion,Daughters of Port Grove,0,0.5,Believes it will enhance the cultural appeal and attract more visitors.,,NA,NA
+about,expanding_tourist_wharf_Meeting_7_Initial_Views_Discussion,expanding_tourist_wharf,0,NA,NA,,NA,NA
+participant,expanding_tourist_wharf_Meeting_7_Initial_Views_Discussion,Tours Central Ticketing,0,1,More tourism so more tickets sold.,,NA,NA
+participant,expanding_tourist_wharf_Meeting_7_Initial_Views_Discussion,Paackland Container Inc.,0,-0.5,Tourism is a competitor for the same resources.,,NA,NA
+participant,expanding_tourist_wharf_Meeting_7_Initial_Views_Discussion,Seal,0,0.1,"Seems like headache, but if other people are willing to do the work.",,NA,NA
+about,expanding_tourist_wharf_Meeting_11_Report_Update_Discussion,expanding_tourist_wharf_Meeting_9_Report,0,NA,NA,,Completed,NA
+about,expanding_tourist_wharf_Meeting_11_Report_Update_Discussion,expanding_tourist_wharf,0,NA,NA,,NA,NA
+participant,expanding_tourist_wharf_Meeting_11_Report_Update_Discussion,Teddy Goldstein,0,-0.5,Seen as prioritizing tourism over fishing-related infrastructure.,,NA,NA
+about,waterfront_market_Meeting_9_Report,waterfront_market,0,NA,NA,,NA,NA
+participant,waterfront_market_Meeting_9_Report,Ed Helpsford,0,1,Strongly supports as it could benefit small vessel,,NA,NA
+plan,fish_vacuum_Meeting_1_Introduction,fish_vacuum,0,NA,NA,,NA,NA
+participant,fish_vacuum_Meeting_1_Introduction,Seal,0,0,Balanced view on new technology applications.,,NA,NA
+participant,fish_vacuum_Meeting_1_Introduction,High Seas Fishing Inc.,0,1,"Small vessels are the backbone of the company, and this improves operations.",,NA,NA
+part_of,Meeting_7,expanding_tourist_wharf_Meeting_7_Initial_Views_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_7,affordable_housing_Meeting_7_Debate_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_7,affordable_housing_Travel_Waveside_Townhomes,0,NA,NA,,NA,NA
+part_of,Meeting_7,affordable_housing_Meeting_7_Debate,0,NA,NA,,NA,NA
+part_of,Meeting_7,heritage_walking_tour_Meeting_7_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_7,heritage_walking_tour_Meeting_7_Outline,0,NA,NA,,NA,NA
+part_of,Meeting_7,waterfront_market_Meeting_7_Benefits_Feasibility,0,NA,NA,,NA,NA
+part_of,Meeting_7,concert_Meeting_7_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_7,concert_Meeting_7_Concert_Issues,0,NA,NA,,NA,NA
+part_of,Meeting_2,deep_fishing_dock_Meeting_2_Importance_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_2,fish_vacuum_Meeting_2_Cost_Benefit_Analysis_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_2,fish_vacuum_Meeting_2_Cost_Benefit_Analysis,0,NA,NA,,NA,NA
+part_of,Meeting_11,expanding_tourist_wharf_Meeting_11_Report_Update_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,expanding_tourist_wharf_Meeting_8_Expand_Ideas_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,statue_john_smoth_Meeting_8_Proposal_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,statue_john_smoth_Meeting_8_Proposal,0,NA,NA,,NA,NA
+part_of,Meeting_8,new_crane_lomark_Meeting_8_Share_Findings_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,new_crane_lomark_Meeting_8_Share_Findings,0,NA,NA,,NA,NA
+part_of,Meeting_8,low_volume_crane_Travel_Harbor_Route_Solutions_Completed_Discussion_Crane,0,NA,NA,,NA,NA
+part_of,Meeting_8,low_volume_crane_Meeting_8_Report_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,low_volume_crane_Meeting_8_Report,0,NA,NA,,NA,NA
+part_of,Meeting_8,affordable_housing_Travel_Waveside_Townhomes_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,affordable_housing_Meeting_8_Gather_Feedback_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,affordable_housing_Meeting_8_Feedback,0,NA,NA,,NA,NA
+part_of,Meeting_8,name_inspection_office_Meeting_8_Importance_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,name_inspection_office_Meeting_8_Importance,0,NA,NA,,NA,NA
+about,marine_life_deck_Meeting_12_Environmental_Impact_Report_Discussion,marine_life_deck_Meeting_12_Environmental_Impact_Report,0,NA,NA,,planned,NA
+about,marine_life_deck_Meeting_12_Environmental_Impact_Report_Discussion,marine_life_deck,0,NA,NA,,NA,NA
+participant,marine_life_deck_Meeting_12_Environmental_Impact_Report_Discussion,Teddy Goldstein,0,-0.5,Prefers resources to be allocated toward the fishing industry.,,NA,NA
+about,low_volume_crane_Meeting_8_Report_Discussion,low_volume_crane_Meeting_8_Report,0,NA,NA,,planned,NA
+about,low_volume_crane_Meeting_8_Report_Discussion,low_volume_crane,0,NA,NA,,NA,NA
+participant,low_volume_crane_Meeting_8_Report_Discussion,Seal,0,0.1,Recognizes the crane's benefit to small-scale operations.,,NA,NA
+plan,affordable_housing_Meeting_10_Housing_Proposal,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_10_Housing_Proposal,Ed Helpsford,0,1,Feels committee should be doing more for blue-collar workers. Nephew is having trouble finding housing,,NA,NA
+plan,name_harbor_area_Meeting_10_Historical_Significance,name_harbor_area,0,NA,NA,,NA,NA
+participant,name_harbor_area_Meeting_10_Historical_Significance,Daughters of Port Grove,0,0,Symbolic gesture with no direct impact on tourism or vessel operations.,,NA,NA
+plan,concert_Meeting_7_Concert_Issues,concert,0,NA,NA,,NA,NA
+participant,concert_Meeting_7_Concert_Issues,Ed Helpsford,0,0.5,Believes concerts can bring community together but cautious about potential disruptions.,,NA,NA
+about,deep_fishing_dock_Meeting_4_Recommendation_Discussion,deep_fishing_dock_Meeting_4_Recommendation,0,NA,NA,,planned,NA
+about,deep_fishing_dock_Meeting_4_Recommendation_Discussion,deep_fishing_dock,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_4_Recommendation_Discussion,Teddy Goldstein,0,NA,NA,,NA,NA
+about,deep_fishing_dock_Meeting_4_Findings_Report_Discussion,deep_fishing_dock_Meeting_4_Findings_Report,0,NA,NA,,planned,NA
+about,deep_fishing_dock_Meeting_4_Findings_Report_Discussion,deep_fishing_dock,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_4_Findings_Report_Discussion,Industrial Shipping,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_4_Findings_Report_Discussion,Teddy Goldstein,0,NA,NA,,NA,NA
+plan,heritage_walking_tour_Meeting_7_Outline,heritage_walking_tour,0,NA,NA,,NA,NA
+participant,heritage_walking_tour_Meeting_7_Outline,Daughters of Port Grove,0,0.5,Believes it will enhance the cultural appeal and attract more visitors.,,NA,NA
+about,concert_Meeting_16_Road_Closures_Discussion,concert_Meeting_16_Road_Closures,0,NA,NA,,completed,NA
+about,concert_Meeting_16_Road_Closures_Discussion,concert,0,NA,NA,,NA,NA
+participant,concert_Meeting_16_Road_Closures_Discussion,Ed Helpsford,0,0.5,Believes concerts can bring community together but cautious about potential disruptions.,,NA,NA
+plan,name_harbor_area_Meeting_12_Public_Opinion,name_harbor_area,0,NA,NA,,NA,NA
+participant,name_harbor_area_Meeting_12_Public_Opinion,Ed Helpsford,0,0,Supportive but also feels it is a distraction,,NA,NA
+plan,affordable_housing_Meeting_7_Debate,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_7_Debate,Ed Helpsford,0,1,Feels committee should be doing more for blue-collar workers. Nephew is having trouble finding housing,,NA,NA
+plan,statue_john_smoth_Travel_The_Bait_Stich,statue_john_smoth,0,NA,NA,,NA,NA
+travel,statue_john_smoth_Travel_The_Bait_Stich,2519420987,0,NA,NA,,NA,NA
+participant,statue_john_smoth_Travel_The_Bait_Stich,Seal,0,0.2,Appreciates historical recognition but sees limited practical benefit.,,NA,NA
+plan,fish_vacuum_Meeting_3_Report,fish_vacuum,0,NA,NA,,NA,NA
+participant,fish_vacuum_Meeting_3_Report,Teddy Goldstein,0,0.5,Useful for fishing operations but may have environmental concerns.,,NA,NA
+plan,low_volume_crane_Travel_Harbor_Route_Solutions,low_volume_crane,0,NA,NA,,NA,NA
+travel,low_volume_crane_Travel_Harbor_Route_Solutions,35889363,0,NA,NA,,NA,NA
+participant,low_volume_crane_Travel_Harbor_Route_Solutions,Seal,0,0.1,Recognizes the crane's benefit to small-scale operations.,,NA,NA
+plan,affordable_housing_Meeting_6_Sites_Proposal,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_6_Sites_Proposal,Builders Association,0,1,"Supports affordable housing for workers, which benefits large vessel operations.",,NA,NA
+participant,affordable_housing_Meeting_6_Sites_Proposal,Saltwater Serenades,0,-1,Conflicts with tourism-focused short-term rentals.,,NA,NA
+about,name_harbor_area_Meeting_12_Public_Opinion_Discussion,name_harbor_area_Meeting_12_Public_Opinion,0,NA,NA,,planned,NA
+about,name_harbor_area_Meeting_12_Public_Opinion_Discussion,name_harbor_area,0,NA,NA,,NA,NA
+participant,name_harbor_area_Meeting_12_Public_Opinion_Discussion,Ed Helpsford,0,0,Supportive but also feels it is a distraction,,NA,NA
+about,affordable_housing_Meeting_7_Debate_Discussion,affordable_housing_Meeting_7_Debate,0,NA,NA,,completed,NA
+about,affordable_housing_Meeting_7_Debate_Discussion,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_7_Debate_Discussion,Ed Helpsford,0,1,Feels committee should be doing more for blue-collar workers. Nephew is having trouble finding housing,,NA,NA
+plan,deep_fishing_dock_Meeting_4_Findings_Report,deep_fishing_dock,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_4_Findings_Report,Industrial Shipping,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_4_Findings_Report,Teddy Goldstein,0,NA,NA,,NA,NA
+plan,low_volume_crane_Meeting_3_Proposal,low_volume_crane,0,NA,NA,,NA,NA
+participant,low_volume_crane_Meeting_3_Proposal,Ed Helpsford,0,1,"Beneficial for small time fishers, who he feels are often overlooked",,NA,NA
+about,fish_vacuum_Meeting_1_Introduction_Discussion,fish_vacuum_Meeting_1_Introduction,0,NA,NA,,completed,NA
+about,fish_vacuum_Meeting_1_Introduction_Discussion,fish_vacuum,0,NA,NA,,NA,NA
+participant,fish_vacuum_Meeting_1_Introduction_Discussion,Teddy Goldstein,0,0.5,Useful for fishing operations but may have environmental concerns.,,NA,NA
+participant,fish_vacuum_Meeting_1_Introduction_Discussion,High Seas Fishing Inc.,0,1,"Small vessels are the backbone of the company, and this improves operations.",,NA,NA
+plan,name_inspection_office_Meeting_9_Community_Vote,name_inspection_office,0,NA,NA,,NA,NA
+participant,name_inspection_office_Meeting_9_Community_Vote,Ed Helpsford,0,0,Supportive but also feels it is a distraction,,NA,NA
+about,expanding_tourist_wharf_Meeting_8_Expand_Ideas_Discussion,expanding_tourist_wharf,0,NA,NA,,NA,NA
+participant,expanding_tourist_wharf_Meeting_8_Expand_Ideas_Discussion,Tours Central Ticketing,0,1,More tourism so more tickets sold.,,NA,NA
+participant,expanding_tourist_wharf_Meeting_8_Expand_Ideas_Discussion,Paackland Container Inc.,0,-0.5,Tourism is a competitor for the same resources.,,NA,NA
+participant,expanding_tourist_wharf_Meeting_8_Expand_Ideas_Discussion,Seal,0,0.1,"Seems like headache, but if other people are willing to do the work.",,NA,NA
+about,low_volume_crane_Travel_Harbor_Route_Solutions_Discussion,low_volume_crane_Travel_Harbor_Route_Solutions,0,NA,NA,,planned,NA
+about,low_volume_crane_Travel_Harbor_Route_Solutions_Discussion,low_volume_crane,0,NA,NA,,NA,NA
+participant,low_volume_crane_Travel_Harbor_Route_Solutions_Discussion,Seal,0,0.1,Recognizes the crane's benefit to small-scale operations.,,NA,NA
+refers_to,low_volume_crane_Travel_Harbor_Route_Solutions_Discussion,35889363,0,NA,NA,,NA,NA
+part_of,Meeting_1,fish_vacuum_Meeting_1_Introduction_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_1,fish_vacuum_Meeting_1_Introduction,0,NA,NA,,NA,NA
+plan,renaming_park_himark_Meeting_4_Name_Ideas,renaming_park_himark,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Meeting_4_Name_Ideas,PTA,0,0,Symbolic gesture with no direct impact on children or education.,,NA,NA
+part_of,Meeting_12,name_harbor_area_Meeting_12_Public_Opinion_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_12,name_harbor_area_Meeting_12_Public_Opinion,0,NA,NA,,NA,NA
+part_of,Meeting_12,marine_life_deck_Meeting_12_Environmental_Impact_Report_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_12,marine_life_deck_Meeting_12_Environmental_Impact_Report,0,NA,NA,,NA,NA
+about,deep_fishing_dock_Meeting_2_Importance_Discussion,deep_fishing_dock,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_2_Importance_Discussion,High Seas Fishing Inc.,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_2_Importance_Discussion,Tours Central Ticketing,0,NA,NA,,NA,NA
+about,new_crane_lomark_Meeting_5_Cost_Impact_Report_Discussion,new_crane_lomark_Meeting_5_Cost_Impact_Report,0,NA,NA,,planned,NA
+about,new_crane_lomark_Meeting_5_Cost_Impact_Report_Discussion,new_crane_lomark,0,NA,NA,,NA,NA
+participant,new_crane_lomark_Meeting_5_Cost_Impact_Report_Discussion,Teddy Goldstein,0,1,Essential for improving efficiency in fishing operations.,,NA,NA
+plan,affordable_housing_Meeting_8_Feedback,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_8_Feedback,Industrial Shipping,0,1,"Supports affordable housing for workers, which benefits large vessel operations.",,NA,NA
+participant,affordable_housing_Meeting_8_Feedback,Ed Helpsford,0,1,Feels committee should be doing more for blue-collar workers. Nephew is having trouble finding housing,,NA,NA
+plan,statue_john_smoth_Meeting_8_Proposal,statue_john_smoth,0,NA,NA,,NA,NA
+participant,statue_john_smoth_Meeting_8_Proposal,Daughters of Port Grove,0,1,Historical recognition aligns with tourism interests.,,NA,NA
+part_of,Meeting_5,new_crane_lomark_Meeting_5_Cost_Impact_Report_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_5,new_crane_lomark_Meeting_5_Cost_Impact_Report,0,NA,NA,,NA,NA
+part_of,Meeting_5,low_volume_crane_Travel_Harbor_Route_Solutions_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_5,low_volume_crane_Travel_Harbor_Route_Solutions,0,NA,NA,,NA,NA
+about,deep_fishing_dock_Meeting_3_Maintenance_Plan_Discussion,deep_fishing_dock_Meeting_3_Maintenance_Plan,0,NA,NA,,planned,NA
+about,deep_fishing_dock_Meeting_3_Maintenance_Plan_Discussion,deep_fishing_dock,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_3_Maintenance_Plan_Discussion,Teddy Goldstein,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_3_Maintenance_Plan_Discussion,Industrial Shipping,0,NA,NA,,NA,NA
+about,statue_john_smoth_Meeting_8_Proposal_Discussion,statue_john_smoth_Meeting_8_Proposal,0,NA,NA,,introduced,NA
+about,statue_john_smoth_Meeting_8_Proposal_Discussion,statue_john_smoth,0,NA,NA,,NA,NA
+participant,statue_john_smoth_Meeting_8_Proposal_Discussion,Daughters of Port Grove,0,1,Historical recognition aligns with tourism interests.,,NA,NA
+NA,trip_146,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_146,36988183,0,NA,NA,,NA,0040-04-06 07:36:00
+NA,trip_146,Suna Spit,0,NA,NA,,NA,0040-04-06 07:36:00
+NA,trip_146,9196630064,0,NA,NA,,NA,0040-04-06 06:54:00
+NA,trip_146,30179401,0,NA,NA,,NA,0040-04-06 06:54:00
+NA,trip_146,4978801697,0,NA,NA,,NA,0040-04-06 06:54:00
+NA,trip_188,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_188,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-20 21:00:00
+NA,trip_188,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-20 19:00:00
+NA,trip_188,582184557,0,NA,NA,,NA,0040-06-20 14:13:00
+NA,trip_188,581853838,0,NA,NA,,NA,0040-06-20 14:13:00
+NA,trip_188,581717431,0,NA,NA,,NA,0040-06-20 14:25:00
+NA,trip_188,582261047,0,NA,NA,,NA,0040-06-20 14:38:00
+NA,trip_188,48511194,0,NA,NA,,NA,0040-06-20 21:00:00
+NA,trip_33,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_33,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-04 19:00:00
+NA,trip_33,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-04 13:00:00
+NA,trip_33,48475647,0,NA,NA,,NA,0040-06-04 09:19:12
+NA,trip_47,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_47,36988183,0,NA,NA,,NA,0040-04-10 09:31:00
+NA,trip_47,Suna Spit,0,NA,NA,,NA,0040-04-10 09:31:00
+NA,trip_47,30179401,0,NA,NA,,NA,0040-04-10 07:50:00
+NA,trip_47,4978801697,0,NA,NA,,NA,0040-04-10 08:38:00
+NA,trip_47,30188848,0,NA,NA,,NA,0040-04-10 09:31:00
+NA,trip_177,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_177,Lomark Ferry Terminal,0,NA,NA,,NA,0040-04-01 21:00:00
+NA,trip_177,Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-01 15:00:00
+NA,trip_177,37826661,0,NA,NA,,NA,0040-04-01 12:04:00
+NA,trip_177,37828755,0,NA,NA,,NA,0040-04-01 11:35:00
+NA,trip_177,37866955,0,NA,NA,,NA,0040-04-01 11:49:00
+NA,trip_177,48580702,0,NA,NA,,NA,0040-04-01 21:00:00
+NA,trip_274,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_274,48591000,0,NA,NA,,NA,0040-05-10 08:57:00
+NA,trip_274,12629409643,0,NA,NA,,NA,0040-05-10 07:45:00
+NA,trip_20,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_20,36988183,0,NA,NA,,NA,0040-05-27 06:46:00
+NA,trip_20,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-27 13:00:00
+NA,trip_65,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_65,36988183,0,NA,NA,,NA,0040-05-23 08:27:00
+NA,trip_65,2519420987,0,NA,NA,,NA,0040-05-23 07:22:00
+NA,trip_65,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-23 07:22:00
+NA,trip_114,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_114,48534978,0,NA,NA,,NA,0040-05-14 10:21:00
+NA,trip_227,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_227,37866955,0,NA,NA,,NA,0040-07-16 08:00:00
+NA,trip_224,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_224,Suna Spit,0,NA,NA,,NA,0040-05-18 07:37:00
+NA,trip_224,30179401,0,NA,NA,,NA,0040-05-18 07:21:00
+NA,trip_224,9196630064,0,NA,NA,,NA,0040-05-18 07:37:00
+NA,trip_224,48511194,0,NA,NA,,NA,0040-05-18 07:37:00
+NA,trip_106,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_106,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-19 19:00:00
+NA,trip_106,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-04-19 13:00:00
+NA,trip_106,Port Grove Ferry Terminal,0,NA,NA,,NA,0040-04-19 12:00:00
+NA,trip_106,36988183,0,NA,NA,,NA,0040-04-19 11:57:00
+NA,trip_106,Suna Spit,0,NA,NA,,NA,0040-04-19 11:57:00
+NA,trip_106,9196630064,0,NA,NA,,NA,0040-04-19 11:57:00
+NA,trip_106,30188848,0,NA,NA,,NA,0040-04-19 11:26:00
+NA,trip_267,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_267,36988183,0,NA,NA,,NA,0040-04-08 09:48:00
+NA,trip_267,Suna Spit,0,NA,NA,,NA,0040-04-08 09:48:00
+NA,trip_267,4978801697,0,NA,NA,,NA,0040-04-08 08:47:00
+NA,trip_267,30179401,0,NA,NA,,NA,0040-04-08 09:14:00
+NA,trip_267,Lomark Ferry Terminal,0,NA,NA,,NA,0040-04-08 08:47:00
+NA,trip_267,9196630064,0,NA,NA,,NA,0040-04-08 09:48:00
+NA,trip_116,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_116,Suna Spit,0,NA,NA,,NA,0040-06-01 07:07:00
+NA,trip_116,48591000,0,NA,NA,,NA,0040-06-01 07:39:00
+NA,trip_116,Lomark Ferry Terminal,0,NA,NA,,NA,0040-06-01 11:00:00
+NA,trip_116,Himark Ferry Terminal,0,NA,NA,,NA,0040-06-01 13:00:00
+NA,trip_116,30179401,0,NA,NA,,NA,0040-06-01 13:00:00
+NA,trip_116,30188848,0,NA,NA,,NA,0040-06-01 13:00:00
+NA,trip_22,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_22,35889122,0,NA,NA,,NA,0040-06-03 07:46:00
+NA,trip_22,36988183,0,NA,NA,,NA,0040-06-03 09:33:00
+NA,trip_138,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_138,35885796,0,NA,NA,,NA,0040-05-28 07:15:00
+NA,trip_138,36988183,0,NA,NA,,NA,0040-05-28 08:40:00
+NA,trip_178,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_178,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-22 19:00:00
+NA,trip_178,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-22 13:00:00
+NA,trip_178,Port Grove Ferry Terminal,0,NA,NA,,NA,0040-06-22 12:00:00
+NA,trip_178,36988183,0,NA,NA,,NA,0040-06-22 10:00:00
+NA,trip_178,Suna Spit,0,NA,NA,,NA,0040-06-22 10:23:00
+NA,trip_178,4978801697,0,NA,NA,,NA,0040-06-22 10:23:00
+NA,trip_178,2519420987,0,NA,NA,,NA,0040-06-22 11:48:00
+NA,trip_178,36988137,0,NA,NA,,NA,0040-06-22 10:23:00
+NA,trip_149,Seal,0,NA,NA,,NA,NA
+NA,trip_149,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-07 19:00:00
+NA,trip_149,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-07 13:00:00
+NA,trip_149,Port Grove Ferry Terminal,0,NA,NA,,NA,0040-05-07 10:00:00
+NA,trip_149,2519420987,0,NA,NA,,NA,0040-05-07 02:38:00
+NA,trip_149,36988183,0,NA,NA,,NA,0040-05-06 23:57:00
+NA,trip_149,35877808,0,NA,NA,,NA,0040-05-06 22:51:00

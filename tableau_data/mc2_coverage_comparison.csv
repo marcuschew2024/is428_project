@@ -1,0 +1,176 @@
+id,type,Topic_Key,Industry,filah,journalist,trout,In_FILAH,In_TROUT,In_Journalist,Coverage_Label,Topic_Label
+affordable_housing_Meeting_10_Housing_Proposal,plan,affordable_housing,neutral,0,1,1,False,True,True,Missing from FILAH,Affordable Housing
+affordable_housing_Meeting_10_Travel_Findings_Discussion,discussion,affordable_housing,neutral,0,1,1,False,True,True,Missing from FILAH,Affordable Housing
+affordable_housing_Meeting_6_Sites_Proposal,plan,affordable_housing,neutral,1,1,1,True,True,True,In All Datasets,Affordable Housing
+affordable_housing_Meeting_6_Sites_Proposal_Discussion,discussion,affordable_housing,neutral,1,1,1,True,True,True,In All Datasets,Affordable Housing
+affordable_housing_Meeting_7_Debate,plan,affordable_housing,neutral,1,1,1,True,True,True,In All Datasets,Affordable Housing
+affordable_housing_Meeting_7_Debate_Discussion,discussion,affordable_housing,neutral,1,1,1,True,True,True,In All Datasets,Affordable Housing
+affordable_housing_Meeting_8_Feedback,plan,affordable_housing,neutral,1,1,1,True,True,True,In All Datasets,Affordable Housing
+affordable_housing_Meeting_8_Gather_Feedback_Discussion,discussion,affordable_housing,neutral,1,1,1,True,True,True,In All Datasets,Affordable Housing
+affordable_housing_Meeting_9_Invite_Developers,plan,affordable_housing,neutral,1,1,1,True,True,True,In All Datasets,Affordable Housing
+affordable_housing_Meeting_9_Invite_Developers_Discussion,discussion,affordable_housing,neutral,1,1,1,True,True,True,In All Datasets,Affordable Housing
+affordable_housing_Travel_Tidewater_Flats,plan,affordable_housing,neutral,0,1,1,False,True,True,Missing from FILAH,Affordable Housing
+affordable_housing_Travel_Tidewater_Flats_Completed_Discussion,discussion,affordable_housing,neutral,0,1,1,False,True,True,Missing from FILAH,Affordable Housing
+affordable_housing_Travel_Tidewater_Flats_Discussion,discussion,affordable_housing,neutral,0,1,1,False,True,True,Missing from FILAH,Affordable Housing
+affordable_housing_Travel_Waveside_Townhomes,plan,affordable_housing,neutral,1,1,1,True,True,True,In All Datasets,Affordable Housing
+affordable_housing_Travel_Waveside_Townhomes_Completed_Discussion,discussion,affordable_housing,neutral,0,1,1,False,True,True,Missing from FILAH,Affordable Housing
+affordable_housing_Travel_Waveside_Townhomes_Discussion,discussion,affordable_housing,neutral,1,1,0,True,False,True,Missing from TROUT,Affordable Housing
+concert_Meeting_16_Communication_Complaints,plan,concert,tourism,0,1,0,False,False,True,Journalist-Only (Missing from both),Concert
+concert_Meeting_16_Communication_Complaints_Discussion,discussion,concert,tourism,0,1,0,False,False,True,Journalist-Only (Missing from both),Concert
+concert_Meeting_16_Feedback,plan,concert,tourism,0,1,0,False,False,True,Journalist-Only (Missing from both),Concert
+concert_Meeting_16_Feedback_Discussion,discussion,concert,tourism,0,1,0,False,False,True,Journalist-Only (Missing from both),Concert
+concert_Meeting_16_Road_Closures,plan,concert,tourism,0,1,1,False,True,True,Missing from FILAH,Concert
+concert_Meeting_16_Road_Closures_Discussion,discussion,concert,tourism,0,1,1,False,True,True,Missing from FILAH,Concert
+concert_Meeting_7_Concert_Issues,plan,concert,tourism,0,1,1,False,True,True,Missing from FILAH,Concert
+concert_Meeting_7_Discussion,discussion,concert,tourism,0,1,1,False,True,True,Missing from FILAH,Concert
+concert_Travel_Paakland_Elementary,plan,concert,tourism,0,1,0,False,False,True,Journalist-Only (Missing from both),Concert
+concert_Travel_Paakland_Elementary_Completed_Discussion,discussion,concert,tourism,0,1,0,False,False,True,Journalist-Only (Missing from both),Concert
+concert_Travel_Packland_Elementary_Discussion,discussion,concert,tourism,0,1,0,False,False,True,Journalist-Only (Missing from both),Concert
+deep_fishing_dock_Meeting_2_Importance_Discussion,discussion,deep_fishing_dock,fishing,1,1,1,True,True,True,In All Datasets,Deep Fishing Dock
+deep_fishing_dock_Meeting_3_Maintenance_Plan,plan,deep_fishing_dock,fishing,1,1,1,True,True,True,In All Datasets,Deep Fishing Dock
+deep_fishing_dock_Meeting_3_Maintenance_Plan_Discussion,discussion,deep_fishing_dock,fishing,1,1,1,True,True,True,In All Datasets,Deep Fishing Dock
+deep_fishing_dock_Meeting_4_Findings_Report,plan,deep_fishing_dock,fishing,1,1,1,True,True,True,In All Datasets,Deep Fishing Dock
+deep_fishing_dock_Meeting_4_Findings_Report_Discussion,discussion,deep_fishing_dock,fishing,1,1,1,True,True,True,In All Datasets,Deep Fishing Dock
+deep_fishing_dock_Meeting_4_Recommendation,plan,deep_fishing_dock,fishing,0,1,1,False,True,True,Missing from FILAH,Deep Fishing Dock
+deep_fishing_dock_Meeting_4_Recommendation_Discussion,discussion,deep_fishing_dock,fishing,0,1,1,False,True,True,Missing from FILAH,Deep Fishing Dock
+deep_fishing_dock_Travel_High_Seas_Fishing_Inc,plan,deep_fishing_dock,fishing,1,1,0,True,False,True,Missing from TROUT,Deep Fishing Dock
+deep_fishing_dock_Travel_High_Seas_Fishing_Inc_Completed_Discussion,discussion,deep_fishing_dock,fishing,1,1,0,True,False,True,Missing from TROUT,Deep Fishing Dock
+deep_fishing_dock_Travel_High_Seas_Fishing_Inc_Discussion,discussion,deep_fishing_dock,fishing,1,1,0,True,False,True,Missing from TROUT,Deep Fishing Dock
+expanding_tourist_wharf_Meeting_10_Report_Update_Discussion,discussion,expanding_tourist_wharf,tourism,0,1,1,False,True,True,Missing from FILAH,Expanding Tourist Wharf
+expanding_tourist_wharf_Meeting_11_Report_Update_Discussion,discussion,expanding_tourist_wharf,tourism,0,1,1,False,True,True,Missing from FILAH,Expanding Tourist Wharf
+expanding_tourist_wharf_Meeting_7_Initial_Views_Discussion,discussion,expanding_tourist_wharf,tourism,1,1,1,True,True,True,In All Datasets,Expanding Tourist Wharf
+expanding_tourist_wharf_Meeting_8_Expand_Ideas_Discussion,discussion,expanding_tourist_wharf,tourism,1,1,1,True,True,True,In All Datasets,Expanding Tourist Wharf
+expanding_tourist_wharf_Meeting_9_Report,plan,expanding_tourist_wharf,tourism,1,1,1,True,True,True,In All Datasets,Expanding Tourist Wharf
+expanding_tourist_wharf_Meeting_9_Start_Report_Discussion,discussion,expanding_tourist_wharf,tourism,1,1,1,True,True,True,In All Datasets,Expanding Tourist Wharf
+expanding_tourist_wharf_Travel_Harbor_Route_Solutions,plan,expanding_tourist_wharf,tourism,1,1,0,True,False,True,Missing from TROUT,Expanding Tourist Wharf
+expanding_tourist_wharf_Travel_Harbor_Route_Solutions_Completed_Discussion_Tourist,discussion,expanding_tourist_wharf,tourism,1,1,0,True,False,True,Missing from TROUT,Expanding Tourist Wharf
+expanding_tourist_wharf_Travel_Harbor_Route_Solutions_Discussion_Tourist,discussion,expanding_tourist_wharf,tourism,1,1,0,True,False,True,Missing from TROUT,Expanding Tourist Wharf
+fish_vacuum_Meeting_1_Introduction,plan,fish_vacuum,fishing,1,1,1,True,True,True,In All Datasets,Fish Vacuum
+fish_vacuum_Meeting_1_Introduction_Discussion,discussion,fish_vacuum,fishing,1,1,1,True,True,True,In All Datasets,Fish Vacuum
+fish_vacuum_Meeting_2_Cost_Benefit_Analysis,plan,fish_vacuum,fishing,1,1,1,True,True,True,In All Datasets,Fish Vacuum
+fish_vacuum_Meeting_2_Cost_Benefit_Analysis_Discussion,discussion,fish_vacuum,fishing,1,1,1,True,True,True,In All Datasets,Fish Vacuum
+fish_vacuum_Meeting_3_Report,plan,fish_vacuum,fishing,0,1,1,False,True,True,Missing from FILAH,Fish Vacuum
+fish_vacuum_Meeting_3_Report_Discussion,discussion,fish_vacuum,fishing,0,1,1,False,True,True,Missing from FILAH,Fish Vacuum
+fish_vacuum_Travel_Bay_Harvest_Corporation,plan,fish_vacuum,fishing,1,1,0,True,False,True,Missing from TROUT,Fish Vacuum
+fish_vacuum_Travel_Bay_Harvest_Corporation_Completed_Discussion,discussion,fish_vacuum,fishing,1,1,0,True,False,True,Missing from TROUT,Fish Vacuum
+fish_vacuum_Travel_Bay_Harvest_Corporation_Discussion,discussion,fish_vacuum,fishing,1,1,0,True,False,True,Missing from TROUT,Fish Vacuum
+heritage_walking_tour_Meeting_7_Discussion,discussion,heritage_walking_tour,tourism,1,1,1,True,True,True,In All Datasets,Heritage Walking Tour
+heritage_walking_tour_Meeting_7_Outline,plan,heritage_walking_tour,tourism,1,1,1,True,True,True,In All Datasets,Heritage Walking Tour
+heritage_walking_tour_Meeting_8_Proposal,plan,heritage_walking_tour,tourism,1,1,0,True,False,True,Missing from TROUT,Heritage Walking Tour
+heritage_walking_tour_Meeting_8_Proposal_Discussion,discussion,heritage_walking_tour,tourism,1,1,0,True,False,True,Missing from TROUT,Heritage Walking Tour
+heritage_walking_tour_Meeting_9_Report,plan,heritage_walking_tour,tourism,1,1,0,True,False,True,Missing from TROUT,Heritage Walking Tour
+heritage_walking_tour_Meeting_9_Report_Discussion,discussion,heritage_walking_tour,tourism,1,1,0,True,False,True,Missing from TROUT,Heritage Walking Tour
+heritage_walking_tour_Meeting_9_Take_Action,plan,heritage_walking_tour,tourism,1,1,0,True,False,True,Missing from TROUT,Heritage Walking Tour
+heritage_walking_tour_Meeting_9_Take_Action_Discussion,discussion,heritage_walking_tour,tourism,1,1,0,True,False,True,Missing from TROUT,Heritage Walking Tour
+heritage_walking_tour_Travel_Captain_Market,plan,heritage_walking_tour,tourism,1,1,0,True,False,True,Missing from TROUT,Heritage Walking Tour
+heritage_walking_tour_Travel_Captain_Market_Completed_Discussion,discussion,heritage_walking_tour,tourism,1,1,0,True,False,True,Missing from TROUT,Heritage Walking Tour
+heritage_walking_tour_Travel_Captain_Market_Discussion,discussion,heritage_walking_tour,tourism,1,1,0,True,False,True,Missing from TROUT,Heritage Walking Tour
+low_volume_crane_Meeting_3_Proposal,plan,low_volume_crane,fishing,0,1,1,False,True,True,Missing from FILAH,Low Volume Crane
+low_volume_crane_Meeting_3_Proposal_Discussion,discussion,low_volume_crane,fishing,0,1,1,False,True,True,Missing from FILAH,Low Volume Crane
+low_volume_crane_Meeting_8_Report,plan,low_volume_crane,fishing,1,1,1,True,True,True,In All Datasets,Low Volume Crane
+low_volume_crane_Meeting_8_Report_Discussion,discussion,low_volume_crane,fishing,1,1,1,True,True,True,In All Datasets,Low Volume Crane
+low_volume_crane_Travel_Haacklee_Assembly_Co,plan,low_volume_crane,fishing,1,1,0,True,False,True,Missing from TROUT,Low Volume Crane
+low_volume_crane_Travel_Haacklee_Assembly_Co_Completed_Discussion,discussion,low_volume_crane,fishing,1,1,0,True,False,True,Missing from TROUT,Low Volume Crane
+low_volume_crane_Travel_Haacklee_Assembly_Co_Discussion,discussion,low_volume_crane,fishing,1,1,0,True,False,True,Missing from TROUT,Low Volume Crane
+low_volume_crane_Travel_Harbor_Builders,plan,low_volume_crane,fishing,1,1,0,True,False,True,Missing from TROUT,Low Volume Crane
+low_volume_crane_Travel_Harbor_Builders_Completed_Discussion,discussion,low_volume_crane,fishing,1,1,0,True,False,True,Missing from TROUT,Low Volume Crane
+low_volume_crane_Travel_Harbor_Builders_Discussion,discussion,low_volume_crane,fishing,1,1,0,True,False,True,Missing from TROUT,Low Volume Crane
+low_volume_crane_Travel_Harbor_Route_Solutions,plan,low_volume_crane,fishing,1,1,1,True,True,True,In All Datasets,Low Volume Crane
+low_volume_crane_Travel_Harbor_Route_Solutions_Completed_Discussion_Crane,discussion,low_volume_crane,fishing,1,1,1,True,True,True,In All Datasets,Low Volume Crane
+low_volume_crane_Travel_Harbor_Route_Solutions_Discussion,discussion,low_volume_crane,fishing,1,1,1,True,True,True,In All Datasets,Low Volume Crane
+marine_life_deck_Meeting_10_Initial_Ideas,plan,marine_life_deck,tourism,1,1,0,True,False,True,Missing from TROUT,Marine Life Deck
+marine_life_deck_Meeting_10_Initial_Ideas_Discussion,discussion,marine_life_deck,tourism,1,1,0,True,False,True,Missing from TROUT,Marine Life Deck
+marine_life_deck_Meeting_11_Feedback,plan,marine_life_deck,tourism,1,1,0,True,False,True,Missing from TROUT,Marine Life Deck
+marine_life_deck_Meeting_11_Feedback_Discussion,discussion,marine_life_deck,tourism,1,1,0,True,False,True,Missing from TROUT,Marine Life Deck
+marine_life_deck_Meeting_12_Detailed_Proposal,plan,marine_life_deck,tourism,1,1,0,True,False,True,Missing from TROUT,Marine Life Deck
+marine_life_deck_Meeting_12_Detailed_Proposal_Discussion,discussion,marine_life_deck,tourism,1,1,0,True,False,True,Missing from TROUT,Marine Life Deck
+marine_life_deck_Meeting_12_Environmental_Impact_Report,plan,marine_life_deck,tourism,0,1,1,False,True,True,Missing from FILAH,Marine Life Deck
+marine_life_deck_Meeting_12_Environmental_Impact_Report_Discussion,discussion,marine_life_deck,tourism,0,1,1,False,True,True,Missing from FILAH,Marine Life Deck
+marine_life_deck_Travel_Tropics_Environmental_Hub,plan,marine_life_deck,tourism,1,1,0,True,False,True,Missing from TROUT,Marine Life Deck
+marine_life_deck_Travel_Tropics_Environmental_Hub_Completed_Discussion,discussion,marine_life_deck,tourism,1,1,0,True,False,True,Missing from TROUT,Marine Life Deck
+marine_life_deck_Travel_Tropics_Environmental_Hub_Discussion,discussion,marine_life_deck,tourism,1,1,0,True,False,True,Missing from TROUT,Marine Life Deck
+name_harbor_area_Meeting_10_Historical_Significance,plan,name_harbor_area,neutral,1,1,1,True,True,True,In All Datasets,Name Harbor Area
+name_harbor_area_Meeting_10_Historical_Significance_Discussion,discussion,name_harbor_area,neutral,1,1,1,True,True,True,In All Datasets,Name Harbor Area
+name_harbor_area_Meeting_11_Draft_Names,plan,name_harbor_area,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Name Harbor Area
+name_harbor_area_Meeting_11_Draft_Names_Discussion,discussion,name_harbor_area,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Name Harbor Area
+name_harbor_area_Meeting_11_Harbor_Odyssey_Tours_Discussion,discussion,name_harbor_area,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Name Harbor Area
+name_harbor_area_Meeting_12_Public_Opinion,plan,name_harbor_area,neutral,0,1,1,False,True,True,Missing from FILAH,Name Harbor Area
+name_harbor_area_Meeting_12_Public_Opinion_Discussion,discussion,name_harbor_area,neutral,0,1,1,False,True,True,Missing from FILAH,Name Harbor Area
+name_harbor_area_Meeting_14_Finalize_Name,plan,name_harbor_area,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Name Harbor Area
+name_harbor_area_Meeting_14_Finalize_Name_Discussion,discussion,name_harbor_area,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Name Harbor Area
+name_harbor_area_Travel_Harbor_Odyssey_Tours,plan,name_harbor_area,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Name Harbor Area
+name_harbor_area_Travel_Harbor_Odyssey_Tours_Completed_Discussion,discussion,name_harbor_area,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Name Harbor Area
+name_harbor_area_Travel_The_Bait_Stich,plan,name_harbor_area,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Name Harbor Area
+name_harbor_area_Travel_The_Bait_Stich_Completed_Discussion,discussion,name_harbor_area,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Name Harbor Area
+name_harbor_area_Travel_The_Bait_Stich_Discussion,discussion,name_harbor_area,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Name Harbor Area
+name_inspection_office_Meeting_14_Announcement,plan,name_inspection_office,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Name Inspection Office
+name_inspection_office_Meeting_14_Announcement_Discussion,discussion,name_inspection_office,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Name Inspection Office
+name_inspection_office_Meeting_8_Importance,plan,name_inspection_office,neutral,1,1,1,True,True,True,In All Datasets,Name Inspection Office
+name_inspection_office_Meeting_8_Importance_Discussion,discussion,name_inspection_office,neutral,1,1,1,True,True,True,In All Datasets,Name Inspection Office
+name_inspection_office_Meeting_8_Proposal,plan,name_inspection_office,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Name Inspection Office
+name_inspection_office_Meeting_8_Proposal_Discussion,discussion,name_inspection_office,neutral,1,1,0,True,False,True,Missing from TROUT,Name Inspection Office
+name_inspection_office_Meeting_9_Community_Vote,plan,name_inspection_office,neutral,0,1,1,False,True,True,Missing from FILAH,Name Inspection Office
+name_inspection_office_Meeting_9_Community_Vote_Discussion,discussion,name_inspection_office,neutral,0,1,1,False,True,True,Missing from FILAH,Name Inspection Office
+name_inspection_office_Travel_Lomark_Civic_Plaza,plan,name_inspection_office,neutral,1,1,0,True,False,True,Missing from TROUT,Name Inspection Office
+name_inspection_office_Travel_Lomark_Civic_Plaza_Completed_Discussion,discussion,name_inspection_office,neutral,1,1,0,True,False,True,Missing from TROUT,Name Inspection Office
+name_inspection_office_Travel_Lomark_Civic_Plaza_Discussion,discussion,name_inspection_office,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Name Inspection Office
+new_crane_lomark_Meeting_4_Cost_Analysis,plan,new_crane_lomark,fishing,1,1,1,True,True,True,In All Datasets,New Crane Lomark
+new_crane_lomark_Meeting_4_Cost_Analysis_Discussion,discussion,new_crane_lomark,fishing,1,1,1,True,True,True,In All Datasets,New Crane Lomark
+new_crane_lomark_Meeting_5_Cost_Impact_Report,plan,new_crane_lomark,fishing,0,1,1,False,True,True,Missing from FILAH,New Crane Lomark
+new_crane_lomark_Meeting_5_Cost_Impact_Report_Discussion,discussion,new_crane_lomark,fishing,0,1,1,False,True,True,Missing from FILAH,New Crane Lomark
+new_crane_lomark_Meeting_8_Share_Findings,plan,new_crane_lomark,fishing,0,1,1,False,True,True,Missing from FILAH,New Crane Lomark
+new_crane_lomark_Meeting_8_Share_Findings_Discussion,discussion,new_crane_lomark,fishing,0,1,1,False,True,True,Missing from FILAH,New Crane Lomark
+new_crane_lomark_Travel_Blue_Wave_Shipping,plan,new_crane_lomark,fishing,1,1,0,True,False,True,Missing from TROUT,New Crane Lomark
+new_crane_lomark_Travel_Blue_Wave_Shipping_Completed_Discussion,discussion,new_crane_lomark,fishing,1,1,0,True,False,True,Missing from TROUT,New Crane Lomark
+new_crane_lomark_Travel_Blue_Wave_Shipping_Discussion,discussion,new_crane_lomark,fishing,1,1,0,True,False,True,Missing from TROUT,New Crane Lomark
+renaming_park_himark_Meeting_4_Name_Ideas,plan,renaming_park_himark,neutral,1,1,1,True,True,True,In All Datasets,Renaming Park Himark
+renaming_park_himark_Meeting_4_Name_Ideas_Discussion,discussion,renaming_park_himark,neutral,1,1,1,True,True,True,In All Datasets,Renaming Park Himark
+renaming_park_himark_Meeting_5_Nominations,plan,renaming_park_himark,neutral,1,1,0,True,False,True,Missing from TROUT,Renaming Park Himark
+renaming_park_himark_Meeting_5_Nominations_Discussion,discussion,renaming_park_himark,neutral,1,1,0,True,False,True,Missing from TROUT,Renaming Park Himark
+renaming_park_himark_Meeting_7_Announce_Name,plan,renaming_park_himark,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Renaming Park Himark
+renaming_park_himark_Meeting_7_Announce_Name_Discussion,discussion,renaming_park_himark,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Renaming Park Himark
+renaming_park_himark_Meeting_7_Unveiling_Event,plan,renaming_park_himark,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Renaming Park Himark
+renaming_park_himark_Meeting_7_Unveiling_Event_Discussion,discussion,renaming_park_himark,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Renaming Park Himark
+renaming_park_himark_Meeting_8_Compile_Nominations,plan,renaming_park_himark,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Renaming Park Himark
+renaming_park_himark_Meeting_8_Compile_Nominations_Discussion,discussion,renaming_park_himark,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Renaming Park Himark
+renaming_park_himark_Travel_Anchor_Way_Grill,plan,renaming_park_himark,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Renaming Park Himark
+renaming_park_himark_Travel_Anchor_Way_Grill_Completed_Discussion,discussion,renaming_park_himark,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Renaming Park Himark
+renaming_park_himark_Travel_Anchor_Way_Grill_Discussion,discussion,renaming_park_himark,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Renaming Park Himark
+renaming_park_himark_Travel_Himark_City_Hall,plan,renaming_park_himark,neutral,1,1,0,True,False,True,Missing from TROUT,Renaming Park Himark
+renaming_park_himark_Travel_Himark_City_Hall_Completed_Discussion,discussion,renaming_park_himark,neutral,1,1,0,True,False,True,Missing from TROUT,Renaming Park Himark
+renaming_park_himark_Travel_Himark_City_Hall_Discussion,discussion,renaming_park_himark,neutral,1,1,0,True,False,True,Missing from TROUT,Renaming Park Himark
+renaming_park_himark_Travel_Sailors_Perch_Light,plan,renaming_park_himark,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Renaming Park Himark
+renaming_park_himark_Travel_Sailors_Perch_Light_Completed_Discussion,discussion,renaming_park_himark,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Renaming Park Himark
+renaming_park_himark_Travel_Sailors_Perch_Light_Discussion,discussion,renaming_park_himark,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Renaming Park Himark
+seafood_festival_Meeting_1_Discussion,discussion,seafood_festival,fishing,1,1,0,True,False,True,Missing from TROUT,Seafood Festival
+seafood_festival_Meeting_1_Feasibility,plan,seafood_festival,fishing,1,1,0,True,False,True,Missing from TROUT,Seafood Festival
+seafood_festival_Meeting_2_Feedback,plan,seafood_festival,fishing,1,1,0,True,False,True,Missing from TROUT,Seafood Festival
+seafood_festival_Meeting_2_Feedback_Discussion,discussion,seafood_festival,fishing,1,1,0,True,False,True,Missing from TROUT,Seafood Festival
+seafood_festival_Meeting_3_Report,plan,seafood_festival,fishing,0,1,0,False,False,True,Journalist-Only (Missing from both),Seafood Festival
+seafood_festival_Meeting_3_Report_Discussion,discussion,seafood_festival,fishing,0,1,0,False,False,True,Journalist-Only (Missing from both),Seafood Festival
+seafood_festival_Meeting_3_Take_Action,plan,seafood_festival,fishing,1,1,0,True,False,True,Missing from TROUT,Seafood Festival
+seafood_festival_Meeting_3_Take_Action_Discussion,discussion,seafood_festival,fishing,1,1,0,True,False,True,Missing from TROUT,Seafood Festival
+seafood_festival_Travel_Dock_Roll_Hall_of_Fame,plan,seafood_festival,fishing,1,1,0,True,False,True,Missing from TROUT,Seafood Festival
+seafood_festival_Travel_Dock_Roll_Hall_of_Fame_Completed_Discussion,discussion,seafood_festival,fishing,1,1,0,True,False,True,Missing from TROUT,Seafood Festival
+seafood_festival_Travel_Dock_Roll_Hall_of_Fame_Discussion,discussion,seafood_festival,fishing,1,1,0,True,False,True,Missing from TROUT,Seafood Festival
+statue_john_smoth_Meeting_10_Presentation,plan,statue_john_smoth,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Statue John Smoth
+statue_john_smoth_Meeting_10_Presentation_Discussion,discussion,statue_john_smoth,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Statue John Smoth
+statue_john_smoth_Meeting_8_Proposal,plan,statue_john_smoth,neutral,1,1,1,True,True,True,In All Datasets,Statue John Smoth
+statue_john_smoth_Meeting_8_Proposal_Discussion,discussion,statue_john_smoth,neutral,1,1,1,True,True,True,In All Datasets,Statue John Smoth
+statue_john_smoth_Meeting_9_Feedback,plan,statue_john_smoth,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Statue John Smoth
+statue_john_smoth_Meeting_9_Gather_Feedback_Discussion,discussion,statue_john_smoth,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Statue John Smoth
+statue_john_smoth_Travel_The_Bait_Stich,plan,statue_john_smoth,neutral,1,1,1,True,True,True,In All Datasets,Statue John Smoth
+statue_john_smoth_Travel_The_Bait_Stich_Completed_Discussion,discussion,statue_john_smoth,neutral,0,1,0,False,False,True,Journalist-Only (Missing from both),Statue John Smoth
+statue_john_smoth_Travel_The_Bait_Stich_Discussion,discussion,statue_john_smoth,neutral,1,1,1,True,True,True,In All Datasets,Statue John Smoth
+waterfront_market_Meeting_7_Benefits_Feasibility,plan,waterfront_market,tourism,0,1,1,False,True,True,Missing from FILAH,Waterfront Market
+waterfront_market_Meeting_7_Discussion,discussion,waterfront_market,tourism,1,1,0,True,False,True,Missing from TROUT,Waterfront Market
+waterfront_market_Meeting_8_Gather_Feedback,plan,waterfront_market,tourism,0,1,0,False,False,True,Journalist-Only (Missing from both),Waterfront Market
+waterfront_market_Meeting_8_Gather_Feedback_Discussion,discussion,waterfront_market,tourism,0,1,0,False,False,True,Journalist-Only (Missing from both),Waterfront Market
+waterfront_market_Meeting_9_Report,plan,waterfront_market,tourism,0,1,1,False,True,True,Missing from FILAH,Waterfront Market
+waterfront_market_Meeting_9_Report_Discussion,discussion,waterfront_market,tourism,0,1,1,False,True,True,Missing from FILAH,Waterfront Market
+waterfront_market_Travel_Harbor_Edge_Grill,plan,waterfront_market,tourism,1,1,0,True,False,True,Missing from TROUT,Waterfront Market
+waterfront_market_Travel_Harbor_Edge_Grill_Completed_Discussion,discussion,waterfront_market,tourism,1,1,0,True,False,True,Missing from TROUT,Waterfront Market
+waterfront_market_Travel_Harbor_Edge_Grill_Discussion,discussion,waterfront_market,tourism,1,1,0,True,False,True,Missing from TROUT,Waterfront Market
+waterfront_market_Travel_Harborfront_Market,plan,waterfront_market,tourism,0,1,0,False,False,True,Journalist-Only (Missing from both),Waterfront Market
+waterfront_market_Travel_Harborfront_Market_Completed_Discussion,discussion,waterfront_market,tourism,0,1,0,False,False,True,Journalist-Only (Missing from both),Waterfront Market
+waterfront_market_Travel_Harborfront_Market_Discussion,discussion,waterfront_market,tourism,0,1,0,False,False,True,Journalist-Only (Missing from both),Waterfront Market

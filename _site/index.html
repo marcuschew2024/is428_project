@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>IS428 Project</title>
+<title>Detecting Bias in COOTEFOO – IS428 G10 — Detecting Bias in COOTEFOO’s Oversight Data</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-46f66b053e56abd73bb6e954d61a315b.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-158031087360bce0ff56dc785ce39e06.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-fb30e7e55250db515e5e281c13964e30.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">IS428 Project</span>
+    <span class="navbar-title">IS428 G10 — Detecting Bias in COOTEFOO’s Oversight Data</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -97,8 +97,68 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./data_transformation.html"> 
+<span class="menu-text">Data Transformation</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./proposal.html"> 
 <span class="menu-text">Proposal</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./poster.html"> 
+<span class="menu-text">Poster</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./prototypes.html"> 
+<span class="menu-text">Prototypes</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-analysis--results" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Analysis &amp; Results</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-analysis--results">    
+        <li>
+    <a class="dropdown-item" href="./finding1.html">
+ <span class="dropdown-text">Finding 1: Lobby Datasets</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./finding2.html">
+ <span class="dropdown-text">Finding 2: Full Committee</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./finding3.html">
+ <span class="dropdown-text">Finding 3: Cross-Dataset</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./finding4.html">
+ <span class="dropdown-text">Finding 4: Member Deep Dive</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./conclusion.html">
+ <span class="dropdown-text">Conclusion &amp; Future Work</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-storyboard--guide" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Storyboard &amp; Guide</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-storyboard--guide">    
+        <li>
+    <a class="dropdown-item" href="./storyboard.html">
+ <span class="dropdown-text">Final Storyboard</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./user_guide.html">
+ <span class="dropdown-text">User Guide</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -116,7 +176,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#project" id="toc-project" class="nav-link active" data-scroll-target="#project">Project</a></li>
+  <li><a href="#project-overview" id="toc-project-overview" class="nav-link active" data-scroll-target="#project-overview">Project Overview</a></li>
+  <li><a href="#the-three-datasets" id="toc-the-three-datasets" class="nav-link" data-scroll-target="#the-three-datasets">The Three Datasets</a></li>
+  <li><a href="#the-four-findings" id="toc-the-four-findings" class="nav-link" data-scroll-target="#the-four-findings">The Four Findings</a></li>
+  <li><a href="#key-visualisations" id="toc-key-visualisations" class="nav-link" data-scroll-target="#key-visualisations">Key Visualisations</a></li>
+  <li><a href="#navigation" id="toc-navigation" class="nav-link" data-scroll-target="#navigation">Navigation</a></li>
   </ul>
 </nav>
     </div>
@@ -125,7 +189,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">IS428 Project</h1>
+<h1 class="title">Detecting Bias in COOTEFOO</h1>
+<p class="subtitle lead">IS428 Visual Analytics — Group 10 | AY2025/26 Term 2</p>
 </div>
 
 
@@ -142,11 +207,156 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This is a Quarto website for our IS428 Visual Analytics project.</p>
-<section id="project" class="level2">
-<h2 class="anchored" data-anchor-id="project">Project</h2>
-<p>We are investigating the COOTEFOO commission in Oceanus, where two advocacy groups (FILAH and TROUT) have made conflicting accusations of bias.</p>
-<p><strong><a href="./proposal.html">View our full project proposal →</a></strong></p>
+<section id="project-overview" class="level2">
+<h2 class="anchored" data-anchor-id="project-overview">Project Overview</h2>
+<p>The Commission on Overseeing the Economic Future of Oceanus (COOTEFOO) sits at the centre of a public controversy. Two advocacy groups — <strong>FILAH</strong> (fishing lobby) and <strong>TROUT</strong> (tourism lobby) — have each released datasets claiming to prove that the committee is biased against their industry. A journalist independently obtained a more complete record of all committee meetings.</p>
+<p>This project uses visual analytics to audit all three datasets and determine who, if anyone, is telling the truth.</p>
+<hr>
+</section>
+<section id="the-three-datasets" class="level2">
+<h2 class="anchored" data-anchor-id="the-three-datasets">The Three Datasets</h2>
+<div class="key-numbers">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 17%">
+<col style="width: 38%">
+<col style="width: 12%">
+<col style="width: 31%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Dataset</th>
+<th>Source</th>
+<th>Records</th>
+<th>Share of Full Record</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>FILAH</td>
+<td>Fishing lobby (advocacy)</td>
+<td>78</td>
+<td>45%</td>
+</tr>
+<tr class="even">
+<td>TROUT</td>
+<td>Tourism lobby (advocacy)</td>
+<td>54</td>
+<td>31%</td>
+</tr>
+<tr class="odd">
+<td>Journalist</td>
+<td>Independent (full record)</td>
+<td>174</td>
+<td>100%</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>The journalist dataset is the authoritative baseline. FILAH captured 78 of 174 records; TROUT captured only 54.</p>
+<hr>
+</section>
+<section id="the-four-findings" class="level2">
+<h2 class="anchored" data-anchor-id="the-four-findings">The Four Findings</h2>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Finding 1 — Both Datasets Were Curated, Not Collected</strong> FILAH and TROUT each systematically over-represent their preferred industry and exclude discussions that undermine their case.</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Finding 2 — The Full Committee Is Balanced</strong> Using the journalist’s complete record, no member’s bias score is statistically extreme. Three members lean slightly toward fishing, three toward tourism.</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Finding 3 — Sentiment and Travel Show No Systematic Tilt</strong> Meeting sentiment oscillates around neutral across all 16 sessions. Member travel destinations span both fishing and tourism zones.</p>
+</div>
+</div>
+</div>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Finding 4 — The Distortion Comes from Omitted Members, Not Fabricated Data</strong> Tante Titan — the committee’s most active member and a strong tourism voice — was excluded from <strong>both</strong> lobby datasets entirely. Restoring her records reverses TROUT’s apparent fishing-lean finding.</p>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="key-visualisations" class="level2">
+<h2 class="anchored" data-anchor-id="key-visualisations">Key Visualisations</h2>
+<p><img src="images/dashboard0.png" alt="Tableau Schedule"></p>
+<p><em>Overview dashboard — three datasets tell wildly different stories about the same six-member committee.</em></p>
+<hr>
+</section>
+<section id="navigation" class="level2">
+<h2 class="anchored" data-anchor-id="navigation">Navigation</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Section</th>
+<th>What you’ll find</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="./data_transformation.html">Data Transformation</a></td>
+<td>How raw knowledge graph CSVs were cleaned and transformed</td>
+</tr>
+<tr class="even">
+<td><a href="./finding1.html">Finding 1</a></td>
+<td>Dataset coverage bias — selective inclusion by both lobbies</td>
+</tr>
+<tr class="odd">
+<td><a href="./finding2.html">Finding 2</a></td>
+<td>Committee-level bias analysis using the full journalist record</td>
+</tr>
+<tr class="even">
+<td><a href="./finding3.html">Finding 3</a></td>
+<td>Sentiment over time and member travel patterns</td>
+</tr>
+<tr class="odd">
+<td><a href="./finding4.html">Finding 4</a></td>
+<td>Member deep-dive — Tante Titan exclusion and person-picker</td>
+</tr>
+<tr class="even">
+<td><a href="./conclusion.html">Conclusion</a></td>
+<td>Answers to all 8 MC2 task questions</td>
+</tr>
+<tr class="odd">
+<td><a href="./storyboard.html">Storyboard</a></td>
+<td>Annotated screenshots of all 6 dashboards</td>
+</tr>
+<tr class="even">
+<td><a href="./user_guide.html">User Guide</a></td>
+<td>How to navigate the interactive Tableau application</td>
+</tr>
+<tr class="odd">
+<td><a href="./about.html">About</a></td>
+<td>Team members and project context</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<hr class="section-divider">
+<p><a href="./proposal.html">View the full project proposal →</a></p>
 
 
 </section>

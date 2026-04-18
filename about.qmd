@@ -1,0 +1,60 @@
+---
+title: "About"
+subtitle: "IS428 Visual Analytics — Group 10 | SMU AY2025/26 Term 2"
+---
+
+## The Team
+
+This project was completed as part of **IS428 Visual Analytics** at Singapore Management University (SMU), AY2025/26 Term 2.
+
+**Group 10**
+
+| Name | Student ID | Role |
+|---|---|---|
+| Marcus Chew | e0175704 | Data pipeline, Tableau dashboards, Quarto website |
+| *(teammate)* | — | *(role)* |
+| *(teammate)* | — | *(role)* |
+
+---
+
+## The Project
+
+**Course:** IS428 Visual Analytics
+**Institution:** Singapore Management University (SMU)
+**Programme:** Bachelor of Science (Information Systems)
+**Term:** AY2025/26 Term 2
+**Deadline:** 19 April 2026
+
+**Challenge:** VAST Challenge 2025, Mini-Challenge 2 — Detecting Bias in COOTEFOO
+
+---
+
+## Tools Used
+
+| Tool | Purpose |
+|---|---|
+| Python 3 (`pandas`, `numpy`) | Data transformation and preparation |
+| Gephi | Bipartite knowledge graph visualisation |
+| Tableau Desktop | Interactive visual analytics dashboards |
+| Quarto | Project website |
+| GitHub | Version control and hosting |
+| Vercel | Website deployment |
+
+---
+
+## Data Sources
+
+All data originates from the VAST Challenge 2025 Mini-Challenge 2 dataset:
+
+- `mc2_FILAH_nodes.csv` / `mc2_FILAH_links.csv`
+- `mc2_TROUT_nodes.csv` / `mc2_TROUT_links.csv`
+- `mc2_jounalist_nodes.csv` / `mc2_journalist_links.csv`
+- `mc2_geo_nodes.csv` / `mc2_geo_edges.csv`
+
+The data is fictional and created for the purposes of the VAST Challenge educational competition.
+
+---
+
+## Acknowledgements
+
+We thank our IS428 instructor for guidance throughout the project, and our booth evaluators from the 13 April 2026 poster session for their constructive feedback.

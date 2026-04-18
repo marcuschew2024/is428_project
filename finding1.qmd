@@ -1,0 +1,66 @@
+---
+title: "Finding 1: Both Datasets Were Curated, Not Collected"
+subtitle: "Visualising bias within TROUT and FILAH's own datasets"
+---
+
+## Summary
+
+Neither FILAH nor TROUT submitted a complete or neutral record. Both datasets are editorial products shaped to support a predetermined conclusion. The lobbies did not simply record fewer meetings — they omitted specific topics and specific members whose records would have weakened their case.
+
+::: {.key-numbers}
+**FILAH:** 78 records — 45% of the full journalist record
+**TROUT:** 54 records — 31% of the full journalist record
+**Journalist:** 174 records — 100% complete
+:::
+
+<hr class="section-divider">
+
+## Dashboard 1 — What Each Lobby Left Out
+
+### Member Participation Across All Three Datasets
+
+<img src="./images/Member Participation Stacked Bar Who each lobby included.png" style="width: 100%; height: auto;" alt="Tableau Schedule">
+
+*Combined member participation stacked bar — all three datasets side by side. Each bar shows the number of discussions a member participated in, colour-coded by industry (fishing = blue, tourism = purple, neutral = green).*
+
+The combined participation view exposes that FILAH and TROUT did not just omit topics — they omitted entire members. FILAH recorded only 3 of 6 committee members; TROUT recorded a different 3. Neither lobby recorded the same set.
+
+### Missing Discussions
+
+<img src="./images/Missing Discussions.png" style="width: 100%; height: auto;" alt="Tableau Schedule">
+
+*Missing discussions bar — topics each lobby omitted entirely from their dataset. Topics present in the journalist record but with zero records in FILAH or TROUT are shown here.*
+
+Both lobbies omitted entire discussion topics. The topics each lobby left out are not random — they are systematically the ones most damaging to their narrative. FILAH omits tourism-heavy discussions; TROUT omits fishing-heavy ones.
+
+<hr class="section-divider">
+
+## Dashboard 1.1 — How Exclusions Distort the Rankings
+
+### Slope Graph — Participation Ranking Shifts
+
+<img src="./images/Bias Score Slope Graph.png" style="width: 100%; height: auto;" alt="Tableau Schedule">
+
+
+*Slope graph — member participation ranking shifts from FILAH (left) to TROUT (right), with the journalist record as the centre baseline. Members excluded from a lobby dataset have broken lines.*
+
+The slope graph makes the selective inclusion immediately legible as a structural pattern rather than a statistical quirk. Three observations stand out:
+
+- Members who are present in the journalist record but absent from a lobby dataset appear as **broken lines** — the rank simply ends where the lobby stopped recording them.
+- Lines that cross each other between the FILAH and TROUT columns reveal **rank reversals** — the same member can be ranked first by one lobby and absent from another.
+- The journalist column (centre) is the only version that includes all six members, making it the only ranking that reflects the full committee.
+
+### Member Participation — FILAH vs TROUT
+
+<img src="./images/Member Participation Stacked Bar (FILAH).png" style="width: 100%; height: auto;" alt="Tableau Schedule">
+<img src="./images/Member Participation Stacked Bar (TROUT).png" style="width: 100%; height: auto;" alt="Tableau Schedule">
+
+*Member participation stacked bars — FILAH dataset (left) and TROUT dataset (right) shown side by side. Use the Dataset Label filter to toggle between individual lobby views.*
+
+Placing the two lobby views side by side makes the mirror-image structure of their omissions explicit: FILAH's three recorded members and TROUT's three recorded members are almost entirely non-overlapping. Each lobby assembled a version of the committee that supported its predetermined conclusion.
+
+<hr class="section-divider">
+
+## Key Takeaway
+
+A lobby that controls which members and which topics it records can produce any bias score it wants — without fabricating a single record. Both lobbies did exactly this. The distortion is not in the data they submitted; it is in the data they withheld.

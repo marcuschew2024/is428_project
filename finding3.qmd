@@ -1,0 +1,78 @@
+---
+title: "Finding 3: Sentiment and Travel Show No Systematic Tilt"
+subtitle: "Comparing dataset conclusions; longitudinal sentiment; member travel patterns"
+---
+
+## Summary
+
+Longitudinal meeting sentiment data does not support either lobby's claim of persistent directional bias. Sentiment oscillates around neutral across all 16 sessions. Member travel destinations span both fishing and tourism zones with no evidence that travel destination influences voting behaviour.
+
+::: {.key-numbers}
+**Meeting sessions:** 16 (Meeting 1–16; no Meeting 6 — gap in calendar)
+**Overall sentiment trend:** oscillates around neutral; no persistent directional shift
+**Travel records:** members visited both fishing and tourism zones; no correlation with bias scores
+:::
+
+<hr class="section-divider">
+
+## Dashboard 3 — Sentiment
+
+### Sentiment Over Time
+
+<img src="./images/Sentiment Over Time.png" style="width: 100%; height: auto;" alt="Tableau Schedule">
+
+*Stacked area chart with dashed sentiment trend line — meeting-level sentiment across 16 sessions. Stacked segments show pro (upper), neutral (middle), against (lower) discussion proportions.*
+
+The sentiment over time chart shows:
+- **No persistent trend:** sentiment oscillates around neutral; there is no sustained pro-fishing or pro-tourism phase
+- **Gap at Meeting 6:** this reflects a meeting that did not take place — a structural calendar feature, not data manipulation
+- **Mid-session dip:** a dip around Meetings 8–10 reflects a period of more contentious neutral-topic discussions, not industry bias
+
+### Committee Context Comparison — TROUT vs Full Dataset
+
+<img src="./images/Committee Context Comparison.png" style="width: 100%; height: auto;" alt="Tableau Schedule">
+
+*Diverging bar — TROUT's apparent committee context compared with the journalist's full record. Shows how TROUT's selective inclusion inflates the apparent fishing-lean at the committee level.*
+
+This chart makes the dataset comparison concrete: it quantifies what you would conclude using TROUT's dataset alone versus what the full record shows. The divergence between bars is not a reflection of the committee's actual behaviour — it is a reflection of TROUT's editorial choices.
+
+### Sentiment Heatmap — Member × Topic
+
+<img src="./images/Sentiment Heatmap Member × Topic sentiment.png" style="width: 100%; height: auto;" alt="Tableau Schedule">
+
+*Sentiment heatmap — each cell represents one member × topic combination. Colour encodes average sentiment: green = pro, red = against, grey = neutral/not rated.*
+
+The heatmap provides a compact matrix view of all sentiment data simultaneously. Key observations:
+- No member is consistently pro or consistently against across all topics
+- Sentiment patterns differ by topic, not by member identity
+- Members who appear biased in one dataset show neutral sentiment in the full record for the same topics
+
+<hr class="section-divider">
+
+## Dashboard 3.1 — Travel
+
+### Travel Map — Geographic Trip Distribution
+
+<img src="./images/Travel Map.png" style="width: 100%; height: auto;" alt="Tableau Schedule">
+
+*Oceanus map — member travel locations plotted by geographic coordinates. Marker colour encodes industry zone (fishing = blue, tourism = purple). Hover over any marker for city-level visit breakdown.*
+
+<img src="./images/Tooltip City Visits by Member.png" style="width: 50%; height: auto;" alt="Tableau Schedule">
+
+*Tooltip detail — city visits by member (viz-in-tooltip heatmap). Shows which specific cities each member visited and in what frequency.*
+
+The travel map shows that member travel destinations are distributed across both fishing and tourism zones of Oceanus. There is no evidence that members who travel more to fishing zones vote more pro-fishing, or vice versa.
+
+### Travel Activity Breakdown
+
+<img src="./images/Travel Activity Breakdown.png" style="width: 40%; height: auto;" alt="Tableau Schedule">
+
+*Stacked bar chart — travel activity per member by destination zone (fishing = blue, tourism = purple, neutral = green). Sorted by total trip count descending.*
+
+The travel activity breakdown quantifies the geographic distribution at member level. No member's travel is exclusively concentrated in one industry zone — all members visited destinations across both fishing and tourism areas.
+
+<hr class="section-divider">
+
+## Key Takeaway
+
+Neither sentiment patterns nor travel behaviour support the lobbies' accusations of systematic bias. The committee's behaviour, measured longitudinally across 16 meetings and across geographic travel, shows no directional tilt. The accusations are not supported by behavioural evidence — only by selective dataset construction.

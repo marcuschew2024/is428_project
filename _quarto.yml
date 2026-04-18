@@ -1,21 +1,59 @@
 project:
   type: website
+  output-dir: _site
 
 website:
-  title: "IS428 Project"
+  title: "IS428 G10 — Detecting Bias in COOTEFOO's Oversight Data"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - text: "Proposal"
-        href: proposal.qmd
+      - href: data_transformation.qmd
+        text: "Data Transformation"
+      - href: proposal.qmd
+        text: Proposal
+      - href: poster.qmd
+        text: Poster
+      - href: prototypes.qmd
+        text: Prototypes
+      - text: "Analysis & Results"
+        menu:
+          - href: finding1.qmd
+            text: "Finding 1: Lobby Datasets"
+          - href: finding2.qmd
+            text: "Finding 2: Full Committee"
+          - href: finding3.qmd
+            text: "Finding 3: Cross-Dataset"
+          - href: finding4.qmd
+            text: "Finding 4: Member Deep Dive"
+          - href: conclusion.qmd
+            text: "Conclusion & Future Work"
+      - text: "Storyboard & Guide"
+        menu:
+          - href: storyboard.qmd
+            text: Final Storyboard
+          - href: user_guide.qmd
+            text: User Guide
+    right:
+      - href: about.qmd
+        text: About
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
+    toc-depth: 3
+    code-fold: true
+    code-summary: "Show code"
+    grid:
+      body-width: 1100px
+      sidebar-width: 0px
+      margin-width: 250px
 
-editor: visual
+execute:
+  warning: false
+  message: false
+  freeze: auto
+
+jupyter: python3

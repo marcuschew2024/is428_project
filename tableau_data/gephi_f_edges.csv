@@ -1,0 +1,20 @@
+Source,Target,Industry,weight,avg_sentiment
+Carol Limpet,marine_life_deck,tourism,7,0.5
+Carol Limpet,renaming_park_himark,neutral,5,0.5
+Carol Limpet,seafood_festival,fishing,5,0.75
+Carol Limpet,waterfront_market,tourism,4,1.0
+Seal,expanding_tourist_wharf,tourism,4,0.1
+Seal,fish_vacuum,fishing,1,0.0
+Seal,low_volume_crane,fishing,5,0.1
+Seal,statue_john_smoth,neutral,2,0.2
+Simone Kat,affordable_housing,neutral,4,-1.0
+Simone Kat,deep_fishing_dock,fishing,3,
+Simone Kat,expanding_tourist_wharf,tourism,3,0.5
+Simone Kat,fish_vacuum,fishing,3,-0.10000000000000002
+Simone Kat,heritage_walking_tour,tourism,11,1.0
+Simone Kat,low_volume_crane,fishing,6,0.75
+Simone Kat,marine_life_deck,tourism,4,1.0
+Simone Kat,name_inspection_office,neutral,2,0.0
+Simone Kat,new_crane_lomark,fishing,3,-0.5
+Simone Kat,seafood_festival,fishing,5,0.75
+Simone Kat,waterfront_market,tourism,1,0.75

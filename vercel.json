@@ -1,6 +1,7 @@
 {
-  "buildCommand": "echo 'Static site - no build needed'",
-  "outputDirectory": ".",
+  "buildCommand": "echo 'Pre-built static site'",
+  "outputDirectory": "_site",
   "framework": null,
-  "cleanUrls": true
+  "cleanUrls": true,
+  "trailingSlash": false
 }

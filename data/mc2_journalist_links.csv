@@ -1,0 +1,2437 @@
+role,source,target,key,sentiment,reason,industry,status,time
+part_of,Meeting_1,fish_vacuum_Meeting_1_Introduction_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_1,fish_vacuum_Meeting_1_Introduction,0,NA,NA,,NA,NA
+part_of,Meeting_1,seafood_festival_Meeting_1_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_1,seafood_festival_Meeting_1_Feasibility,0,NA,NA,,NA,NA
+part_of,Meeting_2,deep_fishing_dock_Meeting_2_Importance_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_2,fish_vacuum_Travel_Bay_Harvest_Corporation_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_2,fish_vacuum_Meeting_2_Cost_Benefit_Analysis_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_2,fish_vacuum_Travel_Bay_Harvest_Corporation,0,NA,NA,,NA,NA
+part_of,Meeting_2,fish_vacuum_Meeting_2_Cost_Benefit_Analysis,0,NA,NA,,NA,NA
+part_of,Meeting_2,seafood_festival_Travel_Dock_Roll_Hall_of_Fame_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_2,seafood_festival_Meeting_2_Feedback_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_2,seafood_festival_Travel_Dock_Roll_Hall_of_Fame,0,NA,NA,,NA,NA
+part_of,Meeting_2,seafood_festival_Meeting_2_Feedback,0,NA,NA,,NA,NA
+part_of,Meeting_3,deep_fishing_dock_Travel_High_Seas_Fishing_Inc_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_3,deep_fishing_dock_Meeting_3_Maintenance_Plan_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_3,deep_fishing_dock_Travel_High_Seas_Fishing_Inc,0,NA,NA,,NA,NA
+part_of,Meeting_3,deep_fishing_dock_Meeting_3_Maintenance_Plan,0,NA,NA,,NA,NA
+part_of,Meeting_3,fish_vacuum_Travel_Bay_Harvest_Corporation_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_3,fish_vacuum_Meeting_3_Report_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_3,fish_vacuum_Meeting_3_Report,0,NA,NA,,NA,NA
+part_of,Meeting_3,low_volume_crane_Meeting_3_Proposal_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_3,low_volume_crane_Meeting_3_Proposal,0,NA,NA,,NA,NA
+part_of,Meeting_3,seafood_festival_Travel_Dock_Roll_Hall_of_Fame_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_3,seafood_festival_Meeting_3_Report_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_3,seafood_festival_Meeting_3_Take_Action_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_3,seafood_festival_Meeting_3_Report,0,NA,NA,,NA,NA
+part_of,Meeting_3,seafood_festival_Meeting_3_Take_Action,0,NA,NA,,NA,NA
+part_of,Meeting_4,deep_fishing_dock_Travel_High_Seas_Fishing_Inc_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_4,deep_fishing_dock_Meeting_4_Findings_Report_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_4,deep_fishing_dock_Meeting_4_Recommendation_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_4,deep_fishing_dock_Meeting_4_Findings_Report,0,NA,NA,,NA,NA
+part_of,Meeting_4,deep_fishing_dock_Meeting_4_Recommendation,0,NA,NA,,NA,NA
+part_of,Meeting_4,new_crane_lomark_Meeting_4_Cost_Analysis_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_4,new_crane_lomark_Meeting_4_Cost_Analysis,0,NA,NA,,NA,NA
+part_of,Meeting_4,renaming_park_himark_Meeting_4_Name_Ideas_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_4,renaming_park_himark_Travel_Anchor_Way_Grill_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_4,renaming_park_himark_Travel_Sailors_Perch_Light_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_4,renaming_park_himark_Meeting_4_Name_Ideas,0,NA,NA,,NA,NA
+part_of,Meeting_4,renaming_park_himark_Travel_Anchor_Way_Grill,0,NA,NA,,NA,NA
+part_of,Meeting_4,renaming_park_himark_Travel_Sailors_Perch_Light,0,NA,NA,,NA,NA
+part_of,Meeting_5,new_crane_lomark_Travel_Blue_Wave_Shipping_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_5,new_crane_lomark_Meeting_5_Cost_Impact_Report_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_5,new_crane_lomark_Travel_Blue_Wave_Shipping,0,NA,NA,,NA,NA
+part_of,Meeting_5,new_crane_lomark_Meeting_5_Cost_Impact_Report,0,NA,NA,,NA,NA
+part_of,Meeting_5,low_volume_crane_Travel_Harbor_Route_Solutions_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_5,low_volume_crane_Travel_Harbor_Route_Solutions,0,NA,NA,,NA,NA
+part_of,Meeting_5,renaming_park_himark_Travel_Himark_City_Hall_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_5,renaming_park_himark_Meeting_5_Nominations_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_5,renaming_park_himark_Travel_Himark_City_Hall,0,NA,NA,,NA,NA
+part_of,Meeting_5,renaming_park_himark_Meeting_5_Nominations,0,NA,NA,,NA,NA
+part_of,Meeting_6,affordable_housing_Meeting_6_Sites_Proposal_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_6,affordable_housing_Meeting_6_Sites_Proposal,0,NA,NA,,NA,NA
+part_of,Meeting_7,expanding_tourist_wharf_Meeting_7_Initial_Views_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_7,affordable_housing_Travel_Waveside_Townhomes_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_7,affordable_housing_Meeting_7_Debate_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_7,affordable_housing_Travel_Waveside_Townhomes,0,NA,NA,,NA,NA
+part_of,Meeting_7,affordable_housing_Meeting_7_Debate,0,NA,NA,,NA,NA
+part_of,Meeting_7,renaming_park_himark_Meeting_7_Announce_Name_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_7,renaming_park_himark_Meeting_7_Unveiling_Event_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_7,renaming_park_himark_Meeting_7_Announce_Name,0,NA,NA,,NA,NA
+part_of,Meeting_7,renaming_park_himark_Meeting_7_Unveiling_Event,0,NA,NA,,NA,NA
+part_of,Meeting_7,heritage_walking_tour_Meeting_7_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_7,heritage_walking_tour_Meeting_7_Outline,0,NA,NA,,NA,NA
+part_of,Meeting_7,waterfront_market_Meeting_7_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_7,waterfront_market_Travel_Harbor_Edge_Grill_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_7,waterfront_market_Meeting_7_Benefits_Feasibility,0,NA,NA,,NA,NA
+part_of,Meeting_7,waterfront_market_Travel_Harbor_Edge_Grill,0,NA,NA,,NA,NA
+part_of,Meeting_7,concert_Meeting_7_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_7,concert_Meeting_7_Concert_Issues,0,NA,NA,,NA,NA
+part_of,Meeting_8,expanding_tourist_wharf_Travel_Harbor_Route_Solutions_Discussion_Tourist,0,NA,NA,,NA,NA
+part_of,Meeting_8,expanding_tourist_wharf_Meeting_8_Expand_Ideas_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,expanding_tourist_wharf_Travel_Harbor_Route_Solutions,0,NA,NA,,NA,NA
+part_of,Meeting_8,statue_john_smoth_Meeting_8_Proposal_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,statue_john_smoth_Meeting_8_Proposal,0,NA,NA,,NA,NA
+part_of,Meeting_8,new_crane_lomark_Travel_Blue_Wave_Shipping_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,new_crane_lomark_Meeting_8_Share_Findings_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,new_crane_lomark_Meeting_8_Share_Findings,0,NA,NA,,NA,NA
+part_of,Meeting_8,low_volume_crane_Travel_Harbor_Route_Solutions_Completed_Discussion_Crane,0,NA,NA,,NA,NA
+part_of,Meeting_8,low_volume_crane_Travel_Harbor_Builders_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,low_volume_crane_Travel_Haacklee_Assembly_Co_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,low_volume_crane_Meeting_8_Report_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,low_volume_crane_Meeting_8_Report,0,NA,NA,,NA,NA
+part_of,Meeting_8,low_volume_crane_Travel_Harbor_Builders,0,NA,NA,,NA,NA
+part_of,Meeting_8,low_volume_crane_Travel_Haacklee_Assembly_Co,0,NA,NA,,NA,NA
+part_of,Meeting_8,affordable_housing_Travel_Waveside_Townhomes_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,affordable_housing_Meeting_8_Gather_Feedback_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,affordable_housing_Meeting_8_Feedback,0,NA,NA,,NA,NA
+part_of,Meeting_8,renaming_park_himark_Travel_Himark_City_Hall_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,renaming_park_himark_Travel_Anchor_Way_Grill_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,renaming_park_himark_Travel_Sailors_Perch_Light_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,renaming_park_himark_Meeting_8_Compile_Nominations_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,renaming_park_himark_Meeting_8_Compile_Nominations,0,NA,NA,,NA,NA
+part_of,Meeting_8,name_inspection_office_Meeting_8_Importance_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,name_inspection_office_Meeting_8_Proposal_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,name_inspection_office_Travel_Lomark_Civic_Plaza_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,name_inspection_office_Meeting_8_Importance,0,NA,NA,,NA,NA
+part_of,Meeting_8,name_inspection_office_Meeting_8_Proposal,0,NA,NA,,NA,NA
+part_of,Meeting_8,name_inspection_office_Travel_Lomark_Civic_Plaza,0,NA,NA,,NA,NA
+part_of,Meeting_8,heritage_walking_tour_Travel_Captain_Market_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,heritage_walking_tour_Meeting_8_Proposal_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,heritage_walking_tour_Travel_Captain_Market,0,NA,NA,,NA,NA
+part_of,Meeting_8,heritage_walking_tour_Meeting_8_Proposal,0,NA,NA,,NA,NA
+part_of,Meeting_8,waterfront_market_Travel_Harborfront_Market_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,waterfront_market_Meeting_8_Gather_Feedback_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,waterfront_market_Travel_Harborfront_Market,0,NA,NA,,NA,NA
+part_of,Meeting_8,waterfront_market_Meeting_8_Gather_Feedback,0,NA,NA,,NA,NA
+part_of,Meeting_8,concert_Travel_Packland_Elementary_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_8,concert_Travel_Paakland_Elementary,0,NA,NA,,NA,NA
+part_of,Meeting_9,expanding_tourist_wharf_Travel_Harbor_Route_Solutions_Completed_Discussion_Tourist,0,NA,NA,,NA,NA
+part_of,Meeting_9,expanding_tourist_wharf_Meeting_9_Start_Report_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,expanding_tourist_wharf_Meeting_9_Report,0,NA,NA,,NA,NA
+part_of,Meeting_9,statue_john_smoth_Travel_The_Bait_Stich_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,statue_john_smoth_Meeting_9_Gather_Feedback_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,statue_john_smoth_Travel_The_Bait_Stich,0,NA,NA,,NA,NA
+part_of,Meeting_9,statue_john_smoth_Meeting_9_Feedback,0,NA,NA,,NA,NA
+part_of,Meeting_9,low_volume_crane_Travel_Harbor_Builders_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,low_volume_crane_Travel_Haacklee_Assembly_Co_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,affordable_housing_Travel_Tidewater_Flats_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,affordable_housing_Meeting_9_Invite_Developers_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,affordable_housing_Travel_Tidewater_Flats,0,NA,NA,,NA,NA
+part_of,Meeting_9,affordable_housing_Meeting_9_Invite_Developers,0,NA,NA,,NA,NA
+part_of,Meeting_9,name_inspection_office_Travel_Lomark_Civic_Plaza_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,name_inspection_office_Meeting_9_Community_Vote_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,name_inspection_office_Meeting_9_Community_Vote,0,NA,NA,,NA,NA
+part_of,Meeting_9,heritage_walking_tour_Travel_Captain_Market_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,heritage_walking_tour_Meeting_9_Report_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,heritage_walking_tour_Meeting_9_Take_Action_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,heritage_walking_tour_Meeting_9_Report,0,NA,NA,,NA,NA
+part_of,Meeting_9,heritage_walking_tour_Meeting_9_Take_Action,0,NA,NA,,NA,NA
+part_of,Meeting_9,waterfront_market_Travel_Harborfront_Market_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,waterfront_market_Travel_Harbor_Edge_Grill_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,waterfront_market_Meeting_9_Report_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_9,waterfront_market_Meeting_9_Report,0,NA,NA,,NA,NA
+part_of,Meeting_10,expanding_tourist_wharf_Meeting_10_Report_Update_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_10,statue_john_smoth_Travel_The_Bait_Stich_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_10,statue_john_smoth_Meeting_10_Presentation_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_10,statue_john_smoth_Meeting_10_Presentation,0,NA,NA,,NA,NA
+part_of,Meeting_10,affordable_housing_Travel_Tidewater_Flats_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_10,affordable_housing_Meeting_10_Travel_Findings_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_10,affordable_housing_Meeting_10_Housing_Proposal,0,NA,NA,,NA,NA
+part_of,Meeting_10,name_harbor_area_Meeting_10_Historical_Significance_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_10,name_harbor_area_Meeting_10_Historical_Significance,0,NA,NA,,NA,NA
+part_of,Meeting_10,marine_life_deck_Meeting_10_Initial_Ideas_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_10,marine_life_deck_Meeting_10_Initial_Ideas,0,NA,NA,,NA,NA
+part_of,Meeting_11,expanding_tourist_wharf_Meeting_11_Report_Update_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_11,name_harbor_area_Travel_The_Bait_Stich_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_11,name_harbor_area_Meeting_11_Harbor_Odyssey_Tours_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_11,name_harbor_area_Meeting_11_Draft_Names_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_11,name_harbor_area_Travel_The_Bait_Stich,0,NA,NA,,NA,NA
+part_of,Meeting_11,name_harbor_area_Travel_Harbor_Odyssey_Tours,0,NA,NA,,NA,NA
+part_of,Meeting_11,name_harbor_area_Meeting_11_Draft_Names,0,NA,NA,,NA,NA
+part_of,Meeting_11,marine_life_deck_Travel_Tropics_Environmental_Hub_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_11,marine_life_deck_Meeting_11_Feedback_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_11,marine_life_deck_Meeting_11_Feedback,0,NA,NA,,NA,NA
+part_of,Meeting_11,marine_life_deck_Travel_Tropics_Environmental_Hub,0,NA,NA,,NA,NA
+part_of,Meeting_12,name_harbor_area_Travel_The_Bait_Stich_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_12,name_harbor_area_Travel_Harbor_Odyssey_Tours_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_12,name_harbor_area_Meeting_12_Public_Opinion_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_12,name_harbor_area_Meeting_12_Public_Opinion,0,NA,NA,,NA,NA
+part_of,Meeting_12,marine_life_deck_Travel_Tropics_Environmental_Hub_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_12,marine_life_deck_Meeting_12_Environmental_Impact_Report_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_12,marine_life_deck_Meeting_12_Detailed_Proposal_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_12,marine_life_deck_Meeting_12_Environmental_Impact_Report,0,NA,NA,,NA,NA
+part_of,Meeting_12,marine_life_deck_Meeting_12_Detailed_Proposal,0,NA,NA,,NA,NA
+part_of,Meeting_14,name_harbor_area_Meeting_14_Finalize_Name_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_14,name_harbor_area_Meeting_14_Finalize_Name,0,NA,NA,,NA,NA
+part_of,Meeting_14,name_inspection_office_Meeting_14_Announcement_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_14,name_inspection_office_Meeting_14_Announcement,0,NA,NA,,NA,NA
+part_of,Meeting_16,concert_Travel_Paakland_Elementary_Completed_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_16,concert_Meeting_16_Feedback_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_16,concert_Meeting_16_Road_Closures_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_16,concert_Meeting_16_Communication_Complaints_Discussion,0,NA,NA,,NA,NA
+part_of,Meeting_16,concert_Meeting_16_Feedback,0,NA,NA,,NA,NA
+part_of,Meeting_16,concert_Meeting_16_Road_Closures,0,NA,NA,,NA,NA
+part_of,Meeting_16,concert_Meeting_16_Communication_Complaints,0,NA,NA,,NA,NA
+about,expanding_tourist_wharf_Meeting_7_Initial_Views_Discussion,expanding_tourist_wharf,0,NA,NA,,NA,NA
+participant,expanding_tourist_wharf_Meeting_7_Initial_Views_Discussion,Tours Central Ticketing,0,1,More tourism so more tickets sold.,,NA,NA
+participant,expanding_tourist_wharf_Meeting_7_Initial_Views_Discussion,Paackland Container Inc.,0,-0.5,Tourism is a competitor for the same resources.,,NA,NA
+participant,expanding_tourist_wharf_Meeting_7_Initial_Views_Discussion,Seal,0,0.1,"Seems like headache, but if other people are willing to do the work.",,NA,NA
+about,expanding_tourist_wharf_Travel_Harbor_Route_Solutions_Discussion_Tourist,expanding_tourist_wharf_Travel_Harbor_Route_Solutions,0,NA,NA,,introduced,NA
+about,expanding_tourist_wharf_Travel_Harbor_Route_Solutions_Discussion_Tourist,expanding_tourist_wharf,0,NA,NA,,NA,NA
+participant,expanding_tourist_wharf_Travel_Harbor_Route_Solutions_Discussion_Tourist,Simone Kat,0,0.5,Supports tourism growth,,NA,NA
+refers_to,expanding_tourist_wharf_Travel_Harbor_Route_Solutions_Discussion_Tourist,35889363,0,NA,NA,,NA,NA
+plan,expanding_tourist_wharf_Travel_Harbor_Route_Solutions,expanding_tourist_wharf,0,NA,NA,,NA,NA
+travel,expanding_tourist_wharf_Travel_Harbor_Route_Solutions,35889363,0,NA,NA,,NA,NA
+participant,expanding_tourist_wharf_Travel_Harbor_Route_Solutions,Simone Kat,0,0.5,Supports tourism growth,,NA,NA
+about,expanding_tourist_wharf_Meeting_8_Expand_Ideas_Discussion,expanding_tourist_wharf,0,NA,NA,,NA,NA
+participant,expanding_tourist_wharf_Meeting_8_Expand_Ideas_Discussion,Tours Central Ticketing,0,1,More tourism so more tickets sold.,,NA,NA
+participant,expanding_tourist_wharf_Meeting_8_Expand_Ideas_Discussion,Paackland Container Inc.,0,-0.5,Tourism is a competitor for the same resources.,,NA,NA
+participant,expanding_tourist_wharf_Meeting_8_Expand_Ideas_Discussion,Seal,0,0.1,"Seems like headache, but if other people are willing to do the work.",,NA,NA
+about,expanding_tourist_wharf_Travel_Harbor_Route_Solutions_Completed_Discussion_Tourist,expanding_tourist_wharf_Travel_Harbor_Route_Solutions,0,NA,NA,,completed,NA
+about,expanding_tourist_wharf_Travel_Harbor_Route_Solutions_Completed_Discussion_Tourist,expanding_tourist_wharf,0,NA,NA,,NA,NA
+participant,expanding_tourist_wharf_Travel_Harbor_Route_Solutions_Completed_Discussion_Tourist,Simone Kat,0,0.5,Supports tourism growth,,NA,NA
+refers_to,expanding_tourist_wharf_Travel_Harbor_Route_Solutions_Completed_Discussion_Tourist,35889363,0,NA,NA,,NA,NA
+about,expanding_tourist_wharf_Meeting_9_Start_Report_Discussion,expanding_tourist_wharf_Meeting_9_Report,0,NA,NA,,planned,NA
+about,expanding_tourist_wharf_Meeting_9_Start_Report_Discussion,expanding_tourist_wharf,0,NA,NA,,NA,NA
+participant,expanding_tourist_wharf_Meeting_9_Start_Report_Discussion,Teddy Goldstein,0,-0.5,Seen as prioritizing tourism over fishing-related infrastructure.,,NA,NA
+participant,expanding_tourist_wharf_Meeting_9_Start_Report_Discussion,Seal,0,0.1,"Seems like headache, but if other people are willing to do the work.",,NA,NA
+plan,expanding_tourist_wharf_Meeting_9_Report,expanding_tourist_wharf,0,NA,NA,,NA,NA
+participant,expanding_tourist_wharf_Meeting_9_Report,Teddy Goldstein,0,-0.5,Seen as prioritizing tourism over fishing-related infrastructure.,,NA,NA
+participant,expanding_tourist_wharf_Meeting_9_Report,Seal,0,0.1,"Seems like headache, but if other people are willing to do the work.",,NA,NA
+about,expanding_tourist_wharf_Meeting_10_Report_Update_Discussion,expanding_tourist_wharf_Meeting_9_Report,0,NA,NA,,in_progress,NA
+about,expanding_tourist_wharf_Meeting_10_Report_Update_Discussion,expanding_tourist_wharf,0,NA,NA,,NA,NA
+participant,expanding_tourist_wharf_Meeting_10_Report_Update_Discussion,Teddy Goldstein,0,-0.5,Seen as prioritizing tourism over fishing-related infrastructure.,,NA,NA
+about,expanding_tourist_wharf_Meeting_11_Report_Update_Discussion,expanding_tourist_wharf_Meeting_9_Report,0,NA,NA,,Completed,NA
+about,expanding_tourist_wharf_Meeting_11_Report_Update_Discussion,expanding_tourist_wharf,0,NA,NA,,NA,NA
+participant,expanding_tourist_wharf_Meeting_11_Report_Update_Discussion,Teddy Goldstein,0,-0.5,Seen as prioritizing tourism over fishing-related infrastructure.,,NA,NA
+about,statue_john_smoth_Meeting_8_Proposal_Discussion,statue_john_smoth_Meeting_8_Proposal,0,NA,NA,,introduced,NA
+about,statue_john_smoth_Meeting_8_Proposal_Discussion,statue_john_smoth,0,NA,NA,,NA,NA
+participant,statue_john_smoth_Meeting_8_Proposal_Discussion,Daughters of Port Grove,0,1,Historical recognition aligns with tourism interests.,,NA,NA
+participant,statue_john_smoth_Meeting_8_Proposal_Discussion,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+plan,statue_john_smoth_Meeting_8_Proposal,statue_john_smoth,0,NA,NA,,NA,NA
+participant,statue_john_smoth_Meeting_8_Proposal,Daughters of Port Grove,0,1,Historical recognition aligns with tourism interests.,,NA,NA
+participant,statue_john_smoth_Meeting_8_Proposal,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+about,statue_john_smoth_Travel_The_Bait_Stich_Discussion,statue_john_smoth_Travel_The_Bait_Stich,0,NA,NA,,introduced,NA
+about,statue_john_smoth_Travel_The_Bait_Stich_Discussion,statue_john_smoth,0,NA,NA,,NA,NA
+participant,statue_john_smoth_Travel_The_Bait_Stich_Discussion,Seal,0,0.2,Appreciates historical recognition but sees limited practical benefit.,,NA,NA
+refers_to,statue_john_smoth_Travel_The_Bait_Stich_Discussion,2519420987,0,NA,NA,,NA,NA
+plan,statue_john_smoth_Travel_The_Bait_Stich,statue_john_smoth,0,NA,NA,,NA,NA
+travel,statue_john_smoth_Travel_The_Bait_Stich,2519420987,0,NA,NA,,NA,NA
+participant,statue_john_smoth_Travel_The_Bait_Stich,Seal,0,0.2,Appreciates historical recognition but sees limited practical benefit.,,NA,NA
+about,statue_john_smoth_Meeting_9_Gather_Feedback_Discussion,statue_john_smoth_Meeting_9_Feedback,0,NA,NA,,introduced,NA
+about,statue_john_smoth_Meeting_9_Gather_Feedback_Discussion,statue_john_smoth,0,NA,NA,,NA,NA
+participant,statue_john_smoth_Meeting_9_Gather_Feedback_Discussion,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+plan,statue_john_smoth_Meeting_9_Feedback,statue_john_smoth,0,NA,NA,,NA,NA
+participant,statue_john_smoth_Meeting_9_Feedback,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+about,statue_john_smoth_Travel_The_Bait_Stich_Completed_Discussion,statue_john_smoth_Travel_The_Bait_Stich,0,NA,NA,,completed,NA
+about,statue_john_smoth_Travel_The_Bait_Stich_Completed_Discussion,statue_john_smoth,0,NA,NA,,NA,NA
+participant,statue_john_smoth_Travel_The_Bait_Stich_Completed_Discussion,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+refers_to,statue_john_smoth_Travel_The_Bait_Stich_Completed_Discussion,2519420987,0,NA,NA,,NA,NA
+about,statue_john_smoth_Meeting_10_Presentation_Discussion,statue_john_smoth_Meeting_10_Presentation,0,NA,NA,,completed,NA
+about,statue_john_smoth_Meeting_10_Presentation_Discussion,statue_john_smoth,0,NA,NA,,NA,NA
+participant,statue_john_smoth_Meeting_10_Presentation_Discussion,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+plan,statue_john_smoth_Meeting_10_Presentation,statue_john_smoth,0,NA,NA,,NA,NA
+participant,statue_john_smoth_Meeting_10_Presentation,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+about,deep_fishing_dock_Meeting_2_Importance_Discussion,deep_fishing_dock,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_2_Importance_Discussion,High Seas Fishing Inc.,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_2_Importance_Discussion,Tours Central Ticketing,0,NA,NA,,NA,NA
+about,deep_fishing_dock_Travel_High_Seas_Fishing_Inc_Discussion,deep_fishing_dock_Travel_High_Seas_Fishing_Inc,0,NA,NA,,planned,NA
+about,deep_fishing_dock_Travel_High_Seas_Fishing_Inc_Discussion,deep_fishing_dock,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Travel_High_Seas_Fishing_Inc_Discussion,Simone Kat,0,NA,NA,,NA,NA
+refers_to,deep_fishing_dock_Travel_High_Seas_Fishing_Inc_Discussion,3753651731,0,NA,NA,,NA,NA
+plan,deep_fishing_dock_Travel_High_Seas_Fishing_Inc,deep_fishing_dock,0,NA,NA,,NA,NA
+travel,deep_fishing_dock_Travel_High_Seas_Fishing_Inc,3753651731,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Travel_High_Seas_Fishing_Inc,Simone Kat,0,NA,NA,,NA,NA
+about,deep_fishing_dock_Meeting_3_Maintenance_Plan_Discussion,deep_fishing_dock_Meeting_3_Maintenance_Plan,0,NA,NA,,planned,NA
+about,deep_fishing_dock_Meeting_3_Maintenance_Plan_Discussion,deep_fishing_dock,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_3_Maintenance_Plan_Discussion,Teddy Goldstein,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_3_Maintenance_Plan_Discussion,Industrial Shipping,0,NA,NA,,NA,NA
+plan,deep_fishing_dock_Meeting_3_Maintenance_Plan,deep_fishing_dock,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_3_Maintenance_Plan,Teddy Goldstein,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_3_Maintenance_Plan,Industrial Shipping,0,NA,NA,,NA,NA
+about,deep_fishing_dock_Travel_High_Seas_Fishing_Inc_Completed_Discussion,deep_fishing_dock_Travel_High_Seas_Fishing_Inc,0,NA,NA,,completed,NA
+about,deep_fishing_dock_Travel_High_Seas_Fishing_Inc_Completed_Discussion,deep_fishing_dock,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Travel_High_Seas_Fishing_Inc_Completed_Discussion,Simone Kat,0,NA,NA,,NA,NA
+refers_to,deep_fishing_dock_Travel_High_Seas_Fishing_Inc_Completed_Discussion,3753651731,0,NA,NA,,NA,NA
+about,deep_fishing_dock_Meeting_4_Findings_Report_Discussion,deep_fishing_dock_Meeting_4_Findings_Report,0,NA,NA,,planned,NA
+about,deep_fishing_dock_Meeting_4_Findings_Report_Discussion,deep_fishing_dock,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_4_Findings_Report_Discussion,Industrial Shipping,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_4_Findings_Report_Discussion,Teddy Goldstein,0,NA,NA,,NA,NA
+plan,deep_fishing_dock_Meeting_4_Findings_Report,deep_fishing_dock,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_4_Findings_Report,Industrial Shipping,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_4_Findings_Report,Teddy Goldstein,0,NA,NA,,NA,NA
+about,deep_fishing_dock_Meeting_4_Recommendation_Discussion,deep_fishing_dock_Meeting_4_Recommendation,0,NA,NA,,planned,NA
+about,deep_fishing_dock_Meeting_4_Recommendation_Discussion,deep_fishing_dock,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_4_Recommendation_Discussion,Teddy Goldstein,0,NA,NA,,NA,NA
+plan,deep_fishing_dock_Meeting_4_Recommendation,deep_fishing_dock,0,NA,NA,,NA,NA
+participant,deep_fishing_dock_Meeting_4_Recommendation,Teddy Goldstein,0,NA,NA,,NA,NA
+about,new_crane_lomark_Meeting_4_Cost_Analysis_Discussion,new_crane_lomark_Meeting_4_Cost_Analysis,0,NA,NA,,completed,NA
+about,new_crane_lomark_Meeting_4_Cost_Analysis_Discussion,new_crane_lomark,0,NA,NA,,NA,NA
+participant,new_crane_lomark_Meeting_4_Cost_Analysis_Discussion,Industrial Shipping,0,1,"Primarily benefits large vessel operations, which are essential for the organization.",,NA,NA
+participant,new_crane_lomark_Meeting_4_Cost_Analysis_Discussion,Tours Central Ticketing,0,-1,"Primarily benefits fishing operations, not tourism.",,NA,NA
+participant,new_crane_lomark_Meeting_4_Cost_Analysis_Discussion,Saltwater Serenades,0,-1,"Primarily benefits fishing operations, not tourism.",,NA,NA
+plan,new_crane_lomark_Meeting_4_Cost_Analysis,new_crane_lomark,0,NA,NA,,NA,NA
+participant,new_crane_lomark_Meeting_4_Cost_Analysis,Industrial Shipping,0,1,"Primarily benefits large vessel operations, which are essential for the organization.",,NA,NA
+participant,new_crane_lomark_Meeting_4_Cost_Analysis,Tours Central Ticketing,0,-1,"Primarily benefits fishing operations, not tourism.",,NA,NA
+participant,new_crane_lomark_Meeting_4_Cost_Analysis,Saltwater Serenades,0,-1,"Primarily benefits fishing operations, not tourism.",,NA,NA
+about,new_crane_lomark_Travel_Blue_Wave_Shipping_Discussion,new_crane_lomark_Travel_Blue_Wave_Shipping,0,NA,NA,,planned,NA
+about,new_crane_lomark_Travel_Blue_Wave_Shipping_Discussion,new_crane_lomark,0,NA,NA,,NA,NA
+participant,new_crane_lomark_Travel_Blue_Wave_Shipping_Discussion,Simone Kat,0,-0.5,"Primarily benefits large vessel operations, with limited relevance to tourism",,NA,NA
+refers_to,new_crane_lomark_Travel_Blue_Wave_Shipping_Discussion,491334376,0,NA,NA,,NA,NA
+plan,new_crane_lomark_Travel_Blue_Wave_Shipping,new_crane_lomark,0,NA,NA,,NA,NA
+travel,new_crane_lomark_Travel_Blue_Wave_Shipping,491334376,0,NA,NA,,NA,NA
+participant,new_crane_lomark_Travel_Blue_Wave_Shipping,Simone Kat,0,-0.5,"Primarily benefits large vessel operations, with limited relevance to tourism",,NA,NA
+about,new_crane_lomark_Meeting_5_Cost_Impact_Report_Discussion,new_crane_lomark_Meeting_5_Cost_Impact_Report,0,NA,NA,,planned,NA
+about,new_crane_lomark_Meeting_5_Cost_Impact_Report_Discussion,new_crane_lomark,0,NA,NA,,NA,NA
+participant,new_crane_lomark_Meeting_5_Cost_Impact_Report_Discussion,Teddy Goldstein,0,1,Essential for improving efficiency in fishing operations.,,NA,NA
+plan,new_crane_lomark_Meeting_5_Cost_Impact_Report,new_crane_lomark,0,NA,NA,,NA,NA
+participant,new_crane_lomark_Meeting_5_Cost_Impact_Report,Teddy Goldstein,0,1,Essential for improving efficiency in fishing operations.,,NA,NA
+about,new_crane_lomark_Travel_Blue_Wave_Shipping_Completed_Discussion,new_crane_lomark_Travel_Blue_Wave_Shipping,0,NA,NA,,completed,NA
+about,new_crane_lomark_Travel_Blue_Wave_Shipping_Completed_Discussion,new_crane_lomark,0,NA,NA,,NA,NA
+participant,new_crane_lomark_Travel_Blue_Wave_Shipping_Completed_Discussion,Simone Kat,0,-0.5,"Primarily benefits large vessel operations, with limited relevance to tourism",,NA,NA
+refers_to,new_crane_lomark_Travel_Blue_Wave_Shipping_Completed_Discussion,491334376,0,NA,NA,,NA,NA
+about,new_crane_lomark_Meeting_8_Share_Findings_Discussion,new_crane_lomark_Meeting_8_Share_Findings,0,NA,NA,,planned,NA
+about,new_crane_lomark_Meeting_8_Share_Findings_Discussion,new_crane_lomark,0,NA,NA,,NA,NA
+participant,new_crane_lomark_Meeting_8_Share_Findings_Discussion,Teddy Goldstein,0,1,Essential for improving efficiency in fishing operations.,,NA,NA
+plan,new_crane_lomark_Meeting_8_Share_Findings,new_crane_lomark,0,NA,NA,,NA,NA
+participant,new_crane_lomark_Meeting_8_Share_Findings,Teddy Goldstein,0,1,Essential for improving efficiency in fishing operations.,,NA,NA
+about,fish_vacuum_Meeting_1_Introduction_Discussion,fish_vacuum_Meeting_1_Introduction,0,NA,NA,,completed,NA
+about,fish_vacuum_Meeting_1_Introduction_Discussion,fish_vacuum,0,NA,NA,,NA,NA
+participant,fish_vacuum_Meeting_1_Introduction_Discussion,Teddy Goldstein,0,0.5,Useful for fishing operations but may have environmental concerns.,,NA,NA
+participant,fish_vacuum_Meeting_1_Introduction_Discussion,High Seas Fishing Inc.,0,1,"Small vessels are the backbone of the company, and this improves operations.",,NA,NA
+participant,fish_vacuum_Meeting_1_Introduction_Discussion,Bay Harvest Corporation,0,NA,NA,,NA,NA
+plan,fish_vacuum_Meeting_1_Introduction,fish_vacuum,0,NA,NA,,NA,NA
+participant,fish_vacuum_Meeting_1_Introduction,Seal,0,0,Balanced view on new technology applications.,,NA,NA
+participant,fish_vacuum_Meeting_1_Introduction,High Seas Fishing Inc.,0,1,"Small vessels are the backbone of the company, and this improves operations.",,NA,NA
+participant,fish_vacuum_Meeting_1_Introduction,Bay Harvest Corporation,0,NA,NA,,NA,NA
+about,fish_vacuum_Travel_Bay_Harvest_Corporation_Discussion,fish_vacuum_Travel_Bay_Harvest_Corporation,0,NA,NA,,planned,NA
+about,fish_vacuum_Travel_Bay_Harvest_Corporation_Discussion,fish_vacuum,0,NA,NA,,NA,NA
+participant,fish_vacuum_Travel_Bay_Harvest_Corporation_Discussion,Simone Kat,0,-0.1,Would rather see money go to tourism initiatives,,NA,NA
+refers_to,fish_vacuum_Travel_Bay_Harvest_Corporation_Discussion,30192735,0,NA,NA,,NA,NA
+plan,fish_vacuum_Travel_Bay_Harvest_Corporation,fish_vacuum,0,NA,NA,,NA,NA
+travel,fish_vacuum_Travel_Bay_Harvest_Corporation,30192735,0,NA,NA,,NA,NA
+participant,fish_vacuum_Travel_Bay_Harvest_Corporation,Simone Kat,0,-0.1,Would rather see money go to tourism initiatives,,NA,NA
+about,fish_vacuum_Meeting_2_Cost_Benefit_Analysis_Discussion,fish_vacuum_Meeting_2_Cost_Benefit_Analysis,0,NA,NA,,completed,NA
+about,fish_vacuum_Meeting_2_Cost_Benefit_Analysis_Discussion,fish_vacuum,0,NA,NA,,NA,NA
+participant,fish_vacuum_Meeting_2_Cost_Benefit_Analysis_Discussion,High Seas Fishing Inc.,0,1,"Small vessels are the backbone of the company, and this improves operations.",,NA,NA
+plan,fish_vacuum_Meeting_2_Cost_Benefit_Analysis,fish_vacuum,0,NA,NA,,NA,NA
+participant,fish_vacuum_Meeting_2_Cost_Benefit_Analysis,High Seas Fishing Inc.,0,1,"Small vessels are the backbone of the company, and this improves operations.",,NA,NA
+about,fish_vacuum_Travel_Bay_Harvest_Corporation_Completed_Discussion,fish_vacuum_Travel_Bay_Harvest_Corporation,0,NA,NA,,completed,NA
+about,fish_vacuum_Travel_Bay_Harvest_Corporation_Completed_Discussion,fish_vacuum,0,NA,NA,,NA,NA
+participant,fish_vacuum_Travel_Bay_Harvest_Corporation_Completed_Discussion,Simone Kat,0,-0.1,Would rather see money go to tourism initiatives,,NA,NA
+refers_to,fish_vacuum_Travel_Bay_Harvest_Corporation_Completed_Discussion,30192735,0,NA,NA,,NA,NA
+about,fish_vacuum_Meeting_3_Report_Discussion,fish_vacuum_Meeting_3_Report,0,NA,NA,,completed,NA
+about,fish_vacuum_Meeting_3_Report_Discussion,fish_vacuum,0,NA,NA,,NA,NA
+participant,fish_vacuum_Meeting_3_Report_Discussion,Teddy Goldstein,0,0.5,Useful for fishing operations but may have environmental concerns.,,NA,NA
+plan,fish_vacuum_Meeting_3_Report,fish_vacuum,0,NA,NA,,NA,NA
+participant,fish_vacuum_Meeting_3_Report,Teddy Goldstein,0,0.5,Useful for fishing operations but may have environmental concerns.,,NA,NA
+about,low_volume_crane_Meeting_3_Proposal_Discussion,low_volume_crane_Meeting_3_Proposal,0,NA,NA,,completed,NA
+about,low_volume_crane_Meeting_3_Proposal_Discussion,low_volume_crane,0,NA,NA,,NA,NA
+participant,low_volume_crane_Meeting_3_Proposal_Discussion,Ed Helpsford,0,1,"Beneficial for small time fishers, who he feels are often overlooked",,NA,NA
+plan,low_volume_crane_Meeting_3_Proposal,low_volume_crane,0,NA,NA,,NA,NA
+participant,low_volume_crane_Meeting_3_Proposal,Ed Helpsford,0,1,"Beneficial for small time fishers, who he feels are often overlooked",,NA,NA
+about,low_volume_crane_Travel_Harbor_Route_Solutions_Discussion,low_volume_crane_Travel_Harbor_Route_Solutions,0,NA,NA,,planned,NA
+about,low_volume_crane_Travel_Harbor_Route_Solutions_Discussion,low_volume_crane,0,NA,NA,,NA,NA
+participant,low_volume_crane_Travel_Harbor_Route_Solutions_Discussion,Seal,0,0.1,Recognizes the crane's benefit to small-scale operations.,,NA,NA
+refers_to,low_volume_crane_Travel_Harbor_Route_Solutions_Discussion,35889363,0,NA,NA,,NA,NA
+plan,low_volume_crane_Travel_Harbor_Route_Solutions,low_volume_crane,0,NA,NA,,NA,NA
+travel,low_volume_crane_Travel_Harbor_Route_Solutions,35889363,0,NA,NA,,NA,NA
+participant,low_volume_crane_Travel_Harbor_Route_Solutions,Seal,0,0.1,Recognizes the crane's benefit to small-scale operations.,,NA,NA
+about,low_volume_crane_Travel_Harbor_Route_Solutions_Completed_Discussion_Crane,low_volume_crane_Travel_Harbor_Route_Solutions,0,NA,NA,,completed,NA
+about,low_volume_crane_Travel_Harbor_Route_Solutions_Completed_Discussion_Crane,low_volume_crane,0,NA,NA,,NA,NA
+participant,low_volume_crane_Travel_Harbor_Route_Solutions_Completed_Discussion_Crane,Seal,0,0.1,Recognizes the crane's benefit to small-scale operations.,,NA,NA
+refers_to,low_volume_crane_Travel_Harbor_Route_Solutions_Completed_Discussion_Crane,35889363,0,NA,NA,,NA,NA
+about,low_volume_crane_Travel_Harbor_Builders_Discussion,low_volume_crane_Travel_Harbor_Builders,0,NA,NA,,planned,NA
+about,low_volume_crane_Travel_Harbor_Builders_Discussion,low_volume_crane,0,NA,NA,,NA,NA
+participant,low_volume_crane_Travel_Harbor_Builders_Discussion,Simone Kat,0,0.75,"Supports small-scale operations, which align with small vessel activities and tourism. Tourism is increasingly focused on small scale pictureque fishing",,NA,NA
+refers_to,low_volume_crane_Travel_Harbor_Builders_Discussion,35922181,0,NA,NA,,NA,NA
+plan,low_volume_crane_Travel_Harbor_Builders,low_volume_crane,0,NA,NA,,NA,NA
+travel,low_volume_crane_Travel_Harbor_Builders,35922181,0,NA,NA,,NA,NA
+participant,low_volume_crane_Travel_Harbor_Builders,Simone Kat,0,0.75,"Supports small-scale operations, which align with small vessel activities and tourism. Tourism is increasingly focused on small scale pictureque fishing",,NA,NA
+about,low_volume_crane_Travel_Haacklee_Assembly_Co_Discussion,low_volume_crane_Travel_Haacklee_Assembly_Co,0,NA,NA,,planned,NA
+about,low_volume_crane_Travel_Haacklee_Assembly_Co_Discussion,low_volume_crane,0,NA,NA,,NA,NA
+participant,low_volume_crane_Travel_Haacklee_Assembly_Co_Discussion,Simone Kat,0,0.75,"Supports small-scale operations, which align with small vessel activities and tourism. Tourism is increasingly focused on small scale pictureque fishing",,NA,NA
+refers_to,low_volume_crane_Travel_Haacklee_Assembly_Co_Discussion,35872967,0,NA,NA,,NA,NA
+plan,low_volume_crane_Travel_Haacklee_Assembly_Co,low_volume_crane,0,NA,NA,,NA,NA
+travel,low_volume_crane_Travel_Haacklee_Assembly_Co,35872967,0,NA,NA,,NA,NA
+participant,low_volume_crane_Travel_Haacklee_Assembly_Co,Simone Kat,0,0.75,"Supports small-scale operations, which align with small vessel activities and tourism. Tourism is increasingly focused on small scale pictureque fishing",,NA,NA
+about,low_volume_crane_Meeting_8_Report_Discussion,low_volume_crane_Meeting_8_Report,0,NA,NA,,planned,NA
+about,low_volume_crane_Meeting_8_Report_Discussion,low_volume_crane,0,NA,NA,,NA,NA
+participant,low_volume_crane_Meeting_8_Report_Discussion,Seal,0,0.1,Recognizes the crane's benefit to small-scale operations.,,NA,NA
+plan,low_volume_crane_Meeting_8_Report,low_volume_crane,0,NA,NA,,NA,NA
+participant,low_volume_crane_Meeting_8_Report,Seal,0,0.1,Recognizes the crane's benefit to small-scale operations.,,NA,NA
+about,low_volume_crane_Travel_Harbor_Builders_Completed_Discussion,low_volume_crane_Travel_Harbor_Builders,0,NA,NA,,completed,NA
+about,low_volume_crane_Travel_Harbor_Builders_Completed_Discussion,low_volume_crane,0,NA,NA,,NA,NA
+participant,low_volume_crane_Travel_Harbor_Builders_Completed_Discussion,Simone Kat,0,0.75,"Supports small-scale operations, which align with small vessel activities and tourism. Tourism is increasingly focused on small scale pictureque fishing",,NA,NA
+refers_to,low_volume_crane_Travel_Harbor_Builders_Completed_Discussion,35922181,0,NA,NA,,NA,NA
+about,low_volume_crane_Travel_Haacklee_Assembly_Co_Completed_Discussion,low_volume_crane_Travel_Haacklee_Assembly_Co,0,NA,NA,,completed,NA
+about,low_volume_crane_Travel_Haacklee_Assembly_Co_Completed_Discussion,low_volume_crane,0,NA,NA,,NA,NA
+participant,low_volume_crane_Travel_Haacklee_Assembly_Co_Completed_Discussion,Simone Kat,0,0.75,"Supports small-scale operations, which align with small vessel activities and tourism. Tourism is increasingly focused on small scale pictureque fishing",,NA,NA
+refers_to,low_volume_crane_Travel_Haacklee_Assembly_Co_Completed_Discussion,35872967,0,NA,NA,,NA,NA
+about,affordable_housing_Meeting_6_Sites_Proposal_Discussion,affordable_housing_Meeting_6_Sites_Proposal,0,NA,NA,,in_progress,NA
+about,affordable_housing_Meeting_6_Sites_Proposal_Discussion,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_6_Sites_Proposal_Discussion,Builders Association,0,1,"Supports affordable housing for workers, which benefits large vessel operations.",,NA,NA
+participant,affordable_housing_Meeting_6_Sites_Proposal_Discussion,Saltwater Serenades,0,-1,Conflicts with tourism-focused short-term rentals.,,NA,NA
+plan,affordable_housing_Meeting_6_Sites_Proposal,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_6_Sites_Proposal,Builders Association,0,1,"Supports affordable housing for workers, which benefits large vessel operations.",,NA,NA
+participant,affordable_housing_Meeting_6_Sites_Proposal,Saltwater Serenades,0,-1,Conflicts with tourism-focused short-term rentals.,,NA,NA
+about,affordable_housing_Travel_Waveside_Townhomes_Discussion,affordable_housing_Travel_Waveside_Townhomes,0,NA,NA,,planned,NA
+about,affordable_housing_Travel_Waveside_Townhomes_Discussion,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Travel_Waveside_Townhomes_Discussion,Simone Kat,0,-1,Conflicts with tourism-focused short-term rentals,,NA,NA
+refers_to,affordable_housing_Travel_Waveside_Townhomes_Discussion,48468290,0,NA,NA,,NA,NA
+plan,affordable_housing_Travel_Waveside_Townhomes,affordable_housing,0,NA,NA,,NA,NA
+travel,affordable_housing_Travel_Waveside_Townhomes,48468290,0,NA,NA,,NA,NA
+participant,affordable_housing_Travel_Waveside_Townhomes,Simone Kat,0,-1,Conflicts with tourism-focused short-term rentals,,NA,NA
+about,affordable_housing_Meeting_7_Debate_Discussion,affordable_housing_Meeting_7_Debate,0,NA,NA,,completed,NA
+about,affordable_housing_Meeting_7_Debate_Discussion,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_7_Debate_Discussion,Simone Kat,0,-1,Conflicts with tourism-focused short-term rentals,,NA,NA
+participant,affordable_housing_Meeting_7_Debate_Discussion,Ed Helpsford,0,1,Feels committee should be doing more for blue-collar workers. Nephew is having trouble finding housing,,NA,NA
+plan,affordable_housing_Meeting_7_Debate,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_7_Debate,Simone Kat,0,-1,Conflicts with tourism-focused short-term rentals,,NA,NA
+participant,affordable_housing_Meeting_7_Debate,Ed Helpsford,0,1,Feels committee should be doing more for blue-collar workers. Nephew is having trouble finding housing,,NA,NA
+about,affordable_housing_Travel_Waveside_Townhomes_Completed_Discussion,affordable_housing_Travel_Waveside_Townhomes,0,NA,NA,,completed,NA
+about,affordable_housing_Travel_Waveside_Townhomes_Completed_Discussion,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Travel_Waveside_Townhomes_Completed_Discussion,Ed Helpsford,0,1,Feels committee should be doing more for blue-collar workers. Nephew is having trouble finding housing,,NA,NA
+refers_to,affordable_housing_Travel_Waveside_Townhomes_Completed_Discussion,48468290,0,NA,NA,,NA,NA
+about,affordable_housing_Meeting_8_Gather_Feedback_Discussion,affordable_housing_Meeting_8_Feedback,0,NA,NA,,planned,NA
+about,affordable_housing_Meeting_8_Gather_Feedback_Discussion,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_8_Gather_Feedback_Discussion,Industrial Shipping,0,1,"Supports affordable housing for workers, which benefits large vessel operations.",,NA,NA
+participant,affordable_housing_Meeting_8_Gather_Feedback_Discussion,Ed Helpsford,0,1,Feels committee should be doing more for blue-collar workers. Nephew is having trouble finding housing,,NA,NA
+plan,affordable_housing_Meeting_8_Feedback,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_8_Feedback,Industrial Shipping,0,1,"Supports affordable housing for workers, which benefits large vessel operations.",,NA,NA
+participant,affordable_housing_Meeting_8_Feedback,Ed Helpsford,0,1,Feels committee should be doing more for blue-collar workers. Nephew is having trouble finding housing,,NA,NA
+about,affordable_housing_Travel_Tidewater_Flats_Discussion,affordable_housing_Travel_Tidewater_Flats,0,NA,NA,,planned,NA
+about,affordable_housing_Travel_Tidewater_Flats_Discussion,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Travel_Tidewater_Flats_Discussion,Teddy Goldstein,0,1,Strongly supports affordable housing for workers.,,NA,NA
+refers_to,affordable_housing_Travel_Tidewater_Flats_Discussion,48480127,0,NA,NA,,NA,NA
+plan,affordable_housing_Travel_Tidewater_Flats,affordable_housing,0,NA,NA,,NA,NA
+travel,affordable_housing_Travel_Tidewater_Flats,48480127,0,NA,NA,,NA,NA
+participant,affordable_housing_Travel_Tidewater_Flats,Teddy Goldstein,0,1,Strongly supports affordable housing for workers.,,NA,NA
+about,affordable_housing_Meeting_9_Invite_Developers_Discussion,affordable_housing_Meeting_9_Invite_Developers,0,NA,NA,,planned,NA
+about,affordable_housing_Meeting_9_Invite_Developers_Discussion,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_9_Invite_Developers_Discussion,Builders Association,0,1,"Supports affordable housing for workers, which benefits large vessel operations.",,NA,NA
+participant,affordable_housing_Meeting_9_Invite_Developers_Discussion,Industrial Shipping,0,1,"Supports affordable housing for workers, which benefits large vessel operations.",,NA,NA
+plan,affordable_housing_Meeting_9_Invite_Developers,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_9_Invite_Developers,Builders Association,0,1,"Supports affordable housing for workers, which benefits large vessel operations.",,NA,NA
+participant,affordable_housing_Meeting_9_Invite_Developers,Industrial Shipping,0,1,"Supports affordable housing for workers, which benefits large vessel operations.",,NA,NA
+about,affordable_housing_Travel_Tidewater_Flats_Completed_Discussion,affordable_housing_Travel_Tidewater_Flats,0,NA,NA,,completed,NA
+about,affordable_housing_Travel_Tidewater_Flats_Completed_Discussion,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Travel_Tidewater_Flats_Completed_Discussion,Teddy Goldstein,0,1,Strongly supports affordable housing for workers.,,NA,NA
+refers_to,affordable_housing_Travel_Tidewater_Flats_Completed_Discussion,48480127,0,NA,NA,,NA,NA
+about,affordable_housing_Meeting_10_Travel_Findings_Discussion,affordable_housing_Meeting_10_Housing_Proposal,0,NA,NA,,planned,NA
+about,affordable_housing_Meeting_10_Travel_Findings_Discussion,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_10_Travel_Findings_Discussion,Ed Helpsford,0,1,Feels committee should be doing more for blue-collar workers. Nephew is having trouble finding housing,,NA,NA
+plan,affordable_housing_Meeting_10_Housing_Proposal,affordable_housing,0,NA,NA,,NA,NA
+participant,affordable_housing_Meeting_10_Housing_Proposal,Ed Helpsford,0,1,Feels committee should be doing more for blue-collar workers. Nephew is having trouble finding housing,,NA,NA
+about,renaming_park_himark_Meeting_4_Name_Ideas_Discussion,renaming_park_himark_Meeting_4_Name_Ideas,0,NA,NA,,planned,NA
+about,renaming_park_himark_Meeting_4_Name_Ideas_Discussion,renaming_park_himark,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Meeting_4_Name_Ideas_Discussion,PTA,0,0,Symbolic gesture with no direct impact on children or education.,,NA,NA
+participant,renaming_park_himark_Meeting_4_Name_Ideas_Discussion,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+plan,renaming_park_himark_Meeting_4_Name_Ideas,renaming_park_himark,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Meeting_4_Name_Ideas,PTA,0,0,Symbolic gesture with no direct impact on children or education.,,NA,NA
+participant,renaming_park_himark_Meeting_4_Name_Ideas,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+about,renaming_park_himark_Travel_Anchor_Way_Grill_Discussion,renaming_park_himark_Travel_Anchor_Way_Grill,0,NA,NA,,planned,NA
+about,renaming_park_himark_Travel_Anchor_Way_Grill_Discussion,renaming_park_himark,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Travel_Anchor_Way_Grill_Discussion,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+refers_to,renaming_park_himark_Travel_Anchor_Way_Grill_Discussion,30188848,0,NA,NA,,NA,NA
+plan,renaming_park_himark_Travel_Anchor_Way_Grill,renaming_park_himark,0,NA,NA,,NA,NA
+travel,renaming_park_himark_Travel_Anchor_Way_Grill,30188848,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Travel_Anchor_Way_Grill,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+about,renaming_park_himark_Travel_Sailors_Perch_Light_Discussion,renaming_park_himark_Travel_Sailors_Perch_Light,0,NA,NA,,planned,NA
+about,renaming_park_himark_Travel_Sailors_Perch_Light_Discussion,renaming_park_himark,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Travel_Sailors_Perch_Light_Discussion,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+refers_to,renaming_park_himark_Travel_Sailors_Perch_Light_Discussion,5849775342,0,NA,NA,,NA,NA
+plan,renaming_park_himark_Travel_Sailors_Perch_Light,renaming_park_himark,0,NA,NA,,NA,NA
+travel,renaming_park_himark_Travel_Sailors_Perch_Light,5849775342,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Travel_Sailors_Perch_Light,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+about,renaming_park_himark_Travel_Himark_City_Hall_Discussion,renaming_park_himark_Travel_Himark_City_Hall,0,NA,NA,,planned,NA
+about,renaming_park_himark_Travel_Himark_City_Hall_Discussion,renaming_park_himark,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Travel_Himark_City_Hall_Discussion,Carol Limpet,0,0.5,Symbolic gesture that could attract tourists and improve community pride.,,NA,NA
+refers_to,renaming_park_himark_Travel_Himark_City_Hall_Discussion,9196630064,0,NA,NA,,NA,NA
+plan,renaming_park_himark_Travel_Himark_City_Hall,renaming_park_himark,0,NA,NA,,NA,NA
+travel,renaming_park_himark_Travel_Himark_City_Hall,9196630064,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Travel_Himark_City_Hall,Carol Limpet,0,0.5,Symbolic gesture that could attract tourists and improve community pride.,,NA,NA
+about,renaming_park_himark_Meeting_5_Nominations_Discussion,renaming_park_himark_Meeting_5_Nominations,0,NA,NA,,planned,NA
+about,renaming_park_himark_Meeting_5_Nominations_Discussion,renaming_park_himark,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Meeting_5_Nominations_Discussion,Carol Limpet,0,0.5,Symbolic gesture that could attract tourists and improve community pride.,,NA,NA
+plan,renaming_park_himark_Meeting_5_Nominations,renaming_park_himark,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Meeting_5_Nominations,Carol Limpet,0,0.5,Symbolic gesture that could attract tourists and improve community pride.,,NA,NA
+about,renaming_park_himark_Travel_Himark_City_Hall_Completed_Discussion,renaming_park_himark_Travel_Himark_City_Hall,0,NA,NA,,completed,NA
+about,renaming_park_himark_Travel_Himark_City_Hall_Completed_Discussion,renaming_park_himark,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Travel_Himark_City_Hall_Completed_Discussion,Carol Limpet,0,0.5,Symbolic gesture that could attract tourists and improve community pride.,,NA,NA
+refers_to,renaming_park_himark_Travel_Himark_City_Hall_Completed_Discussion,9196630064,0,NA,NA,,NA,NA
+about,renaming_park_himark_Travel_Anchor_Way_Grill_Completed_Discussion,renaming_park_himark_Travel_Anchor_Way_Grill,0,NA,NA,,completed,NA
+about,renaming_park_himark_Travel_Anchor_Way_Grill_Completed_Discussion,renaming_park_himark,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Travel_Anchor_Way_Grill_Completed_Discussion,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+refers_to,renaming_park_himark_Travel_Anchor_Way_Grill_Completed_Discussion,30188848,0,NA,NA,,NA,NA
+about,renaming_park_himark_Travel_Sailors_Perch_Light_Completed_Discussion,renaming_park_himark_Travel_Sailors_Perch_Light,0,NA,NA,,completed,NA
+about,renaming_park_himark_Travel_Sailors_Perch_Light_Completed_Discussion,renaming_park_himark,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Travel_Sailors_Perch_Light_Completed_Discussion,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+refers_to,renaming_park_himark_Travel_Sailors_Perch_Light_Completed_Discussion,5849775342,0,NA,NA,,NA,NA
+about,renaming_park_himark_Meeting_8_Compile_Nominations_Discussion,renaming_park_himark_Meeting_8_Compile_Nominations,0,NA,NA,,planned,NA
+about,renaming_park_himark_Meeting_8_Compile_Nominations_Discussion,renaming_park_himark,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Meeting_8_Compile_Nominations_Discussion,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+plan,renaming_park_himark_Meeting_8_Compile_Nominations,renaming_park_himark,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Meeting_8_Compile_Nominations,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+about,renaming_park_himark_Meeting_7_Announce_Name_Discussion,renaming_park_himark_Meeting_7_Announce_Name,0,NA,NA,,completed,NA
+about,renaming_park_himark_Meeting_7_Announce_Name_Discussion,renaming_park_himark,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Meeting_7_Announce_Name_Discussion,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+plan,renaming_park_himark_Meeting_7_Announce_Name,renaming_park_himark,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Meeting_7_Announce_Name,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+about,renaming_park_himark_Meeting_7_Unveiling_Event_Discussion,renaming_park_himark_Meeting_7_Unveiling_Event,0,NA,NA,,completed,NA
+about,renaming_park_himark_Meeting_7_Unveiling_Event_Discussion,renaming_park_himark,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Meeting_7_Unveiling_Event_Discussion,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+plan,renaming_park_himark_Meeting_7_Unveiling_Event,renaming_park_himark,0,NA,NA,,NA,NA
+participant,renaming_park_himark_Meeting_7_Unveiling_Event,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+about,name_harbor_area_Meeting_10_Historical_Significance_Discussion,name_harbor_area_Meeting_10_Historical_Significance,0,NA,NA,,completed,NA
+about,name_harbor_area_Meeting_10_Historical_Significance_Discussion,name_harbor_area,0,NA,NA,,NA,NA
+participant,name_harbor_area_Meeting_10_Historical_Significance_Discussion,Daughters of Port Grove,0,0,Symbolic gesture with no direct impact on tourism or vessel operations.,,NA,NA
+plan,name_harbor_area_Meeting_10_Historical_Significance,name_harbor_area,0,NA,NA,,NA,NA
+participant,name_harbor_area_Meeting_10_Historical_Significance,Daughters of Port Grove,0,0,Symbolic gesture with no direct impact on tourism or vessel operations.,,NA,NA
+about,name_harbor_area_Travel_The_Bait_Stich_Discussion,name_harbor_area_Travel_The_Bait_Stich,0,NA,NA,,planned,NA
+about,name_harbor_area_Travel_The_Bait_Stich_Discussion,name_harbor_area,0,NA,NA,,NA,NA
+participant,name_harbor_area_Travel_The_Bait_Stich_Discussion,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+refers_to,name_harbor_area_Travel_The_Bait_Stich_Discussion,2519420987,0,NA,NA,,NA,NA
+plan,name_harbor_area_Travel_The_Bait_Stich,name_harbor_area,0,NA,NA,,NA,NA
+travel,name_harbor_area_Travel_The_Bait_Stich,2519420987,0,NA,NA,,NA,NA
+participant,name_harbor_area_Travel_The_Bait_Stich,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+about,name_harbor_area_Meeting_11_Harbor_Odyssey_Tours_Discussion,name_harbor_area_Meeting_11_Harbor_Odyssey_Tours,0,NA,NA,,planned,NA
+about,name_harbor_area_Meeting_11_Harbor_Odyssey_Tours_Discussion,name_harbor_area,0,NA,NA,,NA,NA
+participant,name_harbor_area_Meeting_11_Harbor_Odyssey_Tours_Discussion,Harbor Odyssey Tours,0,NA,NA,,NA,NA
+about,name_harbor_area_Meeting_11_Draft_Names_Discussion,name_harbor_area_Meeting_11_Draft_Names,0,NA,NA,,in_progress,NA
+about,name_harbor_area_Meeting_11_Draft_Names_Discussion,name_harbor_area,0,NA,NA,,NA,NA
+participant,name_harbor_area_Meeting_11_Draft_Names_Discussion,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+plan,name_harbor_area_Meeting_11_Draft_Names,name_harbor_area,0,NA,NA,,NA,NA
+participant,name_harbor_area_Meeting_11_Draft_Names,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+plan,name_harbor_area_Travel_Harbor_Odyssey_Tours,name_harbor_area,0,NA,NA,,NA,NA
+travel,name_harbor_area_Travel_Harbor_Odyssey_Tours,10803677425,0,NA,NA,,NA,NA
+participant,name_harbor_area_Travel_Harbor_Odyssey_Tours,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+about,name_harbor_area_Travel_The_Bait_Stich_Completed_Discussion,name_harbor_area_Travel_The_Bait_Stich,0,NA,NA,,completed,NA
+about,name_harbor_area_Travel_The_Bait_Stich_Completed_Discussion,name_harbor_area,0,NA,NA,,NA,NA
+participant,name_harbor_area_Travel_The_Bait_Stich_Completed_Discussion,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+refers_to,name_harbor_area_Travel_The_Bait_Stich_Completed_Discussion,2519420987,0,NA,NA,,NA,NA
+about,name_harbor_area_Travel_Harbor_Odyssey_Tours_Completed_Discussion,name_harbor_area_Travel_Harbor_Odyssey_Tours,0,NA,NA,,completed,NA
+about,name_harbor_area_Travel_Harbor_Odyssey_Tours_Completed_Discussion,name_harbor_area,0,NA,NA,,NA,NA
+participant,name_harbor_area_Travel_Harbor_Odyssey_Tours_Completed_Discussion,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+refers_to,name_harbor_area_Travel_Harbor_Odyssey_Tours_Completed_Discussion,10803677425,0,NA,NA,,NA,NA
+about,name_harbor_area_Meeting_12_Public_Opinion_Discussion,name_harbor_area_Meeting_12_Public_Opinion,0,NA,NA,,planned,NA
+about,name_harbor_area_Meeting_12_Public_Opinion_Discussion,name_harbor_area,0,NA,NA,,NA,NA
+participant,name_harbor_area_Meeting_12_Public_Opinion_Discussion,Ed Helpsford,0,0,Supportive but also feels it is a distraction,,NA,NA
+plan,name_harbor_area_Meeting_12_Public_Opinion,name_harbor_area,0,NA,NA,,NA,NA
+participant,name_harbor_area_Meeting_12_Public_Opinion,Ed Helpsford,0,0,Supportive but also feels it is a distraction,,NA,NA
+about,name_harbor_area_Meeting_14_Finalize_Name_Discussion,name_harbor_area_Meeting_14_Finalize_Name,0,NA,NA,,completed,NA
+about,name_harbor_area_Meeting_14_Finalize_Name_Discussion,name_harbor_area,0,NA,NA,,NA,NA
+participant,name_harbor_area_Meeting_14_Finalize_Name_Discussion,Sean,0,NA,NA,,NA,NA
+plan,name_harbor_area_Meeting_14_Finalize_Name,name_harbor_area,0,NA,NA,,NA,NA
+participant,name_harbor_area_Meeting_14_Finalize_Name,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+about,name_inspection_office_Meeting_8_Importance_Discussion,name_inspection_office_Meeting_8_Importance,0,NA,NA,,in_progress,NA
+about,name_inspection_office_Meeting_8_Importance_Discussion,name_inspection_office,0,NA,NA,,NA,NA
+participant,name_inspection_office_Meeting_8_Importance_Discussion,High Seas Fishing Inc.,0,0,Symbolic gesture with no direct impact on fishing or vessel operations.,,NA,NA
+plan,name_inspection_office_Meeting_8_Importance,name_inspection_office,0,NA,NA,,NA,NA
+participant,name_inspection_office_Meeting_8_Importance,High Seas Fishing Inc.,0,0,Symbolic gesture with no direct impact on fishing or vessel operations.,,NA,NA
+about,name_inspection_office_Meeting_8_Proposal_Discussion,name_inspection_office_Meeting_8_Proposal,0,NA,NA,,planned,NA
+about,name_inspection_office_Meeting_8_Proposal_Discussion,name_inspection_office,0,NA,NA,,NA,NA
+participant,name_inspection_office_Meeting_8_Proposal_Discussion,Simone Kat,0,0,Symbolic gesture with no direct impact on tourism or vessel operations.,,NA,NA
+plan,name_inspection_office_Meeting_8_Proposal,name_inspection_office,0,NA,NA,,NA,NA
+participant,name_inspection_office_Meeting_8_Proposal,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+about,name_inspection_office_Travel_Lomark_Civic_Plaza_Discussion,name_inspection_office_Travel_Lomark_Civic_Plaza,0,NA,NA,,planned,NA
+about,name_inspection_office_Travel_Lomark_Civic_Plaza_Discussion,name_inspection_office,0,NA,NA,,NA,NA
+participant,name_inspection_office_Travel_Lomark_Civic_Plaza_Discussion,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+refers_to,name_inspection_office_Travel_Lomark_Civic_Plaza_Discussion,48475647,0,NA,NA,,NA,NA
+plan,name_inspection_office_Travel_Lomark_Civic_Plaza,name_inspection_office,0,NA,NA,,NA,NA
+travel,name_inspection_office_Travel_Lomark_Civic_Plaza,48475647,0,NA,NA,,NA,NA
+participant,name_inspection_office_Travel_Lomark_Civic_Plaza,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+about,name_inspection_office_Travel_Lomark_Civic_Plaza_Completed_Discussion,name_inspection_office_Travel_Lomark_Civic_Plaza,0,NA,NA,,completed,NA
+about,name_inspection_office_Travel_Lomark_Civic_Plaza_Completed_Discussion,name_inspection_office,0,NA,NA,,NA,NA
+participant,name_inspection_office_Travel_Lomark_Civic_Plaza_Completed_Discussion,Simone Kat,0,0,Symbolic gesture with no direct impact on tourism or vessel operations.,,NA,NA
+refers_to,name_inspection_office_Travel_Lomark_Civic_Plaza_Completed_Discussion,48475647,0,NA,NA,,NA,NA
+about,name_inspection_office_Meeting_9_Community_Vote_Discussion,name_inspection_office_Meeting_9_Community_Vote,0,NA,NA,,planned,NA
+about,name_inspection_office_Meeting_9_Community_Vote_Discussion,name_inspection_office,0,NA,NA,,NA,NA
+participant,name_inspection_office_Meeting_9_Community_Vote_Discussion,Ed Helpsford,0,0,Supportive but also feels it is a distraction,,NA,NA
+plan,name_inspection_office_Meeting_9_Community_Vote,name_inspection_office,0,NA,NA,,NA,NA
+participant,name_inspection_office_Meeting_9_Community_Vote,Ed Helpsford,0,0,Supportive but also feels it is a distraction,,NA,NA
+about,name_inspection_office_Meeting_14_Announcement_Discussion,name_inspection_office_Meeting_14_Announcement,0,NA,NA,,completed,NA
+about,name_inspection_office_Meeting_14_Announcement_Discussion,name_inspection_office,0,NA,NA,,NA,NA
+participant,name_inspection_office_Meeting_14_Announcement_Discussion,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+plan,name_inspection_office_Meeting_14_Announcement,name_inspection_office,0,NA,NA,,NA,NA
+participant,name_inspection_office_Meeting_14_Announcement,Tante Titan,0,1,Loves ceremonial gestures and believes they can have a positive impact.,,NA,NA
+about,marine_life_deck_Meeting_10_Initial_Ideas_Discussion,marine_life_deck_Meeting_10_Initial_Ideas,0,NA,NA,,completed,NA
+about,marine_life_deck_Meeting_10_Initial_Ideas_Discussion,marine_life_deck,0,NA,NA,,NA,NA
+participant,marine_life_deck_Meeting_10_Initial_Ideas_Discussion,Simone Kat,0,1,"Strongly supports as it could be a major attraction, benefiting tourism.",,NA,NA
+participant,marine_life_deck_Meeting_10_Initial_Ideas_Discussion,Carol Limpet,0,0.5,Sees educational value but concerned about sustainable funding.,,NA,NA
+plan,marine_life_deck_Meeting_10_Initial_Ideas,marine_life_deck,0,NA,NA,,NA,NA
+participant,marine_life_deck_Meeting_10_Initial_Ideas,Simone Kat,0,1,"Strongly supports as it could be a major attraction, benefiting tourism.",,NA,NA
+participant,marine_life_deck_Meeting_10_Initial_Ideas,Carol Limpet,0,0.5,Sees educational value but concerned about sustainable funding.,,NA,NA
+about,marine_life_deck_Travel_Tropics_Environmental_Hub_Discussion,marine_life_deck_Travel_Tropics_Environmental_Hub,0,NA,NA,,planned,NA
+about,marine_life_deck_Travel_Tropics_Environmental_Hub_Discussion,marine_life_deck,0,NA,NA,,NA,NA
+participant,marine_life_deck_Travel_Tropics_Environmental_Hub_Discussion,Carol Limpet,0,0.5,Sees educational value but concerned about sustainable funding.,,NA,NA
+refers_to,marine_life_deck_Travel_Tropics_Environmental_Hub_Discussion,581717431,0,NA,NA,,NA,NA
+plan,marine_life_deck_Travel_Tropics_Environmental_Hub,marine_life_deck,0,NA,NA,,NA,NA
+travel,marine_life_deck_Travel_Tropics_Environmental_Hub,581717431,0,NA,NA,,NA,NA
+participant,marine_life_deck_Travel_Tropics_Environmental_Hub,Carol Limpet,0,0.5,Sees educational value but concerned about sustainable funding.,,NA,NA
+about,marine_life_deck_Meeting_11_Feedback_Discussion,marine_life_deck_Meeting_11_Feedback,0,NA,NA,,in_progress,NA
+about,marine_life_deck_Meeting_11_Feedback_Discussion,marine_life_deck,0,NA,NA,,NA,NA
+participant,marine_life_deck_Meeting_11_Feedback_Discussion,Carol Limpet,0,0.5,Sees educational value but concerned about sustainable funding.,,NA,NA
+plan,marine_life_deck_Meeting_11_Feedback,marine_life_deck,0,NA,NA,,NA,NA
+participant,marine_life_deck_Meeting_11_Feedback,Carol Limpet,0,0.5,Sees educational value but concerned about sustainable funding.,,NA,NA
+about,marine_life_deck_Travel_Tropics_Environmental_Hub_Completed_Discussion,marine_life_deck_Travel_Tropics_Environmental_Hub,0,NA,NA,,completed,NA
+about,marine_life_deck_Travel_Tropics_Environmental_Hub_Completed_Discussion,marine_life_deck,0,NA,NA,,NA,NA
+participant,marine_life_deck_Travel_Tropics_Environmental_Hub_Completed_Discussion,Carol Limpet,0,0.5,Sees educational value but concerned about sustainable funding.,,NA,NA
+refers_to,marine_life_deck_Travel_Tropics_Environmental_Hub_Completed_Discussion,581717431,0,NA,NA,,NA,NA
+about,marine_life_deck_Meeting_12_Environmental_Impact_Report_Discussion,marine_life_deck_Meeting_12_Environmental_Impact_Report,0,NA,NA,,planned,NA
+about,marine_life_deck_Meeting_12_Environmental_Impact_Report_Discussion,marine_life_deck,0,NA,NA,,NA,NA
+participant,marine_life_deck_Meeting_12_Environmental_Impact_Report_Discussion,Teddy Goldstein,0,-0.5,Prefers resources to be allocated toward the fishing industry.,,NA,NA
+plan,marine_life_deck_Meeting_12_Environmental_Impact_Report,marine_life_deck,0,NA,NA,,NA,NA
+participant,marine_life_deck_Meeting_12_Environmental_Impact_Report,Teddy Goldstein,0,-0.5,Prefers resources to be allocated toward the fishing industry.,,NA,NA
+about,marine_life_deck_Meeting_12_Detailed_Proposal_Discussion,marine_life_deck_Meeting_12_Detailed_Proposal,0,NA,NA,,completed,NA
+about,marine_life_deck_Meeting_12_Detailed_Proposal_Discussion,marine_life_deck,0,NA,NA,,NA,NA
+participant,marine_life_deck_Meeting_12_Detailed_Proposal_Discussion,Simone Kat,0,1,"Strongly supports as it could be a major attraction, benefiting tourism.",,NA,NA
+plan,marine_life_deck_Meeting_12_Detailed_Proposal,marine_life_deck,0,NA,NA,,NA,NA
+participant,marine_life_deck_Meeting_12_Detailed_Proposal,Simone Kat,0,1,"Strongly supports as it could be a major attraction, benefiting tourism.",,NA,NA
+about,seafood_festival_Meeting_1_Discussion,seafood_festival_Meeting_1_Feasibility,0,NA,NA,,completed,NA
+about,seafood_festival_Meeting_1_Discussion,seafood_festival,0,NA,NA,,NA,NA
+participant,seafood_festival_Meeting_1_Discussion,Simone Kat,0,0.75,Sees great potential in drawing tourists and celebrating local cuisine.,,NA,NA
+participant,seafood_festival_Meeting_1_Discussion,Carol Limpet,0,0.75,Supports as it offers community and economic benefits.,,NA,NA
+plan,seafood_festival_Meeting_1_Feasibility,seafood_festival,0,NA,NA,,NA,NA
+participant,seafood_festival_Meeting_1_Feasibility,Simone Kat,0,0.75,Sees great potential in drawing tourists and celebrating local cuisine.,,NA,NA
+participant,seafood_festival_Meeting_1_Feasibility,Tante Titan,0,0.75,Supports as it boosts local economy and community connection.,,NA,NA
+about,seafood_festival_Travel_Dock_Roll_Hall_of_Fame_Discussion,seafood_festival_Travel_Dock_Roll_Hall_of_Fame,0,NA,NA,,planned,NA
+about,seafood_festival_Travel_Dock_Roll_Hall_of_Fame_Discussion,seafood_festival,0,NA,NA,,NA,NA
+participant,seafood_festival_Travel_Dock_Roll_Hall_of_Fame_Discussion,Carol Limpet,0,0.75,Supports as it offers community and economic benefits.,,NA,NA
+refers_to,seafood_festival_Travel_Dock_Roll_Hall_of_Fame_Discussion,37828755,0,NA,NA,,NA,NA
+plan,seafood_festival_Travel_Dock_Roll_Hall_of_Fame,seafood_festival,0,NA,NA,,NA,NA
+travel,seafood_festival_Travel_Dock_Roll_Hall_of_Fame,37828755,0,NA,NA,,NA,NA
+participant,seafood_festival_Travel_Dock_Roll_Hall_of_Fame,Carol Limpet,0,0.75,Supports as it offers community and economic benefits.,,NA,NA
+about,seafood_festival_Meeting_2_Feedback_Discussion,seafood_festival_Meeting_2_Feedback,0,NA,NA,,in_progress,NA
+about,seafood_festival_Meeting_2_Feedback_Discussion,seafood_festival,0,NA,NA,,NA,NA
+participant,seafood_festival_Meeting_2_Feedback_Discussion,Carol Limpet,0,0.75,Supports as it offers community and economic benefits.,,NA,NA
+plan,seafood_festival_Meeting_2_Feedback,seafood_festival,0,NA,NA,,NA,NA
+participant,seafood_festival_Meeting_2_Feedback,Simone Kat,0,0.75,Sees great potential in drawing tourists and celebrating local cuisine.,,NA,NA
+about,seafood_festival_Travel_Dock_Roll_Hall_of_Fame_Completed_Discussion,seafood_festival_Travel_Dock_Roll_Hall_of_Fame,0,NA,NA,,completed,NA
+about,seafood_festival_Travel_Dock_Roll_Hall_of_Fame_Completed_Discussion,seafood_festival,0,NA,NA,,NA,NA
+participant,seafood_festival_Travel_Dock_Roll_Hall_of_Fame_Completed_Discussion,Carol Limpet,0,0.75,Supports as it offers community and economic benefits.,,NA,NA
+refers_to,seafood_festival_Travel_Dock_Roll_Hall_of_Fame_Completed_Discussion,37828755,0,NA,NA,,NA,NA
+about,seafood_festival_Meeting_3_Report_Discussion,seafood_festival_Meeting_3_Report,0,NA,NA,,planned,NA
+about,seafood_festival_Meeting_3_Report_Discussion,seafood_festival,0,NA,NA,,NA,NA
+participant,seafood_festival_Meeting_3_Report_Discussion,Tante Titan,0,0.75,Supports as it boosts local economy and community connection.,,NA,NA
+plan,seafood_festival_Meeting_3_Report,seafood_festival,0,NA,NA,,NA,NA
+participant,seafood_festival_Meeting_3_Report,Tante Titan,0,0.75,Supports as it boosts local economy and community connection.,,NA,NA
+about,seafood_festival_Meeting_3_Take_Action_Discussion,seafood_festival_Meeting_3_Take_Action,0,NA,NA,,completed,NA
+about,seafood_festival_Meeting_3_Take_Action_Discussion,seafood_festival,0,NA,NA,,NA,NA
+participant,seafood_festival_Meeting_3_Take_Action_Discussion,Simone Kat,0,0.75,Sees great potential in drawing tourists and celebrating local cuisine.,,NA,NA
+plan,seafood_festival_Meeting_3_Take_Action,seafood_festival,0,NA,NA,,NA,NA
+participant,seafood_festival_Meeting_3_Take_Action,Simone Kat,0,0.75,Sees great potential in drawing tourists and celebrating local cuisine.,,NA,NA
+about,heritage_walking_tour_Meeting_7_Discussion,heritage_walking_tour_Meeting_7_Outline,0,NA,NA,,completed,NA
+about,heritage_walking_tour_Meeting_7_Discussion,heritage_walking_tour,0,NA,NA,,NA,NA
+participant,heritage_walking_tour_Meeting_7_Discussion,Simone Kat,0,1,Believes it will enhance the cultural appeal and attract more visitors.,,NA,NA
+participant,heritage_walking_tour_Meeting_7_Discussion,Tante Titan,0,1,"Believes it will highlight local history and attract tourists, without being high in cost.",,NA,NA
+participant,heritage_walking_tour_Meeting_7_Discussion,Daughters of Port Grove,0,0.5,Believes it will enhance the cultural appeal and attract more visitors.,,NA,NA
+plan,heritage_walking_tour_Meeting_7_Outline,heritage_walking_tour,0,NA,NA,,NA,NA
+participant,heritage_walking_tour_Meeting_7_Outline,Simone Kat,0,1,Believes it will enhance the cultural appeal and attract more visitors.,,NA,NA
+participant,heritage_walking_tour_Meeting_7_Outline,Tante Titan,0,1,"Believes it will highlight local history and attract tourists, without being high in cost.",,NA,NA
+participant,heritage_walking_tour_Meeting_7_Outline,Daughters of Port Grove,0,0.5,Believes it will enhance the cultural appeal and attract more visitors.,,NA,NA
+about,heritage_walking_tour_Travel_Captain_Market_Discussion,heritage_walking_tour_Travel_Captain_Market,0,NA,NA,,planned,NA
+about,heritage_walking_tour_Travel_Captain_Market_Discussion,heritage_walking_tour,0,NA,NA,,NA,NA
+participant,heritage_walking_tour_Travel_Captain_Market_Discussion,Simone Kat,0,1,Believes it will enhance the cultural appeal and attract more visitors.,,NA,NA
+refers_to,heritage_walking_tour_Travel_Captain_Market_Discussion,35844638,0,NA,NA,,NA,NA
+plan,heritage_walking_tour_Travel_Captain_Market,heritage_walking_tour,0,NA,NA,,NA,NA
+travel,heritage_walking_tour_Travel_Captain_Market,35844638,0,NA,NA,,NA,NA
+participant,heritage_walking_tour_Travel_Captain_Market,Simone Kat,0,1,Believes it will enhance the cultural appeal and attract more visitors.,,NA,NA
+about,heritage_walking_tour_Meeting_8_Proposal_Discussion,heritage_walking_tour_Meeting_8_Proposal,0,NA,NA,,in_progress,NA
+about,heritage_walking_tour_Meeting_8_Proposal_Discussion,heritage_walking_tour,0,NA,NA,,NA,NA
+participant,heritage_walking_tour_Meeting_8_Proposal_Discussion,Simone Kat,0,1,Believes it will enhance the cultural appeal and attract more visitors.,,NA,NA
+plan,heritage_walking_tour_Meeting_8_Proposal,heritage_walking_tour,0,NA,NA,,NA,NA
+participant,heritage_walking_tour_Meeting_8_Proposal,Simone Kat,0,1,Believes it will enhance the cultural appeal and attract more visitors.,,NA,NA
+about,heritage_walking_tour_Travel_Captain_Market_Completed_Discussion,heritage_walking_tour_Travel_Captain_Market,0,NA,NA,,completed,NA
+about,heritage_walking_tour_Travel_Captain_Market_Completed_Discussion,heritage_walking_tour,0,NA,NA,,NA,NA
+participant,heritage_walking_tour_Travel_Captain_Market_Completed_Discussion,Simone Kat,0,1,Believes it will enhance the cultural appeal and attract more visitors.,,NA,NA
+refers_to,heritage_walking_tour_Travel_Captain_Market_Completed_Discussion,35844638,0,NA,NA,,NA,NA
+about,heritage_walking_tour_Meeting_9_Report_Discussion,heritage_walking_tour_Meeting_9_Report,0,NA,NA,,planned,NA
+about,heritage_walking_tour_Meeting_9_Report_Discussion,heritage_walking_tour,0,NA,NA,,NA,NA
+participant,heritage_walking_tour_Meeting_9_Report_Discussion,Simone Kat,0,1,Believes it will enhance the cultural appeal and attract more visitors.,,NA,NA
+plan,heritage_walking_tour_Meeting_9_Report,heritage_walking_tour,0,NA,NA,,NA,NA
+participant,heritage_walking_tour_Meeting_9_Report,Simone Kat,0,1,Believes it will enhance the cultural appeal and attract more visitors.,,NA,NA
+about,heritage_walking_tour_Meeting_9_Take_Action_Discussion,heritage_walking_tour_Meeting_9_Take_Action,0,NA,NA,,completed,NA
+about,heritage_walking_tour_Meeting_9_Take_Action_Discussion,heritage_walking_tour,0,NA,NA,,NA,NA
+participant,heritage_walking_tour_Meeting_9_Take_Action_Discussion,Simone Kat,0,1,Believes it will enhance the cultural appeal and attract more visitors.,,NA,NA
+plan,heritage_walking_tour_Meeting_9_Take_Action,heritage_walking_tour,0,NA,NA,,NA,NA
+participant,heritage_walking_tour_Meeting_9_Take_Action,Simone Kat,0,1,Believes it will enhance the cultural appeal and attract more visitors.,,NA,NA
+about,waterfront_market_Meeting_7_Discussion,waterfront_market_Meeting_7_Benefits_Feasibility,0,NA,NA,,completed,NA
+about,waterfront_market_Meeting_7_Discussion,waterfront_market,0,NA,NA,,NA,NA
+participant,waterfront_market_Meeting_7_Discussion,Simone Kat,0,0.75,Supports as it aligns well with tourism and local economic growth.,,NA,NA
+participant,waterfront_market_Meeting_7_Discussion,Carol Limpet,0,1,Strongly supports as it aligns with community and economic interests.,,NA,NA
+plan,waterfront_market_Meeting_7_Benefits_Feasibility,waterfront_market,0,NA,NA,,NA,NA
+participant,waterfront_market_Meeting_7_Benefits_Feasibility,Tante Titan,0,0.25,Cautious but open to evaluating the benefits.,,NA,NA
+participant,waterfront_market_Meeting_7_Benefits_Feasibility,Ed Helpsford,0,1,Strongly supports as it could benefit small vessel,,NA,NA
+about,waterfront_market_Travel_Harbor_Edge_Grill_Discussion,waterfront_market_Travel_Harbor_Edge_Grill,0,NA,NA,,planned,NA
+about,waterfront_market_Travel_Harbor_Edge_Grill_Discussion,waterfront_market,0,NA,NA,,NA,NA
+participant,waterfront_market_Travel_Harbor_Edge_Grill_Discussion,Carol Limpet,0,1,Strongly supports as it aligns with community and economic interests.,,NA,NA
+refers_to,waterfront_market_Travel_Harbor_Edge_Grill_Discussion,35908634,0,NA,NA,,NA,NA
+plan,waterfront_market_Travel_Harbor_Edge_Grill,waterfront_market,0,NA,NA,,NA,NA
+travel,waterfront_market_Travel_Harbor_Edge_Grill,35908634,0,NA,NA,,NA,NA
+participant,waterfront_market_Travel_Harbor_Edge_Grill,Carol Limpet,0,1,Strongly supports as it aligns with community and economic interests.,,NA,NA
+about,waterfront_market_Travel_Harborfront_Market_Discussion,waterfront_market_Travel_Harborfront_Market,0,NA,NA,,planned,NA
+about,waterfront_market_Travel_Harborfront_Market_Discussion,waterfront_market,0,NA,NA,,NA,NA
+participant,waterfront_market_Travel_Harborfront_Market_Discussion,Tante Titan,0,0.25,Cautious but open to evaluating the benefits.,,NA,NA
+refers_to,waterfront_market_Travel_Harborfront_Market_Discussion,35913119,0,NA,NA,,NA,NA
+plan,waterfront_market_Travel_Harborfront_Market,waterfront_market,0,NA,NA,,NA,NA
+travel,waterfront_market_Travel_Harborfront_Market,35913119,0,NA,NA,,NA,NA
+participant,waterfront_market_Travel_Harborfront_Market,Tante Titan,0,0.25,Cautious but open to evaluating the benefits.,,NA,NA
+about,waterfront_market_Meeting_8_Gather_Feedback_Discussion,waterfront_market_Meeting_8_Gather_Feedback,0,NA,NA,,in_progress,NA
+about,waterfront_market_Meeting_8_Gather_Feedback_Discussion,waterfront_market,0,NA,NA,,NA,NA
+participant,waterfront_market_Meeting_8_Gather_Feedback_Discussion,Tante Titan,0,0.25,Cautious but open to evaluating the benefits.,,NA,NA
+plan,waterfront_market_Meeting_8_Gather_Feedback,waterfront_market,0,NA,NA,,NA,NA
+participant,waterfront_market_Meeting_8_Gather_Feedback,Tante Titan,0,0.25,Cautious but open to evaluating the benefits.,,NA,NA
+about,waterfront_market_Travel_Harborfront_Market_Completed_Discussion,waterfront_market_Travel_Harborfront_Market,0,NA,NA,,completed,NA
+about,waterfront_market_Travel_Harborfront_Market_Completed_Discussion,waterfront_market,0,NA,NA,,NA,NA
+participant,waterfront_market_Travel_Harborfront_Market_Completed_Discussion,Tante Titan,0,0.25,Cautious but open to evaluating the benefits.,,NA,NA
+refers_to,waterfront_market_Travel_Harborfront_Market_Completed_Discussion,37831107,0,NA,NA,,NA,NA
+about,waterfront_market_Travel_Harbor_Edge_Grill_Completed_Discussion,waterfront_market_Travel_Harbor_Edge_Grill,0,NA,NA,,completed,NA
+about,waterfront_market_Travel_Harbor_Edge_Grill_Completed_Discussion,waterfront_market,0,NA,NA,,NA,NA
+participant,waterfront_market_Travel_Harbor_Edge_Grill_Completed_Discussion,Carol Limpet,0,1,Strongly supports as it aligns with community and economic interests.,,NA,NA
+refers_to,waterfront_market_Travel_Harbor_Edge_Grill_Completed_Discussion,35908634,0,NA,NA,,NA,NA
+about,waterfront_market_Meeting_9_Report_Discussion,waterfront_market_Meeting_9_Report,0,NA,NA,,planned,NA
+about,waterfront_market_Meeting_9_Report_Discussion,waterfront_market,0,NA,NA,,NA,NA
+participant,waterfront_market_Meeting_9_Report_Discussion,Ed Helpsford,0,1,Strongly supports as it could benefit small vessel,,NA,NA
+about,waterfront_market_Meeting_9_Report,waterfront_market,0,NA,NA,,NA,NA
+participant,waterfront_market_Meeting_9_Report,Ed Helpsford,0,1,Strongly supports as it could benefit small vessel,,NA,NA
+about,concert_Meeting_7_Discussion,concert_Meeting_7_Concert_Issues,0,NA,NA,,completed,NA
+about,concert_Meeting_7_Discussion,concert,0,NA,NA,,NA,NA
+participant,concert_Meeting_7_Discussion,Tante Titan,0,0.5,Believes concerts can bring community together but cautious about potential disruptions.,,NA,NA
+participant,concert_Meeting_7_Discussion,Ed Helpsford,0,0.5,Believes concerts can bring community together but cautious about potential disruptions.,,NA,NA
+plan,concert_Meeting_7_Concert_Issues,concert,0,NA,NA,,NA,NA
+participant,concert_Meeting_7_Concert_Issues,Tante Titan,0,0.5,Believes concerts can bring community together but cautious about potential disruptions.,,NA,NA
+participant,concert_Meeting_7_Concert_Issues,Ed Helpsford,0,0.5,Believes concerts can bring community together but cautious about potential disruptions.,,NA,NA
+about,concert_Travel_Packland_Elementary_Discussion,concert_Travel_Harborfront_Market,0,NA,NA,,planned,NA
+about,concert_Travel_Packland_Elementary_Discussion,concert,0,NA,NA,,NA,NA
+participant,concert_Travel_Packland_Elementary_Discussion,Tante Titan,0,0.5,Believes concerts can bring community together but cautious about potential disruptions.,,NA,NA
+refers_to,concert_Travel_Packland_Elementary_Discussion,37831107,0,NA,NA,,NA,NA
+plan,concert_Travel_Paakland_Elementary,concert,0,NA,NA,,NA,NA
+travel,concert_Travel_Paakland_Elementary,37831107,0,NA,NA,,NA,NA
+participant,concert_Travel_Paakland_Elementary,Tante Titan,0,0.5,Believes concerts can bring community together but cautious about potential disruptions.,,NA,NA
+about,concert_Travel_Paakland_Elementary_Completed_Discussion,concert_Travel_Paakland_Elementary,0,NA,NA,,completed,NA
+about,concert_Travel_Paakland_Elementary_Completed_Discussion,concert,0,NA,NA,,NA,NA
+participant,concert_Travel_Paakland_Elementary_Completed_Discussion,Tante Titan,0,0.5,Believes concerts can bring community together but cautious about potential disruptions.,,NA,NA
+refers_to,concert_Travel_Paakland_Elementary_Completed_Discussion,37831107,0,NA,NA,,NA,NA
+about,concert_Meeting_16_Feedback_Discussion,concert_Meeting_16_Feedback,0,NA,NA,,completed,NA
+about,concert_Meeting_16_Feedback_Discussion,concert,0,NA,NA,,NA,NA
+participant,concert_Meeting_16_Feedback_Discussion,Tante Titan,0,0.5,Believes concerts can bring community together but cautious about potential disruptions.,,NA,NA
+plan,concert_Meeting_16_Feedback,concert,0,NA,NA,,NA,NA
+participant,concert_Meeting_16_Feedback,Tante Titan,0,0.5,Believes concerts can bring community together but cautious about potential disruptions.,,NA,NA
+about,concert_Meeting_16_Road_Closures_Discussion,concert_Meeting_16_Road_Closures,0,NA,NA,,completed,NA
+about,concert_Meeting_16_Road_Closures_Discussion,concert,0,NA,NA,,NA,NA
+participant,concert_Meeting_16_Road_Closures_Discussion,Ed Helpsford,0,0.5,Believes concerts can bring community together but cautious about potential disruptions.,,NA,NA
+plan,concert_Meeting_16_Road_Closures,concert,0,NA,NA,,NA,NA
+participant,concert_Meeting_16_Road_Closures,Ed Helpsford,0,0.5,Believes concerts can bring community together but cautious about potential disruptions.,,NA,NA
+about,concert_Meeting_16_Communication_Complaints_Discussion,concert_Meeting_16_Communication_Complaints,0,NA,NA,,completed,NA
+about,concert_Meeting_16_Communication_Complaints_Discussion,concert,0,NA,NA,,NA,NA
+participant,concert_Meeting_16_Communication_Complaints_Discussion,Tante Titan,0,0.5,Believes concerts can bring community together but cautious about potential disruptions.,,NA,NA
+plan,concert_Meeting_16_Communication_Complaints,concert,0,NA,NA,,NA,NA
+participant,concert_Meeting_16_Communication_Complaints,Tante Titan,0,0.5,Believes concerts can bring community together but cautious about potential disruptions.,,NA,NA
+NA,trip_0,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_0,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-04-24 21:00:00
+NA,trip_0,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-24 19:00:00
+NA,trip_0,582184557,0,NA,NA,,NA,0040-04-24 16:17:00
+NA,trip_0,581853838,0,NA,NA,,NA,0040-04-24 16:17:00
+NA,trip_1,Seal,0,NA,NA,,NA,NA
+NA,trip_1,37830690,0,NA,NA,,NA,2040-06-16 06:29:00
+NA,trip_1,37826661,0,NA,NA,,NA,2040-06-16 10:38:00
+NA,trip_1,37892464,0,NA,NA,,NA,2040-06-16 12:36:00
+NA,trip_2,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_2,950773347,0,NA,NA,,NA,2040-06-28 08:23:00
+NA,trip_3,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_3,Suna Spit,0,NA,NA,,NA,2040-06-06 07:59:00
+NA,trip_3,36988183,0,NA,NA,,NA,2040-06-06 07:45:00
+NA,trip_3,35868389,0,NA,NA,,NA,2040-06-06 07:28:00
+NA,trip_3,2519420987,0,NA,NA,,NA,2040-06-06 07:59:00
+NA,trip_4,Seal,0,NA,NA,,NA,NA
+NA,trip_4,37826661,0,NA,NA,,NA,2040-07-17 09:51:00
+NA,trip_4,37831223,0,NA,NA,,NA,2040-07-17 09:51:00
+NA,trip_4,2564318352,0,NA,NA,,NA,2040-07-17 14:42:00
+NA,trip_5,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_5,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-07-24 21:00:00
+NA,trip_5,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-24 19:00:00
+NA,trip_5,582184557,0,NA,NA,,NA,0040-07-24 17:48:00
+NA,trip_5,581853838,0,NA,NA,,NA,0040-07-24 17:48:00
+NA,trip_5,48530519,0,NA,NA,,NA,0040-07-24 21:00:00
+NA,trip_6,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_6,48534978,0,NA,NA,,NA,2040-05-15 10:21:00
+NA,trip_6,Suna Spit,0,NA,NA,,NA,2040-05-15 10:21:00
+NA,trip_6,12674442354,0,NA,NA,,NA,2040-05-15 08:44:00
+NA,trip_6,30179401,0,NA,NA,,NA,2040-05-15 09:47:00
+NA,trip_6,9196630064,0,NA,NA,,NA,2040-05-15 10:21:00
+NA,trip_7,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_7,Suna Spit,0,NA,NA,,NA,0040-07-17 09:31:00
+NA,trip_7,36988183,0,NA,NA,,NA,0040-07-17 09:31:00
+NA,trip_7,Port Grove Ferry Terminal,0,NA,NA,,NA,0040-07-17 10:00:00
+NA,trip_7,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-07-17 13:00:00
+NA,trip_7,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-17 19:00:00
+NA,trip_7,582184557,0,NA,NA,,NA,0040-07-17 19:00:00
+NA,trip_7,581853838,0,NA,NA,,NA,0040-07-17 22:16:00
+NA,trip_7,37892464,0,NA,NA,,NA,0040-07-17 22:48:00
+NA,trip_7,Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-17 23:00:00
+NA,trip_7,Himark Ferry Terminal,0,NA,NA,,NA,0040-07-18 03:00:00
+NA,trip_7,30179401,0,NA,NA,,NA,0040-07-18 03:00:00
+NA,trip_7,30188848,0,NA,NA,,NA,0040-07-18 03:00:00
+NA,trip_8,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_8,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-26 21:00:00
+NA,trip_8,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-26 19:00:00
+NA,trip_8,582184557,0,NA,NA,,NA,0040-06-26 17:09:00
+NA,trip_8,581853838,0,NA,NA,,NA,0040-06-26 17:09:00
+NA,trip_8,581717431,0,NA,NA,,NA,0040-06-26 17:26:00
+NA,trip_8,48580678,0,NA,NA,,NA,0040-06-26 21:00:00
+NA,trip_9,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_9,582184557,0,NA,NA,,NA,0040-04-24 11:40:00
+NA,trip_9,581853838,0,NA,NA,,NA,0040-04-24 11:40:00
+NA,trip_10,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_10,Suna Spit,0,NA,NA,,NA,2040-05-31 07:57:00
+NA,trip_10,48591000,0,NA,NA,,NA,2040-05-31 07:57:00
+NA,trip_10,9839219428,0,NA,NA,,NA,2040-05-31 06:41:00
+NA,trip_11,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_11,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-07-10 21:00:00
+NA,trip_11,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-10 19:00:00
+NA,trip_11,582184557,0,NA,NA,,NA,0040-07-10 17:58:00
+NA,trip_11,581853838,0,NA,NA,,NA,0040-07-10 17:58:00
+NA,trip_12,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_12,48534978,0,NA,NA,,NA,2040-07-08 11:39:00
+NA,trip_13,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_13,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-07-10 09:00:00
+NA,trip_13,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-10 14:00:00
+NA,trip_13,582184557,0,NA,NA,,NA,0040-07-10 14:00:00
+NA,trip_13,581853838,0,NA,NA,,NA,0040-07-10 17:28:00
+NA,trip_13,Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-10 19:00:00
+NA,trip_13,Lomark Ferry Terminal,0,NA,NA,,NA,0040-07-10 21:00:00
+NA,trip_13,48591000,0,NA,NA,,NA,0040-07-10 21:36:00
+NA,trip_14,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_14,36988183,0,NA,NA,,NA,2040-04-22 07:12:00
+NA,trip_14,Suna Spit,0,NA,NA,,NA,2040-04-22 07:12:00
+NA,trip_14,30187146,0,NA,NA,,NA,2040-04-22 06:18:00
+NA,trip_15,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_15,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-04-24 21:00:00
+NA,trip_15,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-24 19:00:00
+NA,trip_15,582184557,0,NA,NA,,NA,0040-04-24 16:37:00
+NA,trip_15,581853838,0,NA,NA,,NA,0040-04-24 16:37:00
+NA,trip_15,48580678,0,NA,NA,,NA,0040-04-24 21:00:00
+NA,trip_16,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_16,Lomark Ferry Terminal,0,NA,NA,,NA,2040-04-08 21:00:00
+NA,trip_16,Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-08 15:00:00
+NA,trip_16,37864373,0,NA,NA,,NA,2040-04-08 11:00:00
+NA,trip_16,2564179411,0,NA,NA,,NA,2040-04-08 11:06:00
+NA,trip_16,37799737,0,NA,NA,,NA,2040-04-08 11:06:00
+NA,trip_16,2564318352,0,NA,NA,,NA,2040-04-08 11:21:00
+NA,trip_16,48511187,0,NA,NA,,NA,2040-04-08 21:00:00
+NA,trip_17,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_17,48534978,0,NA,NA,,NA,2040-05-02 06:59:00
+NA,trip_17,Suna Spit,0,NA,NA,,NA,2040-05-02 07:36:00
+NA,trip_17,9196630064,0,NA,NA,,NA,2040-05-02 07:36:00
+NA,trip_17,36988183,0,NA,NA,,NA,2040-05-02 07:36:00
+NA,trip_17,8774871637,0,NA,NA,,NA,2040-05-02 07:36:00
+NA,trip_18,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_18,48534978,0,NA,NA,,NA,2040-05-17 08:35:00
+NA,trip_18,Suna Spit,0,NA,NA,,NA,2040-05-17 08:35:00
+NA,trip_18,36979025,0,NA,NA,,NA,2040-05-17 07:42:00
+NA,trip_19,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_19,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-04-10 09:00:00
+NA,trip_19,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-10 14:00:00
+NA,trip_19,582184557,0,NA,NA,,NA,0040-04-10 14:00:00
+NA,trip_19,581853838,0,NA,NA,,NA,0040-04-10 17:55:00
+NA,trip_19,2564179411,0,NA,NA,,NA,0040-04-10 18:09:00
+NA,trip_19,Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-10 19:00:00
+NA,trip_19,Lomark Ferry Terminal,0,NA,NA,,NA,0040-04-10 21:00:00
+NA,trip_19,48511194,0,NA,NA,,NA,0040-04-10 21:00:00
+NA,trip_20,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_20,36988183,0,NA,NA,,NA,0040-05-27 06:46:00
+NA,trip_20,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-27 13:00:00
+NA,trip_21,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_21,Lomark Ferry Terminal,0,NA,NA,,NA,2040-06-05 21:00:00
+NA,trip_21,Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-05 19:00:00
+NA,trip_21,37799737,0,NA,NA,,NA,2040-06-05 15:00:00
+NA,trip_21,2564179411,0,NA,NA,,NA,2040-06-05 15:25:00
+NA,trip_21,37866955,0,NA,NA,,NA,2040-06-05 16:00:00
+NA,trip_22,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_22,35889122,0,NA,NA,,NA,0040-06-03 07:46:00
+NA,trip_22,36988183,0,NA,NA,,NA,0040-06-03 09:33:00
+NA,trip_23,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_23,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-07-10 21:00:00
+NA,trip_23,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-10 19:00:00
+NA,trip_23,582184557,0,NA,NA,,NA,0040-07-10 17:50:00
+NA,trip_23,581853838,0,NA,NA,,NA,0040-07-10 17:50:00
+NA,trip_23,48511187,0,NA,NA,,NA,0040-07-10 21:00:00
+NA,trip_24,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_24,Lomark Ferry Terminal,0,NA,NA,,NA,2040-04-07 21:00:00
+NA,trip_24,Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-07 19:00:00
+NA,trip_24,2564318352,0,NA,NA,,NA,2040-04-07 15:12:00
+NA,trip_24,37799737,0,NA,NA,,NA,2040-04-07 15:12:00
+NA,trip_24,2564179411,0,NA,NA,,NA,2040-04-07 15:12:00
+NA,trip_24,37872598,0,NA,NA,,NA,2040-04-07 15:12:00
+NA,trip_24,48511187,0,NA,NA,,NA,2040-04-07 21:00:00
+NA,trip_25,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_25,30188848,0,NA,NA,,NA,2040-06-17 10:21:00
+NA,trip_25,30179401,0,NA,NA,,NA,2040-06-17 10:21:00
+NA,trip_26,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_26,582184557,0,NA,NA,,NA,0040-05-01 09:17:00
+NA,trip_26,581853838,0,NA,NA,,NA,0040-05-01 12:22:00
+NA,trip_26,37810321,0,NA,NA,,NA,0040-05-01 13:00:00
+NA,trip_27,Seal,0,NA,NA,,NA,NA
+NA,trip_27,37826661,0,NA,NA,,NA,2040-07-07 10:36:00
+NA,trip_27,37810321,0,NA,NA,,NA,2040-07-07 12:54:00
+NA,trip_27,37852571,0,NA,NA,,NA,2040-07-07 14:49:00
+NA,trip_28,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_28,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-05-10 21:00:00
+NA,trip_28,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-10 19:00:00
+NA,trip_28,2912844717,0,NA,NA,,NA,2040-05-10 14:00:00
+NA,trip_28,48530519,0,NA,NA,,NA,2040-05-10 21:00:00
+NA,trip_29,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_29,48534978,0,NA,NA,,NA,2040-07-16 12:15:00
+NA,trip_29,Suna Spit,0,NA,NA,,NA,2040-07-16 12:15:00
+NA,trip_29,4978801697,0,NA,NA,,NA,2040-07-16 10:26:00
+NA,trip_29,30188848,0,NA,NA,,NA,2040-07-16 11:23:00
+NA,trip_29,9196630064,0,NA,NA,,NA,2040-07-16 12:15:00
+NA,trip_30,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_30,Lomark Ferry Terminal,0,NA,NA,,NA,2040-05-17 21:00:00
+NA,trip_30,Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-17 15:00:00
+NA,trip_30,37834631,0,NA,NA,,NA,2040-05-17 11:00:00
+NA,trip_30,48580678,0,NA,NA,,NA,2040-05-17 21:00:00
+NA,trip_31,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_31,Suna Spit,0,NA,NA,,NA,0040-07-04 06:30:00
+NA,trip_31,36988183,0,NA,NA,,NA,0040-07-03 08:23:00
+NA,trip_31,Port Grove Ferry Terminal,0,NA,NA,,NA,0040-07-03 10:00:00
+NA,trip_31,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-07-03 13:00:00
+NA,trip_31,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-03 19:00:00
+NA,trip_31,582184557,0,NA,NA,,NA,0040-07-03 19:00:00
+NA,trip_31,581853838,0,NA,NA,,NA,0040-07-03 21:36:00
+NA,trip_31,Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-03 23:00:00
+NA,trip_31,Lomark Ferry Terminal,0,NA,NA,,NA,0040-07-04 06:00:00
+NA,trip_31,48591000,0,NA,NA,,NA,0040-07-04 06:30:00
+NA,trip_32,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_32,582261047,0,NA,NA,,NA,2040-06-06 07:37:00
+NA,trip_32,48542802,0,NA,NA,,NA,2040-06-06 07:37:00
+NA,trip_32,48568668,0,NA,NA,,NA,2040-06-06 09:01:00
+NA,trip_33,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_33,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-04 19:00:00
+NA,trip_33,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-04 13:00:00
+NA,trip_33,48475647,0,NA,NA,,NA,0040-06-04 09:19:12
+NA,trip_34,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_34,Suna Spit,0,NA,NA,,NA,2040-07-01 09:55:00
+NA,trip_34,36988183,0,NA,NA,,NA,2040-07-01 09:55:00
+NA,trip_34,35885796,0,NA,NA,,NA,2040-07-01 09:14:00
+NA,trip_35,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_35,Lomark Ferry Terminal,0,NA,NA,,NA,2040-04-04 21:00:00
+NA,trip_35,Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-04 15:00:00
+NA,trip_35,581860792,0,NA,NA,,NA,2040-04-04 11:00:00
+NA,trip_36,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_36,2564318352,0,NA,NA,,NA,2040-05-25 07:02:00
+NA,trip_36,37828755,0,NA,NA,,NA,2040-05-25 07:56:00
+NA,trip_36,37826661,0,NA,NA,,NA,2040-05-25 08:24:00
+NA,trip_37,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_37,48534978,0,NA,NA,,NA,2040-06-20 07:20:00
+NA,trip_37,Suna Spit,0,NA,NA,,NA,2040-06-20 07:20:00
+NA,trip_37,2519420987,0,NA,NA,,NA,2040-06-20 07:20:00
+NA,trip_37,36952113,0,NA,NA,,NA,2040-06-20 06:23:00
+NA,trip_38,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_38,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-04-14 21:00:00
+NA,trip_38,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-14 19:00:00
+NA,trip_38,37831223,0,NA,NA,,NA,2040-04-14 14:00:00
+NA,trip_38,37799737,0,NA,NA,,NA,2040-04-14 15:06:00
+NA,trip_38,2564179411,0,NA,NA,,NA,2040-04-14 16:00:00
+NA,trip_39,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_39,30188848,0,NA,NA,,NA,2040-04-13 09:44:00
+NA,trip_39,4978801697,0,NA,NA,,NA,2040-04-13 09:44:00
+NA,trip_40,Seal,0,NA,NA,,NA,NA
+NA,trip_40,48542802,0,NA,NA,,NA,2040-06-15 07:10:00
+NA,trip_41,Seal,0,NA,NA,,NA,NA
+NA,trip_41,582184557,0,NA,NA,,NA,0040-04-10 10:25:00
+NA,trip_41,581853838,0,NA,NA,,NA,0040-04-10 10:25:00
+NA,trip_42,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_42,37826661,0,NA,NA,,NA,2040-06-09 07:04:00
+NA,trip_42,582199729,0,NA,NA,,NA,2040-06-09 07:04:00
+NA,trip_42,37852571,0,NA,NA,,NA,2040-06-09 08:23:00
+NA,trip_43,Seal,0,NA,NA,,NA,NA
+NA,trip_43,37799737,0,NA,NA,,NA,2040-04-04 09:42:00
+NA,trip_44,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_44,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-06-07 21:00:00
+NA,trip_44,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-07 19:00:00
+NA,trip_44,37862864,0,NA,NA,,NA,2040-06-07 14:00:00
+NA,trip_44,37866955,0,NA,NA,,NA,2040-06-07 15:59:00
+NA,trip_45,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_45,Lomark Ferry Terminal,0,NA,NA,,NA,2040-06-16 21:00:00
+NA,trip_45,Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-16 19:00:00
+NA,trip_45,37828755,0,NA,NA,,NA,2040-06-16 15:51:00
+NA,trip_45,37833911,0,NA,NA,,NA,2040-06-16 15:51:00
+NA,trip_45,37866955,0,NA,NA,,NA,2040-06-16 17:20:00
+NA,trip_46,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_46,582184557,0,NA,NA,,NA,0040-05-08 09:59:00
+NA,trip_46,581853838,0,NA,NA,,NA,0040-05-08 09:59:00
+NA,trip_47,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_47,36988183,0,NA,NA,,NA,0040-04-10 09:31:00
+NA,trip_47,Suna Spit,0,NA,NA,,NA,0040-04-10 09:31:00
+NA,trip_47,30179401,0,NA,NA,,NA,0040-04-10 07:50:00
+NA,trip_47,4978801697,0,NA,NA,,NA,0040-04-10 08:38:00
+NA,trip_47,30188848,0,NA,NA,,NA,0040-04-10 09:31:00
+NA,trip_48,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_48,Lomark Ferry Terminal,0,NA,NA,,NA,2040-06-27 21:00:00
+NA,trip_48,Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-27 15:00:00
+NA,trip_48,37831223,0,NA,NA,,NA,2040-06-27 11:00:00
+NA,trip_48,48530519,0,NA,NA,,NA,2040-06-27 21:00:00
+NA,trip_49,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_49,Suna Spit,0,NA,NA,,NA,0040-06-13 06:28:00
+NA,trip_49,36988183,0,NA,NA,,NA,0040-06-12 08:34:00
+NA,trip_49,Port Grove Ferry Terminal,0,NA,NA,,NA,0040-06-12 10:00:00
+NA,trip_49,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-12 13:00:00
+NA,trip_49,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-12 19:00:00
+NA,trip_49,582184557,0,NA,NA,,NA,0040-06-12 19:00:00
+NA,trip_49,581853838,0,NA,NA,,NA,0040-06-12 22:27:00
+NA,trip_49,Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-12 23:00:00
+NA,trip_49,Lomark Ferry Terminal,0,NA,NA,,NA,0040-06-13 06:00:00
+NA,trip_49,48591000,0,NA,NA,,NA,0040-06-13 06:28:00
+NA,trip_50,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_50,48557904,0,NA,NA,,NA,2040-08-01 09:24:00
+NA,trip_50,48591000,0,NA,NA,,NA,2040-08-01 09:57:00
+NA,trip_50,48580678,0,NA,NA,,NA,2040-08-01 09:57:00
+NA,trip_51,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_51,Lomark Ferry Terminal,0,NA,NA,,NA,2040-06-25 21:00:00
+NA,trip_51,Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-25 15:00:00
+NA,trip_51,37810321,0,NA,NA,,NA,2040-06-25 12:04:00
+NA,trip_51,37810347,0,NA,NA,,NA,2040-06-25 11:00:00
+NA,trip_52,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_52,Lomark Ferry Terminal,0,NA,NA,,NA,2040-07-11 21:00:00
+NA,trip_52,Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-11 15:00:00
+NA,trip_52,37810321,0,NA,NA,,NA,2040-07-11 11:25:00
+NA,trip_52,48580702,0,NA,NA,,NA,2040-07-11 21:00:00
+NA,trip_53,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_53,Suna Spit,0,NA,NA,,NA,0040-04-04 06:28:00
+NA,trip_53,36988183,0,NA,NA,,NA,0040-04-03 08:28:00
+NA,trip_53,Port Grove Ferry Terminal,0,NA,NA,,NA,0040-04-03 10:00:00
+NA,trip_53,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-04-03 13:00:00
+NA,trip_53,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-03 19:00:00
+NA,trip_53,582184557,0,NA,NA,,NA,0040-04-03 19:00:00
+NA,trip_53,581853838,0,NA,NA,,NA,0040-04-03 21:02:00
+NA,trip_53,Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-03 23:00:00
+NA,trip_53,Lomark Ferry Terminal,0,NA,NA,,NA,0040-04-04 06:00:00
+NA,trip_53,48591000,0,NA,NA,,NA,0040-04-04 06:28:00
+NA,trip_54,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_54,48534978,0,NA,NA,,NA,2040-07-10 10:06:00
+NA,trip_54,48499016,0,NA,NA,,NA,2040-07-10 09:08:00
+NA,trip_55,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_55,582184557,0,NA,NA,,NA,0040-05-15 10:47:00
+NA,trip_55,581853838,0,NA,NA,,NA,0040-05-15 10:47:00
+NA,trip_56,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_56,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-05 21:00:00
+NA,trip_56,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-05 19:00:00
+NA,trip_56,582184557,0,NA,NA,,NA,0040-06-05 16:28:00
+NA,trip_56,581853838,0,NA,NA,,NA,0040-06-05 16:28:00
+NA,trip_56,48534978,0,NA,NA,,NA,0040-06-05 21:43:00
+NA,trip_57,Seal,0,NA,NA,,NA,NA
+NA,trip_57,37799737,0,NA,NA,,NA,2040-06-05 09:02:00
+NA,trip_57,37828755,0,NA,NA,,NA,2040-06-05 11:19:00
+NA,trip_58,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_58,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-15 09:00:00
+NA,trip_58,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-15 14:00:00
+NA,trip_58,582184557,0,NA,NA,,NA,0040-05-15 14:00:00
+NA,trip_58,581853838,0,NA,NA,,NA,0040-05-15 16:54:00
+NA,trip_58,37852571,0,NA,NA,,NA,0040-05-15 17:40:00
+NA,trip_58,Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-15 19:00:00
+NA,trip_58,Lomark Ferry Terminal,0,NA,NA,,NA,0040-05-15 21:00:00
+NA,trip_59,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_59,Lomark Ferry Terminal,0,NA,NA,,NA,2040-05-27 21:00:00
+NA,trip_59,Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-27 19:00:00
+NA,trip_59,37799737,0,NA,NA,,NA,2040-05-27 15:16:00
+NA,trip_59,37828755,0,NA,NA,,NA,2040-05-27 15:40:00
+NA,trip_59,48511190,0,NA,NA,,NA,2040-05-27 21:00:00
+NA,trip_60,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_60,Suna Spit,0,NA,NA,,NA,2040-04-06 09:32:00
+NA,trip_60,36988183,0,NA,NA,,NA,2040-04-06 09:32:00
+NA,trip_60,35889122,0,NA,NA,,NA,2040-04-06 08:40:00
+NA,trip_61,Seal,0,NA,NA,,NA,NA
+NA,trip_61,37799737,0,NA,NA,,NA,2040-06-23 11:52:00
+NA,trip_62,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_62,Lomark Ferry Terminal,0,NA,NA,,NA,2040-05-03 21:00:00
+NA,trip_62,Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-03 15:00:00
+NA,trip_62,37882709,0,NA,NA,,NA,2040-05-03 11:00:00
+NA,trip_63,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_63,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-05-14 21:00:00
+NA,trip_63,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-14 19:00:00
+NA,trip_63,37892464,0,NA,NA,,NA,2040-05-14 16:41:00
+NA,trip_63,37810321,0,NA,NA,,NA,2040-05-14 16:05:00
+NA,trip_64,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_64,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-05 09:00:00
+NA,trip_64,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-05 14:00:00
+NA,trip_64,582184557,0,NA,NA,,NA,0040-06-05 14:00:00
+NA,trip_64,581853838,0,NA,NA,,NA,0040-06-05 17:55:00
+NA,trip_64,Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-05 19:00:00
+NA,trip_64,Lomark Ferry Terminal,0,NA,NA,,NA,0040-06-05 21:00:00
+NA,trip_64,48591000,0,NA,NA,,NA,0040-06-05 21:14:00
+NA,trip_64,48580702,0,NA,NA,,NA,0040-06-05 21:14:00
+NA,trip_65,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_65,36988183,0,NA,NA,,NA,0040-05-23 08:27:00
+NA,trip_65,2519420987,0,NA,NA,,NA,0040-05-23 07:22:00
+NA,trip_65,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-23 07:22:00
+NA,trip_66,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_66,Suna Spit,0,NA,NA,,NA,0040-07-11 06:35:00
+NA,trip_66,36988183,0,NA,NA,,NA,0040-07-10 08:25:00
+NA,trip_66,Port Grove Ferry Terminal,0,NA,NA,,NA,0040-07-10 10:00:00
+NA,trip_66,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-07-10 13:00:00
+NA,trip_66,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-10 19:00:00
+NA,trip_66,582184557,0,NA,NA,,NA,0040-07-10 19:00:00
+NA,trip_66,581853838,0,NA,NA,,NA,0040-07-10 21:16:00
+NA,trip_66,Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-10 23:00:00
+NA,trip_66,Lomark Ferry Terminal,0,NA,NA,,NA,0040-07-11 06:00:00
+NA,trip_66,48591000,0,NA,NA,,NA,0040-07-11 06:35:00
+NA,trip_67,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_67,Lomark Ferry Terminal,0,NA,NA,,NA,2040-06-06 21:00:00
+NA,trip_67,Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-06 15:00:00
+NA,trip_67,37810321,0,NA,NA,,NA,2040-06-06 11:24:00
+NA,trip_67,48511190,0,NA,NA,,NA,2040-06-06 21:00:00
+NA,trip_68,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_68,37810321,0,NA,NA,,NA,2040-05-27 09:55:00
+NA,trip_68,37810348,0,NA,NA,,NA,2040-05-27 09:09:00
+NA,trip_69,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_69,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-04-17 09:00:00
+NA,trip_69,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-17 14:00:00
+NA,trip_69,582184557,0,NA,NA,,NA,0040-04-17 14:00:00
+NA,trip_69,581853838,0,NA,NA,,NA,0040-04-17 17:13:00
+NA,trip_69,Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-17 19:00:00
+NA,trip_69,Lomark Ferry Terminal,0,NA,NA,,NA,0040-04-17 21:00:00
+NA,trip_69,48591000,0,NA,NA,,NA,0040-04-17 21:54:00
+NA,trip_70,Seal,0,NA,NA,,NA,NA
+NA,trip_70,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-14 19:00:00
+NA,trip_70,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-05-14 13:00:00
+NA,trip_70,Port Grove Ferry Terminal,0,NA,NA,,NA,2040-05-14 10:00:00
+NA,trip_70,2519421134,0,NA,NA,,NA,2040-05-13 20:00:00
+NA,trip_70,36988183,0,NA,NA,,NA,2040-05-14 00:41:00
+NA,trip_70,Suna Spit,0,NA,NA,,NA,2040-05-14 00:41:00
+NA,trip_70,9196630064,0,NA,NA,,NA,2040-05-14 00:41:00
+NA,trip_71,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_71,Lomark Ferry Terminal,0,NA,NA,,NA,2040-05-15 21:00:00
+NA,trip_71,Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-15 15:00:00
+NA,trip_71,37858059,0,NA,NA,,NA,2040-05-15 11:00:00
+NA,trip_71,48580678,0,NA,NA,,NA,2040-05-15 21:00:00
+NA,trip_72,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_72,Lomark Ferry Terminal,0,NA,NA,,NA,2040-07-17 21:00:00
+NA,trip_72,Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-17 15:00:00
+NA,trip_72,37828755,0,NA,NA,,NA,2040-07-17 11:25:00
+NA,trip_72,37831223,0,NA,NA,,NA,2040-07-17 11:25:00
+NA,trip_72,48580702,0,NA,NA,,NA,2040-07-17 21:00:00
+NA,trip_73,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_73,Lomark Ferry Terminal,0,NA,NA,,NA,2040-05-19 21:00:00
+NA,trip_73,Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-19 15:00:00
+NA,trip_73,37852571,0,NA,NA,,NA,2040-05-19 11:12:00
+NA,trip_73,37892464,0,NA,NA,,NA,2040-05-19 11:00:00
+NA,trip_73,48511194,0,NA,NA,,NA,2040-05-19 21:00:00
+NA,trip_74,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_74,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-05-20 21:00:00
+NA,trip_74,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-20 19:00:00
+NA,trip_74,2912844717,0,NA,NA,,NA,2040-05-20 14:00:00
+NA,trip_74,48580678,0,NA,NA,,NA,2040-05-20 21:00:00
+NA,trip_75,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_75,Suna Spit,0,NA,NA,,NA,2040-06-14 08:26:00
+NA,trip_75,36988183,0,NA,NA,,NA,2040-06-14 08:26:00
+NA,trip_75,Port Grove Ferry Terminal,0,NA,NA,,NA,2040-06-14 07:42:00
+NA,trip_76,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_76,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-05-24 21:00:00
+NA,trip_76,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-24 19:00:00
+NA,trip_76,37892464,0,NA,NA,,NA,2040-05-24 14:45:00
+NA,trip_76,37766140,0,NA,NA,,NA,2040-05-24 14:45:00
+NA,trip_77,Seal,0,NA,NA,,NA,NA
+NA,trip_77,582184557,0,NA,NA,,NA,0040-05-15 10:17:00
+NA,trip_77,581853838,0,NA,NA,,NA,0040-05-15 10:17:00
+NA,trip_78,Seal,0,NA,NA,,NA,NA
+NA,trip_78,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-23 19:00:00
+NA,trip_78,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-05-23 13:00:00
+NA,trip_78,Port Grove Ferry Terminal,0,NA,NA,,NA,2040-05-23 10:00:00
+NA,trip_78,36988183,0,NA,NA,,NA,2040-05-23 00:22:00
+NA,trip_78,Suna Spit,0,NA,NA,,NA,2040-05-23 00:22:00
+NA,trip_78,30196032,0,NA,NA,,NA,2040-05-22 20:00:00
+NA,trip_78,4978801697,0,NA,NA,,NA,2040-05-23 00:22:00
+NA,trip_79,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_79,Lomark Ferry Terminal,0,NA,NA,,NA,2040-07-13 21:00:00
+NA,trip_79,Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-13 15:00:00
+NA,trip_79,37828755,0,NA,NA,,NA,2040-07-13 11:24:00
+NA,trip_79,48511187,0,NA,NA,,NA,2040-07-13 21:00:00
+NA,trip_80,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_80,48534978,0,NA,NA,,NA,2040-04-23 10:21:00
+NA,trip_80,48475647,0,NA,NA,,NA,2040-04-23 09:04:00
+NA,trip_81,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_81,Lomark Ferry Terminal,0,NA,NA,,NA,2040-04-01 21:00:00
+NA,trip_81,Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-01 15:00:00
+NA,trip_81,37852571,0,NA,NA,,NA,2040-04-01 11:13:00
+NA,trip_81,48580702,0,NA,NA,,NA,2040-04-01 21:00:00
+NA,trip_82,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_82,48549608,0,NA,NA,,NA,2040-06-12 08:48:00
+NA,trip_83,Seal,0,NA,NA,,NA,NA
+NA,trip_83,48568668,0,NA,NA,,NA,2040-06-22 08:52:00
+NA,trip_83,48531042,0,NA,NA,,NA,2040-06-22 08:52:00
+NA,trip_84,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_84,37828755,0,NA,NA,,NA,2040-05-10 08:09:00
+NA,trip_85,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_85,Lomark Ferry Terminal,0,NA,NA,,NA,2040-04-17 21:00:00
+NA,trip_85,Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-17 19:00:00
+NA,trip_85,581861511,0,NA,NA,,NA,2040-04-17 15:00:00
+NA,trip_85,48580702,0,NA,NA,,NA,2040-04-17 21:00:00
+NA,trip_86,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_86,37852571,0,NA,NA,,NA,2040-06-16 09:33:00
+NA,trip_87,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_87,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-04-24 09:00:00
+NA,trip_87,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-24 14:00:00
+NA,trip_87,582184557,0,NA,NA,,NA,0040-04-24 14:00:00
+NA,trip_87,581853838,0,NA,NA,,NA,0040-04-24 16:31:00
+NA,trip_87,37799737,0,NA,NA,,NA,0040-04-24 17:09:00
+NA,trip_87,Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-24 19:00:00
+NA,trip_87,Lomark Ferry Terminal,0,NA,NA,,NA,0040-04-24 21:00:00
+NA,trip_88,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_88,30188848,0,NA,NA,,NA,2040-04-08 07:43:00
+NA,trip_88,30179401,0,NA,NA,,NA,2040-04-08 07:43:00
+NA,trip_88,Suna Spit,0,NA,NA,,NA,2040-04-08 08:51:00
+NA,trip_88,2519420987,0,NA,NA,,NA,2040-04-08 08:51:00
+NA,trip_89,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_89,Lomark Ferry Terminal,0,NA,NA,,NA,2040-05-19 21:00:00
+NA,trip_89,Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-19 15:00:00
+NA,trip_89,37826661,0,NA,NA,,NA,2040-05-19 11:46:00
+NA,trip_89,37857689,0,NA,NA,,NA,2040-05-19 11:46:00
+NA,trip_89,37799737,0,NA,NA,,NA,2040-05-19 13:45:00
+NA,trip_90,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_90,30188848,0,NA,NA,,NA,2040-07-09 09:28:00
+NA,trip_90,30179401,0,NA,NA,,NA,2040-07-09 09:28:00
+NA,trip_90,9196630064,0,NA,NA,,NA,2040-07-09 08:42:00
+NA,trip_91,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_91,30188848,0,NA,NA,,NA,2040-04-01 08:55:00
+NA,trip_91,30188922,0,NA,NA,,NA,2040-04-01 08:12:00
+NA,trip_92,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_92,Lomark Ferry Terminal,0,NA,NA,,NA,2040-06-17 21:00:00
+NA,trip_92,Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-17 15:00:00
+NA,trip_92,37831223,0,NA,NA,,NA,2040-06-17 11:00:00
+NA,trip_92,48511187,0,NA,NA,,NA,2040-06-17 21:00:00
+NA,trip_93,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_93,37826661,0,NA,NA,,NA,2040-07-27 08:56:00
+NA,trip_93,37810321,0,NA,NA,,NA,2040-07-27 09:44:00
+NA,trip_93,37852571,0,NA,NA,,NA,2040-07-27 10:15:00
+NA,trip_94,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_94,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-07-15 21:00:00
+NA,trip_94,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-15 19:00:00
+NA,trip_94,2564318352,0,NA,NA,,NA,2040-07-15 14:51:00
+NA,trip_94,37828755,0,NA,NA,,NA,2040-07-15 15:50:00
+NA,trip_95,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_95,Suna Spit,0,NA,NA,,NA,2040-07-26 08:51:00
+NA,trip_95,48534978,0,NA,NA,,NA,2040-07-26 08:09:00
+NA,trip_95,48512198,0,NA,NA,,NA,2040-07-26 08:09:00
+NA,trip_96,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_96,Suna Spit,0,NA,NA,,NA,0040-04-10 08:25:00
+NA,trip_96,36988183,0,NA,NA,,NA,0040-04-10 08:25:00
+NA,trip_96,Port Grove Ferry Terminal,0,NA,NA,,NA,0040-04-10 10:00:00
+NA,trip_96,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-04-10 13:00:00
+NA,trip_96,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-10 19:00:00
+NA,trip_96,582184557,0,NA,NA,,NA,0040-04-10 19:00:00
+NA,trip_96,581853838,0,NA,NA,,NA,0040-04-10 22:03:00
+NA,trip_96,37799737,0,NA,NA,,NA,0040-04-10 22:29:00
+NA,trip_96,Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-10 23:00:00
+NA,trip_96,Himark Ferry Terminal,0,NA,NA,,NA,0040-04-11 03:00:00
+NA,trip_96,30179401,0,NA,NA,,NA,0040-04-11 03:00:00
+NA,trip_96,30188848,0,NA,NA,,NA,0040-04-11 03:00:00
+NA,trip_97,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_97,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-06-05 21:00:00
+NA,trip_97,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-05 19:00:00
+NA,trip_97,581678301,0,NA,NA,,NA,2040-06-05 14:00:00
+NA,trip_98,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_98,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-24 19:00:00
+NA,trip_98,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-05-24 13:00:00
+NA,trip_99,Seal,0,NA,NA,,NA,NA
+NA,trip_99,37799737,0,NA,NA,,NA,2040-04-26 09:40:00
+NA,trip_99,2564318352,0,NA,NA,,NA,2040-04-26 07:10:00
+NA,trip_100,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_100,48501909,0,NA,NA,,NA,2040-06-01 08:56:00
+NA,trip_100,48511190,0,NA,NA,,NA,2040-06-01 09:21:00
+NA,trip_101,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_101,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-07-06 21:00:00
+NA,trip_101,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-06 19:00:00
+NA,trip_101,37828755,0,NA,NA,,NA,2040-07-06 15:05:00
+NA,trip_102,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_102,Suna Spit,0,NA,NA,,NA,2040-07-30 08:00:00
+NA,trip_102,30179053,0,NA,NA,,NA,2040-07-30 07:34:00
+NA,trip_102,48580702,0,NA,NA,,NA,2040-07-30 08:00:00
+NA,trip_103,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_103,582184557,0,NA,NA,,NA,0040-07-17 10:48:00
+NA,trip_103,581853838,0,NA,NA,,NA,0040-07-17 10:48:00
+NA,trip_103,48531040,0,NA,NA,,NA,0040-07-17 11:13:00
+NA,trip_104,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_104,Suna Spit,0,NA,NA,,NA,0040-06-06 06:30:00
+NA,trip_104,36988183,0,NA,NA,,NA,0040-06-05 09:59:00
+NA,trip_104,Port Grove Ferry Terminal,0,NA,NA,,NA,0040-06-05 10:00:00
+NA,trip_104,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-05 13:00:00
+NA,trip_104,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-05 19:00:00
+NA,trip_104,582184557,0,NA,NA,,NA,0040-06-05 19:00:00
+NA,trip_104,581853838,0,NA,NA,,NA,0040-06-05 21:50:00
+NA,trip_104,Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-05 23:00:00
+NA,trip_104,Lomark Ferry Terminal,0,NA,NA,,NA,0040-06-06 06:00:00
+NA,trip_104,48591000,0,NA,NA,,NA,0040-06-06 06:30:00
+NA,trip_105,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_105,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-26 21:00:00
+NA,trip_105,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-26 19:00:00
+NA,trip_105,582184557,0,NA,NA,,NA,0040-06-26 17:21:00
+NA,trip_105,581853838,0,NA,NA,,NA,0040-06-26 17:21:00
+NA,trip_106,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_106,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-19 19:00:00
+NA,trip_106,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-04-19 13:00:00
+NA,trip_106,Port Grove Ferry Terminal,0,NA,NA,,NA,0040-04-19 12:00:00
+NA,trip_106,36988183,0,NA,NA,,NA,0040-04-19 11:57:00
+NA,trip_106,Suna Spit,0,NA,NA,,NA,0040-04-19 11:57:00
+NA,trip_106,9196630064,0,NA,NA,,NA,0040-04-19 11:57:00
+NA,trip_106,30188848,0,NA,NA,,NA,0040-04-19 11:26:00
+NA,trip_107,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_107,37810321,0,NA,NA,,NA,2040-05-29 08:08:00
+NA,trip_108,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_108,37826661,0,NA,NA,,NA,2040-07-20 09:57:00
+NA,trip_108,37828755,0,NA,NA,,NA,2040-07-20 10:33:00
+NA,trip_108,37799737,0,NA,NA,,NA,2040-07-20 11:30:00
+NA,trip_108,2564179411,0,NA,NA,,NA,2040-07-20 11:05:00
+NA,trip_109,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_109,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-19 09:00:00
+NA,trip_109,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-19 14:00:00
+NA,trip_109,582184557,0,NA,NA,,NA,0040-06-19 14:00:00
+NA,trip_109,581853838,0,NA,NA,,NA,0040-06-19 17:30:00
+NA,trip_109,Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-19 19:00:00
+NA,trip_109,Lomark Ferry Terminal,0,NA,NA,,NA,0040-06-19 21:00:00
+NA,trip_109,48591000,0,NA,NA,,NA,0040-06-19 21:13:00
+NA,trip_109,48511194,0,NA,NA,,NA,0040-06-19 21:13:00
+NA,trip_110,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_110,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-07-17 21:00:00
+NA,trip_110,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-17 19:00:00
+NA,trip_110,582184557,0,NA,NA,,NA,0040-07-17 16:32:00
+NA,trip_110,581853838,0,NA,NA,,NA,0040-07-17 16:32:00
+NA,trip_110,48475647,0,NA,NA,,NA,0040-07-17 21:13:00
+NA,trip_110,48511187,0,NA,NA,,NA,0040-07-17 21:13:00
+NA,trip_111,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_111,Lomark Ferry Terminal,0,NA,NA,,NA,2040-06-29 21:00:00
+NA,trip_111,Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-29 15:00:00
+NA,trip_111,37831236,0,NA,NA,,NA,2040-06-29 11:00:00
+NA,trip_111,37799737,0,NA,NA,,NA,2040-06-29 11:30:00
+NA,trip_111,48511187,0,NA,NA,,NA,2040-06-29 21:00:00
+NA,trip_112,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_112,Lomark Ferry Terminal,0,NA,NA,,NA,2040-07-10 21:00:00
+NA,trip_112,Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-10 19:00:00
+NA,trip_112,7557795052,0,NA,NA,,NA,2040-07-10 15:00:00
+NA,trip_112,48580702,0,NA,NA,,NA,2040-07-10 21:00:00
+NA,trip_113,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_113,Suna Spit,0,NA,NA,,NA,0040-04-24 08:16:00
+NA,trip_113,36988183,0,NA,NA,,NA,0040-04-24 08:16:00
+NA,trip_113,Port Grove Ferry Terminal,0,NA,NA,,NA,0040-04-24 10:00:00
+NA,trip_113,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-04-24 13:00:00
+NA,trip_113,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-24 19:00:00
+NA,trip_113,582184557,0,NA,NA,,NA,0040-04-24 19:00:00
+NA,trip_113,581853838,0,NA,NA,,NA,0040-04-24 22:28:00
+NA,trip_113,37826661,0,NA,NA,,NA,0040-04-24 22:51:00
+NA,trip_113,Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-24 23:00:00
+NA,trip_113,Himark Ferry Terminal,0,NA,NA,,NA,0040-04-25 03:00:00
+NA,trip_113,30179401,0,NA,NA,,NA,0040-04-25 03:00:00
+NA,trip_113,30188848,0,NA,NA,,NA,0040-04-25 03:00:00
+NA,trip_114,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_114,48534978,0,NA,NA,,NA,0040-05-14 10:21:00
+NA,trip_115,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_115,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-07-17 21:00:00
+NA,trip_115,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-17 19:00:00
+NA,trip_115,37828755,0,NA,NA,,NA,2040-07-17 14:58:00
+NA,trip_115,37831236,0,NA,NA,,NA,2040-07-17 14:58:00
+NA,trip_116,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_116,Suna Spit,0,NA,NA,,NA,0040-06-01 07:07:00
+NA,trip_116,48591000,0,NA,NA,,NA,0040-06-01 07:39:00
+NA,trip_116,Lomark Ferry Terminal,0,NA,NA,,NA,0040-06-01 11:00:00
+NA,trip_116,Himark Ferry Terminal,0,NA,NA,,NA,0040-06-01 13:00:00
+NA,trip_116,30179401,0,NA,NA,,NA,0040-06-01 13:00:00
+NA,trip_116,30188848,0,NA,NA,,NA,0040-06-01 13:00:00
+NA,trip_117,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_117,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-04-03 09:00:00
+NA,trip_117,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-03 14:00:00
+NA,trip_117,582184557,0,NA,NA,,NA,0040-04-03 14:00:00
+NA,trip_117,581853838,0,NA,NA,,NA,0040-04-03 17:47:00
+NA,trip_117,37826661,0,NA,NA,,NA,0040-04-03 18:27:00
+NA,trip_117,Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-03 19:00:00
+NA,trip_117,Lomark Ferry Terminal,0,NA,NA,,NA,0040-04-03 21:00:00
+NA,trip_118,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_118,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-05-20 21:00:00
+NA,trip_118,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-20 19:00:00
+NA,trip_118,7557795055,0,NA,NA,,NA,2040-05-20 14:00:00
+NA,trip_118,37799737,0,NA,NA,,NA,2040-05-20 15:22:00
+NA,trip_118,2564179411,0,NA,NA,,NA,2040-05-20 16:07:00
+NA,trip_119,Seal,0,NA,NA,,NA,NA
+NA,trip_119,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-17 14:00:00
+NA,trip_119,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-05-17 06:00:00
+NA,trip_119,Port Grove Ferry Terminal,0,NA,NA,,NA,2040-05-16 20:00:00
+NA,trip_119,2519420987,0,NA,NA,,NA,2040-05-16 23:16:00
+NA,trip_119,36988183,0,NA,NA,,NA,2040-05-16 23:16:00
+NA,trip_119,416797704,0,NA,NA,,NA,2040-05-16 23:16:00
+NA,trip_120,Seal,0,NA,NA,,NA,NA
+NA,trip_120,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-21 19:00:00
+NA,trip_120,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-07-21 13:00:00
+NA,trip_120,48511187,0,NA,NA,,NA,2040-07-21 09:00:00
+NA,trip_121,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_121,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-12 21:00:00
+NA,trip_121,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-12 19:00:00
+NA,trip_121,582184557,0,NA,NA,,NA,0040-06-12 14:00:00
+NA,trip_121,581853838,0,NA,NA,,NA,0040-06-12 17:03:00
+NA,trip_121,37852571,0,NA,NA,,NA,0040-06-12 17:43:00
+NA,trip_122,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_122,2133935896,0,NA,NA,,NA,2040-06-18 07:03:00
+NA,trip_123,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_123,48510772,0,NA,NA,,NA,2040-05-28 08:02:00
+NA,trip_123,Lomark Ferry Terminal,0,NA,NA,,NA,2040-05-28 11:00:00
+NA,trip_123,48511190,0,NA,NA,,NA,2040-05-28 11:00:00
+NA,trip_124,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_124,37810321,0,NA,NA,,NA,2040-04-10 09:43:00
+NA,trip_125,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_125,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-04-03 21:00:00
+NA,trip_125,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-03 19:00:00
+NA,trip_125,48531040,0,NA,NA,,NA,2040-04-03 14:16:00
+NA,trip_125,491470184,0,NA,NA,,NA,2040-04-03 14:16:00
+NA,trip_125,48530519,0,NA,NA,,NA,2040-04-03 21:00:00
+NA,trip_126,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_126,582184557,0,NA,NA,,NA,0040-06-26 10:36:00
+NA,trip_126,581853838,0,NA,NA,,NA,0040-06-26 10:36:00
+NA,trip_127,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_127,Suna Spit,0,NA,NA,,NA,2040-05-15 09:53:00
+NA,trip_127,12629409643,0,NA,NA,,NA,2040-05-15 09:11:00
+NA,trip_128,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_128,37826661,0,NA,NA,,NA,2040-06-20 07:02:00
+NA,trip_128,37831223,0,NA,NA,,NA,2040-06-20 07:02:00
+NA,trip_129,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_129,37810321,0,NA,NA,,NA,2040-04-13 10:18:00
+NA,trip_130,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_130,Lomark Ferry Terminal,0,NA,NA,,NA,2040-05-12 21:00:00
+NA,trip_130,Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-12 19:00:00
+NA,trip_130,37828755,0,NA,NA,,NA,2040-05-12 15:26:00
+NA,trip_130,37831223,0,NA,NA,,NA,2040-05-12 15:26:00
+NA,trip_130,37799737,0,NA,NA,,NA,2040-05-12 15:51:00
+NA,trip_130,2564179411,0,NA,NA,,NA,2040-05-12 16:08:00
+NA,trip_130,48530519,0,NA,NA,,NA,2040-05-12 21:00:00
+NA,trip_131,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_131,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-04-02 21:00:00
+NA,trip_131,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-02 19:00:00
+NA,trip_131,37826661,0,NA,NA,,NA,2040-04-02 14:42:00
+NA,trip_131,581815970,0,NA,NA,,NA,2040-04-02 14:42:00
+NA,trip_131,37892464,0,NA,NA,,NA,2040-04-02 15:50:00
+NA,trip_132,Seal,0,NA,NA,,NA,NA
+NA,trip_132,582184557,0,NA,NA,,NA,0040-04-24 09:19:00
+NA,trip_132,581853838,0,NA,NA,,NA,0040-04-24 09:19:00
+NA,trip_133,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_133,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-07-24 21:00:00
+NA,trip_133,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-24 19:00:00
+NA,trip_133,582184557,0,NA,NA,,NA,0040-07-24 17:53:00
+NA,trip_133,581853838,0,NA,NA,,NA,0040-07-24 17:53:00
+NA,trip_133,582382094,0,NA,NA,,NA,0040-07-24 18:47:00
+NA,trip_134,Seal,0,NA,NA,,NA,NA
+NA,trip_134,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-06 19:00:00
+NA,trip_134,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-05-06 13:00:00
+NA,trip_134,Port Grove Ferry Terminal,0,NA,NA,,NA,2040-05-06 10:00:00
+NA,trip_134,2519420987,0,NA,NA,,NA,2040-05-05 22:13:00
+NA,trip_134,Suna Spit,0,NA,NA,,NA,2040-05-06 02:31:00
+NA,trip_134,30194356,0,NA,NA,,NA,2040-05-05 22:13:00
+NA,trip_134,30179401,0,NA,NA,,NA,2040-05-06 00:23:00
+NA,trip_134,9196630064,0,NA,NA,,NA,2040-05-06 02:31:00
+NA,trip_134,36988183,0,NA,NA,,NA,2040-05-06 02:31:00
+NA,trip_135,Seal,0,NA,NA,,NA,NA
+NA,trip_135,2564318352,0,NA,NA,,NA,2040-06-20 09:32:00
+NA,trip_135,37799737,0,NA,NA,,NA,2040-06-20 09:32:00
+NA,trip_135,2564179411,0,NA,NA,,NA,2040-06-20 09:32:00
+NA,trip_135,37849292,0,NA,NA,,NA,2040-06-20 09:32:00
+NA,trip_136,Seal,0,NA,NA,,NA,NA
+NA,trip_136,2564318352,0,NA,NA,,NA,2040-07-09 09:17:00
+NA,trip_136,37828755,0,NA,NA,,NA,2040-07-09 12:04:00
+NA,trip_137,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_137,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-06-18 21:00:00
+NA,trip_137,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-18 19:00:00
+NA,trip_137,48542802,0,NA,NA,,NA,2040-06-18 14:00:00
+NA,trip_137,48568668,0,NA,NA,,NA,2040-06-18 14:35:00
+NA,trip_137,48580678,0,NA,NA,,NA,2040-06-18 21:00:00
+NA,trip_138,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_138,35885796,0,NA,NA,,NA,0040-05-28 07:15:00
+NA,trip_138,36988183,0,NA,NA,,NA,0040-05-28 08:40:00
+NA,trip_139,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_139,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-04-17 09:00:00
+NA,trip_139,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-17 14:00:00
+NA,trip_139,582184557,0,NA,NA,,NA,0040-04-17 14:00:00
+NA,trip_139,581853838,0,NA,NA,,NA,0040-04-17 17:52:00
+NA,trip_139,37810321,0,NA,NA,,NA,0040-04-17 18:10:00
+NA,trip_139,Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-17 19:00:00
+NA,trip_139,Lomark Ferry Terminal,0,NA,NA,,NA,0040-04-17 21:00:00
+NA,trip_139,48580678,0,NA,NA,,NA,0040-04-17 21:00:00
+NA,trip_140,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_140,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-12 21:00:00
+NA,trip_140,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-12 19:00:00
+NA,trip_140,582184557,0,NA,NA,,NA,0040-06-12 16:06:00
+NA,trip_140,581853838,0,NA,NA,,NA,0040-06-12 16:06:00
+NA,trip_141,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_141,Suna Spit,0,NA,NA,,NA,2040-06-11 09:53:00
+NA,trip_141,48389218,0,NA,NA,,NA,2040-06-11 08:53:00
+NA,trip_141,48591000,0,NA,NA,,NA,2040-06-11 09:53:00
+NA,trip_142,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_142,48516745,0,NA,NA,,NA,2040-04-15 09:01:00
+NA,trip_142,1332340938,0,NA,NA,,NA,2040-04-15 10:52:00
+NA,trip_143,Seal,0,NA,NA,,NA,NA
+NA,trip_143,37828755,0,NA,NA,,NA,2040-07-24 12:59:00
+NA,trip_143,37799737,0,NA,NA,,NA,2040-07-24 12:59:00
+NA,trip_143,2564179411,0,NA,NA,,NA,2040-07-24 15:04:00
+NA,trip_144,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_144,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-07-15 21:00:00
+NA,trip_144,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-15 19:00:00
+NA,trip_144,2912844717,0,NA,NA,,NA,2040-07-15 14:00:00
+NA,trip_144,1332340938,0,NA,NA,,NA,2040-07-15 14:42:00
+NA,trip_144,582382094,0,NA,NA,,NA,2040-07-15 14:57:00
+NA,trip_144,48580678,0,NA,NA,,NA,2040-07-15 21:00:00
+NA,trip_145,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_145,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-04-17 21:00:00
+NA,trip_145,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-17 19:00:00
+NA,trip_145,582184557,0,NA,NA,,NA,0040-04-17 17:23:00
+NA,trip_145,581853838,0,NA,NA,,NA,0040-04-17 17:23:00
+NA,trip_145,48534978,0,NA,NA,,NA,0040-04-17 21:44:00
+NA,trip_146,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_146,36988183,0,NA,NA,,NA,0040-04-06 07:36:00
+NA,trip_146,Suna Spit,0,NA,NA,,NA,0040-04-06 07:36:00
+NA,trip_146,9196630064,0,NA,NA,,NA,0040-04-06 06:54:00
+NA,trip_146,30179401,0,NA,NA,,NA,0040-04-06 06:54:00
+NA,trip_146,4978801697,0,NA,NA,,NA,0040-04-06 06:54:00
+NA,trip_147,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_147,Suna Spit,0,NA,NA,,NA,2040-06-02 08:38:00
+NA,trip_147,36988183,0,NA,NA,,NA,2040-06-02 08:38:00
+NA,trip_147,35877808,0,NA,NA,,NA,2040-06-02 07:27:00
+NA,trip_148,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_148,48534978,0,NA,NA,,NA,2040-06-14 09:24:00
+NA,trip_148,Suna Spit,0,NA,NA,,NA,2040-06-14 09:24:00
+NA,trip_148,30188848,0,NA,NA,,NA,2040-06-14 08:21:00
+NA,trip_148,5865952509,0,NA,NA,,NA,2040-06-14 08:21:00
+NA,trip_149,Seal,0,NA,NA,,NA,NA
+NA,trip_149,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-07 19:00:00
+NA,trip_149,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-07 13:00:00
+NA,trip_149,Port Grove Ferry Terminal,0,NA,NA,,NA,0040-05-07 10:00:00
+NA,trip_149,2519420987,0,NA,NA,,NA,0040-05-07 02:38:00
+NA,trip_149,36988183,0,NA,NA,,NA,0040-05-06 23:57:00
+NA,trip_149,35877808,0,NA,NA,,NA,0040-05-06 22:51:00
+NA,trip_150,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_150,582184557,0,NA,NA,,NA,0040-06-19 06:51:00
+NA,trip_150,581853838,0,NA,NA,,NA,0040-06-19 08:58:00
+NA,trip_150,37826661,0,NA,NA,,NA,0040-06-19 09:25:00
+NA,trip_151,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_151,Suna Spit,0,NA,NA,,NA,2040-05-21 08:54:00
+NA,trip_151,36988183,0,NA,NA,,NA,2040-05-21 08:19:00
+NA,trip_151,30179401,0,NA,NA,,NA,2040-05-21 09:17:00
+NA,trip_151,30188848,0,NA,NA,,NA,2040-05-21 09:17:00
+NA,trip_152,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_152,48568668,0,NA,NA,,NA,2040-04-02 09:21:00
+NA,trip_152,48542802,0,NA,NA,,NA,2040-04-02 09:21:00
+NA,trip_153,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_153,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-15 13:00:00
+NA,trip_153,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-15 19:00:00
+NA,trip_153,582184557,0,NA,NA,,NA,0040-05-15 19:00:00
+NA,trip_153,581853838,0,NA,NA,,NA,0040-05-15 21:52:00
+NA,trip_153,Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-15 23:00:00
+NA,trip_153,Lomark Ferry Terminal,0,NA,NA,,NA,0040-05-16 06:00:00
+NA,trip_153,48591000,0,NA,NA,,NA,0040-05-16 06:13:00
+NA,trip_153,48511194,0,NA,NA,,NA,0040-05-16 06:13:00
+NA,trip_154,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_154,Lomark Ferry Terminal,0,NA,NA,,NA,2040-05-02 21:00:00
+NA,trip_154,Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-02 15:00:00
+NA,trip_154,37866955,0,NA,NA,,NA,2040-05-02 11:12:00
+NA,trip_154,48580678,0,NA,NA,,NA,2040-05-02 21:00:00
+NA,trip_155,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_155,36988183,0,NA,NA,,NA,2040-04-23 08:11:00
+NA,trip_155,Suna Spit,0,NA,NA,,NA,2040-04-23 08:11:00
+NA,trip_155,30187146,0,NA,NA,,NA,2040-04-23 06:13:00
+NA,trip_155,9196630064,0,NA,NA,,NA,2040-04-23 08:11:00
+NA,trip_156,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_156,48534978,0,NA,NA,,NA,2040-07-24 08:04:00
+NA,trip_156,Suna Spit,0,NA,NA,,NA,2040-07-24 08:04:00
+NA,trip_156,9196630064,0,NA,NA,,NA,2040-07-24 07:13:00
+NA,trip_156,30185051,0,NA,NA,,NA,2040-07-24 07:13:00
+NA,trip_157,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_157,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-07-03 21:00:00
+NA,trip_157,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-03 19:00:00
+NA,trip_157,37831223,0,NA,NA,,NA,2040-07-03 14:00:00
+NA,trip_158,Seal,0,NA,NA,,NA,NA
+NA,trip_158,582184557,0,NA,NA,,NA,0040-06-12 09:56:00
+NA,trip_158,581853838,0,NA,NA,,NA,0040-06-12 13:30:00
+NA,trip_158,37852571,0,NA,NA,,NA,0040-06-12 15:18:00
+NA,trip_159,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_159,37883680,0,NA,NA,,NA,2040-04-12 08:05:00
+NA,trip_159,37852571,0,NA,NA,,NA,2040-04-12 09:23:00
+NA,trip_159,37810321,0,NA,NA,,NA,2040-04-12 10:12:00
+NA,trip_160,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_160,37852571,0,NA,NA,,NA,2040-05-21 07:50:00
+NA,trip_160,37810321,0,NA,NA,,NA,2040-05-21 08:44:00
+NA,trip_161,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_161,Suna Spit,0,NA,NA,,NA,2040-07-06 10:13:00
+NA,trip_161,2858406995,0,NA,NA,,NA,2040-07-06 09:39:00
+NA,trip_162,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_162,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-07-21 21:00:00
+NA,trip_162,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-21 19:00:00
+NA,trip_162,582261047,0,NA,NA,,NA,2040-07-21 14:47:00
+NA,trip_162,48531042,0,NA,NA,,NA,2040-07-21 14:47:00
+NA,trip_162,48568668,0,NA,NA,,NA,2040-07-21 16:46:00
+NA,trip_163,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_163,36988183,0,NA,NA,,NA,2040-07-29 08:06:00
+NA,trip_163,Suna Spit,0,NA,NA,,NA,2040-07-29 08:06:00
+NA,trip_163,4978801697,0,NA,NA,,NA,2040-07-29 07:15:00
+NA,trip_163,30188848,0,NA,NA,,NA,2040-07-29 08:06:00
+NA,trip_164,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_164,2564318352,0,NA,NA,,NA,2040-06-28 10:14:00
+NA,trip_164,37828755,0,NA,NA,,NA,2040-06-28 11:09:00
+NA,trip_165,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_165,30188848,0,NA,NA,,NA,2040-04-29 08:29:00
+NA,trip_165,9196630064,0,NA,NA,,NA,2040-04-29 08:29:00
+NA,trip_165,Suna Spit,0,NA,NA,,NA,2040-04-29 09:44:00
+NA,trip_166,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_166,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-04-30 21:00:00
+NA,trip_166,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-30 19:00:00
+NA,trip_166,48542802,0,NA,NA,,NA,2040-04-30 14:00:00
+NA,trip_167,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_167,Lomark Ferry Terminal,0,NA,NA,,NA,2040-06-17 21:00:00
+NA,trip_167,Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-17 15:00:00
+NA,trip_167,37852571,0,NA,NA,,NA,2040-06-17 11:39:00
+NA,trip_167,37826661,0,NA,NA,,NA,2040-06-17 12:42:00
+NA,trip_168,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_168,Lomark Ferry Terminal,0,NA,NA,,NA,2040-04-24 21:00:00
+NA,trip_168,Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-24 15:00:00
+NA,trip_168,37831223,0,NA,NA,,NA,2040-04-24 11:00:00
+NA,trip_168,37828755,0,NA,NA,,NA,2040-04-24 12:59:00
+NA,trip_169,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_169,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-04-11 21:00:00
+NA,trip_169,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-11 19:00:00
+NA,trip_169,37810321,0,NA,NA,,NA,2040-04-11 14:59:00
+NA,trip_169,37857657,0,NA,NA,,NA,2040-04-11 14:59:00
+NA,trip_170,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_170,3348139873,0,NA,NA,,NA,2040-04-15 07:19:00
+NA,trip_170,48591000,0,NA,NA,,NA,2040-04-15 09:19:00
+NA,trip_171,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_171,37810321,0,NA,NA,,NA,2040-05-30 07:29:00
+NA,trip_172,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_172,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-26 21:00:00
+NA,trip_172,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-26 19:00:00
+NA,trip_172,582184557,0,NA,NA,,NA,0040-06-26 16:15:00
+NA,trip_172,581853838,0,NA,NA,,NA,0040-06-26 16:15:00
+NA,trip_172,48475647,0,NA,NA,,NA,0040-06-26 21:48:00
+NA,trip_172,48534978,0,NA,NA,,NA,0040-06-26 21:48:00
+NA,trip_173,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_173,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-06-28 21:00:00
+NA,trip_173,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-28 19:00:00
+NA,trip_173,2564318352,0,NA,NA,,NA,2040-06-28 14:36:00
+NA,trip_173,37831236,0,NA,NA,,NA,2040-06-28 14:36:00
+NA,trip_174,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_174,Suna Spit,0,NA,NA,,NA,2040-05-02 08:30:00
+NA,trip_174,48476691,0,NA,NA,,NA,2040-05-02 07:16:00
+NA,trip_174,48591000,0,NA,NA,,NA,2040-05-02 08:30:00
+NA,trip_175,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_175,Lomark Ferry Terminal,0,NA,NA,,NA,2040-06-24 21:00:00
+NA,trip_175,Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-24 15:00:00
+NA,trip_175,37826661,0,NA,NA,,NA,2040-06-24 11:15:00
+NA,trip_175,37843182,0,NA,NA,,NA,2040-06-24 11:15:00
+NA,trip_175,37852571,0,NA,NA,,NA,2040-06-24 11:40:00
+NA,trip_175,48580702,0,NA,NA,,NA,2040-06-24 21:00:00
+NA,trip_176,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_176,37828755,0,NA,NA,,NA,2040-05-17 09:58:00
+NA,trip_177,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_177,Lomark Ferry Terminal,0,NA,NA,,NA,0040-04-01 21:00:00
+NA,trip_177,Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-01 15:00:00
+NA,trip_177,37826661,0,NA,NA,,NA,0040-04-01 12:04:00
+NA,trip_177,37828755,0,NA,NA,,NA,0040-04-01 11:35:00
+NA,trip_177,37866955,0,NA,NA,,NA,0040-04-01 11:49:00
+NA,trip_177,48580702,0,NA,NA,,NA,0040-04-01 21:00:00
+NA,trip_178,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_178,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-22 19:00:00
+NA,trip_178,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-22 13:00:00
+NA,trip_178,Port Grove Ferry Terminal,0,NA,NA,,NA,0040-06-22 12:00:00
+NA,trip_178,36988183,0,NA,NA,,NA,0040-06-22 10:00:00
+NA,trip_178,Suna Spit,0,NA,NA,,NA,0040-06-22 10:23:00
+NA,trip_178,4978801697,0,NA,NA,,NA,0040-06-22 10:23:00
+NA,trip_178,2519420987,0,NA,NA,,NA,0040-06-22 11:48:00
+NA,trip_178,36988137,0,NA,NA,,NA,0040-06-22 10:23:00
+NA,trip_179,Seal,0,NA,NA,,NA,NA
+NA,trip_179,6005475078,0,NA,NA,,NA,2040-06-01 06:22:00
+NA,trip_180,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_180,Lomark Ferry Terminal,0,NA,NA,,NA,2040-07-04 21:00:00
+NA,trip_180,Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-04 15:00:00
+NA,trip_180,2564179411,0,NA,NA,,NA,2040-07-04 11:12:00
+NA,trip_180,37799737,0,NA,NA,,NA,2040-07-04 11:12:00
+NA,trip_180,37828755,0,NA,NA,,NA,2040-07-04 11:30:00
+NA,trip_180,37866955,0,NA,NA,,NA,2040-07-04 11:47:00
+NA,trip_180,48530519,0,NA,NA,,NA,2040-07-04 21:00:00
+NA,trip_181,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_181,582184557,0,NA,NA,,NA,0040-05-22 12:22:00
+NA,trip_181,581853838,0,NA,NA,,NA,0040-05-22 12:22:00
+NA,trip_182,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_182,Suna Spit,0,NA,NA,,NA,0040-05-08 06:25:00
+NA,trip_182,36988183,0,NA,NA,,NA,0040-05-08 06:25:00
+NA,trip_182,Port Grove Ferry Terminal,0,NA,NA,,NA,0040-05-08 10:00:00
+NA,trip_182,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-08 13:00:00
+NA,trip_182,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-08 19:00:00
+NA,trip_182,582184557,0,NA,NA,,NA,0040-05-08 19:00:00
+NA,trip_182,581853838,0,NA,NA,,NA,0040-05-08 22:09:00
+NA,trip_182,37828755,0,NA,NA,,NA,0040-05-08 22:24:00
+NA,trip_182,Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-08 23:00:00
+NA,trip_182,Himark Ferry Terminal,0,NA,NA,,NA,0040-05-09 03:00:00
+NA,trip_182,30179401,0,NA,NA,,NA,0040-05-09 03:00:00
+NA,trip_182,30188848,0,NA,NA,,NA,0040-05-09 03:00:00
+NA,trip_183,Seal,0,NA,NA,,NA,NA
+NA,trip_183,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-12 14:00:00
+NA,trip_183,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-06-12 06:00:00
+NA,trip_183,Port Grove Ferry Terminal,0,NA,NA,,NA,2040-06-11 20:00:00
+NA,trip_183,36988183,0,NA,NA,,NA,2040-06-11 22:12:00
+NA,trip_183,Suna Spit,0,NA,NA,,NA,2040-06-11 22:12:00
+NA,trip_183,48531694,0,NA,NA,,NA,2040-06-11 22:12:00
+NA,trip_184,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_184,48534978,0,NA,NA,,NA,2040-04-19 06:25:00
+NA,trip_184,48531694,0,NA,NA,,NA,2040-04-19 06:25:00
+NA,trip_184,36988183,0,NA,NA,,NA,2040-04-19 07:04:00
+NA,trip_184,Suna Spit,0,NA,NA,,NA,2040-04-19 07:04:00
+NA,trip_184,48530519,0,NA,NA,,NA,2040-04-19 07:04:00
+NA,trip_185,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_185,582184557,0,NA,NA,,NA,0040-04-10 09:10:00
+NA,trip_185,581853838,0,NA,NA,,NA,0040-04-10 09:10:00
+NA,trip_185,582382094,0,NA,NA,,NA,0040-04-10 09:45:00
+NA,trip_186,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_186,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-06-17 21:00:00
+NA,trip_186,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-17 19:00:00
+NA,trip_186,37828755,0,NA,NA,,NA,2040-06-17 16:04:00
+NA,trip_186,37852571,0,NA,NA,,NA,2040-06-17 16:51:00
+NA,trip_187,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_187,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-06-06 21:00:00
+NA,trip_187,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-06 19:00:00
+NA,trip_187,37810321,0,NA,NA,,NA,2040-06-06 14:52:00
+NA,trip_187,37826661,0,NA,NA,,NA,2040-06-06 15:46:00
+NA,trip_188,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_188,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-20 21:00:00
+NA,trip_188,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-20 19:00:00
+NA,trip_188,582184557,0,NA,NA,,NA,0040-06-20 14:13:00
+NA,trip_188,581853838,0,NA,NA,,NA,0040-06-20 14:13:00
+NA,trip_188,581717431,0,NA,NA,,NA,0040-06-20 14:25:00
+NA,trip_188,582261047,0,NA,NA,,NA,0040-06-20 14:38:00
+NA,trip_188,48511194,0,NA,NA,,NA,0040-06-20 21:00:00
+NA,trip_189,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_189,Port Grove Ferry Terminal,0,NA,NA,,NA,2040-06-04 07:05:00
+NA,trip_190,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_190,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-08 09:00:00
+NA,trip_190,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-08 14:00:00
+NA,trip_190,582184557,0,NA,NA,,NA,0040-05-08 14:00:00
+NA,trip_190,581853838,0,NA,NA,,NA,0040-05-08 16:28:00
+NA,trip_190,37799737,0,NA,NA,,NA,0040-05-08 16:40:00
+NA,trip_190,Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-08 19:00:00
+NA,trip_190,Lomark Ferry Terminal,0,NA,NA,,NA,0040-05-08 21:00:00
+NA,trip_190,48580702,0,NA,NA,,NA,0040-05-08 21:00:00
+NA,trip_191,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_191,582184632,0,NA,NA,,NA,2040-07-01 08:44:00
+NA,trip_191,48531040,0,NA,NA,,NA,2040-07-01 09:42:00
+NA,trip_192,Seal,0,NA,NA,,NA,NA
+NA,trip_192,37892464,0,NA,NA,,NA,2040-05-17 06:38:00
+NA,trip_192,37810321,0,NA,NA,,NA,2040-05-17 10:44:00
+NA,trip_193,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_193,Lomark Ferry Terminal,0,NA,NA,,NA,2040-07-07 21:00:00
+NA,trip_193,Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-07 15:00:00
+NA,trip_193,581860792,0,NA,NA,,NA,2040-07-07 11:00:00
+NA,trip_193,48511187,0,NA,NA,,NA,2040-07-07 21:00:00
+NA,trip_194,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_194,Lomark Ferry Terminal,0,NA,NA,,NA,2040-06-09 21:00:00
+NA,trip_194,Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-09 15:00:00
+NA,trip_194,37828755,0,NA,NA,,NA,2040-06-09 12:09:00
+NA,trip_194,37799737,0,NA,NA,,NA,2040-06-09 12:09:00
+NA,trip_194,2564179411,0,NA,NA,,NA,2040-06-09 13:01:00
+NA,trip_194,2564179398,0,NA,NA,,NA,2040-06-09 12:09:00
+NA,trip_195,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_195,Lomark Ferry Terminal,0,NA,NA,,NA,2040-04-28 21:00:00
+NA,trip_195,Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-28 19:00:00
+NA,trip_195,37852571,0,NA,NA,,NA,2040-04-28 15:17:00
+NA,trip_195,581738844,0,NA,NA,,NA,2040-04-28 15:17:00
+NA,trip_195,37826661,0,NA,NA,,NA,2040-04-28 15:37:00
+NA,trip_195,48511194,0,NA,NA,,NA,2040-04-28 21:00:00
+NA,trip_196,Seal,0,NA,NA,,NA,NA
+NA,trip_196,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-04 14:00:00
+NA,trip_196,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-04-04 06:00:00
+NA,trip_196,48534978,0,NA,NA,,NA,2040-04-03 19:26:00
+NA,trip_196,48549608,0,NA,NA,,NA,2040-04-03 19:26:00
+NA,trip_196,48591000,0,NA,NA,,NA,2040-04-04 00:13:00
+NA,trip_197,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_197,Lomark Ferry Terminal,0,NA,NA,,NA,2040-07-18 21:00:00
+NA,trip_197,Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-18 15:00:00
+NA,trip_197,37831236,0,NA,NA,,NA,2040-07-18 11:00:00
+NA,trip_197,2564318352,0,NA,NA,,NA,2040-07-18 11:34:00
+NA,trip_197,48580678,0,NA,NA,,NA,2040-07-18 21:00:00
+NA,trip_198,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_198,582184557,0,NA,NA,,NA,0040-06-05 09:57:00
+NA,trip_198,581853838,0,NA,NA,,NA,0040-06-05 09:57:00
+NA,trip_198,48531040,0,NA,NA,,NA,0040-06-05 10:33:00
+NA,trip_199,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_199,582184557,0,NA,NA,,NA,0040-07-24 10:28:00
+NA,trip_199,581853838,0,NA,NA,,NA,0040-07-24 10:28:00
+NA,trip_200,Seal,0,NA,NA,,NA,NA
+NA,trip_200,582184557,0,NA,NA,,NA,0040-07-03 12:13:00
+NA,trip_200,581853838,0,NA,NA,,NA,0040-07-03 12:13:00
+NA,trip_201,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_201,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-07-03 13:00:00
+NA,trip_201,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-03 19:00:00
+NA,trip_201,582184557,0,NA,NA,,NA,0040-07-03 19:00:00
+NA,trip_201,581853838,0,NA,NA,,NA,0040-07-03 22:16:00
+NA,trip_201,37799737,0,NA,NA,,NA,0040-07-03 22:32:00
+NA,trip_201,Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-03 23:00:00
+NA,trip_201,Lomark Ferry Terminal,0,NA,NA,,NA,0040-07-04 06:00:00
+NA,trip_201,48530519,0,NA,NA,,NA,0040-07-04 06:00:00
+NA,trip_202,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_202,Suna Spit,0,NA,NA,,NA,2040-04-15 10:30:00
+NA,trip_202,48475647,0,NA,NA,,NA,2040-04-15 09:53:00
+NA,trip_202,691146642,0,NA,NA,,NA,2040-04-15 09:53:00
+NA,trip_203,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_203,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-04-04 21:00:00
+NA,trip_203,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-04 19:00:00
+NA,trip_203,48504771,0,NA,NA,,NA,2040-04-04 14:00:00
+NA,trip_203,48580678,0,NA,NA,,NA,2040-04-04 21:00:00
+NA,trip_204,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_204,36988183,0,NA,NA,,NA,2040-03-31 07:37:00
+NA,trip_204,Suna Spit,0,NA,NA,,NA,2040-03-31 07:01:00
+NA,trip_204,2459691595,0,NA,NA,,NA,2040-03-31 06:00:00
+NA,trip_205,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_205,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-07-03 21:00:00
+NA,trip_205,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-03 19:00:00
+NA,trip_205,582184557,0,NA,NA,,NA,0040-07-03 17:11:00
+NA,trip_205,581853838,0,NA,NA,,NA,0040-07-03 17:11:00
+NA,trip_206,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_206,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-07-03 09:00:00
+NA,trip_206,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-03 14:00:00
+NA,trip_206,582184557,0,NA,NA,,NA,0040-07-03 14:00:00
+NA,trip_206,581853838,0,NA,NA,,NA,0040-07-03 17:41:00
+NA,trip_206,37828755,0,NA,NA,,NA,0040-07-03 18:54:00
+NA,trip_206,Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-03 19:00:00
+NA,trip_206,Lomark Ferry Terminal,0,NA,NA,,NA,0040-07-03 21:00:00
+NA,trip_207,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_207,Lomark Ferry Terminal,0,NA,NA,,NA,2040-05-08 21:00:00
+NA,trip_207,Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-08 15:00:00
+NA,trip_207,37810321,0,NA,NA,,NA,2040-05-08 11:21:00
+NA,trip_207,37826661,0,NA,NA,,NA,2040-05-08 11:34:00
+NA,trip_207,48530519,0,NA,NA,,NA,2040-05-08 21:00:00
+NA,trip_208,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_208,Suna Spit,0,NA,NA,,NA,2040-05-07 08:11:00
+NA,trip_208,36988183,0,NA,NA,,NA,2040-05-07 08:11:00
+NA,trip_208,36959793,0,NA,NA,,NA,2040-05-07 07:25:00
+NA,trip_209,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_209,37828755,0,NA,NA,,NA,2040-04-26 07:06:00
+NA,trip_210,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_210,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-07-24 21:00:00
+NA,trip_210,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-24 19:00:00
+NA,trip_210,37867870,0,NA,NA,,NA,2040-07-24 14:00:00
+NA,trip_210,37892464,0,NA,NA,,NA,2040-07-24 15:25:00
+NA,trip_211,Seal,0,NA,NA,,NA,NA
+NA,trip_211,2919456351,0,NA,NA,,NA,2040-07-01 09:45:00
+NA,trip_212,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_212,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-07-11 21:00:00
+NA,trip_212,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-11 19:00:00
+NA,trip_212,582382094,0,NA,NA,,NA,2040-07-11 14:45:00
+NA,trip_212,48488713,0,NA,NA,,NA,2040-07-11 14:45:00
+NA,trip_213,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_213,Lomark Ferry Terminal,0,NA,NA,,NA,2040-07-19 21:00:00
+NA,trip_213,Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-19 15:00:00
+NA,trip_213,37881322,0,NA,NA,,NA,2040-07-19 11:00:00
+NA,trip_213,2564179411,0,NA,NA,,NA,2040-07-19 12:08:00
+NA,trip_213,37799737,0,NA,NA,,NA,2040-07-19 12:59:00
+NA,trip_214,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_214,37840381,0,NA,NA,,NA,2040-06-05 07:36:00
+NA,trip_215,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_215,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-08 21:00:00
+NA,trip_215,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-08 19:00:00
+NA,trip_215,582184557,0,NA,NA,,NA,0040-05-08 16:02:00
+NA,trip_215,581853838,0,NA,NA,,NA,0040-05-08 16:02:00
+NA,trip_216,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_216,582261047,0,NA,NA,,NA,2040-04-30 07:42:00
+NA,trip_216,48542802,0,NA,NA,,NA,2040-04-30 07:42:00
+NA,trip_217,Seal,0,NA,NA,,NA,NA
+NA,trip_217,48524699,0,NA,NA,,NA,2040-04-19 09:16:00
+NA,trip_218,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_218,Lomark Ferry Terminal,0,NA,NA,,NA,2040-07-01 21:00:00
+NA,trip_218,Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-01 19:00:00
+NA,trip_218,37799737,0,NA,NA,,NA,2040-07-01 15:17:00
+NA,trip_218,37828755,0,NA,NA,,NA,2040-07-01 15:41:00
+NA,trip_218,48511187,0,NA,NA,,NA,2040-07-01 21:00:00
+NA,trip_219,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_219,48591000,0,NA,NA,,NA,2040-06-10 09:17:00
+NA,trip_219,48484175,0,NA,NA,,NA,2040-06-10 09:17:00
+NA,trip_220,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_220,48534978,0,NA,NA,,NA,2040-06-24 10:32:00
+NA,trip_220,Suna Spit,0,NA,NA,,NA,2040-06-24 10:32:00
+NA,trip_220,2519420987,0,NA,NA,,NA,2040-06-24 08:56:00
+NA,trip_220,36988183,0,NA,NA,,NA,2040-06-24 09:53:00
+NA,trip_220,416797704,0,NA,NA,,NA,2040-06-24 08:56:00
+NA,trip_221,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_221,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-06-22 21:00:00
+NA,trip_221,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-22 19:00:00
+NA,trip_221,2091381119,0,NA,NA,,NA,2040-06-22 14:00:00
+NA,trip_221,581717431,0,NA,NA,,NA,2040-06-22 14:40:00
+NA,trip_221,48511194,0,NA,NA,,NA,2040-06-22 21:00:00
+NA,trip_222,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_222,30188848,0,NA,NA,,NA,2040-06-25 10:38:00
+NA,trip_222,4978801697,0,NA,NA,,NA,2040-06-25 09:57:00
+NA,trip_223,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_223,Suna Spit,0,NA,NA,,NA,0040-05-22 09:13:00
+NA,trip_223,36988183,0,NA,NA,,NA,0040-05-22 09:13:00
+NA,trip_223,Port Grove Ferry Terminal,0,NA,NA,,NA,0040-05-22 10:00:00
+NA,trip_223,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-22 13:00:00
+NA,trip_223,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-22 19:00:00
+NA,trip_223,582184557,0,NA,NA,,NA,0040-05-22 19:00:00
+NA,trip_223,581853838,0,NA,NA,,NA,0040-05-22 21:21:00
+NA,trip_223,37892464,0,NA,NA,,NA,0040-05-22 21:51:00
+NA,trip_223,Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-22 23:00:00
+NA,trip_223,Himark Ferry Terminal,0,NA,NA,,NA,0040-05-23 03:00:00
+NA,trip_223,30179401,0,NA,NA,,NA,0040-05-23 03:00:00
+NA,trip_223,30188848,0,NA,NA,,NA,0040-05-23 03:00:00
+NA,trip_224,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_224,Suna Spit,0,NA,NA,,NA,0040-05-18 07:37:00
+NA,trip_224,30179401,0,NA,NA,,NA,0040-05-18 07:21:00
+NA,trip_224,9196630064,0,NA,NA,,NA,0040-05-18 07:37:00
+NA,trip_224,48511194,0,NA,NA,,NA,0040-05-18 07:37:00
+NA,trip_225,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_225,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-19 13:00:00
+NA,trip_225,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-19 19:00:00
+NA,trip_225,582184557,0,NA,NA,,NA,0040-06-19 19:00:00
+NA,trip_225,581853838,0,NA,NA,,NA,0040-06-19 21:12:00
+NA,trip_225,Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-19 23:00:00
+NA,trip_225,Lomark Ferry Terminal,0,NA,NA,,NA,0040-06-20 06:00:00
+NA,trip_225,48591000,0,NA,NA,,NA,0040-06-20 06:50:00
+NA,trip_226,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_226,48534978,0,NA,NA,,NA,2040-05-09 08:44:00
+NA,trip_226,Suna Spit,0,NA,NA,,NA,2040-05-09 08:44:00
+NA,trip_227,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_227,37866955,0,NA,NA,,NA,0040-07-16 08:00:00
+NA,trip_228,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_228,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-04-19 21:00:00
+NA,trip_228,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-19 19:00:00
+NA,trip_228,37810321,0,NA,NA,,NA,2040-04-19 14:54:00
+NA,trip_228,37892464,0,NA,NA,,NA,2040-04-19 15:34:00
+NA,trip_229,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_229,9839219423,0,NA,NA,,NA,2040-06-24 08:07:00
+NA,trip_229,48591000,0,NA,NA,,NA,2040-06-24 09:20:00
+NA,trip_230,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_230,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-01 13:00:00
+NA,trip_230,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-01 19:00:00
+NA,trip_230,582184557,0,NA,NA,,NA,0040-05-01 19:00:00
+NA,trip_230,581853838,0,NA,NA,,NA,0040-05-01 22:19:00
+NA,trip_230,Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-01 23:00:00
+NA,trip_230,Lomark Ferry Terminal,0,NA,NA,,NA,0040-05-02 06:00:00
+NA,trip_230,48591000,0,NA,NA,,NA,0040-05-02 06:46:00
+NA,trip_231,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_231,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-06-01 21:00:00
+NA,trip_231,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-01 19:00:00
+NA,trip_231,37862851,0,NA,NA,,NA,2040-06-01 14:00:00
+NA,trip_232,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_232,48534978,0,NA,NA,,NA,2040-04-18 09:01:00
+NA,trip_232,12698974244,0,NA,NA,,NA,2040-04-18 07:22:00
+NA,trip_232,Suna Spit,0,NA,NA,,NA,2040-04-18 09:01:00
+NA,trip_233,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_233,2303890866,0,NA,NA,,NA,2040-06-12 07:54:00
+NA,trip_234,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_234,48534978,0,NA,NA,,NA,2040-06-27 07:55:00
+NA,trip_234,8742962146,0,NA,NA,,NA,2040-06-27 06:47:00
+NA,trip_235,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_235,Lomark Ferry Terminal,0,NA,NA,,NA,2040-05-03 21:00:00
+NA,trip_235,Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-03 15:00:00
+NA,trip_235,37831236,0,NA,NA,,NA,2040-05-03 11:00:00
+NA,trip_235,37828755,0,NA,NA,,NA,2040-05-03 11:50:00
+NA,trip_235,48511190,0,NA,NA,,NA,2040-05-03 21:00:00
+NA,trip_236,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_236,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-06-21 21:00:00
+NA,trip_236,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-21 19:00:00
+NA,trip_236,582184557,0,NA,NA,,NA,2040-06-21 14:47:00
+NA,trip_236,581853838,0,NA,NA,,NA,2040-06-21 14:47:00
+NA,trip_236,581588620,0,NA,NA,,NA,2040-06-21 14:47:00
+NA,trip_236,581725347,0,NA,NA,,NA,2040-06-21 14:47:00
+NA,trip_237,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_237,582184557,0,NA,NA,,NA,2040-04-01 09:30:00
+NA,trip_237,581853838,0,NA,NA,,NA,2040-04-01 09:30:00
+NA,trip_237,582184632,0,NA,NA,,NA,2040-04-01 09:30:00
+NA,trip_238,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_238,35914719,0,NA,NA,,NA,2040-06-30 07:15:00
+NA,trip_238,36988183,0,NA,NA,,NA,2040-06-30 07:51:00
+NA,trip_238,Suna Spit,0,NA,NA,,NA,2040-06-30 07:51:00
+NA,trip_238,48511194,0,NA,NA,,NA,2040-06-30 07:51:00
+NA,trip_239,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_239,582184557,0,NA,NA,,NA,0040-07-10 11:36:00
+NA,trip_239,581853838,0,NA,NA,,NA,0040-07-10 11:36:00
+NA,trip_239,48531040,0,NA,NA,,NA,0040-07-10 12:04:00
+NA,trip_240,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_240,Lomark Ferry Terminal,0,NA,NA,,NA,2040-04-30 21:00:00
+NA,trip_240,Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-30 19:00:00
+NA,trip_240,37799737,0,NA,NA,,NA,2040-04-30 15:11:00
+NA,trip_240,2564318352,0,NA,NA,,NA,2040-04-30 15:27:00
+NA,trip_240,48580678,0,NA,NA,,NA,2040-04-30 21:00:00
+NA,trip_241,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_241,2133935896,0,NA,NA,,NA,2040-06-26 08:56:00
+NA,trip_242,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_242,48475647,0,NA,NA,,NA,2040-07-19 09:02:00
+NA,trip_243,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_243,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-04-03 21:00:00
+NA,trip_243,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-03 19:00:00
+NA,trip_243,582184557,0,NA,NA,,NA,0040-04-03 14:00:00
+NA,trip_243,581853838,0,NA,NA,,NA,0040-04-03 16:30:00
+NA,trip_243,2564318352,0,NA,NA,,NA,0040-04-03 17:17:00
+NA,trip_244,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_244,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-19 21:00:00
+NA,trip_244,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-19 19:00:00
+NA,trip_244,582184557,0,NA,NA,,NA,0040-06-19 17:01:00
+NA,trip_244,581853838,0,NA,NA,,NA,0040-06-19 17:01:00
+NA,trip_244,48475647,0,NA,NA,,NA,0040-06-19 21:37:00
+NA,trip_245,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_245,Lomark Ferry Terminal,0,NA,NA,,NA,2040-05-27 21:00:00
+NA,trip_245,Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-27 15:00:00
+NA,trip_245,37799737,0,NA,NA,,NA,2040-05-27 11:57:00
+NA,trip_245,2564179411,0,NA,NA,,NA,2040-05-27 11:00:00
+NA,trip_245,37828755,0,NA,NA,,NA,2040-05-27 13:14:00
+NA,trip_246,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_246,Lomark Ferry Terminal,0,NA,NA,,NA,2040-05-06 21:00:00
+NA,trip_246,Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-06 15:00:00
+NA,trip_246,2564179411,0,NA,NA,,NA,2040-05-06 11:15:00
+NA,trip_246,37799737,0,NA,NA,,NA,2040-05-06 11:15:00
+NA,trip_246,37831223,0,NA,NA,,NA,2040-05-06 11:15:00
+NA,trip_246,37866955,0,NA,NA,,NA,2040-05-06 11:48:00
+NA,trip_246,48511194,0,NA,NA,,NA,2040-05-06 21:00:00
+NA,trip_247,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_247,2133919910,0,NA,NA,,NA,2040-05-07 07:36:00
+NA,trip_248,Seal,0,NA,NA,,NA,NA
+NA,trip_248,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-13 19:00:00
+NA,trip_248,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-06-13 13:00:00
+NA,trip_248,Port Grove Ferry Terminal,0,NA,NA,,NA,2040-06-13 10:00:00
+NA,trip_248,36988183,0,NA,NA,,NA,2040-06-13 00:44:00
+NA,trip_248,Suna Spit,0,NA,NA,,NA,2040-06-13 00:44:00
+NA,trip_248,9196630064,0,NA,NA,,NA,2040-06-12 21:29:00
+NA,trip_248,30188848,0,NA,NA,,NA,2040-06-13 00:44:00
+NA,trip_249,Seal,0,NA,NA,,NA,NA
+NA,trip_249,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-22 19:00:00
+NA,trip_249,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-05-22 13:00:00
+NA,trip_249,Port Grove Ferry Terminal,0,NA,NA,,NA,2040-05-22 10:00:00
+NA,trip_249,36988183,0,NA,NA,,NA,2040-05-22 01:06:00
+NA,trip_249,Suna Spit,0,NA,NA,,NA,2040-05-22 01:06:00
+NA,trip_249,48590938,0,NA,NA,,NA,2040-05-21 21:29:00
+NA,trip_249,4978801697,0,NA,NA,,NA,2040-05-22 01:06:00
+NA,trip_250,Seal,0,NA,NA,,NA,NA
+NA,trip_250,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-08 19:00:00
+NA,trip_250,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-06-08 13:00:00
+NA,trip_250,Port Grove Ferry Terminal,0,NA,NA,,NA,2040-06-08 10:00:00
+NA,trip_250,36988183,0,NA,NA,,NA,2040-06-07 20:00:00
+NA,trip_250,Suna Spit,0,NA,NA,,NA,2040-06-07 21:57:00
+NA,trip_250,2519420987,0,NA,NA,,NA,2040-06-08 01:12:00
+NA,trip_250,36952113,0,NA,NA,,NA,2040-06-07 21:57:00
+NA,trip_251,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_251,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-04-03 21:00:00
+NA,trip_251,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-03 19:00:00
+NA,trip_251,582184557,0,NA,NA,,NA,0040-04-03 17:48:00
+NA,trip_251,581853838,0,NA,NA,,NA,0040-04-03 17:48:00
+NA,trip_251,48534978,0,NA,NA,,NA,0040-04-03 21:17:00
+NA,trip_251,48580702,0,NA,NA,,NA,0040-04-03 21:17:00
+NA,trip_252,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_252,36988183,0,NA,NA,,NA,2040-04-10 10:45:00
+NA,trip_252,2519420987,0,NA,NA,,NA,2040-04-10 10:45:00
+NA,trip_252,36988137,0,NA,NA,,NA,2040-04-10 09:36:00
+NA,trip_253,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_253,48503211,0,NA,NA,,NA,2040-04-01 07:37:00
+NA,trip_253,48534978,0,NA,NA,,NA,2040-04-01 09:26:00
+NA,trip_254,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_254,48531694,0,NA,NA,,NA,2040-05-18 07:25:00
+NA,trip_254,48534978,0,NA,NA,,NA,2040-05-18 09:04:00
+NA,trip_254,48475647,0,NA,NA,,NA,2040-05-18 09:04:00
+NA,trip_255,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_255,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-08 21:00:00
+NA,trip_255,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-08 19:00:00
+NA,trip_255,582184557,0,NA,NA,,NA,0040-05-08 17:33:00
+NA,trip_255,581853838,0,NA,NA,,NA,0040-05-08 17:33:00
+NA,trip_255,48534978,0,NA,NA,,NA,0040-05-08 21:55:00
+NA,trip_256,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_256,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-01 09:00:00
+NA,trip_256,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-01 14:00:00
+NA,trip_256,582184557,0,NA,NA,,NA,0040-05-01 14:00:00
+NA,trip_256,581853838,0,NA,NA,,NA,0040-05-01 16:27:00
+NA,trip_256,37892464,0,NA,NA,,NA,0040-05-01 16:44:00
+NA,trip_256,Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-01 19:00:00
+NA,trip_256,Lomark Ferry Terminal,0,NA,NA,,NA,0040-05-01 21:00:00
+NA,trip_256,48511190,0,NA,NA,,NA,0040-05-01 21:00:00
+NA,trip_257,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_257,Lomark Ferry Terminal,0,NA,NA,,NA,2040-07-20 21:00:00
+NA,trip_257,Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-20 15:00:00
+NA,trip_257,37799737,0,NA,NA,,NA,2040-07-20 11:11:00
+NA,trip_257,2564318352,0,NA,NA,,NA,2040-07-20 11:00:00
+NA,trip_257,37826661,0,NA,NA,,NA,2040-07-20 11:24:00
+NA,trip_257,48511194,0,NA,NA,,NA,2040-07-20 21:00:00
+NA,trip_258,Seal,0,NA,NA,,NA,NA
+NA,trip_258,582184557,0,NA,NA,,NA,0040-05-22 07:19:00
+NA,trip_258,581853838,0,NA,NA,,NA,0040-05-22 10:27:00
+NA,trip_258,37826661,0,NA,NA,,NA,0040-05-22 12:42:00
+NA,trip_259,Seal,0,NA,NA,,NA,NA
+NA,trip_259,37831223,0,NA,NA,,NA,2040-07-04 06:41:00
+NA,trip_259,37828755,0,NA,NA,,NA,2040-07-04 12:13:00
+NA,trip_260,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_260,581862761,0,NA,NA,,NA,2040-08-01 07:37:00
+NA,trip_261,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_261,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-07-03 21:00:00
+NA,trip_261,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-03 19:00:00
+NA,trip_261,6005475082,0,NA,NA,,NA,2040-07-03 14:00:00
+NA,trip_262,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_262,48531032,0,NA,NA,,NA,2040-05-10 09:20:00
+NA,trip_263,Seal,0,NA,NA,,NA,NA
+NA,trip_263,582184557,0,NA,NA,,NA,0040-04-03 07:18:00
+NA,trip_263,581853838,0,NA,NA,,NA,0040-04-03 10:49:00
+NA,trip_263,37866955,0,NA,NA,,NA,0040-04-03 12:12:00
+NA,trip_264,Seal,0,NA,NA,,NA,NA
+NA,trip_264,37852571,0,NA,NA,,NA,2040-04-12 09:28:00
+NA,trip_264,Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-12 08:46:00
+NA,trip_265,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_265,30188848,0,NA,NA,,NA,2040-06-13 09:33:00
+NA,trip_265,30179401,0,NA,NA,,NA,2040-06-13 09:33:00
+NA,trip_265,30179053,0,NA,NA,,NA,2040-06-13 08:07:00
+NA,trip_266,Seal,0,NA,NA,,NA,NA
+NA,trip_266,2564179411,0,NA,NA,,NA,2040-05-07 12:57:00
+NA,trip_267,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_267,36988183,0,NA,NA,,NA,0040-04-08 09:48:00
+NA,trip_267,Suna Spit,0,NA,NA,,NA,0040-04-08 09:48:00
+NA,trip_267,4978801697,0,NA,NA,,NA,0040-04-08 08:47:00
+NA,trip_267,30179401,0,NA,NA,,NA,0040-04-08 09:14:00
+NA,trip_267,Lomark Ferry Terminal,0,NA,NA,,NA,0040-04-08 08:47:00
+NA,trip_267,9196630064,0,NA,NA,,NA,0040-04-08 09:48:00
+NA,trip_268,Seal,0,NA,NA,,NA,NA
+NA,trip_268,582184557,0,NA,NA,,NA,0040-04-17 10:07:00
+NA,trip_268,581853838,0,NA,NA,,NA,0040-04-17 10:07:00
+NA,trip_269,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_269,Lomark Ferry Terminal,0,NA,NA,,NA,2040-07-12 21:00:00
+NA,trip_269,Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-12 15:00:00
+NA,trip_269,37852571,0,NA,NA,,NA,2040-07-12 11:34:00
+NA,trip_269,37857657,0,NA,NA,,NA,2040-07-12 11:34:00
+NA,trip_270,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_270,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-07-08 21:00:00
+NA,trip_270,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-08 19:00:00
+NA,trip_270,48542802,0,NA,NA,,NA,2040-07-08 14:00:00
+NA,trip_270,582261047,0,NA,NA,,NA,2040-07-08 14:40:00
+NA,trip_270,48511194,0,NA,NA,,NA,2040-07-08 21:00:00
+NA,trip_271,Seal,0,NA,NA,,NA,NA
+NA,trip_271,582184557,0,NA,NA,,NA,0040-05-01 11:24:00
+NA,trip_271,581853838,0,NA,NA,,NA,0040-05-01 11:24:00
+NA,trip_272,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_272,Suna Spit,0,NA,NA,,NA,2040-07-15 09:17:00
+NA,trip_272,2133919891,0,NA,NA,,NA,2040-07-15 08:22:00
+NA,trip_273,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_273,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-05-13 21:00:00
+NA,trip_273,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-13 19:00:00
+NA,trip_273,582261047,0,NA,NA,,NA,2040-05-13 14:49:00
+NA,trip_273,2912844717,0,NA,NA,,NA,2040-05-13 14:49:00
+NA,trip_274,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_274,48591000,0,NA,NA,,NA,0040-05-10 08:57:00
+NA,trip_274,12629409643,0,NA,NA,,NA,0040-05-10 07:45:00
+NA,trip_275,Seal,0,NA,NA,,NA,NA
+NA,trip_275,582184557,0,NA,NA,,NA,2040-05-06 10:37:00
+NA,trip_275,582382221,0,NA,NA,,NA,2040-05-06 10:37:00
+NA,trip_275,48568668,0,NA,NA,,NA,2040-05-06 14:52:00
+NA,trip_276,Seal,0,NA,NA,,NA,NA
+NA,trip_276,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-27 19:00:00
+NA,trip_276,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-06-27 13:00:00
+NA,trip_276,48534420,0,NA,NA,,NA,2040-06-27 09:00:00
+NA,trip_277,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_277,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-12 09:00:00
+NA,trip_277,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-12 14:00:00
+NA,trip_277,582184557,0,NA,NA,,NA,0040-06-12 14:00:00
+NA,trip_277,581853838,0,NA,NA,,NA,0040-06-12 17:56:00
+NA,trip_277,2564179411,0,NA,NA,,NA,0040-06-12 18:09:00
+NA,trip_277,Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-12 19:00:00
+NA,trip_277,Lomark Ferry Terminal,0,NA,NA,,NA,0040-06-12 21:00:00
+NA,trip_277,48511190,0,NA,NA,,NA,0040-06-12 21:00:00
+NA,trip_278,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_278,Suna Spit,0,NA,NA,,NA,2040-05-29 08:59:00
+NA,trip_278,12687824227,0,NA,NA,,NA,2040-05-29 08:07:00
+NA,trip_279,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_279,2912844717,0,NA,NA,,NA,2040-04-17 08:56:00
+NA,trip_279,582382094,0,NA,NA,,NA,2040-04-17 10:18:00
+NA,trip_280,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_280,Suna Spit,0,NA,NA,,NA,2040-06-22 09:50:00
+NA,trip_280,48534978,0,NA,NA,,NA,2040-06-22 09:50:00
+NA,trip_280,48508501,0,NA,NA,,NA,2040-06-22 08:59:00
+NA,trip_281,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_281,Suna Spit,0,NA,NA,,NA,0040-04-18 06:24:00
+NA,trip_281,36988183,0,NA,NA,,NA,0040-04-17 08:41:00
+NA,trip_281,Port Grove Ferry Terminal,0,NA,NA,,NA,0040-04-17 10:00:00
+NA,trip_281,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-04-17 13:00:00
+NA,trip_281,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-17 19:00:00
+NA,trip_281,582184557,0,NA,NA,,NA,0040-04-17 19:00:00
+NA,trip_281,581853838,0,NA,NA,,NA,0040-04-17 21:42:00
+NA,trip_281,Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-17 23:00:00
+NA,trip_281,Lomark Ferry Terminal,0,NA,NA,,NA,0040-04-18 06:00:00
+NA,trip_281,48591000,0,NA,NA,,NA,0040-04-18 06:24:00
+NA,trip_282,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_282,Suna Spit,0,NA,NA,,NA,2040-06-28 07:11:00
+NA,trip_282,36988183,0,NA,NA,,NA,2040-06-28 06:54:00
+NA,trip_282,2519420987,0,NA,NA,,NA,2040-06-28 07:11:00
+NA,trip_282,48511190,0,NA,NA,,NA,2040-06-28 07:11:00
+NA,trip_283,Seal,0,NA,NA,,NA,NA
+NA,trip_283,37852571,0,NA,NA,,NA,2040-08-01 11:54:00
+NA,trip_283,37858030,0,NA,NA,,NA,2040-08-01 11:54:00
+NA,trip_284,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_284,Lomark Ferry Terminal,0,NA,NA,,NA,2040-04-08 21:00:00
+NA,trip_284,Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-08 15:00:00
+NA,trip_284,37810321,0,NA,NA,,NA,2040-04-08 12:08:00
+NA,trip_285,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_285,36988183,0,NA,NA,,NA,2040-07-07 11:02:00
+NA,trip_285,Suna Spit,0,NA,NA,,NA,2040-07-07 11:02:00
+NA,trip_285,9196630064,0,NA,NA,,NA,2040-07-07 10:08:00
+NA,trip_285,30179401,0,NA,NA,,NA,2040-07-07 11:02:00
+NA,trip_286,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_286,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-22 21:00:00
+NA,trip_286,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-22 19:00:00
+NA,trip_286,582184557,0,NA,NA,,NA,0040-05-22 16:07:00
+NA,trip_286,581853838,0,NA,NA,,NA,0040-05-22 16:07:00
+NA,trip_286,48534978,0,NA,NA,,NA,0040-05-22 21:39:00
+NA,trip_287,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_287,Lomark Ferry Terminal,0,NA,NA,,NA,2040-05-25 21:00:00
+NA,trip_287,Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-25 15:00:00
+NA,trip_287,37852571,0,NA,NA,,NA,2040-05-25 11:25:00
+NA,trip_288,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_288,Suna Spit,0,NA,NA,,NA,2040-04-22 08:34:00
+NA,trip_288,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-04-22 07:39:00
+NA,trip_289,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_289,48534978,0,NA,NA,,NA,2040-05-31 08:44:00
+NA,trip_289,48552137,0,NA,NA,,NA,2040-05-31 06:52:00
+NA,trip_290,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_290,Lomark Ferry Terminal,0,NA,NA,,NA,2040-05-22 21:00:00
+NA,trip_290,Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-22 15:00:00
+NA,trip_290,2564179411,0,NA,NA,,NA,2040-05-22 11:17:00
+NA,trip_290,37799737,0,NA,NA,,NA,2040-05-22 11:17:00
+NA,trip_290,37828755,0,NA,NA,,NA,2040-05-22 11:36:00
+NA,trip_290,48511187,0,NA,NA,,NA,2040-05-22 21:00:00
+NA,trip_291,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_291,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-08-02 21:00:00
+NA,trip_291,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-08-02 19:00:00
+NA,trip_291,582261047,0,NA,NA,,NA,2040-08-02 14:17:00
+NA,trip_291,48504771,0,NA,NA,,NA,2040-08-02 14:17:00
+NA,trip_291,48580678,0,NA,NA,,NA,2040-08-02 21:00:00
+NA,trip_292,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_292,36988183,0,NA,NA,,NA,2040-07-26 11:34:00
+NA,trip_292,36955939,0,NA,NA,,NA,2040-07-26 08:40:00
+NA,trip_292,Suna Spit,0,NA,NA,,NA,2040-07-26 11:34:00
+NA,trip_292,9196630064,0,NA,NA,,NA,2040-07-26 10:41:00
+NA,trip_292,4978801697,0,NA,NA,,NA,2040-07-26 11:34:00
+NA,trip_293,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_293,Suna Spit,0,NA,NA,,NA,2040-07-19 10:20:00
+NA,trip_293,36988183,0,NA,NA,,NA,2040-07-19 10:04:00
+NA,trip_293,Port Grove Ferry Terminal,0,NA,NA,,NA,2040-07-19 09:24:00
+NA,trip_293,2519420987,0,NA,NA,,NA,2040-07-19 10:20:00
+NA,trip_294,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_294,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-07-24 21:00:00
+NA,trip_294,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-24 19:00:00
+NA,trip_294,582184557,0,NA,NA,,NA,0040-07-24 17:18:00
+NA,trip_294,581853838,0,NA,NA,,NA,0040-07-24 17:18:00
+NA,trip_295,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_295,37826661,0,NA,NA,,NA,2040-07-18 08:02:00
+NA,trip_295,37828755,0,NA,NA,,NA,2040-07-18 08:48:00
+NA,trip_296,Seal,0,NA,NA,,NA,NA
+NA,trip_296,37862867,0,NA,NA,,NA,2040-04-02 07:45:00
+NA,trip_296,37866955,0,NA,NA,,NA,2040-04-02 12:05:00
+NA,trip_297,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_297,30188848,0,NA,NA,,NA,2040-06-24 07:09:00
+NA,trip_297,30179401,0,NA,NA,,NA,2040-06-24 07:09:00
+NA,trip_297,Himark Ferry Terminal,0,NA,NA,,NA,2040-06-24 06:29:00
+NA,trip_298,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_298,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-04-10 09:00:00
+NA,trip_298,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-10 14:00:00
+NA,trip_298,582184557,0,NA,NA,,NA,0040-04-10 14:00:00
+NA,trip_298,581853838,0,NA,NA,,NA,0040-04-10 17:46:00
+NA,trip_298,Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-10 19:00:00
+NA,trip_298,Lomark Ferry Terminal,0,NA,NA,,NA,0040-04-10 21:00:00
+NA,trip_298,48591000,0,NA,NA,,NA,0040-04-10 21:54:00
+NA,trip_299,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_299,48591000,0,NA,NA,,NA,2040-07-30 09:06:00
+NA,trip_299,48510013,0,NA,NA,,NA,2040-07-30 09:06:00
+NA,trip_300,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_300,36988183,0,NA,NA,,NA,2040-07-23 10:04:00
+NA,trip_300,2519420987,0,NA,NA,,NA,2040-07-23 08:45:00
+NA,trip_300,Suna Spit,0,NA,NA,,NA,2040-07-23 10:04:00
+NA,trip_300,2148547967,0,NA,NA,,NA,2040-07-23 08:45:00
+NA,trip_301,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_301,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-05 19:00:00
+NA,trip_301,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-05-05 13:00:00
+NA,trip_301,Port Grove Ferry Terminal,0,NA,NA,,NA,2040-05-05 12:00:00
+NA,trip_301,36988183,0,NA,NA,,NA,2040-05-05 11:19:00
+NA,trip_301,Suna Spit,0,NA,NA,,NA,2040-05-05 10:52:00
+NA,trip_301,48462883,0,NA,NA,,NA,2040-05-05 10:24:00
+NA,trip_302,Seal,0,NA,NA,,NA,NA
+NA,trip_302,48567071,0,NA,NA,,NA,2040-07-23 09:07:00
+NA,trip_302,48531040,0,NA,NA,,NA,2040-07-23 13:31:00
+NA,trip_303,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_303,Lomark Ferry Terminal,0,NA,NA,,NA,2040-07-25 21:00:00
+NA,trip_303,Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-25 15:00:00
+NA,trip_303,37852571,0,NA,NA,,NA,2040-07-25 11:00:00
+NA,trip_303,48580678,0,NA,NA,,NA,2040-07-25 21:00:00
+NA,trip_304,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_304,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-07-18 21:00:00
+NA,trip_304,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-18 19:00:00
+NA,trip_304,48542802,0,NA,NA,,NA,2040-07-18 14:00:00
+NA,trip_305,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_305,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-01 09:00:00
+NA,trip_305,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-01 14:00:00
+NA,trip_305,582184557,0,NA,NA,,NA,0040-05-01 14:00:00
+NA,trip_305,581853838,0,NA,NA,,NA,0040-05-01 17:52:00
+NA,trip_305,2564179411,0,NA,NA,,NA,0040-05-01 18:47:00
+NA,trip_305,Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-01 19:00:00
+NA,trip_305,Lomark Ferry Terminal,0,NA,NA,,NA,0040-05-01 21:00:00
+NA,trip_306,Seal,0,NA,NA,,NA,NA
+NA,trip_306,582184557,0,NA,NA,,NA,0040-07-10 09:10:00
+NA,trip_306,581853838,0,NA,NA,,NA,0040-07-10 09:10:00
+NA,trip_307,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_307,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-07-11 21:00:00
+NA,trip_307,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-11 19:00:00
+NA,trip_307,7557795048,0,NA,NA,,NA,2040-07-11 14:00:00
+NA,trip_308,Seal,0,NA,NA,,NA,NA
+NA,trip_308,37828755,0,NA,NA,,NA,2040-04-08 12:42:00
+NA,trip_308,7557795052,0,NA,NA,,NA,2040-04-08 12:42:00
+NA,trip_308,37799737,0,NA,NA,,NA,2040-04-08 17:22:00
+NA,trip_309,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_309,Lomark Ferry Terminal,0,NA,NA,,NA,2040-07-22 21:00:00
+NA,trip_309,Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-22 15:00:00
+NA,trip_309,37892464,0,NA,NA,,NA,2040-07-22 11:15:00
+NA,trip_309,582256026,0,NA,NA,,NA,2040-07-22 11:15:00
+NA,trip_309,48511187,0,NA,NA,,NA,2040-07-22 21:00:00
+NA,trip_310,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_310,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-07-17 21:00:00
+NA,trip_310,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-17 19:00:00
+NA,trip_310,582184557,0,NA,NA,,NA,0040-07-17 16:58:00
+NA,trip_310,581853838,0,NA,NA,,NA,0040-07-17 16:58:00
+NA,trip_311,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_311,Lomark Ferry Terminal,0,NA,NA,,NA,2040-04-22 21:00:00
+NA,trip_311,Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-22 15:00:00
+NA,trip_311,2564318352,0,NA,NA,,NA,2040-04-22 11:17:00
+NA,trip_311,37828755,0,NA,NA,,NA,2040-04-22 11:37:00
+NA,trip_311,48530519,0,NA,NA,,NA,2040-04-22 21:00:00
+NA,trip_312,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_312,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-04-10 21:00:00
+NA,trip_312,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-04-10 19:00:00
+NA,trip_312,582184557,0,NA,NA,,NA,0040-04-10 17:00:00
+NA,trip_312,581853838,0,NA,NA,,NA,0040-04-10 17:00:00
+NA,trip_312,48531040,0,NA,NA,,NA,0040-04-10 17:37:00
+NA,trip_313,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_313,Lomark Ferry Terminal,0,NA,NA,,NA,2040-07-27 21:00:00
+NA,trip_313,Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-27 15:00:00
+NA,trip_313,37866955,0,NA,NA,,NA,2040-07-27 13:32:00
+NA,trip_313,37831223,0,NA,NA,,NA,2040-07-27 11:48:00
+NA,trip_314,Seal,0,NA,NA,,NA,NA
+NA,trip_314,581622419,0,NA,NA,,NA,2040-06-25 07:53:00
+NA,trip_314,37826661,0,NA,NA,,NA,2040-06-25 10:51:00
+NA,trip_315,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_315,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-15 21:00:00
+NA,trip_315,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-15 19:00:00
+NA,trip_315,582184557,0,NA,NA,,NA,0040-05-15 16:22:00
+NA,trip_315,581853838,0,NA,NA,,NA,0040-05-15 16:22:00
+NA,trip_315,48475647,0,NA,NA,,NA,0040-05-15 21:53:00
+NA,trip_316,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_316,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-22 09:00:00
+NA,trip_316,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-22 14:00:00
+NA,trip_316,582184557,0,NA,NA,,NA,0040-05-22 14:00:00
+NA,trip_316,581853838,0,NA,NA,,NA,0040-05-22 17:59:00
+NA,trip_316,Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-22 19:00:00
+NA,trip_316,Lomark Ferry Terminal,0,NA,NA,,NA,0040-05-22 21:00:00
+NA,trip_316,48591000,0,NA,NA,,NA,0040-05-22 21:55:00
+NA,trip_317,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_317,2858138942,0,NA,NA,,NA,2040-04-27 09:12:00
+NA,trip_318,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_318,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-06-05 21:00:00
+NA,trip_318,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-06-05 19:00:00
+NA,trip_318,582184557,0,NA,NA,,NA,0040-06-05 16:16:00
+NA,trip_318,581853838,0,NA,NA,,NA,0040-06-05 16:16:00
+NA,trip_319,Seal,0,NA,NA,,NA,NA
+NA,trip_319,582184557,0,NA,NA,,NA,0040-07-17 10:52:00
+NA,trip_319,581853838,0,NA,NA,,NA,0040-07-17 10:52:00
+NA,trip_319,48531040,0,NA,NA,,NA,0040-07-17 12:53:00
+NA,trip_320,Seal,0,NA,NA,,NA,NA
+NA,trip_320,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-28 19:00:00
+NA,trip_320,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-04-28 13:00:00
+NA,trip_320,Port Grove Ferry Terminal,0,NA,NA,,NA,2040-04-28 10:00:00
+NA,trip_320,36988183,0,NA,NA,,NA,2040-04-28 00:39:00
+NA,trip_320,Suna Spit,0,NA,NA,,NA,2040-04-28 00:39:00
+NA,trip_320,4978801697,0,NA,NA,,NA,2040-04-27 22:10:00
+NA,trip_320,5865952509,0,NA,NA,,NA,2040-04-27 22:10:00
+NA,trip_321,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_321,48554034,0,NA,NA,,NA,2040-05-01 09:32:00
+NA,trip_321,48591000,0,NA,NA,,NA,2040-05-01 11:28:00
+NA,trip_322,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_322,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-06-23 21:00:00
+NA,trip_322,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-23 19:00:00
+NA,trip_322,2564179411,0,NA,NA,,NA,2040-06-23 14:54:00
+NA,trip_322,37799737,0,NA,NA,,NA,2040-06-23 14:54:00
+NA,trip_322,37828755,0,NA,NA,,NA,2040-06-23 16:02:00
+NA,trip_322,37866955,0,NA,NA,,NA,2040-06-23 16:39:00
+NA,trip_323,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_323,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-06-03 21:00:00
+NA,trip_323,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-06-03 19:00:00
+NA,trip_323,48580678,0,NA,NA,,NA,2040-06-03 21:00:00
+NA,trip_324,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_324,9839219434,0,NA,NA,,NA,2040-07-04 06:59:00
+NA,trip_324,48591000,0,NA,NA,,NA,2040-07-04 08:36:00
+NA,trip_325,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_325,Suna Spit,0,NA,NA,,NA,2040-05-04 07:46:00
+NA,trip_325,48591000,0,NA,NA,,NA,2040-05-04 07:46:00
+NA,trip_326,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_326,Lomark Ferry Terminal,0,NA,NA,,NA,2040-05-24 21:00:00
+NA,trip_326,Paackland Ferry Terminal,0,NA,NA,,NA,2040-05-24 15:00:00
+NA,trip_326,37866955,0,NA,NA,,NA,2040-05-24 11:43:00
+NA,trip_326,2564179411,0,NA,NA,,NA,2040-05-24 13:38:00
+NA,trip_327,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_327,48508495,0,NA,NA,,NA,2040-07-02 07:07:00
+NA,trip_328,Seal,0,NA,NA,,NA,NA
+NA,trip_328,582184557,0,NA,NA,,NA,0040-06-05 07:22:00
+NA,trip_328,581853838,0,NA,NA,,NA,0040-06-05 09:41:00
+NA,trip_328,37852571,0,NA,NA,,NA,0040-06-05 11:07:00
+NA,trip_329,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_329,2091409677,0,NA,NA,,NA,2040-05-15 09:56:00
+NA,trip_330,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_330,582327013,0,NA,NA,,NA,2040-08-02 08:07:00
+NA,trip_330,37892464,0,NA,NA,,NA,2040-08-02 08:43:00
+NA,trip_331,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_331,Suna Spit,0,NA,NA,,NA,0040-05-15 06:40:00
+NA,trip_331,36988183,0,NA,NA,,NA,0040-05-15 06:40:00
+NA,trip_331,Port Grove Ferry Terminal,0,NA,NA,,NA,0040-05-15 10:00:00
+NA,trip_331,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-05-15 13:00:00
+NA,trip_331,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-15 19:00:00
+NA,trip_331,582184557,0,NA,NA,,NA,0040-05-15 19:00:00
+NA,trip_331,581853838,0,NA,NA,,NA,0040-05-15 21:34:00
+NA,trip_331,2564179411,0,NA,NA,,NA,0040-05-15 22:01:00
+NA,trip_331,Paackland Ferry Terminal,0,NA,NA,,NA,0040-05-15 23:00:00
+NA,trip_331,Himark Ferry Terminal,0,NA,NA,,NA,0040-05-16 03:00:00
+NA,trip_331,30179401,0,NA,NA,,NA,0040-05-16 03:00:00
+NA,trip_331,30188848,0,NA,NA,,NA,0040-05-16 03:00:00
+NA,trip_332,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_332,48534978,0,NA,NA,,NA,2040-05-06 11:10:00
+NA,trip_332,48475647,0,NA,NA,,NA,2040-05-06 09:30:00
+NA,trip_332,48498977,0,NA,NA,,NA,2040-05-06 09:30:00
+NA,trip_333,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_333,48543659,0,NA,NA,,NA,2040-04-27 06:59:00
+NA,trip_334,Seal,0,NA,NA,,NA,NA
+NA,trip_334,582184557,0,NA,NA,,NA,0040-06-19 09:14:00
+NA,trip_334,581853838,0,NA,NA,,NA,0040-06-19 09:14:00
+NA,trip_334,48531040,0,NA,NA,,NA,0040-06-19 11:23:00
+NA,trip_335,Carol Limpet,0,NA,NA,,NA,NA
+NA,trip_335,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-04-24 21:00:00
+NA,trip_335,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-04-24 19:00:00
+NA,trip_335,581874286,0,NA,NA,,NA,2040-04-24 14:00:00
+NA,trip_335,48511187,0,NA,NA,,NA,2040-04-24 21:00:00
+NA,trip_336,Ed Helpsford,0,NA,NA,,NA,NA
+NA,trip_336,48534978,0,NA,NA,,NA,2040-06-23 09:35:00
+NA,trip_336,48513116,0,NA,NA,,NA,2040-06-23 08:05:00
+NA,trip_337,Seal,0,NA,NA,,NA,NA
+NA,trip_337,582184557,0,NA,NA,,NA,0040-06-26 12:58:00
+NA,trip_337,581853838,0,NA,NA,,NA,0040-06-26 10:52:00
+NA,trip_338,Simone Kat,0,NA,NA,,NA,NA
+NA,trip_338,Haacklee Ferry Terminal,0,NA,NA,,NA,0040-07-17 09:00:00
+NA,trip_338,South Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-17 14:00:00
+NA,trip_338,582184557,0,NA,NA,,NA,0040-07-17 14:00:00
+NA,trip_338,581853838,0,NA,NA,,NA,0040-07-17 17:06:00
+NA,trip_338,Paackland Ferry Terminal,0,NA,NA,,NA,0040-07-17 19:00:00
+NA,trip_338,Lomark Ferry Terminal,0,NA,NA,,NA,0040-07-17 21:00:00
+NA,trip_338,48591000,0,NA,NA,,NA,0040-07-17 21:52:00
+NA,trip_339,Tante Titan,0,NA,NA,,NA,NA
+NA,trip_339,582184557,0,NA,NA,,NA,0040-07-03 10:39:00
+NA,trip_339,581853838,0,NA,NA,,NA,0040-07-03 10:39:00
+NA,trip_339,1332340938,0,NA,NA,,NA,0040-07-03 11:10:00
+NA,trip_340,Teddy Goldstein,0,NA,NA,,NA,NA
+NA,trip_340,Suna Spit,0,NA,NA,,NA,2040-07-04 08:23:00
+NA,trip_340,36988183,0,NA,NA,,NA,2040-07-04 07:37:00
+NA,trip_340,9196630064,0,NA,NA,,NA,2040-07-04 08:58:00
+NA,trip_340,30188848,0,NA,NA,,NA,2040-07-04 08:58:00
+NA,trip_341,Seal,0,NA,NA,,NA,NA
+NA,trip_341,South Paackland Ferry Terminal,0,NA,NA,,NA,2040-07-12 19:00:00
+NA,trip_341,Haacklee Ferry Terminal,0,NA,NA,,NA,2040-07-12 13:00:00
+NA,trip_341,Port Grove Ferry Terminal,0,NA,NA,,NA,2040-07-12 12:00:00
+NA,trip_341,36988183,0,NA,NA,,NA,2040-07-12 10:44:00
+NA,trip_341,Suna Spit,0,NA,NA,,NA,2040-07-12 10:44:00
+NA,trip_341,48572314,0,NA,NA,,NA,2040-07-12 10:00:00

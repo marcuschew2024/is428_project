@@ -1,0 +1,741 @@
+type,date,label,id,name,role,short_topic,long_topic,short_title,long_title,plan_type,lat,lon,zone,zone_detail,start,end
+meeting,Meeting 1,Meeting 1,Meeting_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+meeting,Meeting 2,Meeting 2,Meeting_2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+meeting,Meeting 3,Meeting 3,Meeting_3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+meeting,Meeting 4,Meeting 4,Meeting_4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+meeting,Meeting 5,Meeting 5,Meeting_5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+meeting,Meeting 6,Meeting 6,Meeting_6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+meeting,Meeting 7,Meeting 7,Meeting_7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+meeting,Meeting 8,Meeting 8,Meeting_8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+meeting,Meeting 9,Meeting 9,Meeting_9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+meeting,Meeting 10,Meeting 10,Meeting_10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+meeting,Meeting 11,Meeting 11,Meeting_11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+meeting,Meeting 12,Meeting 12,Meeting_12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+meeting,07-03-40,07-03-40,Meeting_13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+meeting,Meeting 14,Meeting 14,Meeting_14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+meeting,07-17-40,07-17-40,Meeting_15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+meeting,Meeting 16,Meeting 16,Meeting_16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+entity.person,NA,NA,Seal,Seal,Committee Chair,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+entity.person,NA,NA,Ed Helpsford,Ed Helpsford,Vice Chair,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+entity.person,NA,NA,Teddy Goldstein,Teddy Goldstein,Treasurer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+entity.person,NA,NA,Simone Kat,Simone Kat,Member,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+entity.person,NA,NA,Tante Titan,Tante Titan,Member,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+entity.person,NA,NA,Carol Limpet,Carol Limpet,Member,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+entity.organization,NA,NA,Paackland Container Inc.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+entity.organization,NA,NA,High Seas Fishing Inc.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+entity.organization,NA,NA,Tours Central Ticketing,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+entity.organization,NA,NA,Saltwater Serenades,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+entity.organization,NA,NA,Daughters of Port Grove,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+entity.organization,NA,NA,Industrial Shipping,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+entity.organization,NA,NA,Builders Association,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+entity.organization,NA,NA,PTA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+topic,NA,expanding_tourist_wharf,expanding_tourist_wharf,NA,NA,expanding_tourist_wharf,Expanding the tourist wharf/infrastructure in Haacklee,NA,NA,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,expanding_tourist_wharf_Meeting_7_Initial_Views_Discussion,expanding_tourist_wharf_Meeting_7_Initial_Views_Discussion,NA,NA,NA,NA,expanding_tourist_wharf_Meeting_7_Initial_Views_Discussion,Discuss and share initial views on expanding the tourist wharf/infrastructure,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,expanding_tourist_wharf_Travel_Harbor_Route_Solutions_Discussion_Tourist,expanding_tourist_wharf_Travel_Harbor_Route_Solutions_Discussion_Tourist,NA,NA,NA,NA,expanding_tourist_wharf_Travel_Harbor_Route_Solutions_Discussion_Tourist,Discuss travel plans to Harbor Route Solutions in Haacklee,NA,NA,NA,NA,NA,NA,NA
+plan,NA,expanding_tourist_wharf_Travel_Harbor_Route_Solutions,expanding_tourist_wharf_Travel_Harbor_Route_Solutions,NA,NA,NA,NA,expanding_tourist_wharf_Travel_Harbor_Route_Solutions,Travel to Harbor Route Solutions in Haacklee,Travel,NA,NA,NA,NA,NA,NA
+NA,NA,Harbor Route Solutions,35889363,NA,NA,NA,NA,NA,NA,NA,-165.68041773674673,38.98946585258907,industrial,NA,NA,NA
+discussion,NA,expanding_tourist_wharf_Meeting_8_Expand_Ideas_Discussion,expanding_tourist_wharf_Meeting_8_Expand_Ideas_Discussion,NA,NA,NA,NA,expanding_tourist_wharf_Meeting_8_Expand_Ideas_Discussion,Expand on views and ideas discussed in the previous meeting,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,expanding_tourist_wharf_Travel_Harbor_Route_Solutions_Completed_Discussion_Tourist,expanding_tourist_wharf_Travel_Harbor_Route_Solutions_Completed_Discussion_Tourist,NA,NA,NA,NA,expanding_tourist_wharf_Travel_Harbor_Route_Solutions_Completed_Discussion_Tourist,Discuss the completed travel plans to Harbor Route Solutions in Haacklee,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,expanding_tourist_wharf_Meeting_9_Start_Report_Discussion,expanding_tourist_wharf_Meeting_9_Start_Report_Discussion,NA,NA,NA,NA,expanding_tourist_wharf_Meeting_9_Start_Report_Discussion,Get a formal cost impact & environment report started,NA,NA,NA,NA,NA,NA,NA
+plan,NA,expanding_tourist_wharf_Meeting_9_Report,expanding_tourist_wharf_Meeting_9_Report,NA,NA,NA,NA,expanding_tourist_wharf_Meeting_9_Report,Get a formal cost impact & environment report,Report,NA,NA,NA,NA,NA,NA
+discussion,NA,expanding_tourist_wharf_Meeting_10_Report_Update_Discussion,expanding_tourist_wharf_Meeting_10_Report_Update_Discussion,NA,NA,NA,NA,expanding_tourist_wharf_Meeting_10_Report_Update_Discussion,Update on formal cost impact & environment report,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,expanding_tourist_wharf_Meeting_11_Report_Update_Discussion,expanding_tourist_wharf_Meeting_11_Report_Update_Discussion,NA,NA,NA,NA,expanding_tourist_wharf_Meeting_11_Report_Update_Discussion,Update on formal cost impact & environment report,NA,NA,NA,NA,NA,NA,NA
+topic,NA,statue_john_smoth,statue_john_smoth,NA,NA,statue_john_smoth,Statue to honor John Smoth in Port Grove,NA,NA,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,statue_john_smoth_Meeting_8_Proposal_Discussion,statue_john_smoth_Meeting_8_Proposal_Discussion,NA,NA,NA,NA,statue_john_smoth_Meeting_8_Proposal_Discussion,Present proposal for the statue to honor John Smoth,NA,NA,NA,NA,NA,NA,NA
+plan,NA,statue_john_smoth_Meeting_8_Proposal,statue_john_smoth_Meeting_8_Proposal,NA,NA,NA,NA,statue_john_smoth_Meeting_8_Proposal,Present proposal for the statue to honor John Smoth,proposal,NA,NA,NA,NA,NA,NA
+discussion,NA,statue_john_smoth_Travel_The_Bait_Stich_Discussion,statue_john_smoth_Travel_The_Bait_Stich_Discussion,NA,NA,NA,NA,statue_john_smoth_Travel_The_Bait_Stich_Discussion,Discuss travel plans to The Bait & Stich for feedback gathering,NA,NA,NA,NA,NA,NA,NA
+plan,NA,statue_john_smoth_Travel_The_Bait_Stich,statue_john_smoth_Travel_The_Bait_Stich,NA,NA,NA,NA,statue_john_smoth_Travel_The_Bait_Stich,Travel to The Bait & Stich,Travel,NA,NA,NA,NA,NA,NA
+place,NA,The Bait & Stich,2519420987,The Bait & Stich,NA,NA,NA,NA,NA,NA,-165.9570387791253,39.09481909072149,tourism,restaurant,NA,NA
+discussion,NA,statue_john_smoth_Meeting_9_Gather_Feedback_Discussion,statue_john_smoth_Meeting_9_Gather_Feedback_Discussion,NA,NA,NA,NA,statue_john_smoth_Meeting_9_Gather_Feedback_Discussion,Gather community feedback on the proposed statue,NA,NA,NA,NA,NA,NA,NA
+plan,NA,statue_john_smoth_Meeting_9_Feedback,statue_john_smoth_Meeting_9_Feedback,NA,NA,NA,NA,statue_john_smoth_Meeting_9_Feedback,Gather community feedback on the proposed statue,feedback,NA,NA,NA,NA,NA,NA
+discussion,NA,statue_john_smoth_Travel_The_Bait_Stich_Completed_Discussion,statue_john_smoth_Travel_The_Bait_Stich_Completed_Discussion,NA,NA,NA,NA,statue_john_smoth_Travel_The_Bait_Stich_Completed_Discussion,Discuss the completed travel plans to The Bait & Stich,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,statue_john_smoth_Meeting_10_Presentation_Discussion,statue_john_smoth_Meeting_10_Presentation_Discussion,NA,NA,NA,NA,statue_john_smoth_Meeting_10_Presentation_Discussion,Provide presentation on feedback and costs,NA,NA,NA,NA,NA,NA,NA
+plan,NA,statue_john_smoth_Meeting_10_Presentation,statue_john_smoth_Meeting_10_Presentation,NA,NA,NA,NA,statue_john_smoth_Meeting_10_Presentation,Provide presentation on feedback and costs,presentation,NA,NA,NA,NA,NA,NA
+topic,NA,deep_fishing_dock,deep_fishing_dock,NA,NA,deep_fishing_dock,Deep maintenance to the commercial fishing dock at Himark,NA,NA,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,deep_fishing_dock_Meeting_2_Importance_Discussion,deep_fishing_dock_Meeting_2_Importance_Discussion,NA,NA,NA,NA,deep_fishing_dock_Meeting_2_Importance_Discussion,Discuss the importance of maintenance and allocate initial budget,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,deep_fishing_dock_Travel_High_Seas_Fishing_Inc_Discussion,deep_fishing_dock_Travel_High_Seas_Fishing_Inc_Discussion,NA,NA,NA,NA,deep_fishing_dock_Travel_High_Seas_Fishing_Inc_Discussion,Discuss travel plans to High Seas Fishing Inc. in Himark,NA,NA,NA,NA,NA,NA,NA
+plan,NA,deep_fishing_dock_Travel_High_Seas_Fishing_Inc,deep_fishing_dock_Travel_High_Seas_Fishing_Inc,NA,NA,NA,NA,deep_fishing_dock_Travel_High_Seas_Fishing_Inc,Travel to High Seas Fishing Inc. in Himark,Travel,NA,NA,NA,NA,NA,NA
+NA,NA,High Seas Fishing Inc.,3753651731,NA,NA,NA,NA,NA,NA,NA,-165.88631162829017,39.65407871983316,industrial,NA,NA,NA
+discussion,NA,deep_fishing_dock_Meeting_3_Maintenance_Plan_Discussion,deep_fishing_dock_Meeting_3_Maintenance_Plan_Discussion,NA,NA,NA,NA,deep_fishing_dock_Meeting_3_Maintenance_Plan_Discussion,Discuss maintenance plan and designate travel representatives,NA,NA,NA,NA,NA,NA,NA
+plan,NA,deep_fishing_dock_Meeting_3_Maintenance_Plan,deep_fishing_dock_Meeting_3_Maintenance_Plan,NA,NA,NA,NA,deep_fishing_dock_Meeting_3_Maintenance_Plan,Discuss maintenance plan and designate travel representatives,proposal,NA,NA,NA,NA,NA,NA
+discussion,NA,deep_fishing_dock_Travel_High_Seas_Fishing_Inc_Completed_Discussion,deep_fishing_dock_Travel_High_Seas_Fishing_Inc_Completed_Discussion,NA,NA,NA,NA,deep_fishing_dock_Travel_High_Seas_Fishing_Inc_Completed_Discussion,Discuss the completed travel plans to High Seas Fishing Inc. in Himark,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,deep_fishing_dock_Meeting_4_Findings_Report_Discussion,deep_fishing_dock_Meeting_4_Findings_Report_Discussion,NA,NA,NA,NA,deep_fishing_dock_Meeting_4_Findings_Report_Discussion,Report on findings from dock visit,NA,NA,NA,NA,NA,NA,NA
+plan,NA,deep_fishing_dock_Meeting_4_Findings_Report,deep_fishing_dock_Meeting_4_Findings_Report,NA,NA,NA,NA,deep_fishing_dock_Meeting_4_Findings_Report,Report on findings from dock visit,report,NA,NA,NA,NA,NA,NA
+discussion,NA,deep_fishing_dock_Meeting_4_Recommendation_Discussion,deep_fishing_dock_Meeting_4_Recommendation_Discussion,NA,NA,NA,NA,deep_fishing_dock_Meeting_4_Recommendation_Discussion,Provide recommendation based on visit feedback,NA,NA,NA,NA,NA,NA,NA
+plan,NA,deep_fishing_dock_Meeting_4_Recommendation,deep_fishing_dock_Meeting_4_Recommendation,NA,NA,NA,NA,deep_fishing_dock_Meeting_4_Recommendation,Provide recommendation based on visit feedback,take action,NA,NA,NA,NA,NA,NA
+topic,NA,new_crane_lomark,new_crane_lomark,NA,NA,new_crane_lomark,Money for a new crane at Lomark,NA,NA,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,new_crane_lomark_Meeting_4_Cost_Analysis_Discussion,new_crane_lomark_Meeting_4_Cost_Analysis_Discussion,NA,NA,NA,NA,new_crane_lomark_Meeting_4_Cost_Analysis_Discussion,Present cost analysis for the new crane,NA,NA,NA,NA,NA,NA,NA
+plan,NA,new_crane_lomark_Meeting_4_Cost_Analysis,new_crane_lomark_Meeting_4_Cost_Analysis,NA,NA,NA,NA,new_crane_lomark_Meeting_4_Cost_Analysis,Present cost analysis for the new crane,presentation,NA,NA,NA,NA,NA,NA
+discussion,NA,new_crane_lomark_Travel_Blue_Wave_Shipping_Discussion,new_crane_lomark_Travel_Blue_Wave_Shipping_Discussion,NA,NA,NA,NA,new_crane_lomark_Travel_Blue_Wave_Shipping_Discussion,Discuss travel plans to Blue Wave Shipping in Lomark,NA,NA,NA,NA,NA,NA,NA
+plan,NA,new_crane_lomark_Travel_Blue_Wave_Shipping,new_crane_lomark_Travel_Blue_Wave_Shipping,NA,NA,NA,NA,new_crane_lomark_Travel_Blue_Wave_Shipping,Travel to Blue Wave Shipping in Lomark,Travel,NA,NA,NA,NA,NA,NA
+NA,NA,Blue Wave Shipping,491334376,NA,NA,NA,NA,NA,NA,NA,-165.59436715313234,39.55699548649617,industrial,NA,NA,NA
+discussion,NA,new_crane_lomark_Meeting_5_Cost_Impact_Report_Discussion,new_crane_lomark_Meeting_5_Cost_Impact_Report_Discussion,NA,NA,NA,NA,new_crane_lomark_Meeting_5_Cost_Impact_Report_Discussion,Get a formal cost impact & environment report started,NA,NA,NA,NA,NA,NA,NA
+plan,NA,new_crane_lomark_Meeting_5_Cost_Impact_Report,new_crane_lomark_Meeting_5_Cost_Impact_Report,NA,NA,NA,NA,new_crane_lomark_Meeting_5_Cost_Impact_Report,Get a formal cost impact & environment report,report,NA,NA,NA,NA,NA,NA
+discussion,NA,new_crane_lomark_Travel_Blue_Wave_Shipping_Completed_Discussion,new_crane_lomark_Travel_Blue_Wave_Shipping_Completed_Discussion,NA,NA,NA,NA,new_crane_lomark_Travel_Blue_Wave_Shipping_Completed_Discussion,Discuss the completed travel plans to Blue Wave Shipping in Lomark,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,new_crane_lomark_Meeting_8_Share_Findings_Discussion,new_crane_lomark_Meeting_8_Share_Findings_Discussion,NA,NA,NA,NA,new_crane_lomark_Meeting_8_Share_Findings_Discussion,Share findings and plan next steps,NA,NA,NA,NA,NA,NA,NA
+plan,NA,new_crane_lomark_Meeting_8_Share_Findings,new_crane_lomark_Meeting_8_Share_Findings,NA,NA,NA,NA,new_crane_lomark_Meeting_8_Share_Findings,Share findings and plan next steps,report,NA,NA,NA,NA,NA,NA
+topic,NA,fish_vacuum,fish_vacuum,NA,NA,fish_vacuum,Fish Vacuum,NA,NA,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,fish_vacuum_Meeting_1_Introduction_Discussion,fish_vacuum_Meeting_1_Introduction_Discussion,NA,NA,NA,NA,fish_vacuum_Meeting_1_Introduction_Discussion,General Introduction to what a fish vacuum is,NA,NA,NA,NA,NA,NA,NA
+plan,NA,fish_vacuum_Meeting_1_Introduction,fish_vacuum_Meeting_1_Introduction,NA,NA,NA,NA,fish_vacuum_Meeting_1_Introduction,General Introduction to what a fish vacuum is,presentation,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Bay Harvest Corporation,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,fish_vacuum_Travel_Bay_Harvest_Corporation_Discussion,fish_vacuum_Travel_Bay_Harvest_Corporation_Discussion,NA,NA,NA,NA,fish_vacuum_Travel_Bay_Harvest_Corporation_Discussion,Discuss travel plans to Bay Harvest Corporation in Himark,NA,NA,NA,NA,NA,NA,NA
+plan,NA,fish_vacuum_Travel_Bay_Harvest_Corporation,fish_vacuum_Travel_Bay_Harvest_Corporation,NA,NA,NA,NA,fish_vacuum_Travel_Bay_Harvest_Corporation,Travel to Bay Harvest Corporation in Himark,Travel,NA,NA,NA,NA,NA,NA
+NA,NA,Bay Harvest Corporation,30192735,NA,NA,NA,NA,NA,NA,NA,-165.88484202581887,39.65638234598041,industrial,NA,NA,NA
+discussion,NA,fish_vacuum_Meeting_2_Cost_Benefit_Analysis_Discussion,fish_vacuum_Meeting_2_Cost_Benefit_Analysis_Discussion,NA,NA,NA,NA,fish_vacuum_Meeting_2_Cost_Benefit_Analysis_Discussion,Provide cost-benefit analysis of implementing a fish vacuum,NA,NA,NA,NA,NA,NA,NA
+plan,NA,fish_vacuum_Meeting_2_Cost_Benefit_Analysis,fish_vacuum_Meeting_2_Cost_Benefit_Analysis,NA,NA,NA,NA,fish_vacuum_Meeting_2_Cost_Benefit_Analysis,Provide cost-benefit analysis of implementing a fish vacuum,proposal,NA,NA,NA,NA,NA,NA
+discussion,NA,fish_vacuum_Travel_Bay_Harvest_Corporation_Completed_Discussion,fish_vacuum_Travel_Bay_Harvest_Corporation_Completed_Discussion,NA,NA,NA,NA,fish_vacuum_Travel_Bay_Harvest_Corporation_Completed_Discussion,Discuss the completed travel plans to Bay Harvest Corporation in Lomark,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,fish_vacuum_Meeting_3_Report_Discussion,fish_vacuum_Meeting_3_Report_Discussion,NA,NA,NA,NA,fish_vacuum_Meeting_3_Report_Discussion,Provide report on cost-benefit analysis,NA,NA,NA,NA,NA,NA,NA
+plan,NA,fish_vacuum_Meeting_3_Report,fish_vacuum_Meeting_3_Report,NA,NA,NA,NA,fish_vacuum_Meeting_3_Report,Provide report on cost-benefit analysis,report,NA,NA,NA,NA,NA,NA
+topic,NA,low_volume_crane,low_volume_crane,NA,NA,low_volume_crane,Low-volume unload crane in Haacklee,NA,NA,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,low_volume_crane_Meeting_3_Proposal_Discussion,low_volume_crane_Meeting_3_Proposal_Discussion,NA,NA,NA,NA,low_volume_crane_Meeting_3_Proposal_Discussion,Discuss potential benefits of low-volume unload crane,NA,NA,NA,NA,NA,NA,NA
+plan,NA,low_volume_crane_Meeting_3_Proposal,low_volume_crane_Meeting_3_Proposal,NA,NA,NA,NA,low_volume_crane_Meeting_3_Proposal,Discuss potential benefits of low-volume unload crane,proposal,NA,NA,NA,NA,NA,NA
+discussion,NA,low_volume_crane_Travel_Harbor_Route_Solutions_Discussion,low_volume_crane_Travel_Harbor_Route_Solutions_Discussion,NA,NA,NA,NA,low_volume_crane_Travel_Harbor_Route_Solutions_Discussion,Discuss travel plans to Harbor Route Solutions in Haacklee,NA,NA,NA,NA,NA,NA,NA
+plan,NA,low_volume_crane_Travel_Harbor_Route_Solutions,low_volume_crane_Travel_Harbor_Route_Solutions,NA,NA,NA,NA,low_volume_crane_Travel_Harbor_Route_Solutions,Travel to Harbor Route Solutions in Haacklee,Travel,NA,NA,NA,NA,NA,NA
+discussion,NA,low_volume_crane_Travel_Harbor_Route_Solutions_Completed_Discussion_Crane,low_volume_crane_Travel_Harbor_Route_Solutions_Completed_Discussion_Crane,NA,NA,NA,NA,low_volume_crane_Travel_Harbor_Route_Solutions_Completed_Discussion_Crane,Discuss the completed travel plans to Harbor Route Solutions in Haacklee,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,low_volume_crane_Travel_Harbor_Builders_Discussion,low_volume_crane_Travel_Harbor_Builders_Discussion,NA,NA,NA,NA,low_volume_crane_Travel_Harbor_Builders_Discussion,Discuss travel plans to Harbor Builders in Haacklee,NA,NA,NA,NA,NA,NA,NA
+plan,NA,low_volume_crane_Travel_Harbor_Builders,low_volume_crane_Travel_Harbor_Builders,NA,NA,NA,NA,low_volume_crane_Travel_Harbor_Builders,Travel to Harbor Builders in Haacklee,Travel,NA,NA,NA,NA,NA,NA
+NA,NA,Harbor Builders,35922181,NA,NA,NA,NA,NA,NA,NA,-165.67106823674675,38.99472785258907,industrial,NA,NA,NA
+discussion,NA,low_volume_crane_Travel_Haacklee_Assembly_Co_Discussion,low_volume_crane_Travel_Haacklee_Assembly_Co_Discussion,NA,NA,NA,NA,low_volume_crane_Travel_Haacklee_Assembly_Co_Discussion,Discuss travel plans to Haacklee Assembly Co. in Haacklee,NA,NA,NA,NA,NA,NA,NA
+plan,NA,low_volume_crane_Travel_Haacklee_Assembly_Co,low_volume_crane_Travel_Haacklee_Assembly_Co,NA,NA,NA,NA,low_volume_crane_Travel_Haacklee_Assembly_Co,Travel to Haacklee Assembly Co. in Haacklee,Travel,NA,NA,NA,NA,NA,NA
+NA,NA,Haacklee Assembly Co.,35872967,NA,NA,NA,NA,NA,NA,NA,-165.67991093674675,38.99139455258907,industrial,NA,NA,NA
+discussion,NA,low_volume_crane_Meeting_8_Report_Discussion,low_volume_crane_Meeting_8_Report_Discussion,NA,NA,NA,NA,low_volume_crane_Meeting_8_Report_Discussion,Report on travel and submit letter of support for low-volume unload crane,NA,NA,NA,NA,NA,NA,NA
+plan,NA,low_volume_crane_Meeting_8_Report,low_volume_crane_Meeting_8_Report,NA,NA,NA,NA,low_volume_crane_Meeting_8_Report,Report on travel and submit letter of support for low-volume unload crane,report,NA,NA,NA,NA,NA,NA
+discussion,NA,low_volume_crane_Travel_Harbor_Builders_Completed_Discussion,low_volume_crane_Travel_Harbor_Builders_Completed_Discussion,NA,NA,NA,NA,low_volume_crane_Travel_Harbor_Builders_Completed_Discussion,Discuss the completed travel plans to Harbor Builders in Haacklee,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,low_volume_crane_Travel_Haacklee_Assembly_Co_Completed_Discussion,low_volume_crane_Travel_Haacklee_Assembly_Co_Completed_Discussion,NA,NA,NA,NA,low_volume_crane_Travel_Haacklee_Assembly_Co_Completed_Discussion,Discuss the completed travel plans to Haacklee Assembly Co. in Haacklee,NA,NA,NA,NA,NA,NA,NA
+topic,NA,affordable_housing,affordable_housing,NA,NA,affordable_housing,Affordable housing for fishing workers (conflict with short-term rentals),NA,NA,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,affordable_housing_Meeting_6_Sites_Proposal_Discussion,affordable_housing_Meeting_6_Sites_Proposal_Discussion,NA,NA,NA,NA,affordable_housing_Meeting_6_Sites_Proposal_Discussion,Discuss potential sites for affordable housing,NA,NA,NA,NA,NA,NA,NA
+plan,NA,affordable_housing_Meeting_6_Sites_Proposal,affordable_housing_Meeting_6_Sites_Proposal,NA,NA,NA,NA,affordable_housing_Meeting_6_Sites_Proposal,Discuss potential sites for affordable housing,proposal,NA,NA,NA,NA,NA,NA
+discussion,NA,affordable_housing_Travel_Waveside_Townhomes_Discussion,affordable_housing_Travel_Waveside_Townhomes_Discussion,NA,NA,NA,NA,affordable_housing_Travel_Waveside_Townhomes_Discussion,Discuss travel plans to Waveside Townhomes in Lomark,NA,NA,NA,NA,NA,NA,NA
+plan,NA,affordable_housing_Travel_Waveside_Townhomes,affordable_housing_Travel_Waveside_Townhomes,NA,NA,NA,NA,affordable_housing_Travel_Waveside_Townhomes,Travel to Waveside Townhomes in Lomark,Travel,NA,NA,NA,NA,NA,NA
+NA,NA,Waveside Townhomes,48468290,NA,NA,NA,NA,NA,NA,NA,-165.60067726355345,39.52500051834688,residential,NA,NA,NA
+discussion,NA,affordable_housing_Meeting_7_Debate_Discussion,affordable_housing_Meeting_7_Debate_Discussion,NA,NA,NA,NA,affordable_housing_Meeting_7_Debate_Discussion,Debate the conflict with short-term rentals,NA,NA,NA,NA,NA,NA,NA
+plan,NA,affordable_housing_Meeting_7_Debate,affordable_housing_Meeting_7_Debate,NA,NA,NA,NA,affordable_housing_Meeting_7_Debate,Debate the conflict with short-term rentals,feedback,NA,NA,NA,NA,NA,NA
+discussion,NA,affordable_housing_Travel_Waveside_Townhomes_Completed_Discussion,affordable_housing_Travel_Waveside_Townhomes_Completed_Discussion,NA,NA,NA,NA,affordable_housing_Travel_Waveside_Townhomes_Completed_Discussion,Discuss the completed travel plans to Waveside Townhomes in Lomark,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,affordable_housing_Meeting_8_Gather_Feedback_Discussion,affordable_housing_Meeting_8_Gather_Feedback_Discussion,NA,NA,NA,NA,affordable_housing_Meeting_8_Gather_Feedback_Discussion,Gather community feedback on housing needs,NA,NA,NA,NA,NA,NA,NA
+plan,NA,affordable_housing_Meeting_8_Feedback,affordable_housing_Meeting_8_Feedback,NA,NA,NA,NA,affordable_housing_Meeting_8_Feedback,Gather community feedback on housing needs,feedback,NA,NA,NA,NA,NA,NA
+discussion,NA,affordable_housing_Travel_Tidewater_Flats_Discussion,affordable_housing_Travel_Tidewater_Flats_Discussion,NA,NA,NA,NA,affordable_housing_Travel_Tidewater_Flats_Discussion,Discuss travel plans to Tidewater Flats in Lomark,NA,NA,NA,NA,NA,NA,NA
+plan,NA,affordable_housing_Travel_Tidewater_Flats,affordable_housing_Travel_Tidewater_Flats,NA,NA,NA,NA,affordable_housing_Travel_Tidewater_Flats,Travel to Tidewater Flats in Lomark,Travel,NA,NA,NA,NA,NA,NA
+NA,NA,Tidewater Flats,48480127,NA,NA,NA,NA,NA,NA,NA,-165.57066762430367,39.53933129844945,residential,NA,NA,NA
+discussion,NA,affordable_housing_Meeting_9_Invite_Developers_Discussion,affordable_housing_Meeting_9_Invite_Developers_Discussion,NA,NA,NA,NA,affordable_housing_Meeting_9_Invite_Developers_Discussion,Invite housing developers,NA,NA,NA,NA,NA,NA,NA
+plan,NA,affordable_housing_Meeting_9_Invite_Developers,affordable_housing_Meeting_9_Invite_Developers,NA,NA,NA,NA,affordable_housing_Meeting_9_Invite_Developers,Invite housing developers,feedback,NA,NA,NA,NA,NA,NA
+discussion,NA,affordable_housing_Travel_Tidewater_Flats_Completed_Discussion,affordable_housing_Travel_Tidewater_Flats_Completed_Discussion,NA,NA,NA,NA,affordable_housing_Travel_Tidewater_Flats_Completed_Discussion,Discuss the completed travel plans to Tidewater Flats in Lomark,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,affordable_housing_Meeting_10_Travel_Findings_Discussion,affordable_housing_Meeting_10_Travel_Findings_Discussion,NA,NA,NA,NA,affordable_housing_Meeting_10_Travel_Findings_Discussion,Report on travel findings and draft housing proposal suggestion,NA,NA,NA,NA,NA,NA,NA
+plan,NA,affordable_housing_Meeting_10_Housing_Proposal,affordable_housing_Meeting_10_Housing_Proposal,NA,NA,NA,NA,affordable_housing_Meeting_10_Housing_Proposal,Report on travel findings and draft housing proposal suggestion,proposal,NA,NA,NA,NA,NA,NA
+topic,NA,renaming_park_himark,renaming_park_himark,NA,NA,renaming_park_himark,Renaming a park in Himark,NA,NA,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,renaming_park_himark_Meeting_4_Name_Ideas_Discussion,renaming_park_himark_Meeting_4_Name_Ideas_Discussion,NA,NA,NA,NA,renaming_park_himark_Meeting_4_Name_Ideas_Discussion,Gather ideas for new name for the park,NA,NA,NA,NA,NA,NA,NA
+plan,NA,renaming_park_himark_Meeting_4_Name_Ideas,renaming_park_himark_Meeting_4_Name_Ideas,NA,NA,NA,NA,renaming_park_himark_Meeting_4_Name_Ideas,Gather ideas for new name for the park,proposal,NA,NA,NA,NA,NA,NA
+discussion,NA,renaming_park_himark_Travel_Anchor_Way_Grill_Discussion,renaming_park_himark_Travel_Anchor_Way_Grill_Discussion,NA,NA,NA,NA,renaming_park_himark_Travel_Anchor_Way_Grill_Discussion,Discuss travel plans to Anchor Way Grill,NA,NA,NA,NA,NA,NA,NA
+plan,NA,renaming_park_himark_Travel_Anchor_Way_Grill,renaming_park_himark_Travel_Anchor_Way_Grill,NA,NA,NA,NA,renaming_park_himark_Travel_Anchor_Way_Grill,Discuss travel plans to Anchor Way Grill,Travel,NA,NA,NA,NA,NA,NA
+place,NA,Anchor Way Grill,30188848,Anchor Way Grill,NA,NA,NA,NA,NA,NA,-165.89024291493132,39.66693913163159,tourism,restaurant,NA,NA
+discussion,NA,renaming_park_himark_Travel_Sailors_Perch_Light_Discussion,renaming_park_himark_Travel_Sailors_Perch_Light_Discussion,NA,NA,NA,NA,renaming_park_himark_Travel_Sailors_Perch_Light_Discussion,Discuss travel plans to Sailor's Perch Light,NA,NA,NA,NA,NA,NA,NA
+plan,NA,renaming_park_himark_Travel_Sailors_Perch_Light,renaming_park_himark_Travel_Sailors_Perch_Light,NA,NA,NA,NA,renaming_park_himark_Travel_Sailors_Perch_Light,Discuss travel plans to Sailor's Perch Light,Travel,NA,NA,NA,NA,NA,NA
+NA,NA,Sailor's Perch Light,5849775342,NA,NA,NA,NA,NA,NA,NA,-165.88650085201039,39.66183797473577,tourism,NA,NA,NA
+discussion,NA,renaming_park_himark_Travel_Himark_City_Hall_Discussion,renaming_park_himark_Travel_Himark_City_Hall_Discussion,NA,NA,NA,NA,renaming_park_himark_Travel_Himark_City_Hall_Discussion,Discuss travel plans to Himark City Hall,NA,NA,NA,NA,NA,NA,NA
+plan,NA,renaming_park_himark_Travel_Himark_City_Hall,renaming_park_himark_Travel_Himark_City_Hall,NA,NA,NA,NA,renaming_park_himark_Travel_Himark_City_Hall,Travel to Himark City Hall,Travel,NA,NA,NA,NA,NA,NA
+place,NA,Himark City Hall,9196630064,Himark City Hall,NA,NA,NA,NA,NA,NA,-165.88410403403049,39.66355038525348,government,city hall,NA,NA
+discussion,NA,renaming_park_himark_Meeting_5_Nominations_Discussion,renaming_park_himark_Meeting_5_Nominations_Discussion,NA,NA,NA,NA,renaming_park_himark_Meeting_5_Nominations_Discussion,Solicit community nominations for the new park name,NA,NA,NA,NA,NA,NA,NA
+plan,NA,renaming_park_himark_Meeting_5_Nominations,renaming_park_himark_Meeting_5_Nominations,NA,NA,NA,NA,renaming_park_himark_Meeting_5_Nominations,Solicit community nominations for the new park name,proposal,NA,NA,NA,NA,NA,NA
+discussion,NA,renaming_park_himark_Travel_Himark_City_Hall_Completed_Discussion,renaming_park_himark_Travel_Himark_City_Hall_Completed_Discussion,NA,NA,NA,NA,renaming_park_himark_Travel_Himark_City_Hall_Completed_Discussion,Discuss the completed travel plans to Himark City Hall,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,renaming_park_himark_Travel_Anchor_Way_Grill_Completed_Discussion,renaming_park_himark_Travel_Anchor_Way_Grill_Completed_Discussion,NA,NA,NA,NA,renaming_park_himark_Travel_Anchor_Way_Grill_Completed_Discussion,Discuss the completed travel plans to Anchor Way Grill,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,renaming_park_himark_Travel_Sailors_Perch_Light_Completed_Discussion,renaming_park_himark_Travel_Sailors_Perch_Light_Completed_Discussion,NA,NA,NA,NA,renaming_park_himark_Travel_Sailors_Perch_Light_Completed_Discussion,Discuss the completed travel plans to Sailor's Perch Light,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,renaming_park_himark_Meeting_8_Compile_Nominations_Discussion,renaming_park_himark_Meeting_8_Compile_Nominations_Discussion,NA,NA,NA,NA,renaming_park_himark_Meeting_8_Compile_Nominations_Discussion,Compile nominations and conduct a community vote,NA,NA,NA,NA,NA,NA,NA
+plan,NA,renaming_park_himark_Meeting_8_Compile_Nominations,renaming_park_himark_Meeting_8_Compile_Nominations,NA,NA,NA,NA,renaming_park_himark_Meeting_8_Compile_Nominations,Compile nominations and conduct a community vote,proposal,NA,NA,NA,NA,NA,NA
+discussion,NA,renaming_park_himark_Meeting_7_Announce_Name_Discussion,renaming_park_himark_Meeting_7_Announce_Name_Discussion,NA,NA,NA,NA,renaming_park_himark_Meeting_7_Announce_Name_Discussion,Announce the new park name and organize an unveiling event,NA,NA,NA,NA,NA,NA,NA
+plan,NA,renaming_park_himark_Meeting_7_Announce_Name,renaming_park_himark_Meeting_7_Announce_Name,NA,NA,NA,NA,renaming_park_himark_Meeting_7_Announce_Name,Announce the new park name and organize an unveiling event,take action,NA,NA,NA,NA,NA,NA
+discussion,NA,renaming_park_himark_Meeting_7_Unveiling_Event_Discussion,renaming_park_himark_Meeting_7_Unveiling_Event_Discussion,NA,NA,NA,NA,renaming_park_himark_Meeting_7_Unveiling_Event_Discussion,Presentation on unveiling event,NA,NA,NA,NA,NA,NA,NA
+plan,NA,renaming_park_himark_Meeting_7_Unveiling_Event,renaming_park_himark_Meeting_7_Unveiling_Event,NA,NA,NA,NA,renaming_park_himark_Meeting_7_Unveiling_Event,Presentation on unveiling event,presentation,NA,NA,NA,NA,NA,NA
+topic,NA,name_harbor_area,name_harbor_area,NA,NA,name_harbor_area,Putting a name on pictureque harbor area in Port Grove,NA,NA,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,name_harbor_area_Meeting_10_Historical_Significance_Discussion,name_harbor_area_Meeting_10_Historical_Significance_Discussion,NA,NA,NA,NA,name_harbor_area_Meeting_10_Historical_Significance_Discussion,Provide historical significance for naming the customs office,NA,NA,NA,NA,NA,NA,NA
+plan,NA,name_harbor_area_Meeting_10_Historical_Significance,name_harbor_area_Meeting_10_Historical_Significance,NA,NA,NA,NA,name_harbor_area_Meeting_10_Historical_Significance,Provide historical significance for naming the customs office,presentation,NA,NA,NA,NA,NA,NA
+discussion,NA,name_harbor_area_Travel_The_Bait_Stich_Discussion,name_harbor_area_Travel_The_Bait_Stich_Discussion,NA,NA,NA,NA,name_harbor_area_Travel_The_Bait_Stich_Discussion,Discuss travel plans to The Bait & Stich,NA,NA,NA,NA,NA,NA,NA
+plan,NA,name_harbor_area_Travel_The_Bait_Stich,name_harbor_area_Travel_The_Bait_Stich,NA,NA,NA,NA,name_harbor_area_Travel_The_Bait_Stich,Travel to The Bait & Stich,Travel,NA,NA,NA,NA,NA,NA
+discussion,NA,name_harbor_area_Meeting_11_Harbor_Odyssey_Tours_Discussion,name_harbor_area_Meeting_11_Harbor_Odyssey_Tours_Discussion,NA,NA,NA,NA,name_harbor_area_Meeting_11_Harbor_Odyssey_Tours_Discussion,Discuss collaboration opportunities with Harbor Odyssey Tours,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,name_harbor_area_Meeting_11_Harbor_Odyssey_Tours,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Harbor Odyssey Tours,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,name_harbor_area_Meeting_11_Draft_Names_Discussion,name_harbor_area_Meeting_11_Draft_Names_Discussion,NA,NA,NA,NA,name_harbor_area_Meeting_11_Draft_Names_Discussion,Draft potential names for the customs office,NA,NA,NA,NA,NA,NA,NA
+plan,NA,name_harbor_area_Meeting_11_Draft_Names,name_harbor_area_Meeting_11_Draft_Names,NA,NA,NA,NA,name_harbor_area_Meeting_11_Draft_Names,Draft potential names for the customs office,proposal,NA,NA,NA,NA,NA,NA
+plan,NA,name_harbor_area_Travel_Harbor_Odyssey_Tours,name_harbor_area_Travel_Harbor_Odyssey_Tours,NA,NA,NA,NA,name_harbor_area_Travel_Harbor_Odyssey_Tours,Travel to Harbor Odyssey Tours,Travel,NA,NA,NA,NA,NA,NA
+NA,NA,NA,10803677425,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,name_harbor_area_Travel_The_Bait_Stich_Completed_Discussion,name_harbor_area_Travel_The_Bait_Stich_Completed_Discussion,NA,NA,NA,NA,name_harbor_area_Travel_The_Bait_Stich_Completed_Discussion,Discuss the completed travel plans to The Bait & Stich,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,name_harbor_area_Travel_Harbor_Odyssey_Tours_Completed_Discussion,name_harbor_area_Travel_Harbor_Odyssey_Tours_Completed_Discussion,NA,NA,NA,NA,name_harbor_area_Travel_Harbor_Odyssey_Tours_Completed_Discussion,Discuss the completed travel plans to Harbor Odyssey Tours,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,name_harbor_area_Meeting_12_Public_Opinion_Discussion,name_harbor_area_Meeting_12_Public_Opinion_Discussion,NA,NA,NA,NA,name_harbor_area_Meeting_12_Public_Opinion_Discussion,Gather public opinion on name choices and plan the dedication event,NA,NA,NA,NA,NA,NA,NA
+plan,NA,name_harbor_area_Meeting_12_Public_Opinion,name_harbor_area_Meeting_12_Public_Opinion,NA,NA,NA,NA,name_harbor_area_Meeting_12_Public_Opinion,Gather public opinion on name choices and plan the dedication event,proposal,NA,NA,NA,NA,NA,NA
+discussion,NA,name_harbor_area_Meeting_14_Finalize_Name_Discussion,name_harbor_area_Meeting_14_Finalize_Name_Discussion,NA,NA,NA,NA,name_harbor_area_Meeting_14_Finalize_Name_Discussion,Finalize the name and plan the dedication event,NA,NA,NA,NA,NA,NA,NA
+plan,NA,name_harbor_area_Meeting_14_Finalize_Name,name_harbor_area_Meeting_14_Finalize_Name,NA,NA,NA,NA,name_harbor_area_Meeting_14_Finalize_Name,Finalize the name and plan the dedication event,proposal,NA,NA,NA,NA,NA,NA
+NA,NA,NA,Sean,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+topic,NA,name_inspection_office,name_inspection_office,NA,NA,name_inspection_office,Putting a name on the inspection office in Lomark,NA,NA,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,name_inspection_office_Meeting_8_Importance_Discussion,name_inspection_office_Meeting_8_Importance_Discussion,NA,NA,NA,NA,name_inspection_office_Meeting_8_Importance_Discussion,Discuss the importance of naming the inspection office,NA,NA,NA,NA,NA,NA,NA
+plan,NA,name_inspection_office_Meeting_8_Importance,name_inspection_office_Meeting_8_Importance,NA,NA,NA,NA,name_inspection_office_Meeting_8_Importance,Discuss the importance of naming the inspection office,presentation,NA,NA,NA,NA,NA,NA
+discussion,NA,name_inspection_office_Meeting_8_Proposal_Discussion,name_inspection_office_Meeting_8_Proposal_Discussion,NA,NA,NA,NA,name_inspection_office_Meeting_8_Proposal_Discussion,Propose potential names based on feedback,NA,NA,NA,NA,NA,NA,NA
+plan,NA,name_inspection_office_Meeting_8_Proposal,name_inspection_office_Meeting_8_Proposal,NA,NA,NA,NA,name_inspection_office_Meeting_8_Proposal,Propose potential names based on feedback,proposal,NA,NA,NA,NA,NA,NA
+discussion,NA,name_inspection_office_Travel_Lomark_Civic_Plaza_Discussion,name_inspection_office_Travel_Lomark_Civic_Plaza_Discussion,NA,NA,NA,NA,name_inspection_office_Travel_Lomark_Civic_Plaza_Discussion,Discuss travel plans to Lomark Civic Plaza,NA,NA,NA,NA,NA,NA,NA
+plan,NA,name_inspection_office_Travel_Lomark_Civic_Plaza,name_inspection_office_Travel_Lomark_Civic_Plaza,NA,NA,NA,NA,name_inspection_office_Travel_Lomark_Civic_Plaza,Travel to Lomark Civic Plaza,Travel,NA,NA,NA,NA,NA,NA
+place,NA,Lomark Civic Plaza,48475647,Lomark Civic Plaza,NA,NA,NA,NA,NA,NA,-165.59719356711753,39.521992579121736,government,city hall,NA,NA
+discussion,NA,name_inspection_office_Travel_Lomark_Civic_Plaza_Completed_Discussion,name_inspection_office_Travel_Lomark_Civic_Plaza_Completed_Discussion,NA,NA,NA,NA,name_inspection_office_Travel_Lomark_Civic_Plaza_Completed_Discussion,Discuss the completed travel plans to Lomark Civic Plaza,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,name_inspection_office_Meeting_9_Community_Vote_Discussion,name_inspection_office_Meeting_9_Community_Vote_Discussion,NA,NA,NA,NA,name_inspection_office_Meeting_9_Community_Vote_Discussion,Organize a community vote on the name,NA,NA,NA,NA,NA,NA,NA
+plan,NA,name_inspection_office_Meeting_9_Community_Vote,name_inspection_office_Meeting_9_Community_Vote,NA,NA,NA,NA,name_inspection_office_Meeting_9_Community_Vote,Organize a community vote on the name,feedback,NA,NA,NA,NA,NA,NA
+discussion,NA,name_inspection_office_Meeting_14_Announcement_Discussion,name_inspection_office_Meeting_14_Announcement_Discussion,NA,NA,NA,NA,name_inspection_office_Meeting_14_Announcement_Discussion,Announce the chosen name and organize an official naming ceremony,NA,NA,NA,NA,NA,NA,NA
+plan,NA,name_inspection_office_Meeting_14_Announcement,name_inspection_office_Meeting_14_Announcement,NA,NA,NA,NA,name_inspection_office_Meeting_14_Announcement,Announce the chosen name and organize an official naming ceremony,take action,NA,NA,NA,NA,NA,NA
+topic,NA,marine_life_deck,marine_life_deck,NA,NA,marine_life_deck,Establishing a Marine Life Observation Deck in Centralia,NA,NA,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,marine_life_deck_Meeting_10_Initial_Ideas_Discussion,marine_life_deck_Meeting_10_Initial_Ideas_Discussion,NA,NA,NA,NA,marine_life_deck_Meeting_10_Initial_Ideas_Discussion,Discuss initial ideas and viability of a marine life observation deck,NA,NA,NA,NA,NA,NA,NA
+plan,NA,marine_life_deck_Meeting_10_Initial_Ideas,marine_life_deck_Meeting_10_Initial_Ideas,NA,NA,NA,NA,marine_life_deck_Meeting_10_Initial_Ideas,Discuss initial ideas and viability of a marine life observation deck,Discussion,NA,NA,NA,NA,NA,NA
+discussion,NA,marine_life_deck_Travel_Tropics_Environmental_Hub_Discussion,marine_life_deck_Travel_Tropics_Environmental_Hub_Discussion,NA,NA,NA,NA,marine_life_deck_Travel_Tropics_Environmental_Hub_Discussion,Discuss travel plans to Tropics Environmental Hub in Centralia,NA,NA,NA,NA,NA,NA,NA
+plan,NA,marine_life_deck_Travel_Tropics_Environmental_Hub,marine_life_deck_Travel_Tropics_Environmental_Hub,NA,NA,NA,NA,marine_life_deck_Travel_Tropics_Environmental_Hub,Travel to Tropics Environmental Hub in Centralia,Travel,NA,NA,NA,NA,NA,NA
+place,NA,Tropics Environmental Hub,581717431,Tropics Environmental Hub,NA,NA,NA,NA,NA,NA,-164.56100199599447,39.27513421446645,government,environmental,NA,NA
+discussion,NA,marine_life_deck_Meeting_11_Feedback_Discussion,marine_life_deck_Meeting_11_Feedback_Discussion,NA,NA,NA,NA,marine_life_deck_Meeting_11_Feedback_Discussion,Gather initial feedback from local businesses and community members,NA,NA,NA,NA,NA,NA,NA
+plan,NA,marine_life_deck_Meeting_11_Feedback,marine_life_deck_Meeting_11_Feedback,NA,NA,NA,NA,marine_life_deck_Meeting_11_Feedback,Gather initial feedback from local businesses and community members,Feedback,NA,NA,NA,NA,NA,NA
+discussion,NA,marine_life_deck_Travel_Tropics_Environmental_Hub_Completed_Discussion,marine_life_deck_Travel_Tropics_Environmental_Hub_Completed_Discussion,NA,NA,NA,NA,marine_life_deck_Travel_Tropics_Environmental_Hub_Completed_Discussion,Discuss the completed travel plans to Tropics Environmental Hub in Centralia,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,marine_life_deck_Meeting_12_Environmental_Impact_Report_Discussion,marine_life_deck_Meeting_12_Environmental_Impact_Report_Discussion,NA,NA,NA,NA,marine_life_deck_Meeting_12_Environmental_Impact_Report_Discussion,Present findings from the environmental impact study,NA,NA,NA,NA,NA,NA,NA
+plan,NA,marine_life_deck_Meeting_12_Environmental_Impact_Report,marine_life_deck_Meeting_12_Environmental_Impact_Report,NA,NA,NA,NA,marine_life_deck_Meeting_12_Environmental_Impact_Report,Present findings from the environmental impact study,Report,NA,NA,NA,NA,NA,NA
+discussion,NA,marine_life_deck_Meeting_12_Detailed_Proposal_Discussion,marine_life_deck_Meeting_12_Detailed_Proposal_Discussion,NA,NA,NA,NA,marine_life_deck_Meeting_12_Detailed_Proposal_Discussion,Formulate a detailed proposal for the observation deck based on feedback,NA,NA,NA,NA,NA,NA,NA
+plan,NA,marine_life_deck_Meeting_12_Detailed_Proposal,marine_life_deck_Meeting_12_Detailed_Proposal,NA,NA,NA,NA,marine_life_deck_Meeting_12_Detailed_Proposal,Formulate a detailed proposal for the observation deck based on feedback,Take Action,NA,NA,NA,NA,NA,NA
+topic,NA,seafood_festival,seafood_festival,NA,NA,seafood_festival,Hosting an Annual Seafood Festival in Paackland,NA,NA,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,seafood_festival_Meeting_1_Discussion,seafood_festival_Meeting_1_Discussion,NA,NA,NA,NA,seafood_festival_Meeting_1_Discussion,Discuss the feasibility and benefits of hosting an annual seafood festival,NA,NA,NA,NA,NA,NA,NA
+plan,NA,seafood_festival_Meeting_1_Feasibility,seafood_festival_Meeting_1_Feasibility,NA,NA,NA,NA,seafood_festival_Meeting_1_Feasibility,Discuss the feasibility and benefits of hosting an annual seafood festival,Discussion,NA,NA,NA,NA,NA,NA
+discussion,NA,seafood_festival_Travel_Dock_Roll_Hall_of_Fame_Discussion,seafood_festival_Travel_Dock_Roll_Hall_of_Fame_Discussion,NA,NA,NA,NA,seafood_festival_Travel_Dock_Roll_Hall_of_Fame_Discussion,Discuss travel plans to Dock & Roll Hall of Fame in Paackland,NA,NA,NA,NA,NA,NA,NA
+plan,NA,seafood_festival_Travel_Dock_Roll_Hall_of_Fame,seafood_festival_Travel_Dock_Roll_Hall_of_Fame,NA,NA,NA,NA,seafood_festival_Travel_Dock_Roll_Hall_of_Fame,Travel to Dock & Roll Hall of Fame in Paackland,Travel,NA,NA,NA,NA,NA,NA
+place,NA,Dock & Roll Hall of Fame,37828755,Dock & Roll Hall of Fame,NA,NA,NA,NA,NA,NA,-164.35807949540566,39.42597256526823,tourism,restaurant,NA,NA
+discussion,NA,seafood_festival_Meeting_2_Feedback_Discussion,seafood_festival_Meeting_2_Feedback_Discussion,NA,NA,NA,NA,seafood_festival_Meeting_2_Feedback_Discussion,Gather feedback from local businesses and potential vendors,NA,NA,NA,NA,NA,NA,NA
+plan,NA,seafood_festival_Meeting_2_Feedback,seafood_festival_Meeting_2_Feedback,NA,NA,NA,NA,seafood_festival_Meeting_2_Feedback,Gather feedback from local businesses and potential vendors,Feedback,NA,NA,NA,NA,NA,NA
+discussion,NA,seafood_festival_Travel_Dock_Roll_Hall_of_Fame_Completed_Discussion,seafood_festival_Travel_Dock_Roll_Hall_of_Fame_Completed_Discussion,NA,NA,NA,NA,seafood_festival_Travel_Dock_Roll_Hall_of_Fame_Completed_Discussion,Discuss the completed travel plans to Dock & Roll Hall of Fame in Paackland,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,seafood_festival_Meeting_3_Report_Discussion,seafood_festival_Meeting_3_Report_Discussion,NA,NA,NA,NA,seafood_festival_Meeting_3_Report_Discussion,"Present a detailed plan for the festival, including budget and logistics",NA,NA,NA,NA,NA,NA,NA
+plan,NA,seafood_festival_Meeting_3_Report,seafood_festival_Meeting_3_Report,NA,NA,NA,NA,seafood_festival_Meeting_3_Report,"Present a detailed plan for the festival, including budget and logistics",Report,NA,NA,NA,NA,NA,NA
+discussion,NA,seafood_festival_Meeting_3_Take_Action_Discussion,seafood_festival_Meeting_3_Take_Action_Discussion,NA,NA,NA,NA,seafood_festival_Meeting_3_Take_Action_Discussion,Coordinate with local authorities to secure necessary permits and finalize plans,NA,NA,NA,NA,NA,NA,NA
+plan,NA,seafood_festival_Meeting_3_Take_Action,seafood_festival_Meeting_3_Take_Action,NA,NA,NA,NA,seafood_festival_Meeting_3_Take_Action,Coordinate with local authorities to secure necessary permits and finalize plans,Take Action,NA,NA,NA,NA,NA,NA
+topic,NA,heritage_walking_tour,heritage_walking_tour,NA,NA,heritage_walking_tour,Developing a Heritage Walking Tour in Haacklee,NA,NA,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,heritage_walking_tour_Meeting_7_Discussion,heritage_walking_tour_Meeting_7_Discussion,NA,NA,NA,NA,heritage_walking_tour_Meeting_7_Discussion,Discuss and outline the proposed heritage walking tour route and main landmarks,NA,NA,NA,NA,NA,NA,NA
+plan,NA,heritage_walking_tour_Meeting_7_Outline,heritage_walking_tour_Meeting_7_Outline,NA,NA,NA,NA,heritage_walking_tour_Meeting_7_Outline,Discuss and outline the proposed heritage walking tour route and main landmarks,Discussion,NA,NA,NA,NA,NA,NA
+discussion,NA,heritage_walking_tour_Travel_Captain_Market_Discussion,heritage_walking_tour_Travel_Captain_Market_Discussion,NA,NA,NA,NA,heritage_walking_tour_Travel_Captain_Market_Discussion,Discuss travel plans to Captain's Market,NA,NA,NA,NA,NA,NA,NA
+plan,NA,heritage_walking_tour_Travel_Captain_Market,heritage_walking_tour_Travel_Captain_Market,NA,NA,NA,NA,heritage_walking_tour_Travel_Captain_Market,Travel to Captain's Market,Travel,NA,NA,NA,NA,NA,NA
+NA,NA,Captain's Market,35844638,NA,NA,NA,NA,NA,NA,NA,-165.69677153674675,39.004580452589074,tourism,NA,NA,NA
+discussion,NA,heritage_walking_tour_Meeting_8_Proposal_Discussion,heritage_walking_tour_Meeting_8_Proposal_Discussion,NA,NA,NA,NA,heritage_walking_tour_Meeting_8_Proposal_Discussion,Gather community feedback on the proposed route and sites of interest,NA,NA,NA,NA,NA,NA,NA
+plan,NA,heritage_walking_tour_Meeting_8_Proposal,heritage_walking_tour_Meeting_8_Proposal,NA,NA,NA,NA,heritage_walking_tour_Meeting_8_Proposal,Gather community feedback on the proposed route and sites of interest,proposal,NA,NA,NA,NA,NA,NA
+discussion,NA,heritage_walking_tour_Travel_Captain_Market_Completed_Discussion,heritage_walking_tour_Travel_Captain_Market_Completed_Discussion,NA,NA,NA,NA,heritage_walking_tour_Travel_Captain_Market_Completed_Discussion,Discuss the completed travel plans to Captain's Market,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,heritage_walking_tour_Meeting_9_Report_Discussion,heritage_walking_tour_Meeting_9_Report_Discussion,NA,NA,NA,NA,heritage_walking_tour_Meeting_9_Report_Discussion,"Present detailed plans, including route maps and tour scripts",NA,NA,NA,NA,NA,NA,NA
+plan,NA,heritage_walking_tour_Meeting_9_Report,heritage_walking_tour_Meeting_9_Report,NA,NA,NA,NA,heritage_walking_tour_Meeting_9_Report,"Present detailed plans, including route maps and tour scripts",Report,NA,NA,NA,NA,NA,NA
+discussion,NA,heritage_walking_tour_Meeting_9_Take_Action_Discussion,heritage_walking_tour_Meeting_9_Take_Action_Discussion,NA,NA,NA,NA,heritage_walking_tour_Meeting_9_Take_Action_Discussion,Coordinate with local businesses and finalize the logistics for the walking tour,NA,NA,NA,NA,NA,NA,NA
+plan,NA,heritage_walking_tour_Meeting_9_Take_Action,heritage_walking_tour_Meeting_9_Take_Action,NA,NA,NA,NA,heritage_walking_tour_Meeting_9_Take_Action,Coordinate with local businesses and finalize the logistics for the walking tour,Take Action,NA,NA,NA,NA,NA,NA
+topic,NA,waterfront_market,waterfront_market,NA,NA,waterfront_market,Establishing a Waterfront Market in Haacklee,NA,NA,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,waterfront_market_Meeting_7_Discussion,waterfront_market_Meeting_7_Discussion,NA,NA,NA,NA,waterfront_market_Meeting_7_Discussion,Discuss the benefits and feasibility of establishing a waterfront market,NA,NA,NA,NA,NA,NA,NA
+plan,NA,waterfront_market_Meeting_7_Benefits_Feasibility,waterfront_market_Meeting_7_Benefits_Feasibility,NA,NA,NA,NA,waterfront_market_Meeting_7_Benefits_Feasibility,Discuss the benefits and feasibility of establishing a waterfront market,Discussion,NA,NA,NA,NA,NA,NA
+discussion,NA,waterfront_market_Travel_Harbor_Edge_Grill_Discussion,waterfront_market_Travel_Harbor_Edge_Grill_Discussion,NA,NA,NA,NA,waterfront_market_Travel_Harbor_Edge_Grill_Discussion,Discuss travel plans to Harbor's Edge Grill in Paackland,NA,NA,NA,NA,NA,NA,NA
+plan,NA,waterfront_market_Travel_Harbor_Edge_Grill,waterfront_market_Travel_Harbor_Edge_Grill,NA,NA,NA,NA,waterfront_market_Travel_Harbor_Edge_Grill,Travel to Harbor's Edge Grill in Paackland,Travel,NA,NA,NA,NA,NA,NA
+NA,NA,Harbor's Edge Grill,35908634,NA,NA,NA,NA,NA,NA,NA,-165.68781233674673,38.986061952589075,tourism,NA,NA,NA
+discussion,NA,waterfront_market_Travel_Harborfront_Market_Discussion,waterfront_market_Travel_Harborfront_Market_Discussion,NA,NA,NA,NA,waterfront_market_Travel_Harborfront_Market_Discussion,Discuss travel plans to Harborfront Market,NA,NA,NA,NA,NA,NA,NA
+plan,NA,waterfront_market_Travel_Harborfront_Market,waterfront_market_Travel_Harborfront_Market,NA,NA,NA,NA,waterfront_market_Travel_Harborfront_Market,Travel to Harborfront Market,Travel,NA,NA,NA,NA,NA,NA
+NA,NA,Harborfront Market,35913119,NA,NA,NA,NA,NA,NA,NA,-165.69280983674673,38.99415685258907,commercial,NA,NA,NA
+discussion,NA,waterfront_market_Meeting_8_Gather_Feedback_Discussion,waterfront_market_Meeting_8_Gather_Feedback_Discussion,NA,NA,NA,NA,waterfront_market_Meeting_8_Gather_Feedback_Discussion,Gather feedback from potential vendors and community members,NA,NA,NA,NA,NA,NA,NA
+plan,NA,waterfront_market_Meeting_8_Gather_Feedback,waterfront_market_Meeting_8_Gather_Feedback,NA,NA,NA,NA,waterfront_market_Meeting_8_Gather_Feedback,Gather feedback from potential vendors and community members,Feedback,NA,NA,NA,NA,NA,NA
+discussion,NA,waterfront_market_Travel_Harborfront_Market_Completed_Discussion,waterfront_market_Travel_Harborfront_Market_Completed_Discussion,NA,NA,NA,NA,waterfront_market_Travel_Harborfront_Market_Completed_Discussion,Discuss the completed travel plans to Harborfront Market,NA,NA,NA,NA,NA,NA,NA
+NA,NA,Paakland Elementary,37831107,NA,NA,NA,NA,NA,NA,NA,-164.33389296662074,39.40304106198244,residential,NA,NA,NA
+discussion,NA,waterfront_market_Travel_Harbor_Edge_Grill_Completed_Discussion,waterfront_market_Travel_Harbor_Edge_Grill_Completed_Discussion,NA,NA,NA,NA,waterfront_market_Travel_Harbor_Edge_Grill_Completed_Discussion,Discuss the completed travel plans to Harbor's Edge Grill in Paackland,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,waterfront_market_Meeting_9_Report_Discussion,waterfront_market_Meeting_9_Report_Discussion,NA,NA,NA,NA,waterfront_market_Meeting_9_Report_Discussion,"Plan a detailed plan for the market, including layout and vendor requirements",NA,NA,NA,NA,NA,NA,NA
+plan,NA,waterfront_market_Meeting_9_Report,waterfront_market_Meeting_9_Report,NA,NA,NA,NA,waterfront_market_Meeting_9_Report,"Plan a detailed plan for the market, including layout and vendor requirements",Report,NA,NA,NA,NA,NA,NA
+topic,NA,concert,concert,NA,NA,concert,Plan for Concert,NA,NA,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,concert_Meeting_7_Discussion,concert_Meeting_7_Discussion,NA,NA,NA,NA,concert_Meeting_7_Discussion,Discuss any issues with concert. Discuss needs to get community feedback on concerns,NA,NA,NA,NA,NA,NA,NA
+plan,NA,concert_Meeting_7_Concert_Issues,concert_Meeting_7_Concert_Issues,NA,NA,NA,NA,concert_Meeting_7_Concert_Issues,Discuss any issues with concert. Discuss needs to get community feedback on concerns,Discussion,NA,NA,NA,NA,NA,NA
+discussion,NA,concert_Travel_Packland_Elementary_Discussion,concert_Travel_Packland_Elementary_Discussion,NA,NA,NA,NA,concert_Travel_Packland_Elementary_Discussion,Discuss travel plans to Paakland Elementary,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,concert_Travel_Harborfront_Market,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+plan,NA,concert_Travel_Paakland_Elementary,concert_Travel_Paakland_Elementary,NA,NA,NA,NA,concert_Travel_Paakland_Elementary,Travel to Paakland Elementary,Travel,NA,NA,NA,NA,NA,NA
+discussion,NA,concert_Travel_Paakland_Elementary_Completed_Discussion,concert_Travel_Paakland_Elementary_Completed_Discussion,NA,NA,NA,NA,concert_Travel_Paakland_Elementary_Completed_Discussion,Discuss the completed travel plans to Paakland Elementary,NA,NA,NA,NA,NA,NA,NA
+discussion,NA,concert_Meeting_16_Feedback_Discussion,concert_Meeting_16_Feedback_Discussion,NA,NA,NA,NA,concert_Meeting_16_Feedback_Discussion,"Report on feedback from families on effect of concert, such as noise pollution and drunk tourists",NA,NA,NA,NA,NA,NA,NA
+plan,NA,concert_Meeting_16_Feedback,concert_Meeting_16_Feedback,NA,NA,NA,NA,concert_Meeting_16_Feedback,"Report on feedback from families on effect of concert, such as noise pollution and drunk tourists",Feedback,NA,NA,NA,NA,NA,NA
+discussion,NA,concert_Meeting_16_Road_Closures_Discussion,concert_Meeting_16_Road_Closures_Discussion,NA,NA,NA,NA,concert_Meeting_16_Road_Closures_Discussion,Status of road closures and traffic issues for concert,NA,NA,NA,NA,NA,NA,NA
+plan,NA,concert_Meeting_16_Road_Closures,concert_Meeting_16_Road_Closures,NA,NA,NA,NA,concert_Meeting_16_Road_Closures,Status of road closures and traffic issues for concert,Report,NA,NA,NA,NA,NA,NA
+discussion,NA,concert_Meeting_16_Communication_Complaints_Discussion,concert_Meeting_16_Communication_Complaints_Discussion,NA,NA,NA,NA,concert_Meeting_16_Communication_Complaints_Discussion,Report on complaints on lack of communication of concert,NA,NA,NA,NA,NA,NA,NA
+plan,NA,concert_Meeting_16_Communication_Complaints,concert_Meeting_16_Communication_Complaints,NA,NA,NA,NA,concert_Meeting_16_Communication_Complaints,Report on complaints on lack of communication of concert,Report,NA,NA,NA,NA,NA,NA
+trip,0040-04-24,NA,trip_0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,Haacklee Ferry Terminal,Haacklee Ferry Terminal,NA,NA,NA,NA,NA,NA,-165.69052499370062,38.98619322533421,government,NA,NA,NA
+place,NA,NA,South Paackland Ferry Terminal,South Paackland Ferry Terminal,NA,NA,NA,NA,NA,NA,-164.5617706590138,39.085916893028504,government,NA,NA,NA
+place,NA,NA,582184557,Pacific Nature Bureau,NA,NA,NA,NA,NA,NA,-164.56334829936853,39.27182934781,government,environmental,NA,NA
+place,NA,NA,581853838,Jordan Administrative Center,NA,NA,NA,NA,NA,NA,-164.5619100225969,39.271378990764816,government,,NA,NA
+trip,2040-06-16,NA,trip_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:29:00,12:36:00
+place,NA,NA,37830690,NA,NA,NA,NA,NA,NA,NA,-164.384824809446,39.42718772248599,commercial,NA,NA,NA
+place,NA,NA,37826661,Paackland Post Office,NA,NA,NA,NA,NA,NA,-164.37123305208138,39.42202773680567,government,post office,NA,NA
+place,NA,NA,37892464,Paackland Admin Center,NA,NA,NA,NA,NA,NA,-164.39959047333537,39.4325916424221,government,administrative office,NA,NA
+trip,2040-06-28,NA,trip_2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:23:00,08:23:00
+place,NA,NA,950773347,NA,NA,NA,NA,NA,NA,NA,-165.57998219472879,39.54770000767645,commercial,NA,NA,NA
+trip,2040-06-06,NA,trip_3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:28:00,07:59:00
+place,NA,NA,Suna Spit,Suna Spit,NA,NA,NA,NA,NA,NA,-165.75677149453168,39.594240090235004,connector,NA,NA,NA
+place,NA,NA,36988183,Port Grove Customs House,NA,NA,NA,NA,NA,NA,-165.95536906156963,39.09578125508084,government,customs,NA,NA
+place,NA,NA,35868389,Harborside Mall,NA,NA,NA,NA,NA,NA,-165.69580273674674,39.00556395258907,commercial,mall,NA,NA
+trip,2040-07-17,NA,trip_4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:50:00,14:42:00
+place,NA,NA,37831223,NA,NA,NA,NA,NA,NA,NA,-164.34841703185134,39.42079404307065,residential,NA,NA,NA
+place,NA,NA,2564318352,Eastside Memorial Toll,NA,NA,NA,NA,NA,NA,-164.3499556650031,39.42398265227752,government,tolls,NA,NA
+trip,0040-07-24,NA,trip_5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,48530519,NA,NA,NA,NA,NA,NA,NA,-165.59811479738505,39.55016159675058,commercial,NA,NA,NA
+trip,2040-05-15,NA,trip_6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:44:00,10:21:00
+place,NA,NA,48534978,Lomark Post Office,NA,NA,NA,NA,NA,NA,-165.58690251542836,39.511543954732794,government,post office,NA,NA
+place,NA,NA,12674442354,NA,NA,NA,NA,NA,NA,NA,-165.8834821103486,39.654055788668906,commercial,NA,NA,NA
+place,NA,NA,30179401,Himark Customs,NA,NA,NA,NA,NA,NA,-165.88193775383604,39.657052492613595,government,customs,NA,NA
+trip,0040-07-17,NA,trip_7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:31:00,03:00:00
+place,NA,NA,Port Grove Ferry Terminal,Port Grove Ferry Terminal,NA,NA,NA,NA,NA,NA,-165.95445417136068,39.09221996333593,government,NA,NA,NA
+place,NA,NA,Paackland Ferry Terminal,Paackland Ferry Terminal,NA,NA,NA,NA,NA,NA,-164.40892536689856,39.440779216574775,government,NA,NA,NA
+place,NA,NA,Himark Ferry Terminal,Himark Ferry Terminal,NA,NA,NA,NA,NA,NA,-165.88561230643285,39.65564904671655,government,NA,NA,NA
+trip,0040-06-26,NA,trip_8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,48580678,NA,NA,NA,NA,NA,NA,NA,-165.60467062257007,39.547945019056534,commercial,NA,NA,NA
+trip,0040-04-24,NA,trip_9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:56:00,11:40:00
+trip,2040-05-31,NA,trip_10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:07:00,07:57:00
+place,NA,NA,48591000,Port Authority Office,NA,NA,NA,NA,NA,NA,-165.5764102688019,39.53856305049022,government,customs,NA,NA
+place,NA,NA,9839219428,NA,NA,NA,NA,NA,NA,NA,-165.58938606887824,39.55789839549127,industrial,NA,NA,NA
+trip,0040-07-10,NA,trip_11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-07-08,NA,trip_12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10:50:00,11:39:00
+trip,0040-07-10,NA,trip_13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:36:00
+place,NA,NA,Lomark Ferry Terminal,Lomark Ferry Terminal,NA,NA,NA,NA,NA,NA,-165.56286099848157,39.52326717231431,government,NA,NA,NA
+trip,2040-04-22,NA,trip_14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:18:00,07:12:00
+place,NA,NA,30187146,NA,NA,NA,NA,NA,NA,NA,-165.88836749842514,39.66613244830564,residential,NA,NA,NA
+trip,0040-04-24,NA,trip_15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-04-08,NA,trip_16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,37864373,NA,NA,NA,NA,NA,NA,NA,-164.34341465950638,39.41518140613042,residential,NA,NA,NA
+place,NA,NA,2564179411,Paackland Control Office,NA,NA,NA,NA,NA,NA,-164.3405394542059,39.4253968077931,government,inspections,NA,NA
+place,NA,NA,37799737,Port Office of Customs A,NA,NA,NA,NA,NA,NA,-164.35414241114626,39.431952595239245,government,customs,NA,NA
+place,NA,NA,48511187,NA,NA,NA,NA,NA,NA,NA,-165.59625808330424,39.54334627362747,commercial,NA,NA,NA
+trip,2040-05-02,NA,trip_17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:59:00,07:36:00
+place,NA,NA,8774871637,NA,NA,NA,NA,NA,NA,NA,-165.68811073674675,39.00557845258907,residential,NA,NA,NA
+trip,2040-05-17,NA,trip_18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:42:00,08:35:00
+place,NA,NA,36979025,NA,NA,NA,NA,NA,NA,NA,-165.95318240998887,39.09596026344447,residential,NA,NA,NA
+trip,0040-04-10,NA,trip_19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,48511194,NA,NA,NA,NA,NA,NA,NA,-165.6003499240121,39.55045654962996,commercial,NA,NA,NA
+trip,0040-05-27,NA,trip_20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:07:00,13:00:00
+trip,2040-06-05,NA,trip_21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11:00:00,21:00:00
+place,NA,NA,37866955,Paackland City Hall,NA,NA,NA,NA,NA,NA,-164.3360581789102,39.41241400428792,government,city hall,NA,NA
+trip,0040-06-03,NA,trip_22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:46:00,09:33:00
+place,NA,NA,35889122,NA,NA,NA,NA,NA,NA,NA,-165.69023073674674,39.004597552589075,residential,NA,NA,NA
+trip,0040-07-10,NA,trip_23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-04-07,NA,trip_24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11:00:00,21:00:00
+place,NA,NA,37872598,NA,NA,NA,NA,NA,NA,NA,-164.33632554127007,39.4228595190966,residential,NA,NA,NA
+trip,2040-06-17,NA,trip_25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:32:00,10:21:00
+trip,0040-05-01,NA,trip_26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:17:00,13:00:00
+place,NA,NA,37810321,Tours Central Ticketing,NA,NA,NA,NA,NA,NA,-164.41392243354372,39.43735475916919,tourism,trips,NA,NA
+trip,2040-07-07,NA,trip_27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:49:00,14:49:00
+place,NA,NA,37852571,Port Office of Customs B,NA,NA,NA,NA,NA,NA,-164.40674823511532,39.438693635350795,government,customs,NA,NA
+trip,2040-05-10,NA,trip_28,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,2912844717,NA,NA,NA,NA,NA,NA,NA,-164.55632875323528,39.0892642147386,residential,NA,NA,NA
+trip,2040-07-16,NA,trip_29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:37:00,12:15:00
+place,NA,NA,4978801697,Himark Postal Station,NA,NA,NA,NA,NA,NA,-165.88276569384072,39.66152345845989,government,post office,NA,NA
+trip,2040-05-17,NA,trip_30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,37834631,NA,NA,NA,NA,NA,NA,NA,-164.3496178491704,39.418077966463436,residential,NA,NA,NA
+trip,0040-07-03,NA,trip_31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:23:00,06:30:00
+trip,2040-06-06,NA,trip_32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:13:00,09:01:00
+place,NA,NA,582261047,Centralia Post Office,NA,NA,NA,NA,NA,NA,-164.57730210407283,39.26024485966231,government,post office,NA,NA
+place,NA,NA,48542802,NA,NA,NA,NA,NA,NA,NA,-164.5585389745007,39.08794751195976,commercial,NA,NA,NA
+place,NA,NA,48568668,Harbor Green Initiative,NA,NA,NA,NA,NA,NA,-164.5583491882419,39.08565208320112,government,environmental,NA,NA
+trip,0040-06-04,NA,trip_33,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:00:00,19:00:00
+trip,2040-07-01,NA,trip_34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:14:00,09:55:00
+place,NA,NA,35885796,NA,NA,NA,NA,NA,NA,NA,-165.67928633674674,38.99644715258907,industrial,NA,NA,NA
+trip,2040-04-04,NA,trip_35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,581860792,NA,NA,NA,NA,NA,NA,NA,-164.5262967223286,39.32875397539827,commercial,NA,NA,NA
+trip,2040-05-25,NA,trip_36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:34:00,08:24:00
+trip,2040-06-20,NA,trip_37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:23:00,07:20:00
+place,NA,NA,36952113,NA,NA,NA,NA,NA,NA,NA,-165.95780617288898,39.09599365570965,commercial,NA,NA,NA
+trip,2040-04-14,NA,trip_38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-04-13,NA,trip_39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:40:00,09:44:00
+trip,2040-06-15,NA,trip_40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:10:00,07:10:00
+trip,0040-04-10,NA,trip_41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:30:00,10:25:00
+trip,2040-06-09,NA,trip_42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:38:00,08:23:00
+place,NA,NA,582199729,NA,NA,NA,NA,NA,NA,NA,-164.537200370306,39.32119732529493,commercial,NA,NA,NA
+trip,2040-04-04,NA,trip_43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:37:00,09:42:00
+trip,2040-06-07,NA,trip_44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,37862864,NA,NA,NA,NA,NA,NA,NA,-164.33880553523505,39.41323924354682,commercial,NA,NA,NA
+trip,2040-06-16,NA,trip_45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11:00:00,21:00:00
+place,NA,NA,37833911,NA,NA,NA,NA,NA,NA,NA,-164.33601742546975,39.40906459131738,commercial,NA,NA,NA
+trip,0040-05-08,NA,trip_46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:45:00,09:59:00
+trip,0040-04-10,NA,trip_47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:38:00,09:31:00
+trip,2040-06-27,NA,trip_48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-06-12,NA,trip_49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:34:00,06:28:00
+trip,2040-08-01,NA,trip_50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:24:00,09:57:00
+place,NA,NA,48557904,NA,NA,NA,NA,NA,NA,NA,-165.57590844860275,39.52358567240899,residential,NA,NA,NA
+trip,2040-06-25,NA,trip_51,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,37810347,NA,NA,NA,NA,NA,NA,NA,-164.41379519825202,39.43895353715896,commercial,NA,NA,NA
+trip,2040-07-11,NA,trip_52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,48580702,NA,NA,NA,NA,NA,NA,NA,-165.59964180138792,39.550885245266905,commercial,NA,NA,NA
+trip,0040-04-03,NA,trip_53,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:28:00,06:28:00
+trip,2040-07-10,NA,trip_54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:08:00,10:06:00
+place,NA,NA,48499016,NA,NA,NA,NA,NA,NA,NA,-165.59094527419813,39.52979101832478,commercial,NA,NA,NA
+trip,0040-05-15,NA,trip_55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:39:00,10:47:00
+trip,0040-06-05,NA,trip_56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:43:00
+trip,2040-06-05,NA,trip_57,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:18:00,11:19:00
+trip,0040-05-15,NA,trip_58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-05-27,NA,trip_59,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11:00:00,21:00:00
+place,NA,NA,48511190,NA,NA,NA,NA,NA,NA,NA,-165.5996498661283,39.549250613806926,commercial,NA,NA,NA
+trip,2040-04-06,NA,trip_60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:40:00,09:32:00
+trip,2040-06-23,NA,trip_61,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:48:00,11:52:00
+trip,2040-05-03,NA,trip_62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,37882709,NA,NA,NA,NA,NA,NA,NA,-164.33798234872467,39.42199384440688,commercial,NA,NA,NA
+trip,2040-05-14,NA,trip_63,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-06-05,NA,trip_64,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:14:00
+trip,0040-05-23,NA,trip_65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:19:00,08:27:00
+trip,0040-07-10,NA,trip_66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:25:00,06:35:00
+trip,2040-06-06,NA,trip_67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-05-27,NA,trip_68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:16:00,09:55:00
+place,NA,NA,37810348,NA,NA,NA,NA,NA,NA,NA,-164.41457355517758,39.439205583417454,commercial,NA,NA,NA
+trip,0040-04-17,NA,trip_69,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:54:00
+trip,2040-05-13,NA,trip_70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14:00:00,19:00:00
+place,NA,NA,2519421134,NA,NA,NA,NA,NA,NA,NA,-165.95415341508547,39.09305249360618,commercial,NA,NA,NA
+trip,2040-05-15,NA,trip_71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,37858059,NA,NA,NA,NA,NA,NA,NA,-164.3774348843228,39.423192848263504,commercial,NA,NA,NA
+trip,2040-07-17,NA,trip_72,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-05-19,NA,trip_73,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-05-20,NA,trip_74,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-06-14,NA,trip_75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:42:00,08:26:00
+trip,2040-05-24,NA,trip_76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,37766140,NA,NA,NA,NA,NA,NA,NA,-164.41438507253233,39.4407566449354,commercial,NA,NA,NA
+trip,0040-05-15,NA,trip_77,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:37:00,10:17:00
+trip,2040-05-22,NA,trip_78,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14:00:00,19:00:00
+place,NA,NA,30196032,NA,NA,NA,NA,NA,NA,NA,-165.8844400898808,39.6617441194465,commercial,NA,NA,NA
+trip,2040-07-13,NA,trip_79,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-04-23,NA,trip_80,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:10:00,10:21:00
+trip,2040-04-01,NA,trip_81,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-06-12,NA,trip_82,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:48:00,08:48:00
+place,NA,NA,48549608,NA,NA,NA,NA,NA,NA,NA,-165.57202207305323,39.51384287249994,residential,NA,NA,NA
+trip,2040-06-22,NA,trip_83,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:38:00,08:52:00
+place,NA,NA,48531042,NA,NA,NA,NA,NA,NA,NA,-164.5557559462198,39.08690084291576,commercial,NA,NA,NA
+trip,2040-05-10,NA,trip_84,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:20:00,08:09:00
+trip,2040-04-17,NA,trip_85,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11:00:00,21:00:00
+place,NA,NA,581861511,NA,NA,NA,NA,NA,NA,NA,-164.53061865849085,39.32870138443529,commercial,NA,NA,NA
+trip,2040-06-16,NA,trip_86,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:17:00,09:33:00
+trip,0040-04-24,NA,trip_87,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-04-08,NA,trip_88,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:43:00,08:51:00
+trip,2040-05-19,NA,trip_89,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,37857689,NA,NA,NA,NA,NA,NA,NA,-164.37325493253616,39.42441893713116,commercial,NA,NA,NA
+trip,2040-07-09,NA,trip_90,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:42:00,09:28:00
+trip,2040-04-01,NA,trip_91,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:57:00,08:55:00
+place,NA,NA,30188922,NA,NA,NA,NA,NA,NA,NA,-165.88536403880295,39.6616649929698,commercial,NA,NA,NA
+trip,2040-06-17,NA,trip_92,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-07-27,NA,trip_93,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:29:00,10:15:00
+trip,2040-07-15,NA,trip_94,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-07-26,NA,trip_95,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:42:00,08:51:00
+place,NA,NA,48512198,NA,NA,NA,NA,NA,NA,NA,-165.57955541831475,39.515045409243875,residential,NA,NA,NA
+trip,0040-04-10,NA,trip_96,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:25:00,03:00:00
+trip,2040-06-05,NA,trip_97,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,581678301,NA,NA,NA,NA,NA,NA,NA,-164.52350414705472,39.327977300859104,commercial,NA,NA,NA
+trip,2040-05-24,NA,trip_98,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:00:00,19:00:00
+trip,2040-04-26,NA,trip_99,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:10:00,09:40:00
+trip,2040-06-01,NA,trip_100,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:56:00,09:21:00
+place,NA,NA,48501909,NA,NA,NA,NA,NA,NA,NA,-165.57153546603948,39.528447644428816,commercial,NA,NA,NA
+trip,2040-07-06,NA,trip_101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-07-30,NA,trip_102,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:34:00,08:00:00
+place,NA,NA,30179053,NA,NA,NA,NA,NA,NA,NA,-165.8837775687294,39.653684239741814,commercial,NA,NA,NA
+trip,0040-07-17,NA,trip_103,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:42:00,11:13:00
+place,NA,NA,48531040,South Paackland Post Office,NA,NA,NA,NA,NA,NA,-164.5566138703274,39.08771864411137,government,post office,NA,NA
+trip,0040-06-05,NA,trip_104,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:59:00,06:30:00
+trip,0040-06-26,NA,trip_105,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-04-19,NA,trip_106,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:00:00,19:00:00
+trip,2040-05-29,NA,trip_107,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:16:00,08:08:00
+trip,2040-07-20,NA,trip_108,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:31:00,11:30:00
+trip,0040-06-19,NA,trip_109,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:13:00
+trip,0040-07-17,NA,trip_110,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:13:00
+trip,2040-06-29,NA,trip_111,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,37831236,NA,NA,NA,NA,NA,NA,NA,-164.3467978814026,39.419815693912916,residential,NA,NA,NA
+trip,2040-07-10,NA,trip_112,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11:00:00,21:00:00
+place,NA,NA,7557795052,NA,NA,NA,NA,NA,NA,NA,-164.35047346259358,39.41962100054277,residential,NA,NA,NA
+trip,0040-04-24,NA,trip_113,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:16:00,03:00:00
+trip,0040-05-14,NA,trip_114,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:31:00,10:21:00
+trip,2040-07-17,NA,trip_115,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-06-01,NA,trip_116,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:07:00,13:00:00
+trip,0040-04-03,NA,trip_117,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-05-20,NA,trip_118,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,7557795055,NA,NA,NA,NA,NA,NA,NA,-164.3517579822531,39.42026654722918,residential,NA,NA,NA
+trip,2040-05-16,NA,trip_119,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14:00:00,14:00:00
+place,NA,NA,416797704,NA,NA,NA,NA,NA,NA,NA,-165.69082493674676,39.00455045258907,commercial,NA,NA,NA
+trip,2040-07-21,NA,trip_120,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:00:00,19:00:00
+trip,0040-06-12,NA,trip_121,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-06-18,NA,trip_122,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:03:00,07:03:00
+place,NA,NA,2133935896,NA,NA,NA,NA,NA,NA,NA,-165.60212892098892,39.539400062780324,commercial,NA,NA,NA
+trip,2040-05-28,NA,trip_123,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:02:00,11:00:00
+place,NA,NA,48510772,NA,NA,NA,NA,NA,NA,NA,-165.56866837442223,39.51146909607778,residential,NA,NA,NA
+trip,2040-04-10,NA,trip_124,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:03:00,09:43:00
+trip,2040-04-03,NA,trip_125,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,491470184,NA,NA,NA,NA,NA,NA,NA,-164.54876620296454,39.100137684097696,residential,NA,NA,NA
+trip,0040-06-26,NA,trip_126,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:18:00,10:36:00
+trip,2040-05-15,NA,trip_127,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:11:00,09:53:00
+place,NA,NA,12629409643,NA,NA,NA,NA,NA,NA,NA,-165.59197117413012,39.555853129130476,industrial,NA,NA,NA
+trip,2040-06-20,NA,trip_128,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:36:00,07:02:00
+trip,2040-04-13,NA,trip_129,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:43:00,10:18:00
+trip,2040-05-12,NA,trip_130,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11:00:00,21:00:00
+trip,2040-04-02,NA,trip_131,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,581815970,NA,NA,NA,NA,NA,NA,NA,-164.5321190847844,39.32248470148234,commercial,NA,NA,NA
+trip,0040-04-24,NA,trip_132,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:59:00,09:19:00
+trip,0040-07-24,NA,trip_133,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,582382094,Centralia Checkpoint Office,NA,NA,NA,NA,NA,NA,-164.57564396402526,39.261334785821575,government,customs,NA,NA
+trip,2040-05-05,NA,trip_134,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14:00:00,19:00:00
+place,NA,NA,30194356,NA,NA,NA,NA,NA,NA,NA,-165.88340437738646,39.654303626108764,commercial,NA,NA,NA
+trip,2040-06-20,NA,trip_135,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:48:00,09:32:00
+place,NA,NA,37849292,NA,NA,NA,NA,NA,NA,NA,-164.33606725277482,39.417646687893374,commercial,NA,NA,NA
+trip,2040-07-09,NA,trip_136,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:12:00,12:04:00
+trip,2040-06-18,NA,trip_137,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-05-28,NA,trip_138,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:15:00,08:40:00
+trip,0040-04-17,NA,trip_139,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-06-12,NA,trip_140,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-06-11,NA,trip_141,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:53:00,09:53:00
+place,NA,NA,48389218,NA,NA,NA,NA,NA,NA,NA,-165.57531017352153,39.54023822957141,commercial,NA,NA,NA
+trip,2040-04-15,NA,trip_142,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:01:00,10:52:00
+place,NA,NA,48516745,NA,NA,NA,NA,NA,NA,NA,-164.55603550035772,39.08875282271692,residential,NA,NA,NA
+place,NA,NA,1332340938,South Paackland City Hall,NA,NA,NA,NA,NA,NA,-164.558629732314,39.08791538378956,government,city hall,NA,NA
+trip,2040-07-24,NA,trip_143,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:53:00,15:04:00
+trip,2040-07-15,NA,trip_144,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-04-17,NA,trip_145,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:44:00
+trip,0040-04-06,NA,trip_146,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:09:00,07:36:00
+trip,2040-06-02,NA,trip_147,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:59:00,08:38:00
+place,NA,NA,35877808,Haacklee Inspection Bureau,NA,NA,NA,NA,NA,NA,-165.68780873674675,38.989936752589074,government,inspections,NA,NA
+trip,2040-06-14,NA,trip_148,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:05:00,09:24:00
+place,NA,NA,5865952509,NA,NA,NA,NA,NA,NA,NA,-165.88441032865,39.66352526741037,commercial,NA,NA,NA
+trip,0040-05-06,NA,trip_149,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14:00:00,19:00:00
+trip,0040-06-19,NA,trip_150,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:51:00,09:25:00
+trip,2040-05-21,NA,trip_151,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:19:00,09:17:00
+trip,2040-04-02,NA,trip_152,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:53:00,09:21:00
+trip,0040-05-15,NA,trip_153,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13:00:00,06:13:00
+trip,2040-05-02,NA,trip_154,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-04-23,NA,trip_155,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:13:00,08:11:00
+trip,2040-07-24,NA,trip_156,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:38:00,08:04:00
+place,NA,NA,30185051,Harborland Mall,NA,NA,NA,NA,NA,NA,-165.88630464756835,39.66341841079805,commercial,mall,NA,NA
+trip,2040-07-03,NA,trip_157,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-06-12,NA,trip_158,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:56:00,15:18:00
+trip,2040-04-12,NA,trip_159,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:05:00,10:12:00
+place,NA,NA,37883680,NA,NA,NA,NA,NA,NA,NA,-164.36799923490443,39.421663072458536,residential,NA,NA,NA
+trip,2040-05-21,NA,trip_160,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:20:00,08:44:00
+trip,2040-07-06,NA,trip_161,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:39:00,10:13:00
+place,NA,NA,2858406995,NA,NA,NA,NA,NA,NA,NA,-165.60150681224695,39.5424433388314,commercial,NA,NA,NA
+trip,2040-07-21,NA,trip_162,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-07-29,NA,trip_163,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:21:00,08:06:00
+trip,2040-06-28,NA,trip_164,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:45:00,11:09:00
+trip,2040-04-29,NA,trip_165,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:29:00,09:44:00
+trip,2040-04-30,NA,trip_166,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-06-17,NA,trip_167,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-04-24,NA,trip_168,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-04-11,NA,trip_169,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,37857657,NA,NA,NA,NA,NA,NA,NA,-164.3801333823309,39.424502912609306,commercial,NA,NA,NA
+trip,2040-04-15,NA,trip_170,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:19:00,09:19:00
+place,NA,NA,3348139873,NA,NA,NA,NA,NA,NA,NA,-165.5704574908293,39.52913213659554,commercial,NA,NA,NA
+trip,2040-05-30,NA,trip_171,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:34:00,07:29:00
+trip,0040-06-26,NA,trip_172,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:48:00
+trip,2040-06-28,NA,trip_173,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-05-02,NA,trip_174,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:16:00,08:30:00
+place,NA,NA,48476691,NA,NA,NA,NA,NA,NA,NA,-165.58070030913012,39.54984121830518,commercial,NA,NA,NA
+trip,2040-06-24,NA,trip_175,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,37843182,NA,NA,NA,NA,NA,NA,NA,-164.37659530325868,39.42172904532362,commercial,NA,NA,NA
+trip,2040-05-17,NA,trip_176,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:17:00,09:58:00
+trip,0040-04-01,NA,trip_177,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-06-22,NA,trip_178,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:00:00,19:00:00
+place,NA,NA,36988137,Harbor Bistro,NA,NA,NA,NA,NA,NA,-165.95607396535178,39.09538178424596,commercial,restaurant,NA,NA
+trip,2040-06-01,NA,trip_179,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:22:00,06:22:00
+place,NA,NA,6005475078,Sailor's Bistro,NA,NA,NA,NA,NA,NA,-164.55447862732095,39.08172551394063,commercial,restaurant,NA,NA
+trip,2040-07-04,NA,trip_180,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-05-22,NA,trip_181,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:27:00,12:22:00
+trip,0040-05-08,NA,trip_182,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:25:00,03:00:00
+trip,2040-06-11,NA,trip_183,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14:00:00,14:00:00
+place,NA,NA,48531694,NA,NA,NA,NA,NA,NA,NA,-165.58947086316522,39.51042346350449,residential,NA,NA,NA
+trip,2040-04-19,NA,trip_184,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:25:00,07:04:00
+trip,0040-04-10,NA,trip_185,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:09:00,09:45:00
+trip,2040-06-17,NA,trip_186,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-06-06,NA,trip_187,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-06-20,NA,trip_188,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-06-04,NA,trip_189,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:05:00,07:05:00
+trip,0040-05-08,NA,trip_190,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-07-01,NA,trip_191,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:44:00,09:42:00
+place,NA,NA,582184632,NA,NA,NA,NA,NA,NA,NA,-164.58389497379846,39.26275631320182,commercial,NA,NA,NA
+trip,2040-05-17,NA,trip_192,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:38:00,10:44:00
+trip,2040-07-07,NA,trip_193,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-06-09,NA,trip_194,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,2564179398,NA,NA,NA,NA,NA,NA,NA,-164.3411506508738,39.42432778411088,commercial,NA,NA,NA
+trip,2040-04-28,NA,trip_195,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11:00:00,21:00:00
+place,NA,NA,581738844,Hula Lounge,NA,NA,NA,NA,NA,NA,-164.5290654285621,39.328911028868646,commercial,restaurant,NA,NA
+trip,2040-04-03,NA,trip_196,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14:00:00,14:00:00
+trip,2040-07-18,NA,trip_197,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-06-05,NA,trip_198,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:17:00,10:33:00
+trip,0040-07-24,NA,trip_199,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:18:00,10:28:00
+trip,0040-07-03,NA,trip_200,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:50:00,12:13:00
+trip,0040-07-03,NA,trip_201,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13:00:00,06:00:00
+trip,2040-04-15,NA,trip_202,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:24:00,10:30:00
+place,NA,NA,691146642,NA,NA,NA,NA,NA,NA,NA,-165.58607156562766,39.527456507459455,commercial,NA,NA,NA
+trip,2040-04-04,NA,trip_203,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,48504771,NA,NA,NA,NA,NA,NA,NA,-164.55991395481811,39.086134125369234,commercial,NA,NA,NA
+trip,2040-03-31,NA,trip_204,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:00:00,07:37:00
+place,NA,NA,2459691595,NA,NA,NA,NA,NA,NA,NA,-165.8863935797117,39.662488375807364,commercial,NA,NA,NA
+trip,0040-07-03,NA,trip_205,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-07-03,NA,trip_206,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-05-08,NA,trip_207,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-05-07,NA,trip_208,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:25:00,08:11:00
+place,NA,NA,36959793,NA,NA,NA,NA,NA,NA,NA,-165.95263136031565,39.095058817413005,residential,NA,NA,NA
+trip,2040-04-26,NA,trip_209,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:17:00,07:06:00
+trip,2040-07-24,NA,trip_210,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,37867870,NA,NA,NA,NA,NA,NA,NA,-164.40989095175962,39.437221690449086,commercial,NA,NA,NA
+trip,2040-07-01,NA,trip_211,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:45:00,09:45:00
+place,NA,NA,2919456351,NA,NA,NA,NA,NA,NA,NA,-164.55593913947072,39.08869176217771,residential,NA,NA,NA
+trip,2040-07-11,NA,trip_212,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,48488713,NA,NA,NA,NA,NA,NA,NA,-164.55740845861612,39.08847582621727,residential,NA,NA,NA
+trip,2040-07-19,NA,trip_213,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,37881322,NA,NA,NA,NA,NA,NA,NA,-164.33197611092436,39.411691353439345,residential,NA,NA,NA
+trip,2040-06-05,NA,trip_214,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:36:00,07:36:00
+place,NA,NA,37840381,NA,NA,NA,NA,NA,NA,NA,-164.3883685651764,39.42786215751138,commercial,NA,NA,NA
+trip,0040-05-08,NA,trip_215,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-04-30,NA,trip_216,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:06:00,07:42:00
+trip,2040-04-19,NA,trip_217,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:16:00,09:16:00
+place,NA,NA,48524699,NA,NA,NA,NA,NA,NA,NA,-164.5579795343852,39.08585385890894,commercial,NA,NA,NA
+trip,2040-07-01,NA,trip_218,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11:00:00,21:00:00
+trip,2040-06-10,NA,trip_219,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:35:00,09:17:00
+place,NA,NA,48484175,NA,NA,NA,NA,NA,NA,NA,-165.5854576077611,39.554646101240856,commercial,NA,NA,NA
+trip,2040-06-24,NA,trip_220,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:38:00,10:32:00
+trip,2040-06-22,NA,trip_221,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,2091381119,Island Brew Cafe,NA,NA,NA,NA,NA,NA,-164.58096016626126,39.26133205891986,commercial,cafe,NA,NA
+trip,2040-06-25,NA,trip_222,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:57:00,10:38:00
+trip,0040-05-22,NA,trip_223,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:13:00,03:00:00
+trip,0040-05-18,NA,trip_224,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:08:00,07:37:00
+trip,0040-06-19,NA,trip_225,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13:00:00,06:50:00
+trip,2040-05-09,NA,trip_226,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:48:00,08:44:00
+trip,0040-07-16,NA,trip_227,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:28:00,08:00:00
+trip,2040-04-19,NA,trip_228,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-06-24,NA,trip_229,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:07:00,09:20:00
+place,NA,NA,9839219423,NA,NA,NA,NA,NA,NA,NA,-165.5883492289449,39.55828593604745,industrial,NA,NA,NA
+trip,0040-05-01,NA,trip_230,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13:00:00,06:46:00
+trip,2040-06-01,NA,trip_231,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,37862851,NA,NA,NA,NA,NA,NA,NA,-164.3369180900125,39.41622319456882,commercial,NA,NA,NA
+trip,2040-04-18,NA,trip_232,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:22:00,09:01:00
+place,NA,NA,12698974244,NA,NA,NA,NA,NA,NA,NA,-165.6072588278771,39.53826412214878,commercial,NA,NA,NA
+trip,2040-06-12,NA,trip_233,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:54:00,07:54:00
+place,NA,NA,2303890866,NA,NA,NA,NA,NA,NA,NA,-165.57153094697804,39.53094821718481,commercial,NA,NA,NA
+trip,2040-06-27,NA,trip_234,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:47:00,07:55:00
+place,NA,NA,8742962146,NA,NA,NA,NA,NA,NA,NA,-165.5864364027186,39.52896302383741,commercial,NA,NA,NA
+trip,2040-05-03,NA,trip_235,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-06-21,NA,trip_236,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,581588620,Centralia Council Hall,NA,NA,NA,NA,NA,NA,-164.56049553295816,39.27092042261076,government,city hall,NA,NA
+place,NA,NA,581725347,NA,NA,NA,NA,NA,NA,NA,-164.58045350781092,39.259471688756506,commercial,NA,NA,NA
+trip,2040-04-01,NA,trip_237,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:55:00,09:30:00
+trip,2040-06-30,NA,trip_238,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:15:00,07:51:00
+place,NA,NA,35914719,NA,NA,NA,NA,NA,NA,NA,-165.69083873674674,39.003818752589076,commercial,NA,NA,NA
+trip,0040-07-10,NA,trip_239,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:59:00,12:04:00
+trip,2040-04-30,NA,trip_240,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,11:00:00,21:00:00
+trip,2040-06-26,NA,trip_241,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:56:00,08:56:00
+trip,2040-07-19,NA,trip_242,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:23:00,09:02:00
+trip,0040-04-03,NA,trip_243,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-06-19,NA,trip_244,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:37:00
+trip,2040-05-27,NA,trip_245,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-05-06,NA,trip_246,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-05-07,NA,trip_247,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:36:00,07:36:00
+place,NA,NA,2133919910,NA,NA,NA,NA,NA,NA,NA,-165.59860697329043,39.54135367042492,commercial,NA,NA,NA
+trip,2040-06-12,NA,trip_248,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14:00:00,19:00:00
+trip,2040-05-21,NA,trip_249,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14:00:00,19:00:00
+place,NA,NA,48590938,NA,NA,NA,NA,NA,NA,NA,-165.6132829440773,39.5409827974782,commercial,NA,NA,NA
+trip,2040-06-07,NA,trip_250,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14:00:00,19:00:00
+trip,0040-04-03,NA,trip_251,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:17:00
+trip,2040-04-10,NA,trip_252,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:36:00,10:45:00
+trip,2040-04-01,NA,trip_253,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:37:00,09:26:00
+place,NA,NA,48503211,NA,NA,NA,NA,NA,NA,NA,-165.57092489242063,39.51309449989922,residential,NA,NA,NA
+trip,2040-05-18,NA,trip_254,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:25:00,09:04:00
+trip,0040-05-08,NA,trip_255,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:55:00
+trip,0040-05-01,NA,trip_256,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-07-20,NA,trip_257,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-05-22,NA,trip_258,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:19:00,12:42:00
+trip,2040-07-04,NA,trip_259,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:41:00,12:13:00
+trip,2040-08-01,NA,trip_260,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:37:00,07:37:00
+place,NA,NA,581862761,NA,NA,NA,NA,NA,NA,NA,-164.5308015228798,39.328773386832836,commercial,NA,NA,NA
+trip,2040-07-03,NA,trip_261,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,6005475082,NA,NA,NA,NA,NA,NA,NA,-164.55520097644765,39.08250712294721,commercial,NA,NA,NA
+trip,2040-05-10,NA,trip_262,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:20:00,09:20:00
+place,NA,NA,48531032,NA,NA,NA,NA,NA,NA,NA,-165.586772281808,39.5186259834855,commercial,NA,NA,NA
+trip,0040-04-03,NA,trip_263,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:18:00,12:12:00
+trip,2040-04-12,NA,trip_264,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:46:00,09:28:00
+trip,2040-06-13,NA,trip_265,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:07:00,09:33:00
+trip,2040-05-07,NA,trip_266,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,10:57:00,12:57:00
+trip,0040-04-08,NA,trip_267,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:53:00,09:48:00
+trip,0040-04-17,NA,trip_268,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:14:00,10:07:00
+trip,2040-07-12,NA,trip_269,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-07-08,NA,trip_270,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-05-01,NA,trip_271,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:40:00,11:24:00
+trip,2040-07-15,NA,trip_272,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:22:00,09:17:00
+place,NA,NA,2133919891,NA,NA,NA,NA,NA,NA,NA,-165.60004469728094,39.54127808142372,commercial,NA,NA,NA
+trip,2040-05-13,NA,trip_273,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-05-10,NA,trip_274,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:06:00,08:57:00
+trip,2040-05-06,NA,trip_275,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:42:00,14:52:00
+place,NA,NA,582382221,NA,NA,NA,NA,NA,NA,NA,-164.57842655752808,39.26780658183567,commercial,NA,NA,NA
+trip,2040-06-27,NA,trip_276,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:00:00,19:00:00
+place,NA,NA,48534420,NA,NA,NA,NA,NA,NA,NA,-165.60396576138874,39.52055336367821,residential,NA,NA,NA
+trip,0040-06-12,NA,trip_277,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-05-29,NA,trip_278,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:07:00,08:59:00
+place,NA,NA,12687824227,NA,NA,NA,NA,NA,NA,NA,-165.59151644938083,39.520972122761215,commercial,NA,NA,NA
+trip,2040-04-17,NA,trip_279,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:56:00,10:18:00
+trip,2040-06-22,NA,trip_280,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:36:00,09:50:00
+place,NA,NA,48508501,NA,NA,NA,NA,NA,NA,NA,-165.59184303625634,39.53140438782268,commercial,NA,NA,NA
+trip,0040-04-17,NA,trip_281,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:41:00,06:24:00
+trip,2040-06-28,NA,trip_282,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:39:00,07:11:00
+trip,2040-08-01,NA,trip_283,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:52:00,11:54:00
+place,NA,NA,37858030,NA,NA,NA,NA,NA,NA,NA,-164.38811752620364,39.42828336976685,commercial,NA,NA,NA
+trip,2040-04-08,NA,trip_284,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-07-07,NA,trip_285,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:25:00,11:02:00
+trip,0040-05-22,NA,trip_286,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:39:00
+trip,2040-05-25,NA,trip_287,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-04-22,NA,trip_288,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:39:00,08:34:00
+trip,2040-05-31,NA,trip_289,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:52:00,08:44:00
+place,NA,NA,48552137,NA,NA,NA,NA,NA,NA,NA,-165.5867337778187,39.52005429261968,commercial,NA,NA,NA
+trip,2040-05-22,NA,trip_290,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-08-02,NA,trip_291,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-07-26,NA,trip_292,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:40:00,11:34:00
+place,NA,NA,36955939,NA,NA,NA,NA,NA,NA,NA,-165.95176446036754,39.09561590265777,residential,NA,NA,NA
+trip,2040-07-19,NA,trip_293,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:24:00,10:20:00
+trip,0040-07-24,NA,trip_294,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-07-18,NA,trip_295,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:39:00,08:48:00
+trip,2040-04-02,NA,trip_296,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:45:00,12:05:00
+place,NA,NA,37862867,NA,NA,NA,NA,NA,NA,NA,-164.33919187554704,39.41264188249742,commercial,NA,NA,NA
+trip,2040-06-24,NA,trip_297,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:29:00,07:09:00
+trip,0040-04-10,NA,trip_298,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:54:00
+trip,2040-07-30,NA,trip_299,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:21:00,09:06:00
+place,NA,NA,48510013,NA,NA,NA,NA,NA,NA,NA,-165.5758038340333,39.541084474659506,commercial,NA,NA,NA
+trip,2040-07-23,NA,trip_300,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:30:00,10:04:00
+place,NA,NA,2148547967,NA,NA,NA,NA,NA,NA,NA,-165.61135768688638,39.53430935420588,commercial,NA,NA,NA
+trip,2040-05-05,NA,trip_301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:00:00,19:00:00
+place,NA,NA,48462883,NA,NA,NA,NA,NA,NA,NA,-165.6174453298977,39.541057861199796,commercial,NA,NA,NA
+trip,2040-07-23,NA,trip_302,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:07:00,13:31:00
+place,NA,NA,48567071,NA,NA,NA,NA,NA,NA,NA,-164.5567391887199,39.08157567999374,commercial,NA,NA,NA
+trip,2040-07-25,NA,trip_303,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-07-18,NA,trip_304,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-05-01,NA,trip_305,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-07-10,NA,trip_306,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:09:00,09:10:00
+trip,2040-07-11,NA,trip_307,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,7557795048,NA,NA,NA,NA,NA,NA,NA,-164.34729475221536,39.41750748842046,residential,NA,NA,NA
+trip,2040-04-08,NA,trip_308,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:32:00,17:22:00
+trip,2040-07-22,NA,trip_309,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,582256026,NA,NA,NA,NA,NA,NA,NA,-164.54490102330814,39.31982679862941,commercial,NA,NA,NA
+trip,0040-07-17,NA,trip_310,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-04-22,NA,trip_311,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-04-10,NA,trip_312,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-07-27,NA,trip_313,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-06-25,NA,trip_314,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:53:00,10:51:00
+place,NA,NA,581622419,NA,NA,NA,NA,NA,NA,NA,-164.52604109211052,39.32737587772698,commercial,NA,NA,NA
+trip,0040-05-15,NA,trip_315,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:53:00
+trip,0040-05-22,NA,trip_316,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:55:00
+trip,2040-04-27,NA,trip_317,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:12:00,09:12:00
+place,NA,NA,2858138942,NA,NA,NA,NA,NA,NA,NA,-165.59696350861552,39.54178810610754,commercial,NA,NA,NA
+trip,0040-06-05,NA,trip_318,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,0040-07-17,NA,trip_319,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:08:00,12:53:00
+trip,2040-04-27,NA,trip_320,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14:00:00,19:00:00
+trip,2040-05-01,NA,trip_321,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:32:00,11:28:00
+place,NA,NA,48554034,NA,NA,NA,NA,NA,NA,NA,-165.5725492704693,39.5340432052102,commercial,NA,NA,NA
+trip,2040-06-23,NA,trip_322,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-06-03,NA,trip_323,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-07-04,NA,trip_324,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:59:00,08:36:00
+place,NA,NA,9839219434,NA,NA,NA,NA,NA,NA,NA,-165.59188946664216,39.55581300760995,industrial,NA,NA,NA
+trip,2040-05-04,NA,trip_325,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:36:00,07:46:00
+trip,2040-05-24,NA,trip_326,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+trip,2040-07-02,NA,trip_327,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:07:00,07:07:00
+place,NA,NA,48508495,NA,NA,NA,NA,NA,NA,NA,-165.58886613919256,39.52614305085934,commercial,NA,NA,NA
+trip,0040-06-05,NA,trip_328,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:22:00,11:07:00
+trip,2040-05-15,NA,trip_329,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:56:00,09:56:00
+place,NA,NA,2091409677,NA,NA,NA,NA,NA,NA,NA,-164.5807288348224,39.269265145618974,commercial,NA,NA,NA
+trip,2040-08-02,NA,trip_330,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:07:00,08:43:00
+place,NA,NA,582327013,NA,NA,NA,NA,NA,NA,NA,-164.53862341055785,39.32305503390545,commercial,NA,NA,NA
+trip,0040-05-15,NA,trip_331,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:40:00,03:00:00
+trip,2040-05-06,NA,trip_332,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:44:00,11:10:00
+place,NA,NA,48498977,NA,NA,NA,NA,NA,NA,NA,-165.59319558406224,39.52821986934217,residential,NA,NA,NA
+trip,2040-04-27,NA,trip_333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,06:59:00,06:59:00
+place,NA,NA,48543659,Harborfront Boutiques,NA,NA,NA,NA,NA,NA,-164.55774386550792,39.087195010544754,commercial,shops,NA,NA
+trip,0040-06-19,NA,trip_334,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:05:00,11:23:00
+trip,2040-04-24,NA,trip_335,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:00:00
+place,NA,NA,581874286,NA,NA,NA,NA,NA,NA,NA,-164.5802398942776,39.26483078791759,commercial,NA,NA,NA
+trip,2040-06-23,NA,trip_336,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:05:00,09:35:00
+place,NA,NA,48513116,NA,NA,NA,NA,NA,NA,NA,-165.59052161686145,39.52070702229265,commercial,NA,NA,NA
+trip,0040-06-26,NA,trip_337,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,08:40:00,12:58:00
+trip,0040-07-17,NA,trip_338,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,09:00:00,21:52:00
+trip,0040-07-03,NA,trip_339,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:47:00,11:10:00
+trip,2040-07-04,NA,trip_340,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:37:00,08:58:00
+trip,2040-07-12,NA,trip_341,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,07:00:00,19:00:00
+place,NA,NA,48572314,NA,NA,NA,NA,NA,NA,NA,-165.61740966292393,39.540568884189106,commercial,NA,NA,NA

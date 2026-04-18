@@ -1,0 +1,17 @@
+Source,Target,Industry,weight,avg_sentiment
+Ed Helpsford,affordable_housing,neutral,7,1.0
+Ed Helpsford,concert,tourism,4,0.5
+Ed Helpsford,low_volume_crane,fishing,2,1.0
+Ed Helpsford,name_harbor_area,neutral,2,0.0
+Ed Helpsford,name_inspection_office,neutral,2,0.0
+Ed Helpsford,waterfront_market,tourism,3,1.0
+Seal,expanding_tourist_wharf,tourism,4,0.1
+Seal,fish_vacuum,fishing,1,0.0
+Seal,low_volume_crane,fishing,5,0.1
+Seal,statue_john_smoth,neutral,2,0.2
+Teddy Goldstein,affordable_housing,neutral,3,1.0
+Teddy Goldstein,deep_fishing_dock,fishing,6,
+Teddy Goldstein,expanding_tourist_wharf,tourism,4,-0.5
+Teddy Goldstein,fish_vacuum,fishing,3,0.5
+Teddy Goldstein,marine_life_deck,tourism,2,-0.5
+Teddy Goldstein,new_crane_lomark,fishing,4,1.0

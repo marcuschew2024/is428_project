@@ -1,0 +1,40 @@
+Member,Topic_Key,Industry,Count_filah,Count_journalist,Count_trout,Sent_filah,Sent_journalist,Sent_trout,Topic_Label
+Carol Limpet,marine_life_deck,tourism,7.0,7.0,0.0,0.5,0.5,,Marine Life Deck
+Carol Limpet,renaming_park_himark,neutral,5.0,5.0,0.0,0.5,0.5,,Renaming Park Himark
+Carol Limpet,seafood_festival,fishing,5.0,5.0,0.0,0.75,0.75,,Seafood Festival
+Carol Limpet,waterfront_market,tourism,4.0,4.0,0.0,1.0,1.0,,Waterfront Market
+Ed Helpsford,affordable_housing,neutral,0.0,7.0,7.0,,1.0,1.0,Affordable Housing
+Ed Helpsford,concert,tourism,0.0,4.0,4.0,,0.5,0.5,Concert
+Ed Helpsford,low_volume_crane,fishing,0.0,2.0,2.0,,1.0,1.0,Low Volume Crane
+Ed Helpsford,name_harbor_area,neutral,0.0,2.0,2.0,,0.0,0.0,Name Harbor Area
+Ed Helpsford,name_inspection_office,neutral,0.0,2.0,2.0,,0.0,0.0,Name Inspection Office
+Ed Helpsford,waterfront_market,tourism,0.0,3.0,3.0,,1.0,1.0,Waterfront Market
+Seal,expanding_tourist_wharf,tourism,4.0,4.0,4.0,0.1,0.1,0.1,Expanding Tourist Wharf
+Seal,fish_vacuum,fishing,1.0,1.0,1.0,0.0,0.0,0.0,Fish Vacuum
+Seal,low_volume_crane,fishing,5.0,5.0,5.0,0.1,0.1,0.1,Low Volume Crane
+Seal,statue_john_smoth,neutral,2.0,2.0,2.0,0.2,0.2,0.2,Statue John Smoth
+Simone Kat,affordable_housing,neutral,4.0,4.0,0.0,-1.0,-1.0,,Affordable Housing
+Simone Kat,deep_fishing_dock,fishing,3.0,3.0,0.0,,,,Deep Fishing Dock
+Simone Kat,expanding_tourist_wharf,tourism,3.0,3.0,0.0,0.5,0.5,,Expanding Tourist Wharf
+Simone Kat,fish_vacuum,fishing,3.0,3.0,0.0,-0.10000000000000002,-0.10000000000000002,,Fish Vacuum
+Simone Kat,heritage_walking_tour,tourism,11.0,11.0,0.0,1.0,1.0,,Heritage Walking Tour
+Simone Kat,low_volume_crane,fishing,6.0,6.0,0.0,0.75,0.75,,Low Volume Crane
+Simone Kat,marine_life_deck,tourism,4.0,4.0,0.0,1.0,1.0,,Marine Life Deck
+Simone Kat,name_inspection_office,neutral,2.0,2.0,0.0,0.0,0.0,,Name Inspection Office
+Simone Kat,new_crane_lomark,fishing,3.0,3.0,0.0,-0.5,-0.5,,New Crane Lomark
+Simone Kat,seafood_festival,fishing,5.0,5.0,0.0,0.75,0.75,,Seafood Festival
+Simone Kat,waterfront_market,tourism,1.0,1.0,0.0,0.75,0.75,,Waterfront Market
+Tante Titan,concert,tourism,0.0,9.0,0.0,,0.5,,Concert
+Tante Titan,heritage_walking_tour,tourism,0.0,2.0,0.0,,1.0,,Heritage Walking Tour
+Tante Titan,name_harbor_area,neutral,0.0,8.0,0.0,,1.0,,Name Harbor Area
+Tante Titan,name_inspection_office,neutral,0.0,5.0,0.0,,1.0,,Name Inspection Office
+Tante Titan,renaming_park_himark,neutral,0.0,14.0,0.0,,1.0,,Renaming Park Himark
+Tante Titan,seafood_festival,fishing,0.0,3.0,0.0,,0.75,,Seafood Festival
+Tante Titan,statue_john_smoth,neutral,0.0,7.0,0.0,,1.0,,Statue John Smoth
+Tante Titan,waterfront_market,tourism,0.0,6.0,0.0,,0.25,,Waterfront Market
+Teddy Goldstein,affordable_housing,neutral,0.0,3.0,3.0,,1.0,1.0,Affordable Housing
+Teddy Goldstein,deep_fishing_dock,fishing,0.0,6.0,6.0,,,,Deep Fishing Dock
+Teddy Goldstein,expanding_tourist_wharf,tourism,0.0,4.0,4.0,,-0.5,-0.5,Expanding Tourist Wharf
+Teddy Goldstein,fish_vacuum,fishing,0.0,3.0,3.0,,0.5,0.5,Fish Vacuum
+Teddy Goldstein,marine_life_deck,tourism,0.0,2.0,2.0,,-0.5,-0.5,Marine Life Deck
+Teddy Goldstein,new_crane_lomark,fishing,0.0,4.0,4.0,,1.0,1.0,New Crane Lomark

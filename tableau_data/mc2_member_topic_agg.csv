@@ -1,0 +1,75 @@
+Member,Dataset,Dataset_Label,Topic_Key,Industry,Count,Avg_Sentiment,Num_Pro,Num_Against,Num_Neutral_Sent,Num_Not_Rated,Topic_Label
+Carol Limpet,filah,FILAH (Fishing Lobby),marine_life_deck,tourism,7,0.5,7,0,0,0,Marine Life Deck
+Carol Limpet,filah,FILAH (Fishing Lobby),renaming_park_himark,neutral,5,0.5,5,0,0,0,Renaming Park Himark
+Carol Limpet,filah,FILAH (Fishing Lobby),seafood_festival,fishing,5,0.75,5,0,0,0,Seafood Festival
+Carol Limpet,filah,FILAH (Fishing Lobby),waterfront_market,tourism,4,1.0,4,0,0,0,Waterfront Market
+Carol Limpet,journalist,Journalist (Full Record),marine_life_deck,tourism,7,0.5,7,0,0,0,Marine Life Deck
+Carol Limpet,journalist,Journalist (Full Record),renaming_park_himark,neutral,5,0.5,5,0,0,0,Renaming Park Himark
+Carol Limpet,journalist,Journalist (Full Record),seafood_festival,fishing,5,0.75,5,0,0,0,Seafood Festival
+Carol Limpet,journalist,Journalist (Full Record),waterfront_market,tourism,4,1.0,4,0,0,0,Waterfront Market
+Ed Helpsford,journalist,Journalist (Full Record),affordable_housing,neutral,7,1.0,7,0,0,0,Affordable Housing
+Ed Helpsford,journalist,Journalist (Full Record),concert,tourism,4,0.5,4,0,0,0,Concert
+Ed Helpsford,journalist,Journalist (Full Record),low_volume_crane,fishing,2,1.0,2,0,0,0,Low Volume Crane
+Ed Helpsford,journalist,Journalist (Full Record),name_harbor_area,neutral,2,0.0,0,0,2,0,Name Harbor Area
+Ed Helpsford,journalist,Journalist (Full Record),name_inspection_office,neutral,2,0.0,0,0,2,0,Name Inspection Office
+Ed Helpsford,journalist,Journalist (Full Record),waterfront_market,tourism,3,1.0,3,0,0,0,Waterfront Market
+Ed Helpsford,trout,TROUT (Tourism Lobby),affordable_housing,neutral,7,1.0,7,0,0,0,Affordable Housing
+Ed Helpsford,trout,TROUT (Tourism Lobby),concert,tourism,4,0.5,4,0,0,0,Concert
+Ed Helpsford,trout,TROUT (Tourism Lobby),low_volume_crane,fishing,2,1.0,2,0,0,0,Low Volume Crane
+Ed Helpsford,trout,TROUT (Tourism Lobby),name_harbor_area,neutral,2,0.0,0,0,2,0,Name Harbor Area
+Ed Helpsford,trout,TROUT (Tourism Lobby),name_inspection_office,neutral,2,0.0,0,0,2,0,Name Inspection Office
+Ed Helpsford,trout,TROUT (Tourism Lobby),waterfront_market,tourism,3,1.0,3,0,0,0,Waterfront Market
+Seal,filah,FILAH (Fishing Lobby),expanding_tourist_wharf,tourism,4,0.1,0,0,4,0,Expanding Tourist Wharf
+Seal,filah,FILAH (Fishing Lobby),fish_vacuum,fishing,1,0.0,0,0,1,0,Fish Vacuum
+Seal,filah,FILAH (Fishing Lobby),low_volume_crane,fishing,5,0.1,0,0,5,0,Low Volume Crane
+Seal,filah,FILAH (Fishing Lobby),statue_john_smoth,neutral,2,0.2,0,0,2,0,Statue John Smoth
+Seal,journalist,Journalist (Full Record),expanding_tourist_wharf,tourism,4,0.1,0,0,4,0,Expanding Tourist Wharf
+Seal,journalist,Journalist (Full Record),fish_vacuum,fishing,1,0.0,0,0,1,0,Fish Vacuum
+Seal,journalist,Journalist (Full Record),low_volume_crane,fishing,5,0.1,0,0,5,0,Low Volume Crane
+Seal,journalist,Journalist (Full Record),statue_john_smoth,neutral,2,0.2,0,0,2,0,Statue John Smoth
+Seal,trout,TROUT (Tourism Lobby),expanding_tourist_wharf,tourism,4,0.1,0,0,4,0,Expanding Tourist Wharf
+Seal,trout,TROUT (Tourism Lobby),fish_vacuum,fishing,1,0.0,0,0,1,0,Fish Vacuum
+Seal,trout,TROUT (Tourism Lobby),low_volume_crane,fishing,5,0.1,0,0,5,0,Low Volume Crane
+Seal,trout,TROUT (Tourism Lobby),statue_john_smoth,neutral,2,0.2,0,0,2,0,Statue John Smoth
+Simone Kat,filah,FILAH (Fishing Lobby),affordable_housing,neutral,4,-1.0,0,4,0,0,Affordable Housing
+Simone Kat,filah,FILAH (Fishing Lobby),deep_fishing_dock,fishing,3,,0,0,0,3,Deep Fishing Dock
+Simone Kat,filah,FILAH (Fishing Lobby),expanding_tourist_wharf,tourism,3,0.5,3,0,0,0,Expanding Tourist Wharf
+Simone Kat,filah,FILAH (Fishing Lobby),fish_vacuum,fishing,3,-0.10000000000000002,0,0,3,0,Fish Vacuum
+Simone Kat,filah,FILAH (Fishing Lobby),heritage_walking_tour,tourism,11,1.0,11,0,0,0,Heritage Walking Tour
+Simone Kat,filah,FILAH (Fishing Lobby),low_volume_crane,fishing,6,0.75,6,0,0,0,Low Volume Crane
+Simone Kat,filah,FILAH (Fishing Lobby),marine_life_deck,tourism,4,1.0,4,0,0,0,Marine Life Deck
+Simone Kat,filah,FILAH (Fishing Lobby),name_inspection_office,neutral,2,0.0,0,0,2,0,Name Inspection Office
+Simone Kat,filah,FILAH (Fishing Lobby),new_crane_lomark,fishing,3,-0.5,0,3,0,0,New Crane Lomark
+Simone Kat,filah,FILAH (Fishing Lobby),seafood_festival,fishing,5,0.75,5,0,0,0,Seafood Festival
+Simone Kat,filah,FILAH (Fishing Lobby),waterfront_market,tourism,1,0.75,1,0,0,0,Waterfront Market
+Simone Kat,journalist,Journalist (Full Record),affordable_housing,neutral,4,-1.0,0,4,0,0,Affordable Housing
+Simone Kat,journalist,Journalist (Full Record),deep_fishing_dock,fishing,3,,0,0,0,3,Deep Fishing Dock
+Simone Kat,journalist,Journalist (Full Record),expanding_tourist_wharf,tourism,3,0.5,3,0,0,0,Expanding Tourist Wharf
+Simone Kat,journalist,Journalist (Full Record),fish_vacuum,fishing,3,-0.10000000000000002,0,0,3,0,Fish Vacuum
+Simone Kat,journalist,Journalist (Full Record),heritage_walking_tour,tourism,11,1.0,11,0,0,0,Heritage Walking Tour
+Simone Kat,journalist,Journalist (Full Record),low_volume_crane,fishing,6,0.75,6,0,0,0,Low Volume Crane
+Simone Kat,journalist,Journalist (Full Record),marine_life_deck,tourism,4,1.0,4,0,0,0,Marine Life Deck
+Simone Kat,journalist,Journalist (Full Record),name_inspection_office,neutral,2,0.0,0,0,2,0,Name Inspection Office
+Simone Kat,journalist,Journalist (Full Record),new_crane_lomark,fishing,3,-0.5,0,3,0,0,New Crane Lomark
+Simone Kat,journalist,Journalist (Full Record),seafood_festival,fishing,5,0.75,5,0,0,0,Seafood Festival
+Simone Kat,journalist,Journalist (Full Record),waterfront_market,tourism,1,0.75,1,0,0,0,Waterfront Market
+Tante Titan,journalist,Journalist (Full Record),concert,tourism,9,0.5,9,0,0,0,Concert
+Tante Titan,journalist,Journalist (Full Record),heritage_walking_tour,tourism,2,1.0,2,0,0,0,Heritage Walking Tour
+Tante Titan,journalist,Journalist (Full Record),name_harbor_area,neutral,8,1.0,8,0,0,0,Name Harbor Area
+Tante Titan,journalist,Journalist (Full Record),name_inspection_office,neutral,5,1.0,5,0,0,0,Name Inspection Office
+Tante Titan,journalist,Journalist (Full Record),renaming_park_himark,neutral,14,1.0,14,0,0,0,Renaming Park Himark
+Tante Titan,journalist,Journalist (Full Record),seafood_festival,fishing,3,0.75,3,0,0,0,Seafood Festival
+Tante Titan,journalist,Journalist (Full Record),statue_john_smoth,neutral,7,1.0,7,0,0,0,Statue John Smoth
+Tante Titan,journalist,Journalist (Full Record),waterfront_market,tourism,6,0.25,0,0,6,0,Waterfront Market
+Teddy Goldstein,journalist,Journalist (Full Record),affordable_housing,neutral,3,1.0,3,0,0,0,Affordable Housing
+Teddy Goldstein,journalist,Journalist (Full Record),deep_fishing_dock,fishing,6,,0,0,0,6,Deep Fishing Dock
+Teddy Goldstein,journalist,Journalist (Full Record),expanding_tourist_wharf,tourism,4,-0.5,0,4,0,0,Expanding Tourist Wharf
+Teddy Goldstein,journalist,Journalist (Full Record),fish_vacuum,fishing,3,0.5,3,0,0,0,Fish Vacuum
+Teddy Goldstein,journalist,Journalist (Full Record),marine_life_deck,tourism,2,-0.5,0,2,0,0,Marine Life Deck
+Teddy Goldstein,journalist,Journalist (Full Record),new_crane_lomark,fishing,4,1.0,4,0,0,0,New Crane Lomark
+Teddy Goldstein,trout,TROUT (Tourism Lobby),affordable_housing,neutral,3,1.0,3,0,0,0,Affordable Housing
+Teddy Goldstein,trout,TROUT (Tourism Lobby),deep_fishing_dock,fishing,6,,0,0,0,6,Deep Fishing Dock
+Teddy Goldstein,trout,TROUT (Tourism Lobby),expanding_tourist_wharf,tourism,4,-0.5,0,4,0,0,Expanding Tourist Wharf
+Teddy Goldstein,trout,TROUT (Tourism Lobby),fish_vacuum,fishing,3,0.5,3,0,0,0,Fish Vacuum
+Teddy Goldstein,trout,TROUT (Tourism Lobby),marine_life_deck,tourism,2,-0.5,0,2,0,0,Marine Life Deck
+Teddy Goldstein,trout,TROUT (Tourism Lobby),new_crane_lomark,fishing,4,1.0,4,0,0,0,New Crane Lomark

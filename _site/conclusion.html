@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.35">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Conclusion &amp; Future Work – IS428 G10 — Detecting Bias in COOTEFOO’s Oversight Data</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-46f66b053e56abd73bb6e954d61a315b.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-fb30e7e55250db515e5e281c13964e30.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="./index.html">
+    <span class="navbar-title">IS428 G10 — Detecting Bias in COOTEFOO’s Oversight Data</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./data_transformation.html"> 
+<span class="menu-text">Data Transformation</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./proposal.html"> 
+<span class="menu-text">Proposal</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./poster.html"> 
+<span class="menu-text">Poster</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./prototypes.html"> 
+<span class="menu-text">Prototypes</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-analysis--results" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Analysis &amp; Results</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-analysis--results">    
+        <li>
+    <a class="dropdown-item" href="./finding1.html">
+ <span class="dropdown-text">Finding 1: Lobby Datasets</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./finding2.html">
+ <span class="dropdown-text">Finding 2: Full Committee</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./finding3.html">
+ <span class="dropdown-text">Finding 3: Cross-Dataset</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./finding4.html">
+ <span class="dropdown-text">Finding 4: Member Deep Dive</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./conclusion.html">
+ <span class="dropdown-text">Conclusion &amp; Future Work</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-storyboard--guide" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Storyboard &amp; Guide</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-storyboard--guide">    
+        <li>
+    <a class="dropdown-item" href="./storyboard.html">
+ <span class="dropdown-text">Final Storyboard</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./user_guide.html">
+ <span class="dropdown-text">User Guide</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#task-answers" id="toc-task-answers" class="nav-link active" data-scroll-target="#task-answers">Task Answers</a>
+  <ul class="collapse">
+  <li><a href="#task-1-visualise-bias-within-trout-and-filahs-own-datasets" id="toc-task-1-visualise-bias-within-trout-and-filahs-own-datasets" class="nav-link" data-scroll-target="#task-1-visualise-bias-within-trout-and-filahs-own-datasets">Task 1 — Visualise bias within TROUT and FILAH’s own datasets</a></li>
+  <li><a href="#task-2-is-the-full-committee-biased-visual-evidence-using-the-journalist-dataset" id="toc-task-2-is-the-full-committee-biased-visual-evidence-using-the-journalist-dataset" class="nav-link" data-scroll-target="#task-2-is-the-full-committee-biased-visual-evidence-using-the-journalist-dataset">Task 2 — Is the full committee biased? Visual evidence using the journalist dataset</a></li>
+  <li><a href="#task-3-compare-conclusions-from-troutfilah-vs-the-full-dataset-impact-on-final-conclusions" id="toc-task-3-compare-conclusions-from-troutfilah-vs-the-full-dataset-impact-on-final-conclusions" class="nav-link" data-scroll-target="#task-3-compare-conclusions-from-troutfilah-vs-the-full-dataset-impact-on-final-conclusions">Task 3 — Compare conclusions from TROUT/FILAH vs the full dataset; impact on final conclusions</a></li>
+  <li><a href="#task-4-profile-one-or-more-committee-members-use-visual-evidence-to-characterise-their-behaviour" id="toc-task-4-profile-one-or-more-committee-members-use-visual-evidence-to-characterise-their-behaviour" class="nav-link" data-scroll-target="#task-4-profile-one-or-more-committee-members-use-visual-evidence-to-characterise-their-behaviour">Task 4 — Profile one or more committee members; use visual evidence to characterise their behaviour</a></li>
+  <li><a href="#task-4a-show-how-your-understanding-of-one-accused-member-changed-with-the-full-dataset" id="toc-task-4a-show-how-your-understanding-of-one-accused-member-changed-with-the-full-dataset" class="nav-link" data-scroll-target="#task-4a-show-how-your-understanding-of-one-accused-member-changed-with-the-full-dataset">Task 4a — Show how your understanding of one accused member changed with the full dataset</a></li>
+  <li><a href="#task-4b-what-records-did-trout-withhold-and-for-which-member" id="toc-task-4b-what-records-did-trout-withhold-and-for-which-member" class="nav-link" data-scroll-target="#task-4b-what-records-did-trout-withhold-and-for-which-member">Task 4b — What records did TROUT withhold, and for which member?</a></li>
+  <li><a href="#task-4c-whose-behaviors-are-most-impacted-by-sampling-bias-in-the-filah-dataset" id="toc-task-4c-whose-behaviors-are-most-impacted-by-sampling-bias-in-the-filah-dataset" class="nav-link" data-scroll-target="#task-4c-whose-behaviors-are-most-impacted-by-sampling-bias-in-the-filah-dataset">Task 4c — Whose behaviors are most impacted by sampling bias in the FILAH dataset?</a></li>
+  <li><a href="#task-4d-illustrate-the-bias-of-the-filah-data-in-context-of-the-whole-dataset" id="toc-task-4d-illustrate-the-bias-of-the-filah-data-in-context-of-the-whole-dataset" class="nav-link" data-scroll-target="#task-4d-illustrate-the-bias-of-the-filah-data-in-context-of-the-whole-dataset">Task 4d — Illustrate the bias of the FILAH data in context of the whole dataset</a></li>
+  </ul></li>
+  <li><a href="#overall-conclusion" id="toc-overall-conclusion" class="nav-link" data-scroll-target="#overall-conclusion">Overall Conclusion</a></li>
+  <li><a href="#limitations" id="toc-limitations" class="nav-link" data-scroll-target="#limitations">Limitations</a></li>
+  <li><a href="#future-work" id="toc-future-work" class="nav-link" data-scroll-target="#future-work">Future Work</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Conclusion &amp; Future Work</h1>
+<p class="subtitle lead">Answers to all MC2 task questions; limitations; future directions</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="task-answers" class="level2">
+<h2 class="anchored" data-anchor-id="task-answers">Task Answers</h2>
+<section id="task-1-visualise-bias-within-trout-and-filahs-own-datasets" class="level3">
+<h3 class="anchored" data-anchor-id="task-1-visualise-bias-within-trout-and-filahs-own-datasets">Task 1 — Visualise bias within TROUT and FILAH’s own datasets</h3>
+<p>Both datasets are curated, not collected. FILAH captured 78 of 174 records (45%) and systematically over-represents fishing topics; TROUT captured 54 (31%) and systematically over-represents tourism topics. Both lobbies also selectively omitted members: FILAH recorded only 3 of 6 members; TROUT recorded a different 3. The missing discussions bar and member participation slope chart make this selective inclusion visually explicit.</p>
+<p><strong>Verdict:</strong> Both datasets exhibit clear, measurable selection bias in topic coverage and member inclusion.</p>
+<hr>
+</section>
+<section id="task-2-is-the-full-committee-biased-visual-evidence-using-the-journalist-dataset" class="level3">
+<h3 class="anchored" data-anchor-id="task-2-is-the-full-committee-biased-visual-evidence-using-the-journalist-dataset">Task 2 — Is the full committee biased? Visual evidence using the journalist dataset</h3>
+<p>No.&nbsp;Using the journalist’s complete record of 174 discussions across 16 meetings, no member’s bias score is statistically extreme. Three members lean slightly toward fishing; three lean slightly toward tourism. The confidence intervals confirm that individual deviations are within normal variance. The scatter/quadrant chart shows the committee is evenly split.</p>
+<p><strong>Verdict:</strong> The full COOTEFOO committee is balanced. Bias is not a property of the committee.</p>
+<hr>
+</section>
+<section id="task-3-compare-conclusions-from-troutfilah-vs-the-full-dataset-impact-on-final-conclusions" class="level3">
+<h3 class="anchored" data-anchor-id="task-3-compare-conclusions-from-troutfilah-vs-the-full-dataset-impact-on-final-conclusions">Task 3 — Compare conclusions from TROUT/FILAH vs the full dataset; impact on final conclusions</h3>
+<p>The same six members appear biased in different directions depending solely on which dataset is read. FILAH’s version inflates the apparent fishing-lean by 40–60%; TROUT’s version inflates the apparent tourism-lean by the same amount. Switching to the journalist’s dataset eliminates apparent bias for all six members. Sentiment and travel data from the full record do not support either lobby’s claim of persistent systematic bias.</p>
+<p><strong>Verdict:</strong> Bias scores are a property of the dataset, not the committee. Both lobby narratives are undermined by the full record.</p>
+<hr>
+</section>
+<section id="task-4-profile-one-or-more-committee-members-use-visual-evidence-to-characterise-their-behaviour" class="level3">
+<h3 class="anchored" data-anchor-id="task-4-profile-one-or-more-committee-members-use-visual-evidence-to-characterise-their-behaviour">Task 4 — Profile one or more committee members; use visual evidence to characterise their behaviour</h3>
+<p>Six member profiles were built using the Person-Picker interactive dashboard:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Member</th>
+<th>Bias Direction</th>
+<th>Total Participations (Journalist)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Tante Titan</td>
+<td>Tourism-leaning</td>
+<td>54 (most active)</td>
+</tr>
+<tr class="even">
+<td>Simone Kat</td>
+<td>Fishing-leaning</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Teddy Goldstein</td>
+<td>Fishing-leaning</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Ed Helpsford</td>
+<td>Tourism-leaning</td>
+<td>—</td>
+</tr>
+<tr class="odd">
+<td>Carol Limpet</td>
+<td>Balanced</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>Seal</td>
+<td>Balanced</td>
+<td>— (fewest)</td>
+</tr>
+</tbody>
+</table>
+<p>Simone Kat and Teddy Goldstein are the most polarised fishing voices. Tante Titan is the most active member and the strongest tourism voice. The Person-Picker filter on Dashboard 4 allows interactive exploration of each member’s attendance, topic breakdown, and activity over time.</p>
+<hr>
+</section>
+<section id="task-4a-show-how-your-understanding-of-one-accused-member-changed-with-the-full-dataset" class="level3">
+<h3 class="anchored" data-anchor-id="task-4a-show-how-your-understanding-of-one-accused-member-changed-with-the-full-dataset">Task 4a — Show how your understanding of one accused member changed with the full dataset</h3>
+<p><strong>Member: Tante Titan</strong></p>
+<p>TROUT accused Tante Titan of being a fishing advocate — yet their own dataset contains zero of her 54 records. In the journalist’s full record, she is the committee’s strongest tourism voice (tourism=17, fishing=3, total=54). Adding her back to the record reverses the apparent fishing-lean that TROUT’s dataset implies. TROUT’s accusation against Tante Titan is directly contradicted by the data they chose to withhold.</p>
+<p>Understanding before full data: Tante Titan appears absent or irrelevant. Understanding after full data: Tante Titan is the most active member and TROUT’s principal counterevidence.</p>
+<hr>
+</section>
+<section id="task-4b-what-records-did-trout-withhold-and-for-which-member" class="level3">
+<h3 class="anchored" data-anchor-id="task-4b-what-records-did-trout-withhold-and-for-which-member">Task 4b — What records did TROUT withhold, and for which member?</h3>
+<p>TROUT withheld 54 records for Tante Titan across 8 topics. The withheld topics span all three industry categories — fishing, tourism, and neutral — indicating a wholesale exclusion rather than selective topic filtering. The “Records TROUT Withheld for Tante Titan” bar chart (Dashboard 4.1) shows the per-topic breakdown.</p>
+<hr>
+</section>
+<section id="task-4c-whose-behaviors-are-most-impacted-by-sampling-bias-in-the-filah-dataset" class="level3">
+<h3 class="anchored" data-anchor-id="task-4c-whose-behaviors-are-most-impacted-by-sampling-bias-in-the-filah-dataset">Task 4c — Whose behaviors are most impacted by sampling bias in the FILAH dataset?</h3>
+<p>FILAH excluded its three most tourism-leaning members: Tante Titan, Ed Helpsford, and Carol Limpet. With those members removed, the remaining three (who lean fishing or balanced) make the committee appear fishing-dominated — which is FILAH’s intended conclusion. The Member Impact Bar quantifies exactly how much the committee’s apparent industry balance shifts when the excluded members are restored.</p>
+<hr>
+</section>
+<section id="task-4d-illustrate-the-bias-of-the-filah-data-in-context-of-the-whole-dataset" class="level3">
+<h3 class="anchored" data-anchor-id="task-4d-illustrate-the-bias-of-the-filah-data-in-context-of-the-whole-dataset">Task 4d — Illustrate the bias of the FILAH data in context of the whole dataset</h3>
+<p>FILAH’s finding that the committee is pro-tourism is only supported by their selective 45% sample. In the full journalist record, the members FILAH excluded are the most tourism-leaning — meaning FILAH removed the evidence that would disprove its own claim. FILAH’s bias finding is a circular artefact of its own editorial choices, not an objective finding about the committee.</p>
+<hr>
+<hr class="section-divider">
+</section>
+</section>
+<section id="overall-conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="overall-conclusion">Overall Conclusion</h2>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Neither lobby’s accusation is supported by the full dataset.</strong></p>
+<p>The COOTEFOO committee, when assessed using the journalist’s complete record, is balanced. Both FILAH and TROUT constructed their datasets to create the appearance of bias — not by fabricating records, but by selectively omitting members and discussions that contradicted their narrative. The key mechanism in both cases is the same: <strong>exclude the members whose records weaken your case</strong>.</p>
+</div>
+</div>
+<hr>
+</section>
+<section id="limitations" class="level2">
+<h2 class="anchored" data-anchor-id="limitations">Limitations</h2>
+<p><strong>Data completeness:</strong> We treat the journalist dataset as the ground truth. If the journalist also made selective choices, our baseline may be imperfect. The challenge documentation presents the journalist record as comprehensive, but this cannot be independently verified.</p>
+<p><strong>Bias score formula:</strong> <code>(tourism − fishing) / total</code> is one of many possible bias metrics. It treats all participations equally regardless of topic weight, sentiment, or outcome. Alternative formulations (e.g., sentiment-weighted, vote-outcome-weighted) might produce different scores.</p>
+<p><strong>Missing meetings:</strong> Meeting 6 has no data. Whether this reflects a cancelled meeting, a recording gap, or a data extraction error is unknown. We treat it as a structural calendar feature.</p>
+<p><strong>Gephi layout instability:</strong> ForceAtlas2 network layouts are non-deterministic. The visual structure of the bipartite networks varies slightly between runs, though the structural findings (which nodes are connected) are deterministic.</p>
+<hr>
+</section>
+<section id="future-work" class="level2">
+<h2 class="anchored" data-anchor-id="future-work">Future Work</h2>
+<p><strong>Temporal analysis:</strong> Sentiment was analysed cross-sectionally per meeting. A longitudinal regression controlling for meeting date and topic type could yield more robust evidence about directional trends.</p>
+<p><strong>Outlier detection:</strong> A formal statistical test (e.g., bootstrap confidence intervals, Bayesian inference) could quantify the probability that each member’s observed bias score could arise by chance.</p>
+<p><strong>Network centrality:</strong> Gephi’s bipartite networks could be extended with centrality metrics (betweenness, eigenvector) to identify structurally influential members beyond raw participation counts.</p>
+<p><strong>Cross-validation with outcomes:</strong> If committee voting records or policy outcomes were available, they could be used to validate whether observed bias scores translate into differential policy impact.</p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

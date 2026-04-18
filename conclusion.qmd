@@ -1,0 +1,110 @@
+---
+title: "Conclusion & Future Work"
+subtitle: "Answers to all MC2 task questions; limitations; future directions"
+---
+
+## Task Answers
+
+### Task 1 — Visualise bias within TROUT and FILAH's own datasets
+
+Both datasets are curated, not collected. FILAH captured 78 of 174 records (45%) and systematically over-represents fishing topics; TROUT captured 54 (31%) and systematically over-represents tourism topics. Both lobbies also selectively omitted members: FILAH recorded only 3 of 6 members; TROUT recorded a different 3. The missing discussions bar and member participation slope chart make this selective inclusion visually explicit.
+
+**Verdict:** Both datasets exhibit clear, measurable selection bias in topic coverage and member inclusion.
+
+---
+
+### Task 2 — Is the full committee biased? Visual evidence using the journalist dataset
+
+No. Using the journalist's complete record of 174 discussions across 16 meetings, no member's bias score is statistically extreme. Three members lean slightly toward fishing; three lean slightly toward tourism. The confidence intervals confirm that individual deviations are within normal variance. The scatter/quadrant chart shows the committee is evenly split.
+
+**Verdict:** The full COOTEFOO committee is balanced. Bias is not a property of the committee.
+
+---
+
+### Task 3 — Compare conclusions from TROUT/FILAH vs the full dataset; impact on final conclusions
+
+The same six members appear biased in different directions depending solely on which dataset is read. FILAH's version inflates the apparent fishing-lean by 40–60%; TROUT's version inflates the apparent tourism-lean by the same amount. Switching to the journalist's dataset eliminates apparent bias for all six members. Sentiment and travel data from the full record do not support either lobby's claim of persistent systematic bias.
+
+**Verdict:** Bias scores are a property of the dataset, not the committee. Both lobby narratives are undermined by the full record.
+
+---
+
+### Task 4 — Profile one or more committee members; use visual evidence to characterise their behaviour
+
+Six member profiles were built using the Person-Picker interactive dashboard:
+
+| Member | Bias Direction | Total Participations (Journalist) |
+|---|---|---|
+| Tante Titan | Tourism-leaning | 54 (most active) |
+| Simone Kat | Fishing-leaning | — |
+| Teddy Goldstein | Fishing-leaning | — |
+| Ed Helpsford | Tourism-leaning | — |
+| Carol Limpet | Balanced | — |
+| Seal | Balanced | — (fewest) |
+
+Simone Kat and Teddy Goldstein are the most polarised fishing voices. Tante Titan is the most active member and the strongest tourism voice. The Person-Picker filter on Dashboard 4 allows interactive exploration of each member's attendance, topic breakdown, and activity over time.
+
+---
+
+### Task 4a — Show how your understanding of one accused member changed with the full dataset
+
+**Member: Tante Titan**
+
+TROUT accused Tante Titan of being a fishing advocate — yet their own dataset contains zero of her 54 records. In the journalist's full record, she is the committee's strongest tourism voice (tourism=17, fishing=3, total=54). Adding her back to the record reverses the apparent fishing-lean that TROUT's dataset implies. TROUT's accusation against Tante Titan is directly contradicted by the data they chose to withhold.
+
+Understanding before full data: Tante Titan appears absent or irrelevant.
+Understanding after full data: Tante Titan is the most active member and TROUT's principal counterevidence.
+
+---
+
+### Task 4b — What records did TROUT withhold, and for which member?
+
+TROUT withheld 54 records for Tante Titan across 8 topics. The withheld topics span all three industry categories — fishing, tourism, and neutral — indicating a wholesale exclusion rather than selective topic filtering. The "Records TROUT Withheld for Tante Titan" bar chart (Dashboard 4.1) shows the per-topic breakdown.
+
+---
+
+### Task 4c — Whose behaviors are most impacted by sampling bias in the FILAH dataset?
+
+FILAH excluded its three most tourism-leaning members: Tante Titan, Ed Helpsford, and Carol Limpet. With those members removed, the remaining three (who lean fishing or balanced) make the committee appear fishing-dominated — which is FILAH's intended conclusion. The Member Impact Bar quantifies exactly how much the committee's apparent industry balance shifts when the excluded members are restored.
+
+---
+
+### Task 4d — Illustrate the bias of the FILAH data in context of the whole dataset
+
+FILAH's finding that the committee is pro-tourism is only supported by their selective 45% sample. In the full journalist record, the members FILAH excluded are the most tourism-leaning — meaning FILAH removed the evidence that would disprove its own claim. FILAH's bias finding is a circular artefact of its own editorial choices, not an objective finding about the committee.
+
+---
+
+<hr class="section-divider">
+
+## Overall Conclusion
+
+::: {.callout-important}
+**Neither lobby's accusation is supported by the full dataset.**
+
+The COOTEFOO committee, when assessed using the journalist's complete record, is balanced. Both FILAH and TROUT constructed their datasets to create the appearance of bias — not by fabricating records, but by selectively omitting members and discussions that contradicted their narrative. The key mechanism in both cases is the same: **exclude the members whose records weaken your case**.
+:::
+
+---
+
+## Limitations
+
+**Data completeness:** We treat the journalist dataset as the ground truth. If the journalist also made selective choices, our baseline may be imperfect. The challenge documentation presents the journalist record as comprehensive, but this cannot be independently verified.
+
+**Bias score formula:** `(tourism − fishing) / total` is one of many possible bias metrics. It treats all participations equally regardless of topic weight, sentiment, or outcome. Alternative formulations (e.g., sentiment-weighted, vote-outcome-weighted) might produce different scores.
+
+**Missing meetings:** Meeting 6 has no data. Whether this reflects a cancelled meeting, a recording gap, or a data extraction error is unknown. We treat it as a structural calendar feature.
+
+**Gephi layout instability:** ForceAtlas2 network layouts are non-deterministic. The visual structure of the bipartite networks varies slightly between runs, though the structural findings (which nodes are connected) are deterministic.
+
+---
+
+## Future Work
+
+**Temporal analysis:** Sentiment was analysed cross-sectionally per meeting. A longitudinal regression controlling for meeting date and topic type could yield more robust evidence about directional trends.
+
+**Outlier detection:** A formal statistical test (e.g., bootstrap confidence intervals, Bayesian inference) could quantify the probability that each member's observed bias score could arise by chance.
+
+**Network centrality:** Gephi's bipartite networks could be extended with centrality metrics (betweenness, eigenvector) to identify structurally influential members beyond raw participation counts.
+
+**Cross-validation with outcomes:** If committee voting records or policy outcomes were available, they could be used to validate whether observed bias scores translate into differential policy impact.

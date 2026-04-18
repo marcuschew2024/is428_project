@@ -1,0 +1,10 @@
+Dataset,Dataset_Label,Industry,Count,Known_Total,All_Total,Pct_of_Known,Pct_of_All
+filah,FILAH (Fishing Lobby),fishing,31,78,78,39.7,39.7
+filah,FILAH (Fishing Lobby),tourism,34,78,78,43.6,43.6
+filah,FILAH (Fishing Lobby),neutral,13,78,78,16.7,16.7
+journalist,Journalist (Full Record),fishing,49,174,174,28.2,28.2
+journalist,Journalist (Full Record),tourism,64,174,174,36.8,36.8
+journalist,Journalist (Full Record),neutral,61,174,174,35.1,35.1
+trout,TROUT (Tourism Lobby),fishing,21,54,54,38.9,38.9
+trout,TROUT (Tourism Lobby),tourism,17,54,54,31.5,31.5
+trout,TROUT (Tourism Lobby),neutral,16,54,54,29.6,29.6

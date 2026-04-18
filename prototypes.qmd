@@ -1,0 +1,102 @@
+---
+title: "Prototypes & Design Evolution"
+subtitle: "Wireframes, design decisions, and iteration history"
+---
+
+## Overview
+
+This page documents the design process behind the final dashboards — from initial per-task sketches through to the refined 9-dashboard finding-based layout. Each iteration addressed specific clarity or coverage issues identified during design review.
+
+---
+
+## Design Principles
+
+The dashboards follow five core principles:
+
+1. **One conclusion per view** — each dashboard communicates exactly one finding
+2. **Dataset toggle** — the shared `Dataset_Label` filter lets users switch between FILAH, TROUT, and Journalist across all charts simultaneously
+3. **Consistent colour palette** — fishing = blue, tourism = purple, neutral = green — never deviated
+4. **No repeated charts** — every chart appears on exactly one dashboard
+5. **Fixed 1200 × 800px** — tiled layout, no floating objects
+
+---
+
+## Dashboard Layout Plan
+
+The final website maps to 9 Tableau dashboards:
+
+| Dashboard | Finding | Key Questions |
+|---|---|---|
+| Dashboard 0 | Overview / Entry Point | Orientation |
+| Dashboard 1 | Finding 1 | What each lobby left out |
+| Dashboard 1.1 | Finding 1 (continued) | How exclusions distort the rankings |
+| Dashboard 2 | Finding 2 | Full committee balance |
+| Dashboard 2.1 | Bridge | How selective reporting creates a false narrative |
+| Dashboard 3 | Finding 3 | Sentiment patterns over time |
+| Dashboard 3.1 | Finding 3 (continued) | Member travel behaviour |
+| Dashboard 4 | Finding 4 | Member overview and influence |
+| Dashboard 4.1 | Finding 4 (continued) | The omission case — FILAH, TROUT, and Tante Titan |
+
+---
+
+## Version 1 — Per-Task Sketches
+
+The first version was a hand-drawn sketch for each MC2 task question. One sketch per task, designed independently before any dashboard structure was decided.
+
+<img src="./images/Initial Wireframe.jpg" style="width: 100
+%; height: auto;" alt="Tableau Schedule">
+
+## Version 2 — Finding-Based Layout (Final)
+
+After reviewing the per-task sketches, charts serving the same narrative arc were grouped into shared dashboards. Tasks were not kept as individual dashboards — instead, the structure was reorganised around four findings plus an overview entry point.
+
+Key decisions made at this stage:
+
+- Tasks 4a and 4b were co-located because the member omission evidence and the Tante Titan profile tell one continuous story
+- Dashboard 2.1 was added as a bridge to make the mechanism of bias manipulation explicit before moving to the full-record findings
+- Dashboard 3 was split into D3 (sentiment) and D3.1 (travel) to avoid chart density
+- Dashboard 4 was split into D4 (member overview) and D4.1 (omission case) for the same reason
+
+---
+
+## Colour System
+
+The colour palette was fixed at the start of design to avoid visual inconsistency.
+
+::: {.key-numbers}
+**Fishing:** blue
+**Tourism:** purple
+**Neutral:** green
+:::
+
+---
+
+## Chart Type Selection
+
+Each chart type was chosen to support a specific analytical task:
+
+| Chart Type | Used For | Reason |
+|---|---|---|
+| 100% stacked bar | Industry share per dataset | Shows proportional split; comparison across 3 groups |
+| Diverging bar (lollipop) | Bias scores per member | Centred on zero; direction and magnitude visible |
+| Slope graph | Participation rank shifts | Highlights rank reversals caused by selective inclusion |
+| Scatter/quadrant | Fishing vs tourism participation | Shows cluster structure; identifies balanced vs polarised members |
+| Heatmap (member × topic) | Sentiment patterns | Compact grid; colour encodes sentiment direction |
+| Treemap | Proportional coverage | Size = volume; nesting = member → industry hierarchy |
+| Bubble chart | Influence × bias | Two-dimension encoding: bias score and total activity |
+| Stacked area + line | Sentiment over time | Longitudinal trend; meeting gap visible as axis break |
+| Geographic map | Member travel | Spatial distribution of travel activity |
+| Attendance heatmap | Meeting presence | Matrix view; absences visible as blank cells |
+
+---
+
+## Iteration Log
+
+| Version | Change | Reason |
+|---|---|---|
+| v1 | Per-task sketches (8 sketches, one per question) | Initial design exploration before dashboard structure was decided |
+| v1 → v2 | Regrouped into finding-based dashboards | Task-based splits separated charts that tell one continuous story |
+| v2 | Added Dashboard 2.1 bridge | Makes the bias mechanism explicit before full-record analysis |
+| v2 | Split Dashboard 3 → D3 + D3.1 | Four charts in 1200×800px was too dense; sentiment and travel are distinct findings |
+| v2 | Split Dashboard 4 → D4 + D4.1 | Six charts in 1200×800px was too dense; member overview and omission case are distinct |
+| Final | Added Person-Picker dashboard action in D4 | Interactive filter lets evaluators explore all 6 members without adding new charts |
