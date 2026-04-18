@@ -1,5 +1,5 @@
 ---
-title: "Detecting Bias in COOTEFOO"
+title: "Detecting Bias in COOTEFOO's oversight data"
 subtitle: "IS428 Visual Analytics — Group 10 | AY2025/26 Term 2"
 ---
 
@@ -56,7 +56,7 @@ The journalist dataset is the authoritative baseline. FILAH captured 78 of 174 r
 ## Navigation
 
 | Section | What you'll find |
-|----|----|
+|------------------------------------|------------------------------------|
 | [Data Transformation](data_transformation.qmd) | How raw knowledge graph CSVs were cleaned and transformed |
 | [Finding 1](finding1.qmd) | Dataset coverage bias — selective inclusion by both lobbies |
 | [Finding 2](finding2.qmd) | Committee-level bias analysis using the full journalist record |

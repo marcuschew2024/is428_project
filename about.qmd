@@ -11,7 +11,7 @@ subtitle: "IS428 Visual Analytics — Group 10 | SMU AY2025/26 Term 2"
 
 **Term:** AY2025/26 Term 2
 
-**Challenge:** VAST Challenge 2025, Mini-Challenge 2 — Detecting Bias in COOTEFOO
+**Challenge:** VAST Challenge 2025, Mini-Challenge 2 — Detecting Bias in COOTEFOO's Oversight Data
 
 ------------------------------------------------------------------------
 

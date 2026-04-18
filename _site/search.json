@@ -179,7 +179,7 @@
     "href": "about.html#the-project",
     "title": "About",
     "section": "The Project",
-    "text": "The Project\nCourse: IS428 Visual Analytics\nTerm: AY2025/26 Term 2\nChallenge: VAST Challenge 2025, Mini-Challenge 2 — Detecting Bias in COOTEFOO"
+    "text": "The Project\nCourse: IS428 Visual Analytics\nTerm: AY2025/26 Term 2\nChallenge: VAST Challenge 2025, Mini-Challenge 2 — Detecting Bias in COOTEFOO’s Oversight Data"
   },
   {
     "objectID": "about.html#tools-used",
@@ -261,42 +261,42 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Detecting Bias in COOTEFOO",
+    "title": "Detecting Bias in COOTEFOO’s oversight data",
     "section": "",
     "text": "The Commission on Overseeing the Economic Future of Oceanus (COOTEFOO) sits at the centre of a public controversy. Two advocacy groups — FILAH (fishing lobby) and TROUT (tourism lobby) — have each released datasets claiming to prove that the committee is biased against their industry. A journalist independently obtained a more complete record of all committee meetings.\nThis project uses visual analytics to audit all three datasets and determine who, if anyone, is telling the truth."
   },
   {
     "objectID": "index.html#project-overview",
     "href": "index.html#project-overview",
-    "title": "Detecting Bias in COOTEFOO",
+    "title": "Detecting Bias in COOTEFOO’s oversight data",
     "section": "",
     "text": "The Commission on Overseeing the Economic Future of Oceanus (COOTEFOO) sits at the centre of a public controversy. Two advocacy groups — FILAH (fishing lobby) and TROUT (tourism lobby) — have each released datasets claiming to prove that the committee is biased against their industry. A journalist independently obtained a more complete record of all committee meetings.\nThis project uses visual analytics to audit all three datasets and determine who, if anyone, is telling the truth."
   },
   {
     "objectID": "index.html#the-three-datasets",
     "href": "index.html#the-three-datasets",
-    "title": "Detecting Bias in COOTEFOO",
+    "title": "Detecting Bias in COOTEFOO’s oversight data",
     "section": "The Three Datasets",
     "text": "The Three Datasets\n\n\n\n\n\n\n\n\n\n\nDataset\nSource\nRecords\nShare of Full Record\n\n\n\n\nFILAH\nFishing lobby (advocacy)\n78\n45%\n\n\nTROUT\nTourism lobby (advocacy)\n54\n31%\n\n\nJournalist\nIndependent (full record)\n174\n100%\n\n\n\n\nThe journalist dataset is the authoritative baseline. FILAH captured 78 of 174 records; TROUT captured only 54."
   },
   {
     "objectID": "index.html#the-four-findings",
     "href": "index.html#the-four-findings",
-    "title": "Detecting Bias in COOTEFOO",
+    "title": "Detecting Bias in COOTEFOO’s oversight data",
     "section": "The Four Findings",
     "text": "The Four Findings\n\n\n\n\n\n\nFinding 1 — Both Datasets Were Curated, Not Collected FILAH and TROUT each systematically over-represent their preferred industry and exclude discussions that undermine their case.\n\n\n\n\n\n\n\n\n\nFinding 2 — The Full Committee Is Balanced Using the journalist’s complete record, no member’s bias score is statistically extreme. Two members lean toward fishing, three toward tourism, and one is balanced.\n\n\n\n\n\n\n\n\n\nFinding 3 — Sentiment and Travel Show No Systematic Tilt Meeting sentiment oscillates around neutral across all 16 sessions. Member travel destinations span both fishing and tourism zones.\n\n\n\n\n\n\n\n\n\nFinding 4 — The Distortion Comes from Omitted Members, Not Fabricated Data Tante Titan — the committee’s most active member and a strong tourism voice — was excluded from both lobby datasets entirely. Restoring her records reverses TROUT’s apparent fishing-lean finding."
   },
   {
     "objectID": "index.html#key-visualisations",
     "href": "index.html#key-visualisations",
-    "title": "Detecting Bias in COOTEFOO",
+    "title": "Detecting Bias in COOTEFOO’s oversight data",
     "section": "Key Visualisations",
     "text": "Key Visualisations\n\nOverview dashboard — three datasets tell wildly different stories about the same six-member committee."
   },
   {
     "objectID": "index.html#navigation",
     "href": "index.html#navigation",
-    "title": "Detecting Bias in COOTEFOO",
+    "title": "Detecting Bias in COOTEFOO’s oversight data",
     "section": "Navigation",
     "text": "Navigation\n\n\n\nSection\nWhat you’ll find\n\n\n\n\nData Transformation\nHow raw knowledge graph CSVs were cleaned and transformed\n\n\nFinding 1\nDataset coverage bias — selective inclusion by both lobbies\n\n\nFinding 2\nCommittee-level bias analysis using the full journalist record\n\n\nFinding 3\nSentiment over time and member travel patterns\n\n\nFinding 4\nMember deep-dive — Tante Titan exclusion and person-picker\n\n\nConclusion\nAnswers to all MC2 tasks\n\n\nStoryboard\nInteractive Tableau application — all 9 dashboards\n\n\nUser Guide\nHow to navigate the interactive Tableau application\n\n\nAbout\nTeam members and project context\n\n\n\n\n\nView the full project proposal →"
   },
