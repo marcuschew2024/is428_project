@@ -3,6 +3,12 @@ title: "About"
 subtitle: "IS428 Visual Analytics — Group 10 | SMU AY2025/26 Term 2"
 ---
 
+## Team
+
+- Kimerlin Foo
+- Marcus Chew
+- Jia Xiaoning
+
 ------------------------------------------------------------------------
 
 ## The Project

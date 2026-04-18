@@ -543,7 +543,7 @@
     "href": "finding2.html#dashboard-2-committee-balance-full-record",
     "title": "Finding 2: The Full Committee Is Balanced",
     "section": "Dashboard 2 — Committee Balance (Full Record)",
-    "text": "Dashboard 2 — Committee Balance (Full Record)\n\nMember Bias Scores — Journalist Dataset\n\nDiverging lollipop bar — Member Bias Scores using the journalist’s full record. Fishing-leaning members extend left (blue); tourism-leaning members extend right (purple). Zero line is the balance point.\nThe lollipop chart shows each member’s bias score centred on zero. The visual immediately communicates that the committee splits evenly: some members lean fishing, some lean tourism, with no extreme outliers when the full record is used.\n\n\nConfidence Intervals\n\nConfidence interval chart — statistical significance of individual bias scores. Error bars represent the uncertainty around each member’s score given their total participation count.\nThe confidence intervals confirm that no member’s score deviates significantly from zero in a statistically meaningful sense. Members with fewer total participations have wider intervals — their scores are less reliable. This chart prevents the lollipop from being over-interpreted.\n\n\nFishing vs Tourism Participation Quadrant\n\nScatter/quadrant chart — each member plotted by fishing participation (x-axis) vs tourism participation (y-axis). Quadrant lines divide fishing-dominant from tourism-dominant regions.\nThe scatter quadrant shows the committee’s structure: three members fall in the upper-left (fishing-dominant) quadrant and three in the lower-right (tourism-dominant). No member occupies an extreme corner. This confirms the finding visually without relying on the bias score formula.\n\n\nTreemap — Proportional Coverage\n\nTreemap — each tile represents one member × industry combination. Tile size encodes total participation count; colour encodes industry.\nThe treemap makes one fact immediately obvious: Tante Titan is the largest tile. She dominates total participation and is tourism-leaning. Her exclusion from both lobby datasets was not accidental — removing her record materially alters the committee’s apparent industry balance."
+    "text": "Dashboard 2 — Committee Balance (Full Record)\n\nMember Bias Scores — Journalist Dataset\n\nDiverging lollipop bar — Member Bias Scores using the journalist’s full record. Fishing-leaning members extend left (blue); tourism-leaning members extend right (purple). Zero line is the balance point.\nThe lollipop chart shows each member’s bias score centred on zero. The visual immediately communicates that the committee splits evenly: some members lean fishing, some lean tourism, with no extreme outliers when the full record is used.\n\n\nConfidence Intervals\n\nConfidence interval chart — statistical significance of individual bias scores. Error bars represent the uncertainty around each member’s score given their total participation count.\nThe confidence intervals confirm that no member’s score deviates significantly from zero in a statistically meaningful sense. Members with fewer total participations have wider intervals — their scores are less reliable. This chart prevents the lollipop from being over-interpreted.\n\n\nFishing vs Tourism Participation Quadrant\n\nScatter/quadrant chart — each member plotted by fishing participation (x-axis) vs tourism participation (y-axis). Quadrant lines divide fishing-dominant from tourism-dominant regions.\nThe scatter quadrant shows the committee’s structure: members with high tourism and low fishing participation fall in the upper-left (tourism-dominant) quadrant; members with high fishing and low tourism fall in the lower-right (fishing-dominant) quadrant. No member occupies an extreme corner. This confirms the finding visually without relying on the bias score formula.\n\n\nTreemap — Proportional Coverage\n\nTreemap — each tile represents one member × industry combination. Tile size encodes total participation count; colour encodes industry.\nThe treemap makes one fact immediately obvious: Tante Titan is the largest tile. She dominates total participation and is tourism-leaning. Her exclusion from both lobby datasets was not accidental — removing her record materially alters the committee’s apparent industry balance."
   },
   {
     "objectID": "finding2.html#dashboard-2.1-how-selective-reporting-creates-a-false-narrative",
@@ -565,5 +565,19 @@
     "title": "Finding 2: The Full Committee Is Balanced",
     "section": "Key Takeaway",
     "text": "Key Takeaway\nThe full committee is balanced. COOTEFOO’s six members collectively represent both fishing and tourism interests in near-equal measure. The impression of bias only arises when the record is selectively filtered — as both lobbies did."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Kimerlin Foo\nMarcus Chew\nJia Xiaoning"
+  },
+  {
+    "objectID": "about.html#team",
+    "href": "about.html#team",
+    "title": "About",
+    "section": "",
+    "text": "Kimerlin Foo\nMarcus Chew\nJia Xiaoning"
   }
 ]
