@@ -5,7 +5,7 @@ subtitle: "Interactive Tableau dashboard — all findings in one application"
 
 ## About the Storyboard
 
-The interactive storyboard below presents all six dashboards in sequence, from the overview entry point through to the final member deep-dive. Use the arrow controls at the bottom of the storyboard to navigate between dashboards, or click any story point caption to jump directly to a dashboard.
+The interactive storyboard below presents all nine dashboards in sequence, from the overview entry point through to the final member deep-dive. Use the arrow controls at the top of the storyboard to navigate between dashboards, or click any story point caption to jump directly to a dashboard.
 
 For a detailed walkthrough of each dashboard and how to use the interactive features, see the [User Guide](user_guide.qmd).
 

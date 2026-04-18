@@ -32,7 +32,7 @@ The journalist dataset is the authoritative baseline. FILAH captured 78 of 174 r
 :::
 
 ::: {.callout-note appearance="simple"}
-**Finding 2 — The Full Committee Is Balanced** Using the journalist's complete record, no member's bias score is statistically extreme. Three members lean slightly toward fishing, three toward tourism.
+**Finding 2 — The Full Committee Is Balanced** Using the journalist's complete record, no member's bias score is statistically extreme. Two members lean toward fishing, three toward tourism, and one is balanced.
 :::
 
 ::: {.callout-note appearance="simple"}
@@ -56,14 +56,14 @@ The journalist dataset is the authoritative baseline. FILAH captured 78 of 174 r
 ## Navigation
 
 | Section | What you'll find |
-|------------------------------------|------------------------------------|
+|----|----|
 | [Data Transformation](data_transformation.qmd) | How raw knowledge graph CSVs were cleaned and transformed |
 | [Finding 1](finding1.qmd) | Dataset coverage bias — selective inclusion by both lobbies |
 | [Finding 2](finding2.qmd) | Committee-level bias analysis using the full journalist record |
 | [Finding 3](finding3.qmd) | Sentiment over time and member travel patterns |
 | [Finding 4](finding4.qmd) | Member deep-dive — Tante Titan exclusion and person-picker |
-| [Conclusion](conclusion.qmd) | Answers to all 8 MC2 task questions |
-| [Storyboard](storyboard.qmd) | Annotated screenshots of all 6 dashboards |
+| [Conclusion](conclusion.qmd) | Answers to all MC2 tasks |
+| [Storyboard](storyboard.qmd) | Interactive Tableau application — all 9 dashboards |
 | [User Guide](user_guide.qmd) | How to navigate the interactive Tableau application |
 | [About](about.qmd) | Team members and project context |
 

@@ -31,7 +31,7 @@ The combined participation view exposes that FILAH and TROUT did not just omit t
 
 *Missing discussions bar — topics each lobby omitted entirely from their dataset. Topics present in the journalist record but with zero records in FILAH or TROUT are shown here.*
 
-Both lobbies omitted entire discussion topics. The topics each lobby left out are not random — they are systematically the ones most damaging to their narrative. FILAH omits tourism-heavy discussions; TROUT omits fishing-heavy ones.
+Both lobbies omitted entire discussion topics. The topics each lobby left out are not random — they are systematically the ones most damaging to their narrative. FILAH omits fishing-heavy discussions; TROUT omits tourism-heavy ones.
 
 <hr class="section-divider">
 

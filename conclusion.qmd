@@ -1,6 +1,6 @@
 ---
 title: "Conclusion & Future Work"
-subtitle: "Answers to all MC2 task questions; limitations; future directions"
+subtitle: "Answers to all MC2 tasks; limitations; future directions"
 ---
 
 ## Task Answers
@@ -36,13 +36,13 @@ Six member profiles were built using the Person-Picker interactive dashboard:
 | Member | Bias Direction | Total Participations (Journalist) |
 |---|---|---|
 | Tante Titan | Tourism-leaning | 54 (most active) |
-| Simone Kat | Fishing-leaning | — |
-| Teddy Goldstein | Fishing-leaning | — |
-| Ed Helpsford | Tourism-leaning | — |
-| Carol Limpet | Balanced | — |
-| Seal | Balanced | — (fewest) |
+| Simone Kat | Balanced | 45 |
+| Teddy Goldstein | Fishing-leaning | 22 |
+| Carol Limpet | Tourism-leaning | 21 |
+| Ed Helpsford | Tourism-leaning | 20 |
+| Seal | Fishing-leaning | 12 (fewest) |
 
-Simone Kat and Teddy Goldstein are the most polarised fishing voices. Tante Titan is the most active member and the strongest tourism voice. The Person-Picker filter on Dashboard 4 allows interactive exploration of each member's attendance, topic breakdown, and activity over time.
+Teddy Goldstein is the most polarised fishing voice (bias score −0.32). Tante Titan is the most active member and the strongest tourism voice. Simone Kat, despite high fishing participation (20), is balanced overall due to near-equal tourism participation (19). The Person-Picker filter on Dashboard 4 allows interactive exploration of each member's attendance, topic breakdown, and activity over time.
 
 ---
 
@@ -65,13 +65,13 @@ TROUT withheld 54 records for Tante Titan across 8 topics. The withheld topics s
 
 ### Task 4c — Whose behaviors are most impacted by sampling bias in the FILAH dataset?
 
-FILAH excluded its three most tourism-leaning members: Tante Titan, Ed Helpsford, and Carol Limpet. With those members removed, the remaining three (who lean fishing or balanced) make the committee appear fishing-dominated — which is FILAH's intended conclusion. The Member Impact Bar quantifies exactly how much the committee's apparent industry balance shifts when the excluded members are restored.
+FILAH excluded **Tante Titan** (+0.26), **Ed Helpsford** (+0.25), and **Teddy Goldstein** (−0.32). The most consequential exclusion is Teddy Goldstein — the committee's strongest fishing voice. By removing him, FILAH eliminated the member most likely to undermine its claim that the committee is pro-tourism. With these three excluded, FILAH's remaining members (Carol Limpet, Simone Kat, Seal) make the committee appear tourism-leaning (tourism=43.6%, fishing=39.7%) — directly supporting FILAH's accusation. The Member Impact Bar quantifies how much the committee's apparent balance shifts when the excluded members are restored.
 
 ---
 
 ### Task 4d — Illustrate the bias of the FILAH data in context of the whole dataset
 
-FILAH's finding that the committee is pro-tourism is only supported by their selective 45% sample. In the full journalist record, the members FILAH excluded are the most tourism-leaning — meaning FILAH removed the evidence that would disprove its own claim. FILAH's bias finding is a circular artefact of its own editorial choices, not an objective finding about the committee.
+FILAH's data shows the committee as slightly tourism-leaning (tourism=43.6%, fishing=39.7%) — a picture engineered by excluding Teddy Goldstein, the strongest fishing voice, along with two other members. In the full journalist record, the industry breakdown shifts to fishing=28.2%, tourism=36.8%, neutral=35.1%, and by member bias scores the committee has two fishing-leaning members, three tourism-leaning, and one balanced. FILAH's claim of a pro-tourism committee is a product of selective omission — specifically the removal of Goldstein — not an objective property of the committee.
 
 ---
 

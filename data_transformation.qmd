@@ -111,14 +111,13 @@ Bias_Score = (tourism_participations − fishing_participations) / total_partici
 
 ## Running the Script
 
+[Download mc2_prepare.py](mc2_prepare.py){.btn .btn-primary}
+
 ```bash
-cd ~/Desktop/vaProjectData
 python3 mc2_prepare.py
 ```
 
 Outputs are written to `./tableau_data/`. The script prints row counts and a summary report on completion.
-
-> **Note:** `mc2_prepare.py` is located in `~/Desktop/vaProjectData/`, not in the Quarto project folder. The output CSVs in `tableau_data/` are what Tableau connects to directly.
 
 ---
 

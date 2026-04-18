@@ -227,7 +227,7 @@ ul.task-list li input[type="checkbox"] {
 <li><p><strong>Story Point Navigation</strong> — Users can move between the 9 dashboards using the navigation controls at the top of the storyboard.</p>
 <ol type="a">
 <li>Users can click the <strong>left/right arrow</strong> buttons to move to the previous or next dashboard sequentially.</li>
-<li>Users can click any <strong>numbered tab</strong> directly to jump to a specific dashboard.</li>
+<li>Users can click any <strong>labelled tab</strong> directly to jump to a specific dashboard.</li>
 </ol></li>
 </ol>
 <hr>
@@ -252,7 +252,7 @@ ul.task-list li input[type="checkbox"] {
 </ol></li>
 <li><p><strong>Dataset Label Filter</strong> — Users can select a dataset using the filter panel to change which dataset is reflected in the bias bar.</p>
 <ol type="a">
-<li>Users can select <code>FILAH (Fishing Lobby)</code>, <code>TROUT (Tourism Lobby)</code>, or <code>Journalist (Full Record)</code>.</li>
+<li>Users can select <code>filah</code>, <code>trout</code>, or <code>journalist</code>.</li>
 <li>Changing the filter updates the bias bar chart to reflect that dataset’s member scores.</li>
 </ol></li>
 </ol>
@@ -265,13 +265,11 @@ ul.task-list li input[type="checkbox"] {
 <ol type="1">
 <li><p><strong>Member Participation Stacked Bar</strong> (top) — Shows the total number of discussions each member participated in, broken down by industry (fishing / tourism / neutral), for all three datasets side by side.</p>
 <ol type="a">
-<li>Users can use the <strong>Dataset Label filter</strong> to switch between the FILAH, TROUT, and Journalist views.</li>
 <li>Members excluded from the selected dataset will not appear in the chart.</li>
 <li>Users can hover over a bar segment to see the member’s name, industry category, and participation count.</li>
 </ol></li>
 <li><p><strong>Missing Discussions Bar</strong> (bottom) — Shows which topics each lobby omitted entirely from their dataset.</p>
 <ol type="a">
-<li>Users can use the <strong>Dataset Label filter</strong> to switch between viewing FILAH’s omissions and TROUT’s omissions.</li>
 <li>Users can hover over a bar to see the topic name, industry category, and number of records omitted.</li>
 <li>Topics are sorted by number of omitted records descending.</li>
 </ol></li>
@@ -291,7 +289,6 @@ ul.task-list li input[type="checkbox"] {
 </ol></li>
 <li><p><strong>Member Participation — FILAH vs TROUT</strong> — Places the FILAH-only and TROUT-only participation bars side by side for direct comparison.</p>
 <ol type="a">
-<li>Users can use the <strong>Dataset Label filter</strong> to toggle between the two lobby views, or view them together if the combined chart is used.</li>
 <li>Users can hover over a bar segment to see the member’s name, industry category, and participation count.</li>
 <li>The near-complete absence of overlap between the two lobbies’ recorded members is immediately visible.</li>
 </ol></li>
@@ -358,7 +355,6 @@ ul.task-list li input[type="checkbox"] {
 <ol type="a">
 <li>Users can hover over any point on the trend line to see the meeting number and average sentiment score.</li>
 <li>The gap between Meeting 5 and Meeting 7 reflects a session that was not held — this is a structural calendar feature, not a data gap.</li>
-<li>Users can use the <strong>Dataset Label filter</strong> to compare sentiment patterns across the three datasets.</li>
 </ol></li>
 <li><p><strong>Committee Context Comparison</strong> (bottom left) — Compares TROUT’s apparent committee-level industry balance with the journalist’s full record.</p>
 <ol type="a">
@@ -381,14 +377,13 @@ ul.task-list li input[type="checkbox"] {
 <li><p><strong>Travel Map</strong> (main) — Shows COOTEFOO member travel destinations on a map of Oceanus. Markers are colour-coded by industry zone.</p>
 <ol type="a">
 <li>Users can hover over any marker to open a <strong>tooltip heatmap</strong> showing city-level visit breakdowns by member.</li>
-<li>Users can zoom in and out using scroll, and reset the map view by double-clicking.</li>
+<li>Users can zoom in and out, and reset the map view by clicking the home icon.</li>
 <li>Users can use the <strong>Dataset Label filter</strong> to view only the travel records captured by a specific dataset.</li>
 </ol></li>
 <li><p><strong>Travel Activity Breakdown</strong> (supporting) — Shows total travel activity per member broken down by destination zone (fishing / tourism / neutral).</p>
 <ol type="a">
 <li>Users can hover over any bar segment to see the member name, destination zone, and trip count.</li>
 <li>Bars are sorted by total trip count descending.</li>
-<li>Users can use the <strong>Dataset Label filter</strong> to compare travel patterns across the three datasets.</li>
 </ol></li>
 </ol>
 <hr>
@@ -408,7 +403,6 @@ ul.task-list li input[type="checkbox"] {
 <ol type="a">
 <li>Users can hover over any cell to see the member name, meeting number, and discussion count for that session.</li>
 <li>When the Person-Picker is active, only the selected member’s row is highlighted.</li>
-<li>Users can use the <strong>Dataset Label filter</strong> to compare attendance records across the three datasets.</li>
 </ol></li>
 <li><p><strong>Member Activity Over Time</strong> (bottom) — Shows each member’s participation count across all 16 meetings as a line chart.</p>
 <ol type="a">

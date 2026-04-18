@@ -9,8 +9,8 @@ The lobbies did not fabricate records. The distortion in their datasets comes en
 
 ::: {.key-numbers}
 **Tante Titan's record (journalist):** 54 total participations — fishing: 3, tourism: 17, neutral: 34
-**TROUT withheld for Tante Titan:** 54 records across 8 topics
-**Effect of her exclusion:** removes the committee's strongest tourism voice — creating an apparent fishing-lean in TROUT's dataset
+**TROUT excluded:** Tante Titan (54 records), Carol Limpet (21), Simone Kat (45) — committee appears fishing-leaning in TROUT's data (fishing=38.9%, tourism=31.5%)
+**FILAH excluded:** Tante Titan (54 records), Ed Helpsford (20), Teddy Goldstein (22) — committee appears tourism-leaning in FILAH's data (tourism=43.6%, fishing=39.7%)
 :::
 
 <hr class="section-divider">
@@ -30,11 +30,11 @@ The influence bubble provides an overview of all six members' profiles at a glan
 | Member | Bias Direction | Total Participations | Note |
 |---|---|---|---|
 | Tante Titan | Tourism-leaning | 54 (highest) | Excluded from both lobbies |
-| Simone Kat | Fishing-leaning | high | Most polarised fishing voice |
-| Teddy Goldstein | Fishing-leaning | medium | Recorded faithfully by TROUT |
-| Ed Helpsford | Tourism-leaning | medium | Excluded from FILAH |
-| Carol Limpet | Balanced | medium | Excluded from FILAH |
-| Seal | Balanced | low | Present in both lobby datasets |
+| Simone Kat | Balanced | 45 | Most active after Tante Titan |
+| Teddy Goldstein | Fishing-leaning | 22 | Most polarised fishing voice (−0.32); excluded from FILAH |
+| Carol Limpet | Tourism-leaning | 21 | Excluded from TROUT |
+| Ed Helpsford | Tourism-leaning | 20 | Excluded from FILAH |
+| Seal | Fishing-leaning | 12 (lowest) | Present in both lobby datasets |
 
 Clicking a member in this chart filters all other charts on the dashboard to that member's records.
 
@@ -66,7 +66,7 @@ A **Member Filter** on this dashboard allows switching between any COOTEFOO memb
 
 *Industry share comparison — committee-level industry balance with and without the excluded members. Shows how the lobbies' omissions shift the apparent committee balance.*
 
-Both lobbies excluded members whose records would have undermined their narrative. TROUT excluded Tante Titan — the committee's strongest tourism voice (tourism=17, fishing=3) — causing an apparent fishing-lean in TROUT's dataset. FILAH excluded the three most tourism-leaning members: **Tante Titan**, **Ed Helpsford**, and **Carol Limpet** — causing an apparent fishing-dominated picture. The impact bar quantifies exactly how much the committee's apparent balance shifts when these members are restored.
+Both lobbies excluded members whose records would have undermined their narrative. FILAH excluded **Tante Titan**, **Ed Helpsford**, and **Teddy Goldstein** — critically, Goldstein is the committee's strongest fishing voice (−0.32), so removing him makes the committee appear more tourism-leaning in FILAH's data (tourism=43.6%, fishing=39.7%), supporting FILAH's claim that the committee is pro-tourism. TROUT excluded **Tante Titan**, **Carol Limpet**, and **Simone Kat** — removing all strong tourism voices — making the committee appear fishing-leaning in TROUT's data (fishing=38.9%, tourism=31.5%), supporting TROUT's claim that the committee is pro-fishing. The impact bar quantifies exactly how much the committee's apparent balance shifts when these excluded members are restored.
 
 ### Records FILAH Withheld
 
@@ -82,7 +82,7 @@ FILAH's exclusions were wholesale — entire members were removed, not individua
 
 *Withheld records bar chart — count of records TROUT withheld for the selected member, broken down by topic. Formula: journalist count − TROUT count per topic. Responds to the Member Filter.*
 
-With Tante Titan selected, TROUT withheld 54 records across 8 topics spanning fishing, tourism, and neutral categories — a total, wholesale exclusion. Switching to other members shows how TROUT's omissions were concentrated on Tante Titan specifically.
+With Tante Titan selected, TROUT withheld 54 records across 8 topics spanning fishing, tourism, and neutral categories — a total, wholesale exclusion. TROUT also excluded Carol Limpet (21 records) and Simone Kat (45 records). Switching members shows the full scale of TROUT's omissions across all three excluded members.
 
 ### Member Topic Profile — Treemap
 

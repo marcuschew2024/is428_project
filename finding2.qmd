@@ -5,12 +5,12 @@ subtitle: "Bias analysis using the journalist's complete record"
 
 ## Summary
 
-Using the journalist's complete record, no member's bias score is statistically extreme. Three members lean slightly toward fishing, three toward tourism — the committee is balanced, not captured. The confidence intervals confirm that individual deviations are within normal variance.
+Using the journalist's complete record, no member's bias score is statistically extreme. Two members lean toward fishing, three toward tourism, and one is balanced — the committee is not captured by either industry. The confidence intervals confirm that individual deviations are within normal variance.
 
 ::: {.key-numbers}
-**Bias score range (journalist):** approximately −0.4 to +0.4 across all 6 members
+**Bias score range (journalist):** −0.32 (Teddy Goldstein) to +0.29 (Carol Limpet)
 **Threshold:** |bias| > 0.15 = directional; within ±0.15 = balanced
-**Net committee bias:** near zero — fishing-leaning and tourism-leaning members cancel out
+**Net committee bias:** near zero — fishing-leaning and tourism-leaning members broadly cancel out
 :::
 
 <hr class="section-divider">
@@ -35,7 +35,7 @@ The confidence intervals confirm that no member's score deviates significantly f
 
 ### Fishing vs Tourism Participation Quadrant
 
-<img src="./images/Fishing vs Tourism participation (Journalist).png" style="width: 100%; height: auto;" alt="Tableau Schedule">
+<img src="./images/Fishing vs Tourism participation (Journalist).png" style="width: 80%; height: auto;" alt="Tableau Schedule">
 
 *Scatter/quadrant chart — each member plotted by fishing participation (x-axis) vs tourism participation (y-axis). Quadrant lines divide fishing-dominant from tourism-dominant regions.*
 
@@ -61,7 +61,7 @@ This bridge dashboard shows the same six members through three different lenses:
 
 *Three bias bar charts side by side — FILAH (left), Journalist (centre), TROUT (right). The same member can look fishing-biased in one and tourism-biased in another.*
 
-This is the most powerful chart in the project. It shows that FILAH's version inflates the apparent fishing-lean by 40–60%; TROUT's version inflates the apparent tourism-lean by the same amount. The journalist's version shows neither.
+This is the most powerful chart in the project. It shows that FILAH's version makes the committee appear tourism-leaning — supporting FILAH's claim that the committee is biased against fishing. TROUT's version makes the committee appear fishing-leaning — supporting TROUT's claim that the committee is biased against tourism. The journalist's version shows a balanced committee that neither lobby's accusation describes.
 
 ### Topic Breakdown Stacked Bar — Per Member
 

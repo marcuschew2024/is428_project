@@ -20,7 +20,7 @@ This dashboard serves as the entry point to the application, providing an overvi
 1) **Story Point Navigation** — Users can move between the 9 dashboards using the navigation controls at the top of the storyboard.
 
     a. Users can click the **left/right arrow** buttons to move to the previous or next dashboard sequentially.
-    b. Users can click any **numbered tab** directly to jump to a specific dashboard.
+    b. Users can click any **labelled tab** directly to jump to a specific dashboard.
 
 ---
 
@@ -45,7 +45,7 @@ This dashboard serves as the entry point to the application. It presents all thr
 
 4) **Dataset Label Filter** — Users can select a dataset using the filter panel to change which dataset is reflected in the bias bar.
 
-    a. Users can select `FILAH (Fishing Lobby)`, `TROUT (Tourism Lobby)`, or `Journalist (Full Record)`.
+    a. Users can select `filah`, `trout`, or `journalist`.
     b. Changing the filter updates the bias bar chart to reflect that dataset's member scores.
 
 ---
@@ -58,15 +58,13 @@ This dashboard shows that the lobbies' omissions are not accidental — they sys
 
 1) **Member Participation Stacked Bar** (top) — Shows the total number of discussions each member participated in, broken down by industry (fishing / tourism / neutral), for all three datasets side by side.
 
-    a. Users can use the **Dataset Label filter** to switch between the FILAH, TROUT, and Journalist views.
-    b. Members excluded from the selected dataset will not appear in the chart.
-    c. Users can hover over a bar segment to see the member's name, industry category, and participation count.
+    a. Members excluded from the selected dataset will not appear in the chart.
+    b. Users can hover over a bar segment to see the member's name, industry category, and participation count.
 
 2) **Missing Discussions Bar** (bottom) — Shows which topics each lobby omitted entirely from their dataset.
 
-    a. Users can use the **Dataset Label filter** to switch between viewing FILAH's omissions and TROUT's omissions.
-    b. Users can hover over a bar to see the topic name, industry category, and number of records omitted.
-    c. Topics are sorted by number of omitted records descending.
+    a. Users can hover over a bar to see the topic name, industry category, and number of records omitted.
+    b. Topics are sorted by number of omitted records descending.
 
 ---
 
@@ -84,9 +82,8 @@ This dashboard shows the structural consequence of the lobbies' member exclusion
 
 2) **Member Participation — FILAH vs TROUT** — Places the FILAH-only and TROUT-only participation bars side by side for direct comparison.
 
-    a. Users can use the **Dataset Label filter** to toggle between the two lobby views, or view them together if the combined chart is used.
-    b. Users can hover over a bar segment to see the member's name, industry category, and participation count.
-    c. The near-complete absence of overlap between the two lobbies' recorded members is immediately visible.
+    a. Users can hover over a bar segment to see the member's name, industry category, and participation count.
+    b. The near-complete absence of overlap between the two lobbies' recorded members is immediately visible.
 
 ---
 
@@ -151,7 +148,6 @@ This dashboard examines whether meeting sentiment shows any persistent direction
 
     a. Users can hover over any point on the trend line to see the meeting number and average sentiment score.
     b. The gap between Meeting 5 and Meeting 7 reflects a session that was not held — this is a structural calendar feature, not a data gap.
-    c. Users can use the **Dataset Label filter** to compare sentiment patterns across the three datasets.
 
 2) **Committee Context Comparison** (bottom left) — Compares TROUT's apparent committee-level industry balance with the journalist's full record.
 
@@ -174,14 +170,13 @@ This dashboard examines whether member travel destinations show any geographic c
 1) **Travel Map** (main) — Shows COOTEFOO member travel destinations on a map of Oceanus. Markers are colour-coded by industry zone.
 
     a. Users can hover over any marker to open a **tooltip heatmap** showing city-level visit breakdowns by member.
-    b. Users can zoom in and out using scroll, and reset the map view by double-clicking.
+    b. Users can zoom in and out, and reset the map view by clicking the home icon.
     c. Users can use the **Dataset Label filter** to view only the travel records captured by a specific dataset.
 
 2) **Travel Activity Breakdown** (supporting) — Shows total travel activity per member broken down by destination zone (fishing / tourism / neutral).
 
     a. Users can hover over any bar segment to see the member name, destination zone, and trip count.
     b. Bars are sorted by total trip count descending.
-    c. Users can use the **Dataset Label filter** to compare travel patterns across the three datasets.
 
 ---
 
@@ -201,7 +196,6 @@ This dashboard provides an overview of all six members' profiles. Clicking any m
 
     a. Users can hover over any cell to see the member name, meeting number, and discussion count for that session.
     b. When the Person-Picker is active, only the selected member's row is highlighted.
-    c. Users can use the **Dataset Label filter** to compare attendance records across the three datasets.
 
 3) **Member Activity Over Time** (bottom) — Shows each member's participation count across all 16 meetings as a line chart.
 
