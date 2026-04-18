@@ -1,5 +1,5 @@
 ---
-title: "Detecting Bias in COOTEFOO's oversight data"
+title: "Detecting Bias in COOTEFOO's Oversight Data"
 subtitle: "IS428 Visual Analytics — Group 10 | AY2025/26 Term 2"
 ---
 
