@@ -40,8 +40,10 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      - cosmo
+      - custom.scss
+    highlight-style: github-dark
     toc: true
     toc-depth: 3
     code-fold: true

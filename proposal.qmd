@@ -5,9 +5,6 @@ format:
     toc: true
     toc-depth: 3
     toc-title: "Contents"
-    theme:
-      - cosmo
-    css: styles.css
 ---
 
 ## Project Motivation

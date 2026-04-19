@@ -43,7 +43,7 @@ The scatter quadrant shows the committee's structure: members with high tourism 
 
 ### Treemap — Proportional Coverage
 
-<img src="./images/Proportional Coverage By Member and Industry.png" style="width: 100%; height: auto;" alt="Tableau Schedule">
+<img src="./images/Proportional Coverage by Member and Industry.png" style="width: 100%; height: auto;" alt="Tableau Schedule">
 
 *Treemap — each tile represents one member × industry combination. Tile size encodes total participation count; colour encodes industry.*
 
