@@ -1,0 +1,191 @@
+/*-- scss:defaults --*/
+
+// These variables are compiled ONLY into the dark stylesheet.
+// They override darkly's Bootstrap defaults before compilation,
+// which is the correct Quarto mechanism for dark-mode theming.
+
+$body-color:         #f0f4f8;
+$headings-color:     #f8fafc;
+$border-color:       #2d3f55;
+$code-color:         #e2e8f0;
+
+// Tables
+$table-color:        #f8fafc;
+$table-bg:           #162032;
+$table-border-color: #2d3f55;
+$table-striped-bg:   #1e2f45;
+$table-striped-color:#f8fafc;
+$table-hover-bg:     rgba(37, 99, 235, 0.18);
+$table-hover-color:  #ffffff;
+
+// Cards
+$card-bg:            #162032;
+$card-color:         #f8fafc;
+$card-border-color:  #2d3f55;
+$card-cap-bg:        #1e2f45;
+
+// Links — WCAG AA on dark backgrounds
+$link-color:         #93c5fd;
+$link-hover-color:   #bfdbfe;
+
+
+/*-- scss:rules --*/
+
+// ── Custom property overrides ────────────────────────────
+:root {
+  --brand-blue-lt:  rgba(37, 99, 235, 0.15);
+  --brand-blue-mid: rgba(37, 99, 235, 0.3);
+  --surface:        #1e293b;
+  --border:         #2d3f55;
+  --text-muted:     #94a3b8;
+}
+
+// ── h2 underline ─────────────────────────────────────────
+h2 { border-bottom-color: rgba(37, 99, 235, 0.25); }
+
+// ── Tables ───────────────────────────────────────────────
+// Belt-and-suspenders: set Bootstrap 5 CSS variables on the
+// table element AND hard-code td/th color so no light-mode
+// rule from custom.scss can win.
+table {
+  --bs-table-color:         #f8fafc;
+  --bs-table-bg:            #162032;
+  --bs-table-border-color:  #2d3f55;
+  --bs-table-striped-color: #f8fafc;
+  --bs-table-striped-bg:    #1e2f45;
+  --bs-table-hover-color:   #ffffff;
+  --bs-table-hover-bg:      rgba(37, 99, 235, 0.18);
+  --bs-table-active-color:  #ffffff;
+  --bs-table-active-bg:     rgba(37, 99, 235, 0.22);
+
+  border-color: #2d3f55 !important;
+
+  thead tr {
+    background: linear-gradient(135deg, #0a1628 0%, #162032 100%) !important;
+    th { color: #f8fafc !important; }
+  }
+
+  tbody tr {
+    border-bottom-color: #2d3f55 !important;
+    td { color: #f8fafc !important; }
+    &:nth-child(even) { background-color: #1e2f45 !important; }
+    &:hover          { background-color: rgba(37, 99, 235, 0.18) !important; }
+  }
+}
+
+// ── Key-numbers box ──────────────────────────────────────
+.key-numbers {
+  background: rgba(37, 99, 235, 0.14);
+  border-color: rgba(37, 99, 235, 0.35);
+  color: #f8fafc;
+  strong { color: #93c5fd; }
+
+  table thead th,
+  table tbody td { color: #f8fafc !important; }
+}
+
+// ── Callouts ─────────────────────────────────────────────
+.callout {
+  .callout-body,
+  .callout-body p { color: #e2e8f0 !important; }
+
+  &.callout-note {
+    background: rgba(37, 99, 235, 0.14);
+    .callout-header { color: #93c5fd; }
+  }
+  &.callout-tip {
+    background: rgba(34, 197, 94, 0.12);
+    .callout-header { color: #86efac; }
+  }
+  &.callout-warning {
+    background: rgba(245, 158, 11, 0.12);
+    .callout-header { color: #fcd34d; }
+  }
+  &.callout-important {
+    background: rgba(239, 68, 68, 0.12);
+    .callout-header { color: #fca5a5; }
+  }
+  &.callout-caution {
+    background: rgba(249, 115, 22, 0.12);
+    .callout-header { color: #fdba74; }
+  }
+}
+
+// ── Cards ────────────────────────────────────────────────
+.card {
+  --bs-card-bg:           #162032;
+  --bs-card-color:        #f8fafc;
+  --bs-card-border-color: #2d3f55;
+  --bs-card-cap-bg:       #1e2f45;
+  --bs-card-cap-color:    #f8fafc;
+
+  background-color: #162032 !important;
+  border-color:     #2d3f55 !important;
+  color:            #f8fafc !important;
+
+  .card-header,
+  .card-footer {
+    background-color: #1e2f45 !important;
+    border-color:     #2d3f55 !important;
+    color:            #f8fafc !important;
+  }
+
+  .card-title { color: #f8fafc !important; }
+  .card-text  { color: #cbd5e1 !important; }
+  .card-link  { color: #93c5fd; &:hover { color: #bfdbfe; } }
+}
+
+// ── Blockquotes ──────────────────────────────────────────
+blockquote {
+  background: rgba(37, 99, 235, 0.1);
+  color: #e2e8f0;
+}
+
+// ── Inline code ──────────────────────────────────────────
+:not(pre) > code { color: #e2e8f0 !important; }
+
+// ── Code fold button ─────────────────────────────────────
+.code-fold-btn-container .btn,
+.quarto-code-tools-source .btn {
+  background: rgba(37, 99, 235, 0.15);
+  border-color: rgba(37, 99, 235, 0.3);
+  color: #93c5fd;
+  &:hover { background: #2563eb; color: #fff; border-color: #2563eb; }
+}
+
+// ── TOC ──────────────────────────────────────────────────
+#TOC ul li a { color: #94a3b8; }
+#TOC ul li.active > a,
+#TOC ul li > a.active {
+  background: rgba(37, 99, 235, 0.15);
+  color: #93c5fd;
+  border-left-color: #2563eb;
+}
+
+// ── Scrollbar ────────────────────────────────────────────
+::-webkit-scrollbar-track { background: #0f1a2b; }
+::-webkit-scrollbar-thumb { background: #334155; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #2563eb; }
+
+// ── Selection ────────────────────────────────────────────
+::selection { background: rgba(37, 99, 235, 0.4); color: #f8fafc; }
+
+// ── Toggle button — sun icon in dark mode ─────────────────
+.quarto-color-scheme-toggle {
+  background: rgba(37, 99, 235, 0.2) !important;
+  border-color: rgba(37, 99, 235, 0.4) !important;
+
+  &:hover {
+    background: rgba(37, 99, 235, 0.35) !important;
+    border-color: #2563eb !important;
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.2);
+  }
+
+  // Replace moon with sun
+  i.bi::before,
+  &:not(.alternate) i.bi::before,
+  &.alternate i.bi::before {
+    // Sun icon — shown in dark mode (click to go light)
+    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgba(147,197,253,1)" viewBox="0 0 16 16"><path d="M8 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6zm0 1a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/></svg>') !important;
+  }
+}

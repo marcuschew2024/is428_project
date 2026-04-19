@@ -41,8 +41,13 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - custom.scss
+      light:
+        - cosmo
+        - custom.scss
+      dark:
+        - darkly
+        - custom.scss
+        - custom-dark.scss
     highlight-style: github-dark
     toc: true
     toc-depth: 3

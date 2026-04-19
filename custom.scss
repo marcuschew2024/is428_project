@@ -17,10 +17,6 @@ $secondary:         $brand-slate;
 $dark:              $brand-navy;
 $light:             #f8fafc;
 
-$body-color:        #1e293b;
-$body-bg:           #ffffff;
-$headings-color:    #0f172a;
-
 // ── Typography ───────────────────────────────────────────
 $font-family-sans-serif:  'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 $headings-font-family:    'Plus Jakarta Sans', system-ui, sans-serif;
@@ -54,18 +50,13 @@ $link-hover-decoration:  underline;
 $border-radius:     0.5rem;
 $border-radius-lg:  0.75rem;
 $border-radius-sm:  0.325rem;
-$border-color:      #e2e8f0;
 
 // ── Code ─────────────────────────────────────────────────
 $code-bg:           transparent;
-$code-color:        #1e293b;
 $code-font-size:    0.8125em;
 
 // ── Tables ───────────────────────────────────────────────
 $table-bg:              transparent;
-$table-striped-bg:      #f8fafc;
-$table-hover-bg:        #eff6ff;
-$table-border-color:    #e2e8f0;
 $table-cell-padding-y:  0.75rem;
 $table-cell-padding-x:  1rem;
 
@@ -320,6 +311,8 @@ main.content { padding-top: 0.5rem; }
   margin: 1.5rem 0;
   box-shadow: var(--shadow-sm);
   color: #1e293b;
+  overflow-x: auto; // prevents table overflow on mobile
+  -webkit-overflow-scrolling: touch;
 
   strong { color: #1e40af; }
   p { margin-bottom: 0.25rem; &:last-child { margin-bottom: 0; } }
@@ -829,6 +822,49 @@ a.anchorjs-link {
   a { color: #93c5fd; &:hover { color: #ffffff; } }
 }
 
+// (dark mode overrides live in custom-dark.scss, dark theme only)
+
+// ── Dark / Light mode toggle button ──────────────────────
+// Quarto renders the icon as an SVG background-image on i.bi::before.
+// We replace that SVG and style the button as a circle pill.
+.quarto-color-scheme-toggle {
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.15) !important;
+  background: rgba(255, 255, 255, 0.07) !important;
+  text-decoration: none !important;
+  transition: background 0.2s ease, border-color 0.2s ease,
+              box-shadow 0.2s ease;
+  margin-left: 0.25rem;
+  padding: 0 !important;
+
+  &:hover {
+    background: rgba(37, 99, 235, 0.25) !important;
+    border-color: rgba(37, 99, 235, 0.5) !important;
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.15);
+  }
+
+  // Replace Quarto's default toggle-off/toggle-on SVG with a moon
+  i.bi::before,
+  &:not(.alternate) i.bi::before,
+  &.alternate i.bi::before {
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    content: "" !important;
+    background-size: 1rem 1rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: unset !important;
+    // Moon icon — shown in light mode (click to go dark)
+    background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgba(148,163,184,1)" viewBox="0 0 16 16"><path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/></svg>') !important;
+  }
+}
+
 // ── Print ─────────────────────────────────────────────────
 @media print {
   .navbar, #TOC, .nav-footer { display: none; }
@@ -851,6 +887,19 @@ a.anchorjs-link {
   .quarto-title-block {
     padding: 2rem 1.25rem 1.75rem;
     margin: -1rem -1rem 1.75rem;
+  }
+
+  // Make all tables horizontally scrollable so no column overflows
+  table {
+    display: block;
+    overflow-x: auto !important;
+    -webkit-overflow-scrolling: touch;
+    white-space: nowrap; // keep cells on one line while scrolling
+  }
+
+  // Inside key-numbers, cells can still wrap — the box itself scrolls
+  .key-numbers table {
+    white-space: normal;
   }
 
   table thead th { font-size: 0.7rem; padding: 0.625rem 0.75rem; }
